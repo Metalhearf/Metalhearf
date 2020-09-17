@@ -39,6 +39,6 @@
 
 -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Metalhearf&?count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Metalhearf&show_icons=true&include_all_commits=true&hide=stars&count_private=true)](https://github.com/Metalhearf/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Metalhearf&layout=compact&langs_count=8)](https://github.com/Metalhearf)
