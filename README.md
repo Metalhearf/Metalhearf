@@ -1,6 +1,6 @@
 ### Hi there, what's up? <a href="https://iotips.fr/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></a>
 
-<h3 align="center">Just another passionate tinkerer.</h3>
+<br><h3 align="center">I'm just another passionate tinkerer.</h3><br>
 
 - 🔭 I’m currently working on developping my skills on cloud computing platforms.
 - 🌱 Currently learning [AWS](https://github.com/aws).
@@ -10,12 +10,11 @@
 - ⚡ Fun fact: I'm also a [Twitch Affiliate](https://affiliate.twitch.tv/) streaming casually since 2017.
 - 🏠 Paris/France. 
 
-
-🔗 **Connect with me**
-<p align="left">
-<a href="https://twitter.com/metalhearf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="metalhearf" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/4611467/metalhearf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="metalhearf" height="30" width="40" /></a>
-</p>
+<br><details>
+<summary><b>📖 Latest Blog posts</b></summary>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+</details>
 
 <details>
 <summary><b>🛠️ Languages and Tools</b></summary>
@@ -92,4 +91,10 @@ fmw/BKc8889YmyQRJExY3yrpA03sulc=
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Metalhearf&show_icons=true&include_all_commits=true&hide=stars&count_private=true)](https://github.com/Metalhearf/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Metalhearf&layout=compact&langs_count=8)](https://github.com/Metalhearf)
+
+🔗 **Connect with me**
+<p align="left">
+<a href="https://twitter.com/metalhearf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="metalhearf" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/4611467/metalhearf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="metalhearf" height="30" width="40" /></a>
+</p>
 -->

@@ -1,0 +1,19 @@
+name: Latest iotips.fr blog post workflow
+on:
+  schedule:
+    # Runs every day
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README.md with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "BLOG-POST-LIST"
+          feed_list: "https://iotips.fr/index.xml"
+          commit_message: "Update iotips.fr blog posts"
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
