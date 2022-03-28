@@ -17,3 +17,4 @@ jobs:
           feed_list: "https://iotips.fr/index.xml"
           commit_message: "Update iotips.fr blog posts"
           gh_token: ${{ secrets.GITHUB_TOKEN }}
+          max_post_count: "3"

@@ -1,6 +1,6 @@
 ### Hi there, what's up? <a href="https://iotips.fr/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></a>
 
-<br><h3 align="center">I'm just another passionate tinkerer.</h3><br>
+I'm just another passionate tinkerer.
 
 - 🔭 I’m currently working on developping my skills on cloud computing platforms.
 - 🌱 Currently learning [AWS](https://github.com/aws).
@@ -10,8 +10,8 @@
 - ⚡ Fun fact: I'm also a [Twitch Affiliate](https://affiliate.twitch.tv/) streaming casually since 2017.
 - 🏠 Paris/France. 
 
-<br><details>
-<summary><b>📖 Latest Blog posts</b></summary>
+📕 **Latest Blog Posts**
+
 <!-- BLOG-POST-LIST:START -->
 - [Tor: Setting up your own &lpar;Guard&rpar; Middle Relay](https://iotips.fr/posts/tor-setting-up-your-own-guard-middle-relay/)
 - [Tor: Types of relays on the Tor network](https://iotips.fr/posts/tor-types-of-relays/)
@@ -19,7 +19,6 @@
 - [Hello World](https://iotips.fr/posts/hello-world/)
 - [About](https://iotips.fr/about/)
 <!-- BLOG-POST-LIST:END -->
-</details>
 
 <details>
 <summary><b>🛠️ Languages and Tools</b></summary>
