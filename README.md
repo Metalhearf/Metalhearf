@@ -16,8 +16,6 @@ I'm just another passionate tinkerer.
 - [Tor: Setting up your own &lpar;Guard&rpar; Middle Relay](https://iotips.fr/posts/tor-setting-up-your-own-guard-middle-relay/)
 - [Tor: Types of relays on the Tor network](https://iotips.fr/posts/tor-types-of-relays/)
 - [Game Boy: your saves are in danger](https://iotips.fr/posts/gameboy-your-saves-are-in-danger/)
-- [Hello World](https://iotips.fr/posts/hello-world/)
-- [About](https://iotips.fr/about/)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
