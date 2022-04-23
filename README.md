@@ -13,9 +13,9 @@ I'm just another passionate tinkerer.
 📕 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Privacy: How to remove Twitter Interests?](https://iotips.fr/posts/privacy-remove-twitter-interests/)
 - [Tor: Setting up your own &lpar;Guard&rpar; Middle Relay](https://iotips.fr/posts/tor-setting-up-your-own-guard-middle-relay/)
 - [Tor: Types of relays on the Tor network](https://iotips.fr/posts/tor-types-of-relays/)
-- [Game Boy: your saves are in danger](https://iotips.fr/posts/gameboy-your-saves-are-in-danger/)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
