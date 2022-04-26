@@ -13,8 +13,8 @@ I'm just another passionate tinkerer.
 📕 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [Privacy: How to remove Twitter Interests?](https://iotips.fr/posts/privacy-remove-twitter-interests/)
-- [Tor: Setting up your own &lpar;Guard&rpar; Middle Relay](https://iotips.fr/posts/tor-setting-up-your-own-guard-middle-relay/)
+- [Privacy: How to remove Twitter Interests/Topics?](https://iotips.fr/posts/privacy-remove-twitter-interests/)
+- [Tor: Set up your own &lpar;Guard&rpar; Middle Relay](https://iotips.fr/posts/tor-set-up-your-own-middle-relay/)
 - [Tor: Types of relays on the Tor network](https://iotips.fr/posts/tor-types-of-relays/)
 <!-- BLOG-POST-LIST:END -->
 
