@@ -1,11 +1,11 @@
-### Hi there, what's up? <a href="https://iotips.fr/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></a>
+### Hi there, what's up? <a href="https://blog.metalhearf.fr/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></a>
 
 I'm just another passionate tinkerer.
 
 - 🔭 I’m currently working on developping my skills on cloud computing platforms.
 - 🌱 Currently learning [AWS](https://github.com/aws).
 - 🤔 I want to get better at [Ansible](https://github.com/ansible/ansible) & [Docker](https://github.com/docker).
-- 👨‍💻 Read more about my projects at [iotips.fr](https://iotips.fr).
+- 👨‍💻 Read more about my projects at [blog.metalhearf.fr](https://blog.metalhearf.fr).
 - 💬 Ask me about anything related to #linux, #selfhosting or #security stuff. 
 - ⚡ Fun fact: I'm also a [Twitch Affiliate](https://affiliate.twitch.tv/) streaming casually since 2017.
 - 🏠 Paris/France. 
@@ -13,11 +13,11 @@ I'm just another passionate tinkerer.
 📕 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [Privacy: How to remove Twitter Interests/Topics?](https://iotips.fr/posts/privacy-remove-twitter-interests/)
-- [Tor: Set up your own &lpar;Guard&rpar; Middle Relay](https://iotips.fr/posts/tor-set-up-your-own-middle-relay/)
-- [Tor: Types of relays on the Tor network](https://iotips.fr/posts/tor-types-of-relays/)
-- [Game Boy: your saves are in danger](https://iotips.fr/posts/gameboy-your-saves-are-in-danger/)
-- [Hello World](https://iotips.fr/posts/hello-world/)
+- [Privacy: How to remove Twitter Interests/Topics?](https://blog.metalhearf.fr/posts/privacy-remove-twitter-interests/)
+- [Tor: Set up your own &lpar;Guard&rpar; Middle Relay](https://blog.metalhearf.fr/posts/tor-set-up-your-own-middle-relay/)
+- [Tor: Types of relays on the Tor network](https://blog.metalhearf.fr/posts/tor-types-of-relays/)
+- [Game Boy: your saves are in danger](https://blog.metalhearf.fr/posts/gameboy-your-saves-are-in-danger/)
+- [Hello World](https://blog.metalhearf.fr/posts/hello-world/)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
@@ -29,7 +29,6 @@ I'm just another passionate tinkerer.
 <br>
 
 <!-- Deactivated
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Metalhearf&show_icons=true&include_all_commits=true&hide=stars&count_private=true)](https://github.com/Metalhearf/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Metalhearf&layout=compact&langs_count=8)](https://github.com/Metalhearf)
 
