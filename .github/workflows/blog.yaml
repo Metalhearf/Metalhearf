@@ -14,7 +14,7 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "BLOG-POST-LIST"
-          feed_list: "https://blog.metalhearf.fr/index.xml"
+          feed_list: "https://metalhearf.fr/index.xml"
           commit_message: "Update blog posts"
           gh_token: ${{ secrets.GITHUB_TOKEN }}
           max_post_count: "5"
