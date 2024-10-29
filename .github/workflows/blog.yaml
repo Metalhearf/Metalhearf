@@ -1,17 +1,20 @@
 name: Latest blog post workflow
 on:
   schedule:
-    # Runs every day
-    - cron: '0 0 * * *'
+    - cron: '0 * * * *' # Runs every hour, on the hour
   workflow_dispatch:
+permissions:
+  contents: write
 
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README.md with latest blog posts
+    name: "Update this repo's README.md with latest blog posts"
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: "Checkout"
+        uses: actions/checkout@v4
+      - name: "Pull in posts"
+        uses: gautamkrishnar/blog-post-workflow@v2
         with:
           comment_tag_name: "BLOG-POST-LIST"
           feed_list: "https://metalhearf.fr/index.xml"
