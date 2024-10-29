@@ -4,7 +4,7 @@ on:
     - cron: '0 * * * *' # Runs every hour, on the hour
   workflow_dispatch:
 permissions:
-  contents: write
+  contents: write # To write the generated contents to the readme
 
 jobs:
   update-readme-with-blog:
@@ -14,10 +14,11 @@ jobs:
       - name: "Checkout"
         uses: actions/checkout@v4
       - name: "Pull in posts"
-        uses: gautamkrishnar/blog-post-workflow@v2
+        uses: gautamkrishnar/blog-post-workflow@v1.8.8
         with:
-          comment_tag_name: "BLOG-POST-LIST"
           feed_list: "https://metalhearf.fr/index.xml"
-          commit_message: "Update blog posts"
-          gh_token: ${{ secrets.GITHUB_TOKEN }}
           max_post_count: "5"
+          commit_message: "Update blog posts"
+          comment_tag_name: "BLOG-POST-LIST"
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
+          
