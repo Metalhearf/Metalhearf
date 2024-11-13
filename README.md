@@ -13,7 +13,7 @@ I'm just another passionate tinkerer.
 📕 **Latest Blog Posts from [metalhearf.fr](https://metalhearf.fr)**
 
 <!-- BLOG-POST-LIST:START -->
-- [Privacy: How to remove Twitter Interests/Topics?](https://metalhearf.fr/posts/privacy-remove-twitter-interests/)
+- [Privacy: How to remove X/Twitter Interests &amp; Topics?](https://metalhearf.fr/posts/privacy-remove-twitter-interests/)
 - [Tor: Set up your own &lpar;Guard&rpar; Middle Relay](https://metalhearf.fr/posts/tor-set-up-your-own-middle-relay/)
 - [Tor: Types of relays on the Tor network](https://metalhearf.fr/posts/tor-types-of-relays/)
 - [Game Boy: your saves are in danger](https://metalhearf.fr/posts/gameboy-your-saves-are-in-danger/)
