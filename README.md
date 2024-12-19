@@ -5,7 +5,7 @@ I'm just another passionate tinkerer.
 - 🔭 I’m currently working on developping my skills on cloud computing platforms.
 - 🌱 Currently learning [AWS](https://github.com/aws).
 - 🤔 I want to get better at [Ansible](https://github.com/ansible/ansible) & [Docker](https://github.com/docker).
-- 👨‍💻 Read more about my projects at [blog.metalhearf.fr](https://blog.metalhearf.fr).
+- 👨‍💻 Read more about my projects at [metalhearf.fr](https://metalhearf.fr).
 - 💬 Ask me about anything related to #linux, #selfhosting or #security stuff. 
 - ⚡ Fun fact: I'm also a [Twitch Affiliate](https://affiliate.twitch.tv/) streaming casually since 2017.
 - 🏠 Paris/France. 
