@@ -20,6 +20,8 @@ I'm just another passionate tinkerer.
 - [Hello World](https://metalhearf.fr/posts/hello-world/)
 <!-- BLOG-POST-LIST:END -->
 
+![Metrics](https://metrics.lecoq.io/Metalhearf?template=classic&achievements=1&notable=1&introduction=1&pagespeed=1&rss=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable=false&notable.from=all&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=true&introduction=false&introduction.title=true&pagespeed=false&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&pagespeed.pwa=true&rss=false&rss.source=https%3A%2F%2Fmetalhearf.fr%2Findex.xml&rss.limit=4&config.timezone=Europe%2FParis)
+
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Metalhearf&layout=compact&langs_count=8)](https://github.com/Metalhearf)
 
