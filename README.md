@@ -19,5 +19,3 @@ I'm just another passionate tinkerer.
 - [Game Boy: your saves are in danger](https://metalhearf.fr/posts/gameboy-your-saves-are-in-danger/)
 - [Hello World](https://metalhearf.fr/posts/hello-world/)
 <!-- BLOG-POST-LIST:END -->
-
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
