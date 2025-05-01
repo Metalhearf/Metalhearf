@@ -1,4 +1,4 @@
-### Hi there, what's up? <a href="https://blog.metalhearf.fr/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></a>
+### Hi there, what's up? <a href="https://metalhearf.fr/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></a>
 
 I'm just another passionate tinkerer.
 
