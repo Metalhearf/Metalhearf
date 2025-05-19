@@ -13,9 +13,9 @@ I'm just another passionate tinkerer.
 📕 **Latest Blog Posts from [metalhearf.fr](https://metalhearf.fr)**
 
 <!-- BLOG-POST-LIST:START -->
-- [Faillock - Manage Account Lockouts](https://metalhearf.fr/posts/faillock-lockouts/)
-- [Privacy: Remove X/Twitter Interests &amp; Topics](https://metalhearf.fr/posts/privacy-remove-twitter-interests/)
+- [How Faillock silently locks you out of sudo](https://metalhearf.fr/posts/faillock-lockouts/)
+- [Remove your X/Twitter Interests and Limit Ad Tracking](https://metalhearf.fr/posts/privacy-remove-twitter-interests/)
 - [Tor: Set up your own &lpar;Guard&rpar; Middle Relay](https://metalhearf.fr/posts/tor-set-up-your-own-middle-relay/)
 - [Tor: Types of relays on the Tor network](https://metalhearf.fr/posts/tor-types-of-relays/)
-- [Game Boy: your saves are in danger](https://metalhearf.fr/posts/gameboy-your-saves-are-in-danger/)
+- [Why Game Boy saves don’t last forever](https://metalhearf.fr/posts/gameboy-your-saves-are-in-danger/)
 <!-- BLOG-POST-LIST:END -->
