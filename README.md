@@ -10,7 +10,7 @@ When I’m not breaking or fixing things, I’m usually exploring new tools, twe
 - [ChatControl wants to scan all your private messages](https://metalhearf.fr/posts/chatcontrol-wants-your-private-messages/)
 - [Massgrave: Windows and Office Activation Made Simple](https://metalhearf.fr/posts/massgrave-windows-office-activation/)
 - [Why people hate voice messages so much](https://metalhearf.fr/posts/why-people-hate-voice-messages/)
-- [How Faillock silently locks you out of sudo](https://metalhearf.fr/posts/faillock-lockouts/)
+- [How Faillock silently locks you out of sudo](https://metalhearf.fr/posts/failock-lockouts/)
 - [Remove your X/Twitter Interests and Limit Ad Tracking](https://metalhearf.fr/posts/privacy-remove-twitter-interests/)
 <!-- BLOG-POST-LIST:END -->
 
