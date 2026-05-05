@@ -27,70 +27,10 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 <!-- STARS:START -->
 ## ⭐ Curated Stars
 
-**459 starred repos** organized into **37 categories**. Expand a section to browse.
+**459 starred repos** organized into **28 categories**. Expand a section to browse.
 
 <details>
-<summary><b>Games</b> &nbsp;·&nbsp; 52 ⭐ &nbsp;·&nbsp; <i>Emulators, save editors, private game servers and modding tools across platforms.</i></summary>
-
-| Repo | Stars | Status | Description |
-| --- | --- | --- | --- |
-| [`shadps4-emu/shadPS4`](https://github.com/shadps4-emu/shadPS4) | ⭐31.0k | 🔥 | PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++ |
-| [`hydralauncher/hydra`](https://github.com/hydralauncher/hydra) | ⭐15.6k | 🔥 | Hydra Launcher is an open-source gaming platform created to be the single tool that you need |
-| [`OpenRCT2/OpenRCT2`](https://github.com/OpenRCT2/OpenRCT2) | ⭐15.6k | 🔥 | An open source re-implementation of RollerCoaster Tycoon 2 🎢 |
-| [`JustArchiNET/ArchiSteamFarm`](https://github.com/JustArchiNET/ArchiSteamFarm) | ⭐13.3k | 🔥 | C# application with primary purpose of farming Steam cards from multiple accounts simultaneously. |
-| [`lutris/lutris`](https://github.com/lutris/lutris) | ⭐9.9k | 🔥 | Lutris desktop client |
-| [`Pumpkin-MC/Pumpkin`](https://github.com/Pumpkin-MC/Pumpkin) | ⭐7.5k | 🔥 | Empowering everyone to host fast and efficient Minecraft servers. |
-| [`GameServerManagers/LinuxGSM`](https://github.com/GameServerManagers/LinuxGSM) | ⭐4.8k | 🔥 | The command-line tool for quick, simple deployment and management of Linux dedicated game servers. |
-| [`HiddenRamblings/TagMo`](https://github.com/HiddenRamblings/TagMo) | ⭐3.2k | 🔥 | _(no description)_ |
-| [`BlueMap-Minecraft/BlueMap`](https://github.com/BlueMap-Minecraft/BlueMap) | ⭐2.7k | 🔥 | A Minecraft mapping tool that creates 3D models of your Minecraft worlds and displays them in a web viewer. |
-| [`ebkr/r2modmanPlus`](https://github.com/ebkr/r2modmanPlus) | ⭐2.0k | 🔥 | A simple and easy to use mod manager for several games using Thunderstore |
-| [`kwsch/NHSE`](https://github.com/kwsch/NHSE) | ⭐1.2k | 🔥 | Animal Crossing: New Horizons save editor |
-| [`EDCD/EDMarketConnector`](https://github.com/EDCD/EDMarketConnector) | ⭐1.2k | 🔥 | Downloads commodity market and other station data from the game Elite: Dangerous for use with all popular o... |
-| [`Grokitach/Stalker_GAMMA`](https://github.com/Grokitach/Stalker_GAMMA) | ⭐1.1k | 🔥 | S.T.A.L.K.E.R. G.A.M.M.A. modpack for Anomaly |
-| [`CookiePLMonster/SilentPatch`](https://github.com/CookiePLMonster/SilentPatch) | ⭐925 | 🔥 | SilentPatch for GTA III, Vice City, and San Andreas |
-| [`mbround18/valheim-docker`](https://github.com/mbround18/valheim-docker) | ⭐835 | 🔥 | Valheim Docker powered by Odin. The Valheim dedicated gameserver manager which is designed with resiliency ... |
-| [`cmangos/mangos-wotlk`](https://github.com/cmangos/mangos-wotlk) | ⭐541 | 🔥 | C(ontinued)-MaNGOS is about: -- Doing WoW-Emulation Right! |
-| [`diasurgical/devilution`](https://github.com/diasurgical/devilution) | ⭐9.0k |  | Diablo devolved - magic behind the 1996 computer game |
-| [`gibbed/SteamAchievementManager`](https://github.com/gibbed/SteamAchievementManager) | ⭐8.3k |  | A manager for game achievements in Steam. |
-| [`vogler/free-games-claimer`](https://github.com/vogler/free-games-claimer) | ⭐4.1k |  | Automatically claims free games and DLCs on the Epic Games Store, Amazon Prime Gaming and GOG. |
-| [`mangos/MaNGOS`](https://github.com/mangos/MaNGOS) | ⭐3.1k |  | This is the master Information repository for MaNGOS |
-| [`swizzin/swizzin`](https://github.com/swizzin/swizzin) | ⭐2.4k |  | A simple, modular seedbox solution |
-| [`marcrobledo/savegame-editors`](https://github.com/marcrobledo/savegame-editors) | ⭐1.3k |  | A compilation of console savegame editors made with HTML5 technologies. |
-| [`miffycs/Animal-Crossing-Amiibo`](https://github.com/miffycs/Animal-Crossing-Amiibo) | ⭐964 |  | 🎮   Step-by-step instructions on how to recreate Amiibo cards for Animal Crossing: New Horizons. For educat... |
-| [`dyc3/steamguard-cli`](https://github.com/dyc3/steamguard-cli) | ⭐952 |  | A linux utility for generating 2FA codes for Steam and managing Steam trade, market, and other confirmations. |
-| [`TheOrcDev/warcraftcn-ui`](https://github.com/TheOrcDev/warcraftcn-ui) | ⭐732 |  | A collection of accessible, retro-inspired UI components drawing from classic real-time strategy aesthetics... |
-| [`DaedalusX64/daedalus`](https://github.com/DaedalusX64/daedalus) | ⭐668 |  | The Nintendo 64 Emulator itself |
-| [`WindowsGSM/WindowsGSM`](https://github.com/WindowsGSM/WindowsGSM) | ⭐625 |  | 🎲 A powerful tool to manage game servers. Equipped with a GUI for server admins to install, import, start, ... |
-| [`BohemiaInteractive/DayZ-Central-Economy`](https://github.com/BohemiaInteractive/DayZ-Central-Economy) | ⭐379 |  | DayZ Central Economy configuration |
-| [`ZKjellberg/dark-souls-3-cheat-sheet`](https://github.com/ZKjellberg/dark-souls-3-cheat-sheet) | ⭐356 |  | Checklist for Dark Souls 3 using HTML5 storage to retain progress |
-| [`mackieks/Kawaii`](https://github.com/mackieks/Kawaii) | ⭐297 |  | Tiny, beautiful metal Wii keychain |
-| [`balakethelock/SuperWoW`](https://github.com/balakethelock/SuperWoW) | ⭐159 |  | 1.12.1 WoW client mod that expands on API functionalities |
-| [`mangostwo/database`](https://github.com/mangostwo/database) | ⭐55 |  | The Mangos TWO world database contains creatures, NPCs, Quests, Items/objects & gossip information to popul... |
-| [`hoverbike1/TOTK-Mods-collection`](https://github.com/hoverbike1/TOTK-Mods-collection) | ⭐3.2k | 💤 | Mod repo for Tears of The Kingdom (TOTK) for Switch and Switch Emulation |
-| [`mapcrafter/mapcrafter`](https://github.com/mapcrafter/mapcrafter) | ⭐639 | 💤 | High Performance Minecraft Map Renderer. |
-| [`FailedShack/USBHelperLauncher`](https://github.com/FailedShack/USBHelperLauncher) | ⭐504 | 💤 | USBHelperLauncher restores and enhances Wii U USB Helper functionality by patching it at runtime and interc... |
-| [`DeltaJordan/BotW-Save-Manager`](https://github.com/DeltaJordan/BotW-Save-Manager) | ⭐402 | 💤 | BOTW Save Manager for Switch and Wii U |
-| [`AsYetUntitled/Framework`](https://github.com/AsYetUntitled/Framework) | ⭐254 | 💤 | Altis Life RPG mission framework for Arma 3 originally made by @TAWTonic. |
-| [`Shadez/wowarmory`](https://github.com/Shadez/wowarmory) | ⭐193 | 💤 | The World of Warcraft Armory is a vast searchable database of information for World of Warcraft - taken str... |
-| [`jonrainier/DayZ-Private-Server`](https://github.com/jonrainier/DayZ-Private-Server) | ⭐97 | 💤 | DayZ Private Server |
-| [`playerbot/mangos`](https://github.com/playerbot/mangos) | ⭐70 | 💤 | Playerbot is a fork of Mangos which lets you add another character from your account as a bot that you can ... |
-| [`gyfen/GTA-Lucky-Wheel`](https://github.com/gyfen/GTA-Lucky-Wheel) | ⭐25 | 💤 | Lucky Wheel script for GTA V Online |
-| [`RatchetModding/slimseditor`](https://github.com/RatchetModding/slimseditor) | ⭐22 | 💤 | A savegame editor for the Ratchet and Clank games, written in Python. |
-| [`jswidler/HOTSNet`](https://github.com/jswidler/HOTSNet) | ⭐14 | 💤 | Use machine learning to predict Heroes of the Storm games |
-| [`fine/Quice`](https://github.com/fine/Quice) | ⭐9 | 💤 | Quice MaNGOS and Trinity Database Editor |
-| [`Khira/scriptdev2`](https://github.com/Khira/scriptdev2) | ⭐3 | 💤 | _(no description)_ |
-| [`derekjhunt/trinity_ansible`](https://github.com/derekjhunt/trinity_ansible) | ⭐2 | 💤 | Ansible Role for TrinityCore |
-| [`Khira/la-confrerie-332`](https://github.com/Khira/la-confrerie-332) | ⭐2 | 💤 | Sources du serveur de la Confrérie, compatible client World of Warcraft 3.3.2 |
-| [`Khira/La-Confrerie`](https://github.com/Khira/La-Confrerie) | ⭐2 | 💤 | Sources du serveur de la Confrérie |
-| [`tama/pogo-discord-raid-bot`](https://github.com/tama/pogo-discord-raid-bot) | ⭐1 | 💤 | A bot to list players on a discord server participating to a raid |
-| [`tama/pogo-discord-mod-bot`](https://github.com/tama/pogo-discord-mod-bot) | ⭐1 | 💤 | Simple mod tasks on a (pokemon go related) discord server |
-| [`recalbox/recalbox-os`](https://github.com/recalbox/recalbox-os) | ⭐2.2k | 📦 | The recalbox repository moved to https://gitlab.com/recalbox/recalbox |
-| [`hotsapi/HotsStats`](https://github.com/hotsapi/HotsStats) | ⭐145 | 📦 | An app that shows player stats during loading screen in Heroes of the Storm |
-
-</details>
-
-<details>
-<summary><b>Tools</b> &nbsp;·&nbsp; 42 ⭐ &nbsp;·&nbsp; <i>CLI utilities, terminal eye-candy, file managers and modern Unix replacements.</i></summary>
+<summary><b>Tools</b> &nbsp;·&nbsp; 42 ⭐ &nbsp;·&nbsp; <i>CLI utilities, file managers, modern Unix replacements and developer side-tools.</i></summary>
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
@@ -213,6 +153,71 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 </details>
 
 <details>
+<summary><b>Media</b> &nbsp;·&nbsp; 25 ⭐ &nbsp;·&nbsp; <i>Self-hosted media servers, photo libraries, IP cameras, video downloaders and OBS plugins.</i></summary>
+
+| Repo | Stars | Status | Description |
+| --- | --- | --- | --- |
+| [`yt-dlp/yt-dlp`](https://github.com/yt-dlp/yt-dlp) | ⭐160.7k | 🔥 | A feature-rich command-line audio/video downloader |
+| [`iptv-org/iptv`](https://github.com/iptv-org/iptv) | ⭐115.9k | 🔥 | Collection of publicly available IPTV channels from all over the world |
+| [`immich-app/immich`](https://github.com/immich-app/immich) | ⭐99.7k | 🔥 | High performance self-hosted photo and video management solution. |
+| [`jellyfin/jellyfin`](https://github.com/jellyfin/jellyfin) | ⭐51.3k | 🔥 | The Free Software Media System - Server Backend & API |
+| [`photoprism/photoprism`](https://github.com/photoprism/photoprism) | ⭐39.6k | 🔥 | AI-Powered Photos App for the Decentralized Web 🌈💎✨ |
+| [`blakeblackshear/frigate`](https://github.com/blakeblackshear/frigate) | ⭐31.8k | 🔥 | NVR with realtime local object detection for IP cameras |
+| [`navidrome/navidrome`](https://github.com/navidrome/navidrome) | ⭐20.9k | 🔥 | 🎧 Your Personal Streaming Service |
+| [`pystardust/ani-cli`](https://github.com/pystardust/ani-cli) | ⭐12.3k | 🔥 | A cli tool to browse and play anime |
+| [`streamlink/streamlink`](https://github.com/streamlink/streamlink) | ⭐11.4k | 🔥 | Streamlink is a CLI utility which pipes video streams from various services into a video player |
+| [`seerr-team/seerr`](https://github.com/seerr-team/seerr) | ⭐11.1k | 🔥 | Open-source media request and discovery manager for Jellyfin, Plex, and Emby. |
+| [`Freika/dawarich`](https://github.com/Freika/dawarich) | ⭐8.9k | 🔥 | Your favorite self-hostable alternative to Google Timeline (Google Location History) |
+| [`motioneye-project/motioneye`](https://github.com/motioneye-project/motioneye) | ⭐4.6k | 🔥 | A web frontend for the motion daemon. |
+| [`obsproject/obs-websocket`](https://github.com/obsproject/obs-websocket) | ⭐4.3k | 🔥 | Remote-control of OBS Studio through WebSocket |
+| [`intro-skipper/intro-skipper`](https://github.com/intro-skipper/intro-skipper) | ⭐2.3k | 🔥 | Automatically detect and skip intro/credit sequences in Jellyfin |
+| [`AlexxIT/go2rtc`](https://github.com/AlexxIT/go2rtc) | ⭐12.9k |  | Ultimate camera streaming application |
+| [`Salvoxia/immich-folder-album-creator`](https://github.com/Salvoxia/immich-folder-album-creator) | ⭐993 |  | Automatically create and populate albums in Immich from a folder structure in external libraries |
+| [`SmilyOrg/photofield`](https://github.com/SmilyOrg/photofield) | ⭐576 |  | A self-hosted non-invasive single-binary photo gallery with a focus on speed and simplicity. |
+| [`JimmyAppelt/snaz`](https://github.com/JimmyAppelt/snaz) | ⭐301 |  | Snaz |
+| [`rx342/senscritique2letterboxd`](https://github.com/rx342/senscritique2letterboxd) | ⭐25 |  | Move your Senscritique library to Letterboxd |
+| [`phileastv/SensBoxd`](https://github.com/phileastv/SensBoxd) | ⭐24 |  | Exporter sa collection SensCritique pour Letterboxd. |
+| [`Vhonowslend/StreamFX-Public`](https://github.com/Vhonowslend/StreamFX-Public) | ⭐4.1k | 💤 | StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoder... |
+| [`Kalejin/DCSB`](https://github.com/Kalejin/DCSB) | ⭐287 | 💤 | Deathcounter and Soundboard, WPF app for setting up key shortcuts |
+| [`GuGuss/ARTE-7-Downloader`](https://github.com/GuGuss/ARTE-7-Downloader) | ⭐261 | 💤 | User script to download videos from the ARTE+7 website |
+| [`univrsal/spectralizer`](https://github.com/univrsal/spectralizer) | ⭐617 | 📦 | Audio visualizer plugin for obs-studio |
+| [`danielveigasilva/jellyfin-plugin-letterboxd-sync`](https://github.com/danielveigasilva/jellyfin-plugin-letterboxd-sync) | ⭐108 | 📦 | A unofficial plugin to keep your watched movie history from Jellyfin automatically updated to your Letterbo... |
+
+</details>
+
+<details>
+<summary><b>Productivity</b> &nbsp;·&nbsp; 24 ⭐ &nbsp;·&nbsp; <i>Documents, ebooks, notes/PKM, dashboards, recipes and workflow automation.</i></summary>
+
+| Repo | Stars | Status | Description |
+| --- | --- | --- | --- |
+| [`n8n-io/n8n`](https://github.com/n8n-io/n8n) | ⭐186.8k | 🔥 | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom cod... |
+| [`excalidraw/excalidraw`](https://github.com/excalidraw/excalidraw) | ⭐122.5k | 🔥 | Virtual whiteboard for sketching hand-drawn like diagrams |
+| [`Stirling-Tools/Stirling-PDF`](https://github.com/Stirling-Tools/Stirling-PDF) | ⭐78.2k | 🔥 | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere |
+| [`toeverything/AFFiNE`](https://github.com/toeverything/AFFiNE) | ⭐68.0k | 🔥 | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that bring... |
+| [`siyuan-note/siyuan`](https://github.com/siyuan-note/siyuan) | ⭐43.6k | 🔥 | A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescri... |
+| [`logseq/logseq`](https://github.com/logseq/logseq) | ⭐42.7k | 🔥 | A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://gi... |
+| [`paperless-ngx/paperless-ngx`](https://github.com/paperless-ngx/paperless-ngx) | ⭐40.3k | 🔥 | A community-supported supercharged document management system: scan, index and archive all your documents |
+| [`gethomepage/homepage`](https://github.com/gethomepage/homepage) | ⭐29.9k | 🔥 | A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrati... |
+| [`sipeed/picoclaw`](https://github.com/sipeed/picoclaw) | ⭐28.7k | 🔥 | Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity |
+| [`squidfunk/mkdocs-material`](https://github.com/squidfunk/mkdocs-material) | ⭐26.7k | 🔥 | Documentation that simply works |
+| [`streetwriters/notesnook`](https://github.com/streetwriters/notesnook) | ⭐14.0k | 🔥 | A fully open source & end-to-end encrypted note taking alternative to Evernote. |
+| [`alam00000/bentopdf`](https://github.com/alam00000/bentopdf) | ⭐13.1k | 🔥 | The Privacy First PDF Toolkit |
+| [`mealie-recipes/mealie`](https://github.com/mealie-recipes/mealie) | ⭐12.1k | 🔥 | Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend appl... |
+| [`Vinzent03/obsidian-git`](https://github.com/Vinzent03/obsidian-git) | ⭐10.8k | 🔥 | Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md |
+| [`TandoorRecipes/recipes`](https://github.com/TandoorRecipes/recipes) | ⭐8.3k | 🔥 | Application for managing recipes, planning meals, building shopping lists and much much more! |
+| [`jhuckaby/Cronicle`](https://github.com/jhuckaby/Cronicle) | ⭐5.7k | 🔥 | A simple, distributed task scheduler and runner with a web based UI. |
+| [`clusterzx/paperless-ai`](https://github.com/clusterzx/paperless-ai) | ⭐5.6k | 🔥 | An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenA... |
+| [`zensical/zensical`](https://github.com/zensical/zensical) | ⭐4.5k | 🔥 | A modern static site generator by the Material for MkDocs team |
+| [`karlomikus/bar-assistant`](https://github.com/karlomikus/bar-assistant) | ⭐1.0k | 🔥 | Bar assistant is a all-in-one solution for managing your home bar |
+| [`glanceapp/glance`](https://github.com/glanceapp/glance) | ⭐34.0k |  | A self-hosted dashboard that puts all your feeds in one place |
+| [`janeczku/calibre-web`](https://github.com/janeczku/calibre-web) | ⭐17.1k |  | :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database |
+| [`crocodilestick/Calibre-Web-Automated`](https://github.com/crocodilestick/Calibre-Web-Automated) | ⭐5.5k |  | Calibre-Web but Automated and with tons of New Features! Fully automate and simplify your eBook set up! |
+| [`mult1v4c/hestia-core`](https://github.com/mult1v4c/hestia-core) | ⭐674 |  | A grid-based, modular dashboard built entirely from HTML, CSS, and JS with the ability to create your custo... |
+| [`na--/ebook-tools`](https://github.com/na--/ebook-tools) | ⭐765 | 💤 | Shell scripts for organizing and managing ebook collections |
+
+</details>
+
+<details>
 <summary><b>Fun</b> &nbsp;·&nbsp; 22 ⭐ &nbsp;·&nbsp; <i>Quirky joke projects, terminal pranks and absurd tech curiosities.</i></summary>
 
 | Repo | Stars | Status | Description |
@@ -301,6 +306,35 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 </details>
 
 <details>
+<summary><b>InfraAsCode</b> &nbsp;·&nbsp; 21 ⭐ &nbsp;·&nbsp; <i>Ansible playbooks, container hosting platforms and cloud-provider helper scripts.</i></summary>
+
+| Repo | Stars | Status | Description |
+| --- | --- | --- | --- |
+| [`Dokploy/dokploy`](https://github.com/Dokploy/dokploy) | ⭐33.7k | 🔥 | Open Source Alternative to Vercel, Netlify and Heroku. |
+| [`ansible/awx`](https://github.com/ansible/awx) | ⭐15.4k | 🔥 | AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of th... |
+| [`semaphoreui/semaphore`](https://github.com/semaphoreui/semaphore) | ⭐13.6k | 🔥 | Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools. |
+| [`getumbrel/umbrel`](https://github.com/getumbrel/umbrel) | ⭐11.2k | 🔥 | An elegant home server OS. Run OpenClaw, store your files and photos, run a Bitcoin node, and do more with ... |
+| [`dev-sec/ansible-collection-hardening`](https://github.com/dev-sec/ansible-collection-hardening) | ⭐5.3k | 🔥 | This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL |
+| [`composerize/composerize`](https://github.com/composerize/composerize) | ⭐3.7k | 🔥 | 🏃→🎼  docker run asdlksjfksdf > docker-composerize up |
+| [`nicholas-fedor/watchtower`](https://github.com/nicholas-fedor/watchtower) | ⭐3.5k | 🔥 | Automate Docker container image updates |
+| [`Mafyuh/iac`](https://github.com/Mafyuh/iac) | ⭐470 | 🔥 | GitOps-driven Infrastructure as Code for my homelab |
+| [`dockur/windows`](https://github.com/dockur/windows) | ⭐51.2k |  | Windows inside a Docker container. |
+| [`geerlingguy/internet-pi`](https://github.com/geerlingguy/internet-pi) | ⭐4.7k |  | Raspberry Pi config for all things Internet. |
+| [`davestephens/ansible-nas`](https://github.com/davestephens/ansible-nas) | ⭐3.7k |  | Build a full-featured home server or NAS replacement with an Ubuntu box and this playbook. |
+| [`ChristopheJacquet/PiFmRds`](https://github.com/ChristopheJacquet/PiFmRds) | ⭐1.6k |  | FM-RDS transmitter using the Raspberry Pi's PWM |
+| [`ravikiranvm/aws-finops-dashboard`](https://github.com/ravikiranvm/aws-finops-dashboard) | ⭐1.2k |  | A terminal-based AWS cost and resource dashboard built with Python and the Rich library. It provides an ove... |
+| [`Hexxeh/rpi-update`](https://github.com/Hexxeh/rpi-update) | ⭐1.9k | 💤 | An easier way to update the firmware of your Raspberry Pi |
+| [`Codycody31/Prevent-OCI-Deletion-for-being-idle`](https://github.com/Codycody31/Prevent-OCI-Deletion-for-being-idle) | ⭐36 | 💤 | Scripts to maintain active OCI ForeverFree tier instances, preventing deletions due to inactivity. |
+| [`claranet/ansible-role-motd`](https://github.com/claranet/ansible-role-motd) | ⭐13 | 💤 | Install and configure dynamic MOTD and SSH banner |
+| [`containrrr/watchtower`](https://github.com/containrrr/watchtower) | ⭐24.6k | 📦 | A process for automating Docker container base image updates. |
+| [`notthebee/infra`](https://github.com/notthebee/infra) | ⭐1.5k | 📦 | IaC for my Linux/Unix machines |
+| [`hitrov/oci-arm-host-capacity`](https://github.com/hitrov/oci-arm-host-capacity) | ⭐1.2k | 📦 | This script allows to bypass Oracle Cloud Infrastructure 'Out of host capacity' error immediately when addi... |
+| [`notro/rpi-source`](https://github.com/notro/rpi-source) | ⭐288 | 📦 | Development has moved to https://github.com/RPi-Distro/rpi-source |
+| [`aws-samples/ec2-classic-resource-finder`](https://github.com/aws-samples/ec2-classic-resource-finder) | ⭐131 | 📦 | This script enables the identification of resources running in Amazon EC2 Classic |
+
+</details>
+
+<details>
 <summary><b>Android</b> &nbsp;·&nbsp; 18 ⭐ &nbsp;·&nbsp; <i>Debloaters, ReVanced/Magisk patches, FOSS apps and rooting utilities for Android.</i></summary>
 
 | Repo | Stars | Status | Description |
@@ -327,6 +361,58 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 </details>
 
 <details>
+<summary><b>Communication</b> &nbsp;·&nbsp; 18 ⭐ &nbsp;·&nbsp; <i>Self-hosted mail, XMPP/Matrix and federated social platforms — chat, publish, federate.</i></summary>
+
+| Repo | Stars | Status | Description |
+| --- | --- | --- | --- |
+| [`TryGhost/Ghost`](https://github.com/TryGhost/Ghost) | ⭐52.7k | 🔥 | Independent technology for modern publishing, memberships, subscriptions and newsletters. |
+| [`mastodon/mastodon`](https://github.com/mastodon/mastodon) | ⭐49.9k | 🔥 | Your self-hosted, globally interconnected microblogging community |
+| [`gitroomhq/postiz-app`](https://github.com/gitroomhq/postiz-app) | ⭐30.0k | 🔥 | 📨 The ultimate agentic social media scheduling tool 🤖 |
+| [`chatwoot/chatwoot`](https://github.com/chatwoot/chatwoot) | ⭐29.0k | 🔥 | Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Se... |
+| [`docker-mailserver/docker-mailserver`](https://github.com/docker-mailserver/docker-mailserver) | ⭐18.2k | 🔥 | Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running ins... |
+| [`Mailu/Mailu`](https://github.com/Mailu/Mailu) | ⭐7.2k | 🔥 | Insular email distribution - mail server as Docker images |
+| [`processone/ejabberd`](https://github.com/processone/ejabberd) | ⭐6.7k | 🔥 | Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server) |
+| [`spantaleev/matrix-docker-ansible-deploy`](https://github.com/spantaleev/matrix-docker-ansible-deploy) | ⭐6.3k | 🔥 | 🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker |
+| [`movim/movim`](https://github.com/movim/movim) | ⭐2.0k | 🔥 | Movim - Decentralized social platform |
+| [`processone/fluux-messenger`](https://github.com/processone/fluux-messenger) | ⭐333 | 🔥 | Fluux Messenger: A fast, modern, cross-platform XMPP client for communities and organizations. |
+| [`Mail-0/Zero`](https://github.com/Mail-0/Zero) | ⭐10.5k |  | Experience email the way you want with Mail0 – the first open source email app that puts your privacy and s... |
+| [`fluxerapp/fluxer`](https://github.com/fluxerapp/fluxer) | ⭐8.5k |  | A free and open source instant messaging and VoIP platform built for friends, groups, and communities. Self... |
+| [`sethcottle/littlelink`](https://github.com/sethcottle/littlelink) | ⭐2.9k |  | A lightweight DIY Linktree alternative. |
+| [`bluesky-social/pds`](https://github.com/bluesky-social/pds) | ⭐2.5k |  | Bluesky PDS (Personal Data Server) container image, compose file, and documentation |
+| [`dino/dino`](https://github.com/dino/dino) | ⭐2.4k |  | Modern XMPP ("Jabber") Chat Client using GTK/Vala |
+| [`hack-chat/main`](https://github.com/hack-chat/main) | ⭐1.4k |  | a minimal, distraction-free chat application |
+| [`beeper/self-host`](https://github.com/beeper/self-host) | ⭐1.1k | 📦 | Learn how to self-host Beeper |
+| [`louisgrasset/touitomamout`](https://github.com/louisgrasset/touitomamout) | ⭐252 | 📦 | Touitomamout is an easy way to synchronize your Twitter's tweets 🦤 to Mastodon 🦣 and Bluesky post ☁️ (also ... |
+
+</details>
+
+<details>
+<summary><b>Files</b> &nbsp;·&nbsp; 18 ⭐ &nbsp;·&nbsp; <i>File servers, file managers, sharing platforms and backup tooling.</i></summary>
+
+| Repo | Stars | Status | Description |
+| --- | --- | --- | --- |
+| [`9001/copyparty`](https://github.com/9001/copyparty) | ⭐44.7k | 🔥 | Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media in... |
+| [`restic/restic`](https://github.com/restic/restic) | ⭐33.4k | 🔥 | Fast, secure, efficient backup program |
+| [`mickael-kerjean/filestash`](https://github.com/mickael-kerjean/filestash) | ⭐14.1k | 🔥 | :file_folder: File Management Platform / Universal Data Access Layer (without FUSE) |
+| [`databasus/databasus`](https://github.com/databasus/databasus) | ⭐6.7k | 🔥 | Database backup tool (PostgreSQL, MySQL\MariaDB and MongoDB) |
+| [`nicotsx/zerobyte`](https://github.com/nicotsx/zerobyte) | ⭐6.3k | 🔥 | Backup automation for self-hosters. Built on top of restic |
+| [`trapexit/mergerfs`](https://github.com/trapexit/mergerfs) | ⭐5.6k | 🔥 | a featureful union filesystem |
+| [`ttionya/vaultwarden-backup`](https://github.com/ttionya/vaultwarden-backup) | ⭐1.8k | 🔥 | Backup vaultwarden (formerly known as bitwarden_rs) SQLite3/PostgreSQL/MySQL/MariaDB database by rclone. (D... |
+| [`spacedriveapp/spacedrive`](https://github.com/spacedriveapp/spacedrive) | ⭐38.0k |  | Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem writ... |
+| [`arsenetar/dupeguru`](https://github.com/arsenetar/dupeguru) | ⭐7.5k |  | Find duplicate files |
+| [`szabodanika/microbin`](https://github.com/szabodanika/microbin) | ⭐4.3k |  | A secure, configurable file-sharing and URL shortening web app written in Rust. |
+| [`mtlynch/picoshare`](https://github.com/mtlynch/picoshare) | ⭐2.9k |  | A minimalist, easy-to-host service for sharing images and other files |
+| [`ServerContainers/samba`](https://github.com/ServerContainers/samba) | ⭐650 |  | samba - (ghcr.io/servercontainers/samba) (+ optional zeroconf, wsdd2 & time machine) on alpine [x86 + arm] |
+| [`hurlenko/filebrowser-docker`](https://github.com/hurlenko/filebrowser-docker) | ⭐440 |  | 🐳 filebrowser inside Docker container |
+| [`andreimarcu/linx-server`](https://github.com/andreimarcu/linx-server) | ⭐1.6k | 💤 | Self-hosted file/code/media sharing website. |
+| [`rclone/rclone-webui-react`](https://github.com/rclone/rclone-webui-react) | ⭐1.6k | 💤 | A full fledged UI for the rclone cloud sync tool |
+| [`stonith404/pingvin-share`](https://github.com/stonith404/pingvin-share) | ⭐4.7k | 📦 | A self-hosted file sharing platform that combines lightness and beauty, perfect for seamless and efficient ... |
+| [`mgilangjanuar/teledrive`](https://github.com/mgilangjanuar/teledrive) | ⭐2.0k | 📦 | The Google Drive/OneDrive/etc alternative using Telegram API |
+| [`syncany/syncany`](https://github.com/syncany/syncany) | ⭐1.6k | 📦 | Syncany is a cloud storage and filesharing application with a focus on security and abstraction of storage. |
+
+</details>
+
+<details>
 <summary><b>Privacy</b> &nbsp;·&nbsp; 17 ⭐ &nbsp;·&nbsp; <i>Tracker blockers, anonymous messaging, password managers and tools to escape surveillance.</i></summary>
 
 | Repo | Stars | Status | Description |
@@ -348,6 +434,31 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`cathugger/mkp224o`](https://github.com/cathugger/mkp224o) | ⭐1.6k | 💤 | vanity address generator for tor onion v3 (ed25519) hidden services |
 | [`manekinekko/digital-covid-certificate-decoder`](https://github.com/manekinekko/digital-covid-certificate-decoder) | ⭐30 | 💤 | An attempt to decode the Digital Covid Certificate (signed by the french app TousAntiCovid) - For Education... |
 | [`pixeltris/TwitchAdSolutions`](https://github.com/pixeltris/TwitchAdSolutions) | ⭐11.3k | 📦 | _(no description)_ |
+
+</details>
+
+<details>
+<summary><b>Games-Tools</b> &nbsp;·&nbsp; 17 ⭐ &nbsp;·&nbsp; <i>Game companions, save managers, launchers, map renderers and discord bots.</i></summary>
+
+| Repo | Stars | Status | Description |
+| --- | --- | --- | --- |
+| [`hydralauncher/hydra`](https://github.com/hydralauncher/hydra) | ⭐15.6k | 🔥 | Hydra Launcher is an open-source gaming platform created to be the single tool that you need |
+| [`lutris/lutris`](https://github.com/lutris/lutris) | ⭐9.9k | 🔥 | Lutris desktop client |
+| [`HiddenRamblings/TagMo`](https://github.com/HiddenRamblings/TagMo) | ⭐3.2k | 🔥 | _(no description)_ |
+| [`BlueMap-Minecraft/BlueMap`](https://github.com/BlueMap-Minecraft/BlueMap) | ⭐2.7k | 🔥 | A Minecraft mapping tool that creates 3D models of your Minecraft worlds and displays them in a web viewer. |
+| [`kwsch/NHSE`](https://github.com/kwsch/NHSE) | ⭐1.2k | 🔥 | Animal Crossing: New Horizons save editor |
+| [`EDCD/EDMarketConnector`](https://github.com/EDCD/EDMarketConnector) | ⭐1.2k | 🔥 | Downloads commodity market and other station data from the game Elite: Dangerous for use with all popular o... |
+| [`miffycs/Animal-Crossing-Amiibo`](https://github.com/miffycs/Animal-Crossing-Amiibo) | ⭐964 |  | 🎮   Step-by-step instructions on how to recreate Amiibo cards for Animal Crossing: New Horizons. For educat... |
+| [`TheOrcDev/warcraftcn-ui`](https://github.com/TheOrcDev/warcraftcn-ui) | ⭐732 |  | A collection of accessible, retro-inspired UI components drawing from classic real-time strategy aesthetics... |
+| [`ZKjellberg/dark-souls-3-cheat-sheet`](https://github.com/ZKjellberg/dark-souls-3-cheat-sheet) | ⭐356 |  | Checklist for Dark Souls 3 using HTML5 storage to retain progress |
+| [`mackieks/Kawaii`](https://github.com/mackieks/Kawaii) | ⭐297 |  | Tiny, beautiful metal Wii keychain |
+| [`mapcrafter/mapcrafter`](https://github.com/mapcrafter/mapcrafter) | ⭐639 | 💤 | High Performance Minecraft Map Renderer. |
+| [`DeltaJordan/BotW-Save-Manager`](https://github.com/DeltaJordan/BotW-Save-Manager) | ⭐402 | 💤 | BOTW Save Manager for Switch and Wii U |
+| [`RatchetModding/slimseditor`](https://github.com/RatchetModding/slimseditor) | ⭐22 | 💤 | A savegame editor for the Ratchet and Clank games, written in Python. |
+| [`jswidler/HOTSNet`](https://github.com/jswidler/HOTSNet) | ⭐14 | 💤 | Use machine learning to predict Heroes of the Storm games |
+| [`tama/pogo-discord-raid-bot`](https://github.com/tama/pogo-discord-raid-bot) | ⭐1 | 💤 | A bot to list players on a discord server participating to a raid |
+| [`tama/pogo-discord-mod-bot`](https://github.com/tama/pogo-discord-mod-bot) | ⭐1 | 💤 | Simple mod tasks on a (pokemon go related) discord server |
+| [`hotsapi/HotsStats`](https://github.com/hotsapi/HotsStats) | ⭐145 | 📦 | An app that shows player stats during loading screen in Heroes of the Storm |
 
 </details>
 
@@ -422,28 +533,6 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 </details>
 
 <details>
-<summary><b>Files</b> &nbsp;·&nbsp; 14 ⭐ &nbsp;·&nbsp; <i>Self-hosted file servers, sharing platforms and file browsers.</i></summary>
-
-| Repo | Stars | Status | Description |
-| --- | --- | --- | --- |
-| [`9001/copyparty`](https://github.com/9001/copyparty) | ⭐44.7k | 🔥 | Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media in... |
-| [`mickael-kerjean/filestash`](https://github.com/mickael-kerjean/filestash) | ⭐14.1k | 🔥 | :file_folder: File Management Platform / Universal Data Access Layer (without FUSE) |
-| [`trapexit/mergerfs`](https://github.com/trapexit/mergerfs) | ⭐5.6k | 🔥 | a featureful union filesystem |
-| [`spacedriveapp/spacedrive`](https://github.com/spacedriveapp/spacedrive) | ⭐38.0k |  | Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem writ... |
-| [`arsenetar/dupeguru`](https://github.com/arsenetar/dupeguru) | ⭐7.5k |  | Find duplicate files |
-| [`szabodanika/microbin`](https://github.com/szabodanika/microbin) | ⭐4.3k |  | A secure, configurable file-sharing and URL shortening web app written in Rust. |
-| [`mtlynch/picoshare`](https://github.com/mtlynch/picoshare) | ⭐2.9k |  | A minimalist, easy-to-host service for sharing images and other files |
-| [`ServerContainers/samba`](https://github.com/ServerContainers/samba) | ⭐650 |  | samba - (ghcr.io/servercontainers/samba) (+ optional zeroconf, wsdd2 & time machine) on alpine [x86 + arm] |
-| [`hurlenko/filebrowser-docker`](https://github.com/hurlenko/filebrowser-docker) | ⭐440 |  | 🐳 filebrowser inside Docker container |
-| [`andreimarcu/linx-server`](https://github.com/andreimarcu/linx-server) | ⭐1.6k | 💤 | Self-hosted file/code/media sharing website. |
-| [`rclone/rclone-webui-react`](https://github.com/rclone/rclone-webui-react) | ⭐1.6k | 💤 | A full fledged UI for the rclone cloud sync tool |
-| [`stonith404/pingvin-share`](https://github.com/stonith404/pingvin-share) | ⭐4.7k | 📦 | A self-hosted file sharing platform that combines lightness and beauty, perfect for seamless and efficient ... |
-| [`mgilangjanuar/teledrive`](https://github.com/mgilangjanuar/teledrive) | ⭐2.0k | 📦 | The Google Drive/OneDrive/etc alternative using Telegram API |
-| [`syncany/syncany`](https://github.com/syncany/syncany) | ⭐1.6k | 📦 | Syncany is a cloud storage and filesharing application with a focus on security and abstraction of storage. |
-
-</details>
-
-<details>
 <summary><b>HomeAutomation</b> &nbsp;·&nbsp; 14 ⭐ &nbsp;·&nbsp; <i>Home Assistant configs, Zigbee bridges and smart-home firmware.</i></summary>
 
 | Repo | Stars | Status | Description |
@@ -462,26 +551,6 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`Trikos/Home-Assistant-Naming-Convention`](https://github.com/Trikos/Home-Assistant-Naming-Convention) | ⭐70 | 💤 | A repository dedicated to best practices for naming devices, sensors, and entities in Home Assistant setups... |
 | [`C-Duv/freemobile-smsapi-client`](https://github.com/C-Duv/freemobile-smsapi-client) | ⭐58 | 💤 | API client for the Free Mobile SMS notification service |
 | [`Aymkdn/assistant-freebox`](https://github.com/Aymkdn/assistant-freebox) | ⭐24 | 💤 | Plugin pour contrôler la Freebox Révolution via un Assistant comme Google Home |
-
-</details>
-
-<details>
-<summary><b>Media</b> &nbsp;·&nbsp; 12 ⭐ &nbsp;·&nbsp; <i>Video downloaders, IPTV channels, OBS plugins and streaming utilities.</i></summary>
-
-| Repo | Stars | Status | Description |
-| --- | --- | --- | --- |
-| [`yt-dlp/yt-dlp`](https://github.com/yt-dlp/yt-dlp) | ⭐160.7k | 🔥 | A feature-rich command-line audio/video downloader |
-| [`iptv-org/iptv`](https://github.com/iptv-org/iptv) | ⭐115.9k | 🔥 | Collection of publicly available IPTV channels from all over the world |
-| [`pystardust/ani-cli`](https://github.com/pystardust/ani-cli) | ⭐12.3k | 🔥 | A cli tool to browse and play anime |
-| [`streamlink/streamlink`](https://github.com/streamlink/streamlink) | ⭐11.4k | 🔥 | Streamlink is a CLI utility which pipes video streams from various services into a video player |
-| [`obsproject/obs-websocket`](https://github.com/obsproject/obs-websocket) | ⭐4.3k | 🔥 | Remote-control of OBS Studio through WebSocket |
-| [`JimmyAppelt/snaz`](https://github.com/JimmyAppelt/snaz) | ⭐301 |  | Snaz |
-| [`rx342/senscritique2letterboxd`](https://github.com/rx342/senscritique2letterboxd) | ⭐25 |  | Move your Senscritique library to Letterboxd |
-| [`phileastv/SensBoxd`](https://github.com/phileastv/SensBoxd) | ⭐24 |  | Exporter sa collection SensCritique pour Letterboxd. |
-| [`Vhonowslend/StreamFX-Public`](https://github.com/Vhonowslend/StreamFX-Public) | ⭐4.1k | 💤 | StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoder... |
-| [`Kalejin/DCSB`](https://github.com/Kalejin/DCSB) | ⭐287 | 💤 | Deathcounter and Soundboard, WPF app for setting up key shortcuts |
-| [`GuGuss/ARTE-7-Downloader`](https://github.com/GuGuss/ARTE-7-Downloader) | ⭐261 | 💤 | User script to download videos from the ARTE+7 website |
-| [`univrsal/spectralizer`](https://github.com/univrsal/spectralizer) | ⭐617 | 📦 | Audio visualizer plugin for obs-studio |
 
 </details>
 
@@ -506,26 +575,6 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 </details>
 
 <details>
-<summary><b>InfraAsCode</b> &nbsp;·&nbsp; 12 ⭐ &nbsp;·&nbsp; <i>Ansible playbooks, automation roles and Raspberry Pi config tooling.</i></summary>
-
-| Repo | Stars | Status | Description |
-| --- | --- | --- | --- |
-| [`ansible/awx`](https://github.com/ansible/awx) | ⭐15.4k | 🔥 | AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of th... |
-| [`semaphoreui/semaphore`](https://github.com/semaphoreui/semaphore) | ⭐13.6k | 🔥 | Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools. |
-| [`dev-sec/ansible-collection-hardening`](https://github.com/dev-sec/ansible-collection-hardening) | ⭐5.3k | 🔥 | This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL |
-| [`composerize/composerize`](https://github.com/composerize/composerize) | ⭐3.7k | 🔥 | 🏃→🎼  docker run asdlksjfksdf > docker-composerize up |
-| [`Mafyuh/iac`](https://github.com/Mafyuh/iac) | ⭐470 | 🔥 | GitOps-driven Infrastructure as Code for my homelab |
-| [`geerlingguy/internet-pi`](https://github.com/geerlingguy/internet-pi) | ⭐4.7k |  | Raspberry Pi config for all things Internet. |
-| [`davestephens/ansible-nas`](https://github.com/davestephens/ansible-nas) | ⭐3.7k |  | Build a full-featured home server or NAS replacement with an Ubuntu box and this playbook. |
-| [`ChristopheJacquet/PiFmRds`](https://github.com/ChristopheJacquet/PiFmRds) | ⭐1.6k |  | FM-RDS transmitter using the Raspberry Pi's PWM |
-| [`Hexxeh/rpi-update`](https://github.com/Hexxeh/rpi-update) | ⭐1.9k | 💤 | An easier way to update the firmware of your Raspberry Pi |
-| [`claranet/ansible-role-motd`](https://github.com/claranet/ansible-role-motd) | ⭐13 | 💤 | Install and configure dynamic MOTD and SSH banner |
-| [`notthebee/infra`](https://github.com/notthebee/infra) | ⭐1.5k | 📦 | IaC for my Linux/Unix machines |
-| [`notro/rpi-source`](https://github.com/notro/rpi-source) | ⭐288 | 📦 | Development has moved to https://github.com/RPi-Distro/rpi-source |
-
-</details>
-
-<details>
 <summary><b>AI</b> &nbsp;·&nbsp; 11 ⭐ &nbsp;·&nbsp; <i>Local LLMs, AI coding agents, TTS engines and AI-augmented productivity tools.</i></summary>
 
 | Repo | Stars | Status | Description |
@@ -541,6 +590,25 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`forrestchang/andrej-karpathy-skills`](https://github.com/forrestchang/andrej-karpathy-skills) | ⭐113.4k |  | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM... |
 | [`yoanbernabeu/NanoThumbnail`](https://github.com/yoanbernabeu/NanoThumbnail) | ⭐34 |  | Generate Viral Thumbnails with AI |
 | [`Zyphra/Zonos`](https://github.com/Zyphra/Zonos) | ⭐7.2k | 💤 | Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilin... |
+
+</details>
+
+<details>
+<summary><b>Games-WoW</b> &nbsp;·&nbsp; 11 ⭐ &nbsp;·&nbsp; <i>WoW emulators, private server cores and database editors (MaNGOS, TrinityCore, Confrérie).</i></summary>
+
+| Repo | Stars | Status | Description |
+| --- | --- | --- | --- |
+| [`cmangos/mangos-wotlk`](https://github.com/cmangos/mangos-wotlk) | ⭐541 | 🔥 | C(ontinued)-MaNGOS is about: -- Doing WoW-Emulation Right! |
+| [`mangos/MaNGOS`](https://github.com/mangos/MaNGOS) | ⭐3.1k |  | This is the master Information repository for MaNGOS |
+| [`balakethelock/SuperWoW`](https://github.com/balakethelock/SuperWoW) | ⭐159 |  | 1.12.1 WoW client mod that expands on API functionalities |
+| [`mangostwo/database`](https://github.com/mangostwo/database) | ⭐55 |  | The Mangos TWO world database contains creatures, NPCs, Quests, Items/objects & gossip information to popul... |
+| [`Shadez/wowarmory`](https://github.com/Shadez/wowarmory) | ⭐193 | 💤 | The World of Warcraft Armory is a vast searchable database of information for World of Warcraft - taken str... |
+| [`playerbot/mangos`](https://github.com/playerbot/mangos) | ⭐70 | 💤 | Playerbot is a fork of Mangos which lets you add another character from your account as a bot that you can ... |
+| [`fine/Quice`](https://github.com/fine/Quice) | ⭐9 | 💤 | Quice MaNGOS and Trinity Database Editor |
+| [`Khira/scriptdev2`](https://github.com/Khira/scriptdev2) | ⭐3 | 💤 | _(no description)_ |
+| [`derekjhunt/trinity_ansible`](https://github.com/derekjhunt/trinity_ansible) | ⭐2 | 💤 | Ansible Role for TrinityCore |
+| [`Khira/la-confrerie-332`](https://github.com/Khira/la-confrerie-332) | ⭐2 | 💤 | Sources du serveur de la Confrérie, compatible client World of Warcraft 3.3.2 |
+| [`Khira/La-Confrerie`](https://github.com/Khira/La-Confrerie) | ⭐2 | 💤 | Sources du serveur de la Confrérie |
 
 </details>
 
@@ -563,214 +631,74 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 </details>
 
 <details>
-<summary><b>Social</b> &nbsp;·&nbsp; 10 ⭐ &nbsp;·&nbsp; <i>Federated social platforms, chat servers and publishing engines.</i></summary>
-
-| Repo | Stars | Status | Description |
-| --- | --- | --- | --- |
-| [`TryGhost/Ghost`](https://github.com/TryGhost/Ghost) | ⭐52.7k | 🔥 | Independent technology for modern publishing, memberships, subscriptions and newsletters. |
-| [`mastodon/mastodon`](https://github.com/mastodon/mastodon) | ⭐49.9k | 🔥 | Your self-hosted, globally interconnected microblogging community |
-| [`gitroomhq/postiz-app`](https://github.com/gitroomhq/postiz-app) | ⭐30.0k | 🔥 | 📨 The ultimate agentic social media scheduling tool 🤖 |
-| [`chatwoot/chatwoot`](https://github.com/chatwoot/chatwoot) | ⭐29.0k | 🔥 | Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Se... |
-| [`fluxerapp/fluxer`](https://github.com/fluxerapp/fluxer) | ⭐8.5k |  | A free and open source instant messaging and VoIP platform built for friends, groups, and communities. Self... |
-| [`sethcottle/littlelink`](https://github.com/sethcottle/littlelink) | ⭐2.9k |  | A lightweight DIY Linktree alternative. |
-| [`bluesky-social/pds`](https://github.com/bluesky-social/pds) | ⭐2.5k |  | Bluesky PDS (Personal Data Server) container image, compose file, and documentation |
-| [`hack-chat/main`](https://github.com/hack-chat/main) | ⭐1.4k |  | a minimal, distraction-free chat application |
-| [`beeper/self-host`](https://github.com/beeper/self-host) | ⭐1.1k | 📦 | Learn how to self-host Beeper |
-| [`louisgrasset/touitomamout`](https://github.com/louisgrasset/touitomamout) | ⭐252 | 📦 | Touitomamout is an easy way to synchronize your Twitter's tweets 🦤 to Mastodon 🦣 and Bluesky post ☁️ (also ... |
-
-</details>
-
-<details>
-<summary><b>Documents</b> &nbsp;·&nbsp; 7 ⭐ &nbsp;·&nbsp; <i>PDF editors, document management and ebook libraries.</i></summary>
-
-| Repo | Stars | Status | Description |
-| --- | --- | --- | --- |
-| [`Stirling-Tools/Stirling-PDF`](https://github.com/Stirling-Tools/Stirling-PDF) | ⭐78.2k | 🔥 | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere |
-| [`paperless-ngx/paperless-ngx`](https://github.com/paperless-ngx/paperless-ngx) | ⭐40.3k | 🔥 | A community-supported supercharged document management system: scan, index and archive all your documents |
-| [`alam00000/bentopdf`](https://github.com/alam00000/bentopdf) | ⭐13.1k | 🔥 | The Privacy First PDF Toolkit |
-| [`clusterzx/paperless-ai`](https://github.com/clusterzx/paperless-ai) | ⭐5.6k | 🔥 | An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenA... |
-| [`janeczku/calibre-web`](https://github.com/janeczku/calibre-web) | ⭐17.1k |  | :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database |
-| [`crocodilestick/Calibre-Web-Automated`](https://github.com/crocodilestick/Calibre-Web-Automated) | ⭐5.5k |  | Calibre-Web but Automated and with tons of New Features! Fully automate and simplify your eBook set up! |
-| [`na--/ebook-tools`](https://github.com/na--/ebook-tools) | ⭐765 | 💤 | Shell scripts for organizing and managing ebook collections |
-
-</details>
-
-<details>
-<summary><b>Notes</b> &nbsp;·&nbsp; 6 ⭐ &nbsp;·&nbsp; <i>Self-hostable note-taking and personal knowledge management apps.</i></summary>
-
-| Repo | Stars | Status | Description |
-| --- | --- | --- | --- |
-| [`excalidraw/excalidraw`](https://github.com/excalidraw/excalidraw) | ⭐122.5k | 🔥 | Virtual whiteboard for sketching hand-drawn like diagrams |
-| [`toeverything/AFFiNE`](https://github.com/toeverything/AFFiNE) | ⭐68.0k | 🔥 | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that bring... |
-| [`siyuan-note/siyuan`](https://github.com/siyuan-note/siyuan) | ⭐43.6k | 🔥 | A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescri... |
-| [`logseq/logseq`](https://github.com/logseq/logseq) | ⭐42.7k | 🔥 | A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://gi... |
-| [`streetwriters/notesnook`](https://github.com/streetwriters/notesnook) | ⭐14.0k | 🔥 | A fully open source & end-to-end encrypted note taking alternative to Evernote. |
-| [`Vinzent03/obsidian-git`](https://github.com/Vinzent03/obsidian-git) | ⭐10.8k | 🔥 | Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md |
-
-</details>
-
-<details>
-<summary><b>Photos</b> &nbsp;·&nbsp; 5 ⭐ &nbsp;·&nbsp; <i>Self-hosted photo management and Google Photos alternatives.</i></summary>
-
-| Repo | Stars | Status | Description |
-| --- | --- | --- | --- |
-| [`immich-app/immich`](https://github.com/immich-app/immich) | ⭐99.7k | 🔥 | High performance self-hosted photo and video management solution. |
-| [`photoprism/photoprism`](https://github.com/photoprism/photoprism) | ⭐39.6k | 🔥 | AI-Powered Photos App for the Decentralized Web 🌈💎✨ |
-| [`Freika/dawarich`](https://github.com/Freika/dawarich) | ⭐8.9k | 🔥 | Your favorite self-hostable alternative to Google Timeline (Google Location History) |
-| [`Salvoxia/immich-folder-album-creator`](https://github.com/Salvoxia/immich-folder-album-creator) | ⭐993 |  | Automatically create and populate albums in Immich from a folder structure in external libraries |
-| [`SmilyOrg/photofield`](https://github.com/SmilyOrg/photofield) | ⭐576 |  | A self-hosted non-invasive single-binary photo gallery with a focus on speed and simplicity. |
-
-</details>
-
-<details>
-<summary><b>Hosting</b> &nbsp;·&nbsp; 5 ⭐ &nbsp;·&nbsp; <i>Container management platforms and home server operating systems.</i></summary>
-
-| Repo | Stars | Status | Description |
-| --- | --- | --- | --- |
-| [`Dokploy/dokploy`](https://github.com/Dokploy/dokploy) | ⭐33.7k | 🔥 | Open Source Alternative to Vercel, Netlify and Heroku. |
-| [`getumbrel/umbrel`](https://github.com/getumbrel/umbrel) | ⭐11.2k | 🔥 | An elegant home server OS. Run OpenClaw, store your files and photos, run a Bitcoin node, and do more with ... |
-| [`nicholas-fedor/watchtower`](https://github.com/nicholas-fedor/watchtower) | ⭐3.5k | 🔥 | Automate Docker container image updates |
-| [`dockur/windows`](https://github.com/dockur/windows) | ⭐51.2k |  | Windows inside a Docker container. |
-| [`containrrr/watchtower`](https://github.com/containrrr/watchtower) | ⭐24.6k | 📦 | A process for automating Docker container base image updates. |
-
-</details>
-
-<details>
-<summary><b>Mediaserver</b> &nbsp;·&nbsp; 5 ⭐ &nbsp;·&nbsp; <i>Jellyfin, Navidrome and other media-streaming server stacks.</i></summary>
-
-| Repo | Stars | Status | Description |
-| --- | --- | --- | --- |
-| [`jellyfin/jellyfin`](https://github.com/jellyfin/jellyfin) | ⭐51.3k | 🔥 | The Free Software Media System - Server Backend & API |
-| [`navidrome/navidrome`](https://github.com/navidrome/navidrome) | ⭐20.9k | 🔥 | 🎧 Your Personal Streaming Service |
-| [`seerr-team/seerr`](https://github.com/seerr-team/seerr) | ⭐11.1k | 🔥 | Open-source media request and discovery manager for Jellyfin, Plex, and Emby. |
-| [`intro-skipper/intro-skipper`](https://github.com/intro-skipper/intro-skipper) | ⭐2.3k | 🔥 | Automatically detect and skip intro/credit sequences in Jellyfin |
-| [`danielveigasilva/jellyfin-plugin-letterboxd-sync`](https://github.com/danielveigasilva/jellyfin-plugin-letterboxd-sync) | ⭐108 | 📦 | A unofficial plugin to keep your watched movie history from Jellyfin automatically updated to your Letterbo... |
-
-</details>
-
-<details>
-<summary><b>XMPP</b> &nbsp;·&nbsp; 5 ⭐ &nbsp;·&nbsp; <i>XMPP/Matrix server, client and deployment tooling.</i></summary>
-
-| Repo | Stars | Status | Description |
-| --- | --- | --- | --- |
-| [`processone/ejabberd`](https://github.com/processone/ejabberd) | ⭐6.7k | 🔥 | Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server) |
-| [`spantaleev/matrix-docker-ansible-deploy`](https://github.com/spantaleev/matrix-docker-ansible-deploy) | ⭐6.3k | 🔥 | 🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker |
-| [`movim/movim`](https://github.com/movim/movim) | ⭐2.0k | 🔥 | Movim - Decentralized social platform |
-| [`processone/fluux-messenger`](https://github.com/processone/fluux-messenger) | ⭐333 | 🔥 | Fluux Messenger: A fast, modern, cross-platform XMPP client for communities and organizations. |
-| [`dino/dino`](https://github.com/dino/dino) | ⭐2.4k |  | Modern XMPP ("Jabber") Chat Client using GTK/Vala |
-
-</details>
-
-<details>
-<summary><b>Lifestyle</b> &nbsp;·&nbsp; 5 ⭐ &nbsp;·&nbsp; <i>Habit trackers, fitness apps, travel planners and genealogy tools.</i></summary>
-
-| Repo | Stars | Status | Description |
-| --- | --- | --- | --- |
-| [`mauriceboe/TREK`](https://github.com/mauriceboe/TREK) | ⭐4.7k | 🔥 | A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets... |
-| [`CodeWithCJ/SparkyFitness`](https://github.com/CodeWithCJ/SparkyFitness) | ⭐3.4k | 🔥 | SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together. |
-| [`gramps-project/gramps-web`](https://github.com/gramps-project/gramps-web) | ⭐1.4k | 🔥 | Open Source Online Genealogy System |
-| [`xpavle00/Habo`](https://github.com/xpavle00/Habo) | ⭐1.3k |  | Habo is an open-source habit tracker. Created in a flutter. |
-| [`tahnok/colmi_r02_client`](https://github.com/tahnok/colmi_r02_client) | ⭐614 |  | A python client + documentation for the Colmi R02 smart ring |
-
-</details>
-
-<details>
-<summary><b>Backup</b> &nbsp;·&nbsp; 4 ⭐ &nbsp;·&nbsp; <i>Self-hosted backup tools for files, databases and bitwarden vaults.</i></summary>
-
-| Repo | Stars | Status | Description |
-| --- | --- | --- | --- |
-| [`restic/restic`](https://github.com/restic/restic) | ⭐33.4k | 🔥 | Fast, secure, efficient backup program |
-| [`databasus/databasus`](https://github.com/databasus/databasus) | ⭐6.7k | 🔥 | Database backup tool (PostgreSQL, MySQL\MariaDB and MongoDB) |
-| [`nicotsx/zerobyte`](https://github.com/nicotsx/zerobyte) | ⭐6.3k | 🔥 | Backup automation for self-hosters. Built on top of restic |
-| [`ttionya/vaultwarden-backup`](https://github.com/ttionya/vaultwarden-backup) | ⭐1.8k | 🔥 | Backup vaultwarden (formerly known as bitwarden_rs) SQLite3/PostgreSQL/MySQL/MariaDB database by rclone. (D... |
-
-</details>
-
-<details>
-<summary><b>Cloud</b> &nbsp;·&nbsp; 4 ⭐ &nbsp;·&nbsp; <i>AWS, Oracle Cloud and other cloud-provider helper scripts.</i></summary>
-
-| Repo | Stars | Status | Description |
-| --- | --- | --- | --- |
-| [`ravikiranvm/aws-finops-dashboard`](https://github.com/ravikiranvm/aws-finops-dashboard) | ⭐1.2k |  | A terminal-based AWS cost and resource dashboard built with Python and the Rich library. It provides an ove... |
-| [`Codycody31/Prevent-OCI-Deletion-for-being-idle`](https://github.com/Codycody31/Prevent-OCI-Deletion-for-being-idle) | ⭐36 | 💤 | Scripts to maintain active OCI ForeverFree tier instances, preventing deletions due to inactivity. |
-| [`hitrov/oci-arm-host-capacity`](https://github.com/hitrov/oci-arm-host-capacity) | ⭐1.2k | 📦 | This script allows to bypass Oracle Cloud Infrastructure 'Out of host capacity' error immediately when addi... |
-| [`aws-samples/ec2-classic-resource-finder`](https://github.com/aws-samples/ec2-classic-resource-finder) | ⭐131 | 📦 | This script enables the identification of resources running in Amazon EC2 Classic |
-
-</details>
-
-<details>
-<summary><b>Automation</b> &nbsp;·&nbsp; 3 ⭐ &nbsp;·&nbsp; <i>Workflow engines and task schedulers for automating repetitive jobs.</i></summary>
-
-| Repo | Stars | Status | Description |
-| --- | --- | --- | --- |
-| [`n8n-io/n8n`](https://github.com/n8n-io/n8n) | ⭐186.8k | 🔥 | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom cod... |
-| [`sipeed/picoclaw`](https://github.com/sipeed/picoclaw) | ⭐28.7k | 🔥 | Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity |
-| [`jhuckaby/Cronicle`](https://github.com/jhuckaby/Cronicle) | ⭐5.7k | 🔥 | A simple, distributed task scheduler and runner with a web based UI. |
-
-</details>
-
-<details>
-<summary><b>Finance</b> &nbsp;·&nbsp; 3 ⭐ &nbsp;·&nbsp; <i>Personal finance and portfolio tracking apps.</i></summary>
+<summary><b>Personal</b> &nbsp;·&nbsp; 8 ⭐ &nbsp;·&nbsp; <i>Personal finance trackers, fitness apps, habit trackers and genealogy tools.</i></summary>
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
 | [`we-promise/sure`](https://github.com/we-promise/sure) | ⭐8.1k | 🔥 | The personal finance app for everyone. NOT affiliated with or endorsed by Maybe Finance Inc. |
+| [`mauriceboe/TREK`](https://github.com/mauriceboe/TREK) | ⭐4.7k | 🔥 | A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets... |
 | [`portfolio-performance/portfolio`](https://github.com/portfolio-performance/portfolio) | ⭐3.8k | 🔥 | Track and evaluate the performance of your investment portfolio across stocks, cryptocurrencies, and other ... |
+| [`CodeWithCJ/SparkyFitness`](https://github.com/CodeWithCJ/SparkyFitness) | ⭐3.4k | 🔥 | SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together. |
+| [`gramps-project/gramps-web`](https://github.com/gramps-project/gramps-web) | ⭐1.4k | 🔥 | Open Source Online Genealogy System |
+| [`xpavle00/Habo`](https://github.com/xpavle00/Habo) | ⭐1.3k |  | Habo is an open-source habit tracker. Created in a flutter. |
+| [`tahnok/colmi_r02_client`](https://github.com/tahnok/colmi_r02_client) | ⭐614 |  | A python client + documentation for the Colmi R02 smart ring |
 | [`maybe-finance/maybe`](https://github.com/maybe-finance/maybe) | ⭐54.1k | 📦 | The personal finance app for everyone |
 
 </details>
 
 <details>
-<summary><b>Dashboards</b> &nbsp;·&nbsp; 3 ⭐ &nbsp;·&nbsp; <i>Self-hostable startpages and homelab landing dashboards.</i></summary>
+<summary><b>Games-Servers</b> &nbsp;·&nbsp; 8 ⭐ &nbsp;·&nbsp; <i>Dedicated game server managers and mission frameworks (LinuxGSM, valheim-docker, Arma).</i></summary>
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
-| [`gethomepage/homepage`](https://github.com/gethomepage/homepage) | ⭐29.9k | 🔥 | A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrati... |
-| [`glanceapp/glance`](https://github.com/glanceapp/glance) | ⭐34.0k |  | A self-hosted dashboard that puts all your feeds in one place |
-| [`mult1v4c/hestia-core`](https://github.com/mult1v4c/hestia-core) | ⭐674 |  | A grid-based, modular dashboard built entirely from HTML, CSS, and JS with the ability to create your custo... |
+| [`Pumpkin-MC/Pumpkin`](https://github.com/Pumpkin-MC/Pumpkin) | ⭐7.5k | 🔥 | Empowering everyone to host fast and efficient Minecraft servers. |
+| [`GameServerManagers/LinuxGSM`](https://github.com/GameServerManagers/LinuxGSM) | ⭐4.8k | 🔥 | The command-line tool for quick, simple deployment and management of Linux dedicated game servers. |
+| [`mbround18/valheim-docker`](https://github.com/mbround18/valheim-docker) | ⭐835 | 🔥 | Valheim Docker powered by Odin. The Valheim dedicated gameserver manager which is designed with resiliency ... |
+| [`swizzin/swizzin`](https://github.com/swizzin/swizzin) | ⭐2.4k |  | A simple, modular seedbox solution |
+| [`WindowsGSM/WindowsGSM`](https://github.com/WindowsGSM/WindowsGSM) | ⭐625 |  | 🎲 A powerful tool to manage game servers. Equipped with a GUI for server admins to install, import, start, ... |
+| [`BohemiaInteractive/DayZ-Central-Economy`](https://github.com/BohemiaInteractive/DayZ-Central-Economy) | ⭐379 |  | DayZ Central Economy configuration |
+| [`AsYetUntitled/Framework`](https://github.com/AsYetUntitled/Framework) | ⭐254 | 💤 | Altis Life RPG mission framework for Arma 3 originally made by @TAWTonic. |
+| [`jonrainier/DayZ-Private-Server`](https://github.com/jonrainier/DayZ-Private-Server) | ⭐97 | 💤 | DayZ Private Server |
 
 </details>
 
 <details>
-<summary><b>Cameras</b> &nbsp;·&nbsp; 3 ⭐ &nbsp;·&nbsp; <i>IP camera streaming, NVR and motion-detection backends.</i></summary>
+<summary><b>Games-Modding</b> &nbsp;·&nbsp; 7 ⭐ &nbsp;·&nbsp; <i>Game patches, mod managers and save editors (r2modman, SilentPatch, TOTK mods).</i></summary>
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
-| [`blakeblackshear/frigate`](https://github.com/blakeblackshear/frigate) | ⭐31.8k | 🔥 | NVR with realtime local object detection for IP cameras |
-| [`motioneye-project/motioneye`](https://github.com/motioneye-project/motioneye) | ⭐4.6k | 🔥 | A web frontend for the motion daemon. |
-| [`AlexxIT/go2rtc`](https://github.com/AlexxIT/go2rtc) | ⭐12.9k |  | Ultimate camera streaming application |
+| [`ebkr/r2modmanPlus`](https://github.com/ebkr/r2modmanPlus) | ⭐2.0k | 🔥 | A simple and easy to use mod manager for several games using Thunderstore |
+| [`Grokitach/Stalker_GAMMA`](https://github.com/Grokitach/Stalker_GAMMA) | ⭐1.1k | 🔥 | S.T.A.L.K.E.R. G.A.M.M.A. modpack for Anomaly |
+| [`CookiePLMonster/SilentPatch`](https://github.com/CookiePLMonster/SilentPatch) | ⭐925 | 🔥 | SilentPatch for GTA III, Vice City, and San Andreas |
+| [`marcrobledo/savegame-editors`](https://github.com/marcrobledo/savegame-editors) | ⭐1.3k |  | A compilation of console savegame editors made with HTML5 technologies. |
+| [`hoverbike1/TOTK-Mods-collection`](https://github.com/hoverbike1/TOTK-Mods-collection) | ⭐3.2k | 💤 | Mod repo for Tears of The Kingdom (TOTK) for Switch and Switch Emulation |
+| [`FailedShack/USBHelperLauncher`](https://github.com/FailedShack/USBHelperLauncher) | ⭐504 | 💤 | USBHelperLauncher restores and enhances Wii U USB Helper functionality by patching it at runtime and interc... |
+| [`gyfen/GTA-Lucky-Wheel`](https://github.com/gyfen/GTA-Lucky-Wheel) | ⭐25 | 💤 | Lucky Wheel script for GTA V Online |
 
 </details>
 
 <details>
-<summary><b>Mail</b> &nbsp;·&nbsp; 3 ⭐ &nbsp;·&nbsp; <i>Self-hostable mail servers and Gmail alternatives.</i></summary>
+<summary><b>Games-Emulators</b> &nbsp;·&nbsp; 5 ⭐ &nbsp;·&nbsp; <i>Console emulators and game-engine reimplementations (shadPS4, devilution, OpenRCT2).</i></summary>
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
-| [`docker-mailserver/docker-mailserver`](https://github.com/docker-mailserver/docker-mailserver) | ⭐18.2k | 🔥 | Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running ins... |
-| [`Mailu/Mailu`](https://github.com/Mailu/Mailu) | ⭐7.2k | 🔥 | Insular email distribution - mail server as Docker images |
-| [`Mail-0/Zero`](https://github.com/Mail-0/Zero) | ⭐10.5k |  | Experience email the way you want with Mail0 – the first open source email app that puts your privacy and s... |
+| [`shadps4-emu/shadPS4`](https://github.com/shadps4-emu/shadPS4) | ⭐31.0k | 🔥 | PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++ |
+| [`OpenRCT2/OpenRCT2`](https://github.com/OpenRCT2/OpenRCT2) | ⭐15.6k | 🔥 | An open source re-implementation of RollerCoaster Tycoon 2 🎢 |
+| [`diasurgical/devilution`](https://github.com/diasurgical/devilution) | ⭐9.0k |  | Diablo devolved - magic behind the 1996 computer game |
+| [`DaedalusX64/daedalus`](https://github.com/DaedalusX64/daedalus) | ⭐668 |  | The Nintendo 64 Emulator itself |
+| [`recalbox/recalbox-os`](https://github.com/recalbox/recalbox-os) | ⭐2.2k | 📦 | The recalbox repository moved to https://gitlab.com/recalbox/recalbox |
 
 </details>
 
 <details>
-<summary><b>Recipes</b> &nbsp;·&nbsp; 3 ⭐ &nbsp;·&nbsp; <i>Recipe managers, meal planners and home bar assistants.</i></summary>
+<summary><b>Games-Steam</b> &nbsp;·&nbsp; 4 ⭐ &nbsp;·&nbsp; <i>Steam-specific tooling: card farming, achievements, 2FA, free-game claimers.</i></summary>
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
-| [`mealie-recipes/mealie`](https://github.com/mealie-recipes/mealie) | ⭐12.1k | 🔥 | Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend appl... |
-| [`TandoorRecipes/recipes`](https://github.com/TandoorRecipes/recipes) | ⭐8.3k | 🔥 | Application for managing recipes, planning meals, building shopping lists and much much more! |
-| [`karlomikus/bar-assistant`](https://github.com/karlomikus/bar-assistant) | ⭐1.0k | 🔥 | Bar assistant is a all-in-one solution for managing your home bar |
-
-</details>
-
-<details>
-<summary><b>Documentation</b> &nbsp;·&nbsp; 2 ⭐ &nbsp;·&nbsp; <i>Static-site generators for software/project documentation.</i></summary>
-
-| Repo | Stars | Status | Description |
-| --- | --- | --- | --- |
-| [`squidfunk/mkdocs-material`](https://github.com/squidfunk/mkdocs-material) | ⭐26.7k | 🔥 | Documentation that simply works |
-| [`zensical/zensical`](https://github.com/zensical/zensical) | ⭐4.5k | 🔥 | A modern static site generator by the Material for MkDocs team |
+| [`JustArchiNET/ArchiSteamFarm`](https://github.com/JustArchiNET/ArchiSteamFarm) | ⭐13.3k | 🔥 | C# application with primary purpose of farming Steam cards from multiple accounts simultaneously. |
+| [`gibbed/SteamAchievementManager`](https://github.com/gibbed/SteamAchievementManager) | ⭐8.3k |  | A manager for game achievements in Steam. |
+| [`vogler/free-games-claimer`](https://github.com/vogler/free-games-claimer) | ⭐4.1k |  | Automatically claims free games and DLCs on the Epic Games Store, Amazon Prime Gaming and GOG. |
+| [`dyc3/steamguard-cli`](https://github.com/dyc3/steamguard-cli) | ⭐952 |  | A linux utility for generating 2FA codes for Steam and managing Steam trade, market, and other confirmations. |
 
 </details>
 
