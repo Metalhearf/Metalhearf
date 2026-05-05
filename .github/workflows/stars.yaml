@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: update-stars
+  cancel-in-progress: false
+
 jobs:
   update-stars:
     runs-on: ubuntu-latest
