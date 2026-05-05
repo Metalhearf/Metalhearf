@@ -15,11 +15,9 @@ import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
 
-USER = "Metalhearf"
 README = Path(__file__).resolve().parents[2] / "README.md"
 START = "<!-- STARS:START -->"
 END = "<!-- STARS:END -->"
-TOP_N = 5
 STALE_DAYS = 365
 HOT_DAYS = 7
 
@@ -158,23 +156,13 @@ def render(lists: list[dict]) -> str:
     for info in sorted_lists:
         if info["total"] == 0:
             continue
-        list_url = f"https://github.com/stars/{USER}/lists/{info['slug']}"
-        sorted_repos = sorted(info["repos"], key=lambda x: x.get("stargazerCount", 0), reverse=True)
-        shown = sorted_repos[:TOP_N]
-        remaining = info["total"] - len(shown)
         out.append("<details>")
-        out.append(
-            f'<summary><b>{info["name"]}</b> &nbsp;·&nbsp; {info["total"]} repos &nbsp;·&nbsp; '
-            f'<a href="{list_url}">view on GitHub →</a></summary>'
-        )
+        out.append(f'<summary><b>{info["name"]}</b> &nbsp;·&nbsp; {info["total"]} repos</summary>')
         out.append("")
         out.append("| Repo | Stars | Status | Description |")
         out.append("| --- | --- | --- | --- |")
-        for r in shown:
+        for r in sorted(info["repos"], key=lambda x: x.get("stargazerCount", 0), reverse=True):
             out.append(fmt_row(r, now))
-        if remaining > 0:
-            out.append("")
-            out.append(f"[→ View {remaining} more on GitHub]({list_url})")
         out.append("")
         out.append("</details>")
         out.append("")
