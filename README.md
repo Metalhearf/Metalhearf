@@ -29,7 +29,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 
 I keep my GitHub stars grouped by topic. Expand a section to browse what I've collected.
 
-_Last updated: 2026-05-05 · Status legend: 🔥 hot (pushed in last 7 days) · 💤 stale (no push in 365+ days) · 📦 archived_
+_Last updated: 2026-05-05_
 
 <details>
 <summary><b>Self-Hosted</b> &nbsp;·&nbsp; 130 repos</summary>
@@ -613,4 +613,5 @@ _Last updated: 2026-05-05 · Status legend: 🔥 hot (pushed in last 7 days) · 
 
 </details>
 
+_Status legend: 🔥 hot (pushed in last 7 days) · 💤 stale (no push in 365+ days) · 📦 archived_
 <!-- STARS:END -->

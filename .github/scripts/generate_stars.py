@@ -148,7 +148,7 @@ def render(lists: list[dict]) -> str:
         "",
         "I keep my GitHub stars grouped by topic. Expand a section to browse what I've collected.",
         "",
-        f"_Last updated: {today} · Status legend: 🔥 hot (pushed in last {HOT_DAYS} days) · 💤 stale (no push in {STALE_DAYS}+ days) · 📦 archived_",
+        f"_Last updated: {today}_",
         "",
     ]
     sorted_lists = sorted(
@@ -169,6 +169,9 @@ def render(lists: list[dict]) -> str:
         out.append("")
         out.append("</details>")
         out.append("")
+    out.append(
+        f"_Status legend: 🔥 hot (pushed in last {HOT_DAYS} days) · 💤 stale (no push in {STALE_DAYS}+ days) · 📦 archived_"
+    )
     return "\n".join(out)
 
 
