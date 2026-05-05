@@ -12,12 +12,16 @@ import os
 import re
 import sys
 import urllib.request
+from datetime import datetime, timezone
 from pathlib import Path
 
 USER = "Metalhearf"
 README = Path(__file__).resolve().parents[2] / "README.md"
 START = "<!-- STARS:START -->"
 END = "<!-- STARS:END -->"
+TOP_N = 5
+STALE_DAYS = 365
+HOT_DAYS = 7
 
 def graphql(query: str, variables: dict | None = None) -> dict:
     token = os.environ["STARS_TOKEN"]
@@ -43,8 +47,9 @@ REPO_FRAG = """
   nameWithOwner
   description
   stargazerCount
-  primaryLanguage { name }
   url
+  isArchived
+  pushedAt
 }
 """
 
@@ -108,21 +113,41 @@ def fmt_stars(n: int) -> str:
     return str(n)
 
 
-def fmt_row(r: dict) -> str:
+def status_emoji(r: dict, now: datetime) -> str:
+    if r.get("isArchived"):
+        return "📦"
+    pushed = r.get("pushedAt")
+    if not pushed:
+        return ""
+    pushed_dt = datetime.fromisoformat(pushed.replace("Z", "+00:00"))
+    age_days = (now - pushed_dt).days
+    if age_days >= STALE_DAYS:
+        return "💤"
+    if age_days <= HOT_DAYS:
+        return "🔥"
+    return ""
+
+
+def fmt_row(r: dict, now: datetime) -> str:
     desc = (r.get("description") or "").strip().replace("|", "\\|").replace("\n", " ")
     if len(desc) > 110:
         desc = desc[:107] + "..."
-    lang = (r.get("primaryLanguage") or {}).get("name") or ""
     name = r["nameWithOwner"]
     url = r["url"]
-    return f"| [`{name}`]({url}) | {lang} | ⭐{fmt_stars(r.get('stargazerCount', 0))} | {desc or '_(no description)_'} |"
+    stars = fmt_stars(r.get("stargazerCount", 0))
+    status = status_emoji(r, now)
+    return f"| [`{name}`]({url}) | ⭐{stars} | {status} | {desc or '_(no description)_'} |"
 
 
 def render(lists: list[dict]) -> str:
+    now = datetime.now(timezone.utc)
+    today = now.strftime("%Y-%m-%d")
     out = [
         "## ⭐ Curated Stars",
         "",
         "I keep my GitHub stars grouped by topic. Expand a section to browse what I've collected.",
+        "",
+        f"_Last updated: {today} · Status legend: 📦 archived · 💤 stale (no push in {STALE_DAYS}+ days) · 🔥 hot (pushed in last {HOT_DAYS} days)_",
         "",
     ]
     sorted_lists = sorted(
@@ -134,16 +159,22 @@ def render(lists: list[dict]) -> str:
         if info["total"] == 0:
             continue
         list_url = f"https://github.com/stars/{USER}/lists/{info['slug']}"
+        sorted_repos = sorted(info["repos"], key=lambda x: x.get("stargazerCount", 0), reverse=True)
+        shown = sorted_repos[:TOP_N]
+        remaining = info["total"] - len(shown)
         out.append("<details>")
         out.append(
             f'<summary><b>{info["name"]}</b> &nbsp;·&nbsp; {info["total"]} repos &nbsp;·&nbsp; '
             f'<a href="{list_url}">view on GitHub →</a></summary>'
         )
         out.append("")
-        out.append("| Repo | Lang | Stars | Description |")
+        out.append("| Repo | Stars | Status | Description |")
         out.append("| --- | --- | --- | --- |")
-        for r in sorted(info["repos"], key=lambda x: x.get("stargazerCount", 0), reverse=True):
-            out.append(fmt_row(r))
+        for r in shown:
+            out.append(fmt_row(r, now))
+        if remaining > 0:
+            out.append("")
+            out.append(f"[→ View {remaining} more on GitHub]({list_url})")
         out.append("")
         out.append("</details>")
         out.append("")
