@@ -161,7 +161,7 @@ def render(lists: list[dict]) -> str:
         out.append("")
         out.append("| Repo | Stars | Status | Description |")
         out.append("| --- | --- | --- | --- |")
-        for r in sorted(info["repos"], key=lambda x: x.get("stargazerCount", 0), reverse=True):
+        for r in sorted(info["repos"], key=lambda x: (x.get("isArchived", False), -x.get("stargazerCount", 0))):
             out.append(fmt_row(r, now))
         out.append("")
         out.append("</details>")
