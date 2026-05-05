@@ -173,7 +173,12 @@ def render(lists: list[dict]) -> str:
         out.append("</details>")
         out.append("")
     out.append(
-        f"_Last updated: {today} · Status legend: 🔥 hot (pushed in last {HOT_DAYS} days) · 💤 stale (no push in {STALE_DAYS}+ days) · 📦 archived_"
+        f"<sub>"
+        f"Last updated: {today}<br>"
+        f"🔥 hot — pushed in last {HOT_DAYS} days<br>"
+        f"💤 stale — no push in {STALE_DAYS}+ days<br>"
+        f"📦 archived"
+        f"</sub>"
     )
     return "\n".join(out)
 
