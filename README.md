@@ -174,7 +174,7 @@ I keep my GitHub stars grouped by topic. Expand a section to browse what I've co
 | --- | --- | --- | --- |
 | [`punkpeye/awesome-mcp-servers`](https://github.com/punkpeye/awesome-mcp-servers) |  | ⭐86.3k | A collection of MCP servers. |
 | [`junegunn/fzf`](https://github.com/junegunn/fzf) | Go | ⭐80.0k | :cherry_blossom: A command-line fuzzy finder |
-| [`jesseduffield/lazygit`](https://github.com/jesseduffield/lazygit) | Go | ⭐77.4k | simple terminal UI for git commands |
+| [`jesseduffield/lazygit`](https://github.com/jesseduffield/lazygit) | Go | ⭐77.5k | simple terminal UI for git commands |
 | [`ventoy/Ventoy`](https://github.com/ventoy/Ventoy) | C | ⭐76.4k | A new bootable USB solution. |
 | [`nektos/act`](https://github.com/nektos/act) | Go | ⭐70.2k | Run your GitHub Actions locally 🚀 |
 | [`toeverything/AFFiNE`](https://github.com/toeverything/AFFiNE) | TypeScript | ⭐68.0k | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that bring... |
@@ -372,7 +372,7 @@ I keep my GitHub stars grouped by topic. Expand a section to browse what I've co
 | --- | --- | --- | --- |
 | [`Genymobile/scrcpy`](https://github.com/Genymobile/scrcpy) | C | ⭐139.4k | Display and control your Android device |
 | [`topjohnwu/Magisk`](https://github.com/topjohnwu/Magisk) | Kotlin | ⭐60.2k | The Magic Mask for Android |
-| [`yuliskov/SmartTube`](https://github.com/yuliskov/SmartTube) | Java | ⭐29.9k | Browse media content with your own rules on Android TV |
+| [`yuliskov/SmartTube`](https://github.com/yuliskov/SmartTube) | Java | ⭐30.0k | Browse media content with your own rules on Android TV |
 | [`ReVanced/revanced-manager`](https://github.com/ReVanced/revanced-manager) | Kotlin | ⭐27.7k | 💊 Application to use ReVanced on Android |
 | [`0x192/universal-android-debloater`](https://github.com/0x192/universal-android-debloater) | Rust | ⭐19.3k | Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, t... |
 | [`beemdevelopment/Aegis`](https://github.com/beemdevelopment/Aegis) | Java | ⭐12.4k | A free, secure and open source app for Android to manage your 2-step verification tokens. |
@@ -401,7 +401,7 @@ I keep my GitHub stars grouped by topic. Expand a section to browse what I've co
 | [`openclaw/openclaw`](https://github.com/openclaw/openclaw) | TypeScript | ⭐368.6k | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 |
 | [`anomalyco/opencode`](https://github.com/anomalyco/opencode) | TypeScript | ⭐155.1k | The open source coding agent. |
 | [`open-webui/open-webui`](https://github.com/open-webui/open-webui) | Python | ⭐135.6k | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) |
-| [`forrestchang/andrej-karpathy-skills`](https://github.com/forrestchang/andrej-karpathy-skills) |  | ⭐113.3k | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM... |
+| [`forrestchang/andrej-karpathy-skills`](https://github.com/forrestchang/andrej-karpathy-skills) |  | ⭐113.4k | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM... |
 | [`yamadashy/repomix`](https://github.com/yamadashy/repomix) | TypeScript | ⭐24.4k | 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for... |
 | [`OpenBMB/VoxCPM`](https://github.com/OpenBMB/VoxCPM) | Python | ⭐17.4k | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Clo... |
 | [`elie222/inbox-zero`](https://github.com/elie222/inbox-zero) | TypeScript | ⭐10.6k | The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast. |
