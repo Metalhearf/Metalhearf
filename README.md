@@ -27,7 +27,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 <!-- STARS:START -->
 ## ⭐ Curated Stars
 
-**459 starred repos** organized into **36 categories**. Expand a section to browse.
+**459 starred repos** organized into **37 categories**. Expand a section to browse.
 
 <details>
 <summary><b>Tools</b> &nbsp;·&nbsp; 59 ⭐ &nbsp;·&nbsp; <i>CLI utilities, terminal eye-candy, file managers and modern Unix replacements.</i></summary>
@@ -569,21 +569,6 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 </details>
 
 <details>
-<summary><b>Docs</b> &nbsp;·&nbsp; 7 ⭐ &nbsp;·&nbsp; <i>Note-taking apps, knowledge bases and documentation site generators.</i></summary>
-
-| Repo | Stars | Status | Description |
-| --- | --- | --- | --- |
-| [`excalidraw/excalidraw`](https://github.com/excalidraw/excalidraw) | ⭐122.5k | 🔥 | Virtual whiteboard for sketching hand-drawn like diagrams |
-| [`toeverything/AFFiNE`](https://github.com/toeverything/AFFiNE) | ⭐68.0k | 🔥 | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that bring... |
-| [`siyuan-note/siyuan`](https://github.com/siyuan-note/siyuan) | ⭐43.6k | 🔥 | A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescri... |
-| [`logseq/logseq`](https://github.com/logseq/logseq) | ⭐42.7k | 🔥 | A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://gi... |
-| [`squidfunk/mkdocs-material`](https://github.com/squidfunk/mkdocs-material) | ⭐26.7k | 🔥 | Documentation that simply works |
-| [`streetwriters/notesnook`](https://github.com/streetwriters/notesnook) | ⭐14.0k | 🔥 | A fully open source & end-to-end encrypted note taking alternative to Evernote. |
-| [`zensical/zensical`](https://github.com/zensical/zensical) | ⭐4.5k | 🔥 | A modern static site generator by the Material for MkDocs team |
-
-</details>
-
-<details>
 <summary><b>TUI</b> &nbsp;·&nbsp; 7 ⭐ &nbsp;·&nbsp; <i>Terminal UI applications: file managers, monitors and curses-style tools.</i></summary>
 
 | Repo | Stars | Status | Description |
@@ -599,7 +584,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 </details>
 
 <details>
-<summary><b>Library</b> &nbsp;·&nbsp; 6 ⭐ &nbsp;·&nbsp; <i>PDF editors, document management and ebook libraries.</i></summary>
+<summary><b>Documents</b> &nbsp;·&nbsp; 6 ⭐ &nbsp;·&nbsp; <i>PDF editors, document management and ebook libraries.</i></summary>
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
@@ -623,6 +608,19 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`intro-skipper/intro-skipper`](https://github.com/intro-skipper/intro-skipper) | ⭐2.3k | 🔥 | Automatically detect and skip intro/credit sequences in Jellyfin |
 | [`Yooooomi/your_spotify`](https://github.com/Yooooomi/your_spotify) | ⭐4.4k |  | Self hosted Spotify tracking dashboard |
 | [`danielveigasilva/jellyfin-plugin-letterboxd-sync`](https://github.com/danielveigasilva/jellyfin-plugin-letterboxd-sync) | ⭐108 | 📦 | A unofficial plugin to keep your watched movie history from Jellyfin automatically updated to your Letterbo... |
+
+</details>
+
+<details>
+<summary><b>Notes</b> &nbsp;·&nbsp; 5 ⭐ &nbsp;·&nbsp; <i>Self-hostable note-taking and personal knowledge management apps.</i></summary>
+
+| Repo | Stars | Status | Description |
+| --- | --- | --- | --- |
+| [`excalidraw/excalidraw`](https://github.com/excalidraw/excalidraw) | ⭐122.5k | 🔥 | Virtual whiteboard for sketching hand-drawn like diagrams |
+| [`toeverything/AFFiNE`](https://github.com/toeverything/AFFiNE) | ⭐68.0k | 🔥 | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that bring... |
+| [`siyuan-note/siyuan`](https://github.com/siyuan-note/siyuan) | ⭐43.6k | 🔥 | A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescri... |
+| [`logseq/logseq`](https://github.com/logseq/logseq) | ⭐42.7k | 🔥 | A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://gi... |
+| [`streetwriters/notesnook`](https://github.com/streetwriters/notesnook) | ⭐14.0k | 🔥 | A fully open source & end-to-end encrypted note taking alternative to Evernote. |
 
 </details>
 
@@ -763,6 +761,16 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | --- | --- | --- | --- |
 | [`we-promise/sure`](https://github.com/we-promise/sure) | ⭐8.1k | 🔥 | The personal finance app for everyone. NOT affiliated with or endorsed by Maybe Finance Inc. |
 | [`maybe-finance/maybe`](https://github.com/maybe-finance/maybe) | ⭐54.1k | 📦 | The personal finance app for everyone |
+
+</details>
+
+<details>
+<summary><b>Documentation</b> &nbsp;·&nbsp; 2 ⭐ &nbsp;·&nbsp; <i>Static-site generators for software/project documentation.</i></summary>
+
+| Repo | Stars | Status | Description |
+| --- | --- | --- | --- |
+| [`squidfunk/mkdocs-material`](https://github.com/squidfunk/mkdocs-material) | ⭐26.7k | 🔥 | Documentation that simply works |
+| [`zensical/zensical`](https://github.com/zensical/zensical) | ⭐4.5k | 🔥 | A modern static site generator by the Material for MkDocs team |
 
 </details>
 
