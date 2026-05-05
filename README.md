@@ -27,7 +27,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 <!-- STARS:START -->
 ## ⭐ Curated Stars
 
-I keep my GitHub stars grouped by topic. Expand a section to browse what I've collected.
+**458 starred repos** organized into **15 categories**. Expand a section to browse.
 
 <details>
 <summary><b>Self-Hosted</b> &nbsp;·&nbsp; 130 ⭐ &nbsp;·&nbsp; <i>Docker apps for replacing cloud services: media, photos, VPN, dashboards, automation.</i></summary>
@@ -388,13 +388,13 @@ I keep my GitHub stars grouped by topic. Expand a section to browse what I've co
 | [`obsproject/obs-websocket`](https://github.com/obsproject/obs-websocket) | ⭐4.3k | 🔥 | Remote-control of OBS Studio through WebSocket |
 | [`spotiflacapp/SpotiFLAC-Mobile`](https://github.com/spotiflacapp/SpotiFLAC-Mobile) | ⭐4.0k | 🔥 | Mobile music utility built with Flutter and Go. High-quality audio management for your personal library. - ... |
 | [`spicetify/marketplace`](https://github.com/spicetify/marketplace) | ⭐1.5k | 🔥 | Download extensions and themes directly from Spicetify |
-| [`rx342/senscritique2letterboxd`](https://github.com/rx342/senscritique2letterboxd) | ⭐25 | 🔥 | Move your Senscritique library to Letterboxd |
 | [`KRTirtho/spotube`](https://github.com/KRTirtho/spotube) | ⭐46.0k |  | 🎧 Open source music streaming app! Available for both desktop & mobile! |
 | [`spotbye/SpotiFLAC`](https://github.com/spotbye/SpotiFLAC) | ⭐8.1k |  | Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required. |
 | [`linsomniac/spotify_to_ytmusic`](https://github.com/linsomniac/spotify_to_ytmusic) | ⭐4.5k |  | Copy playlists and liked music from Spotify to YTMusic |
 | [`watsonbox/exportify`](https://github.com/watsonbox/exportify) | ⭐4.1k |  | Export/Backup Spotify playlists using the Web API |
 | [`JMPerez/spotify-dedup`](https://github.com/JMPerez/spotify-dedup) | ⭐1.1k |  | Remove duplicates from your Spotify Playlists |
 | [`JimmyAppelt/snaz`](https://github.com/JimmyAppelt/snaz) | ⭐301 |  | Snaz |
+| [`rx342/senscritique2letterboxd`](https://github.com/rx342/senscritique2letterboxd) | ⭐25 |  | Move your Senscritique library to Letterboxd |
 | [`phileastv/SensBoxd`](https://github.com/phileastv/SensBoxd) | ⭐24 |  | Exporter sa collection SensCritique pour Letterboxd. |
 | [`Vhonowslend/StreamFX-Public`](https://github.com/Vhonowslend/StreamFX-Public) | ⭐4.1k | 💤 | StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoder... |
 | [`benfoxall/lastfm-to-csv`](https://github.com/benfoxall/lastfm-to-csv) | ⭐544 | 💤 | Web based tool for exporting scrobbles |
@@ -522,7 +522,7 @@ I keep my GitHub stars grouped by topic. Expand a section to browse what I've co
 </details>
 
 <details>
-<summary><b>Android</b> &nbsp;·&nbsp; 20 ⭐ &nbsp;·&nbsp; <i>Debloaters, ReVanced/Magisk patches, FOSS apps and rooting utilities for Android.</i></summary>
+<summary><b>Android</b> &nbsp;·&nbsp; 19 ⭐ &nbsp;·&nbsp; <i>Debloaters, ReVanced/Magisk patches, FOSS apps and rooting utilities for Android.</i></summary>
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
@@ -543,7 +543,6 @@ I keep my GitHub stars grouped by topic. Expand a section to browse what I've co
 | [`corentin-c/SpotifyAutoPatcher`](https://github.com/corentin-c/SpotifyAutoPatcher) | ⭐413 |  | The easiest way to patch Spotify and Youtube Music, without the need to download APKs ! |
 | [`0x192/universal-android-debloater`](https://github.com/0x192/universal-android-debloater) | ⭐19.3k | 💤 | Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, t... |
 | [`BaltiApps/Pixelify-Google-Photos`](https://github.com/BaltiApps/Pixelify-Google-Photos) | ⭐1.6k | 💤 | Pixelify GPhotos |
-| [`khlam/debloat-samsung-android`](https://github.com/khlam/debloat-samsung-android) | ⭐479 | 💤 | ADB commands to aggressively de-bloat Samsung Android Phones without root. Make Samsung One UI closer to st... |
 | [`ayush5harma/PixelFeatureDrops`](https://github.com/ayush5harma/PixelFeatureDrops) | ⭐350 | 💤 | Magisk Module for Pixel Feature Drops that adds the system files for the same and spoof using the latest de... |
 | [`Team-xManager/xManager`](https://github.com/Team-xManager/xManager) | ⭐12.2k | 📦 | Ad-Free, New Features & Freedom |
 

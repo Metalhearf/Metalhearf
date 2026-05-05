@@ -166,14 +166,16 @@ def fmt_row(r: dict, now: datetime) -> str:
 def render(lists: list[dict]) -> str:
     now = datetime.now(timezone.utc)
     today = now.strftime("%Y-%m-%d")
+    non_empty = [l for l in lists if l["total"] > 0]
+    unique_repos = len({r["nameWithOwner"] for l in non_empty for r in l["repos"]})
     out = [
         "## ⭐ Curated Stars",
         "",
-        "I keep my GitHub stars grouped by topic. Expand a section to browse what I've collected.",
+        f"**{unique_repos} starred repos** organized into **{len(non_empty)} categories**. Expand a section to browse.",
         "",
     ]
     sorted_lists = sorted(
-        lists,
+        non_empty,
         key=lambda l: (l["total"], sum(r.get("stargazerCount", 0) for r in l["repos"])),
         reverse=True,
     )
