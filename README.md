@@ -27,7 +27,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 <!-- STARS:START -->
 ## ⭐ Curated Stars
 
-**459 starred repos** organized into **37 categories**. Expand a section to browse.
+**459 starred repos** organized into **36 categories**. Expand a section to browse.
 
 <details>
 <summary><b>Tools</b> &nbsp;·&nbsp; 59 ⭐ &nbsp;·&nbsp; <i>CLI utilities, terminal eye-candy, file managers and modern Unix replacements.</i></summary>
@@ -367,6 +367,30 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 </details>
 
 <details>
+<summary><b>Monitoring</b> &nbsp;·&nbsp; 16 ⭐ &nbsp;·&nbsp; <i>Uptime checkers, observability stacks and homelab metrics dashboards.</i></summary>
+
+| Repo | Stars | Status | Description |
+| --- | --- | --- | --- |
+| [`louislam/uptime-kuma`](https://github.com/louislam/uptime-kuma) | ⭐86.2k | 🔥 | A fancy self-hosted monitoring tool |
+| [`netdata/netdata`](https://github.com/netdata/netdata) | ⭐78.7k | 🔥 | The fastest path to AI-powered full stack observability, even for lean teams. |
+| [`dgtlmoon/changedetection.io`](https://github.com/dgtlmoon/changedetection.io) | ⭐31.4k | 🔥 | Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfec... |
+| [`grafana/loki`](https://github.com/grafana/loki) | ⭐28.1k | 🔥 | Like Prometheus, but for logs. |
+| [`henrygd/beszel`](https://github.com/henrygd/beszel) | ⭐21.6k | 🔥 | Lightweight server monitoring with historical data, docker stats, and alerts. |
+| [`openobserve/openobserve`](https://github.com/openobserve/openobserve) | ⭐18.7k | 🔥 | OpenObserve is an open-source observability platform for logs, metrics, traces, and frontend monitoring. A ... |
+| [`prometheus/node_exporter`](https://github.com/prometheus/node_exporter) | ⭐13.4k | 🔥 | Exporter for machine metrics |
+| [`AnalogJ/scrutiny`](https://github.com/AnalogJ/scrutiny) | ⭐7.7k | 🔥 | Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds |
+| [`grafana/docker-otel-lgtm`](https://github.com/grafana/docker-otel-lgtm) | ⭐1.8k | 🔥 | An OpenTelemetry backend in a Docker container image |
+| [`autobrr/netronome`](https://github.com/autobrr/netronome) | ⭐903 | 🔥 | Netronome is a modern network speed testing and monitoring tool built with Go and React. |
+| [`CyferShepard/Jellystat`](https://github.com/CyferShepard/Jellystat) | ⭐2.2k |  | Jellystat is a free and open source Statistics App for Jellyfin |
+| [`NagiosEnterprises/nagioscore`](https://github.com/NagiosEnterprises/nagioscore) | ⭐2.0k |  | Nagios Core |
+| [`prometheus-erl/prometheus.erl`](https://github.com/prometheus-erl/prometheus.erl) | ⭐354 |  | Prometheus.io client in Erlang |
+| [`geerlingguy/ansible-role-node_exporter`](https://github.com/geerlingguy/ansible-role-node_exporter) | ⭐141 |  | Ansible role - Node exporter |
+| [`phpservermon/phpservermon`](https://github.com/phpservermon/phpservermon) | ⭐2.2k | 💤 | PHP Server Monitor |
+| [`heiniha/Nagios-Responsive-HTML-Email-Notifications`](https://github.com/heiniha/Nagios-Responsive-HTML-Email-Notifications) | ⭐17 | 💤 | A notification plugin for Nagios to figure out if responsive or none-responsive HTML emails are to be sent ... |
+
+</details>
+
+<details>
 <summary><b>Privacy</b> &nbsp;·&nbsp; 15 ⭐ &nbsp;·&nbsp; <i>Tracker blockers, anonymous messaging, password managers and tools to escape surveillance.</i></summary>
 
 | Repo | Stars | Status | Description |
@@ -386,28 +410,6 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`Shawn-Shan/fawkes`](https://github.com/Shawn-Shan/fawkes) | ⭐5.5k | 💤 | Fawkes, privacy preserving tool against facial recognition systems. More info at https://sandlab.cs.uchicag... |
 | [`cathugger/mkp224o`](https://github.com/cathugger/mkp224o) | ⭐1.6k | 💤 | vanity address generator for tor onion v3 (ed25519) hidden services |
 | [`pixeltris/TwitchAdSolutions`](https://github.com/pixeltris/TwitchAdSolutions) | ⭐11.3k | 📦 | _(no description)_ |
-
-</details>
-
-<details>
-<summary><b>Monitoring</b> &nbsp;·&nbsp; 14 ⭐ &nbsp;·&nbsp; <i>Uptime checkers, observability stacks and homelab metrics dashboards.</i></summary>
-
-| Repo | Stars | Status | Description |
-| --- | --- | --- | --- |
-| [`louislam/uptime-kuma`](https://github.com/louislam/uptime-kuma) | ⭐86.2k | 🔥 | A fancy self-hosted monitoring tool |
-| [`netdata/netdata`](https://github.com/netdata/netdata) | ⭐78.7k | 🔥 | The fastest path to AI-powered full stack observability, even for lean teams. |
-| [`dgtlmoon/changedetection.io`](https://github.com/dgtlmoon/changedetection.io) | ⭐31.4k | 🔥 | Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfec... |
-| [`grafana/loki`](https://github.com/grafana/loki) | ⭐28.1k | 🔥 | Like Prometheus, but for logs. |
-| [`henrygd/beszel`](https://github.com/henrygd/beszel) | ⭐21.6k | 🔥 | Lightweight server monitoring with historical data, docker stats, and alerts. |
-| [`openobserve/openobserve`](https://github.com/openobserve/openobserve) | ⭐18.7k | 🔥 | OpenObserve is an open-source observability platform for logs, metrics, traces, and frontend monitoring. A ... |
-| [`prometheus/node_exporter`](https://github.com/prometheus/node_exporter) | ⭐13.4k | 🔥 | Exporter for machine metrics |
-| [`AnalogJ/scrutiny`](https://github.com/AnalogJ/scrutiny) | ⭐7.7k | 🔥 | Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds |
-| [`grafana/docker-otel-lgtm`](https://github.com/grafana/docker-otel-lgtm) | ⭐1.8k | 🔥 | An OpenTelemetry backend in a Docker container image |
-| [`autobrr/netronome`](https://github.com/autobrr/netronome) | ⭐903 | 🔥 | Netronome is a modern network speed testing and monitoring tool built with Go and React. |
-| [`CyferShepard/Jellystat`](https://github.com/CyferShepard/Jellystat) | ⭐2.2k |  | Jellystat is a free and open source Statistics App for Jellyfin |
-| [`NagiosEnterprises/nagioscore`](https://github.com/NagiosEnterprises/nagioscore) | ⭐2.0k |  | Nagios Core |
-| [`geerlingguy/ansible-role-node_exporter`](https://github.com/geerlingguy/ansible-role-node_exporter) | ⭐141 |  | Ansible role - Node exporter |
-| [`phpservermon/phpservermon`](https://github.com/phpservermon/phpservermon) | ⭐2.2k | 💤 | PHP Server Monitor |
 
 </details>
 
@@ -567,6 +569,21 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 </details>
 
 <details>
+<summary><b>Docs</b> &nbsp;·&nbsp; 7 ⭐ &nbsp;·&nbsp; <i>Note-taking apps, knowledge bases and documentation site generators.</i></summary>
+
+| Repo | Stars | Status | Description |
+| --- | --- | --- | --- |
+| [`excalidraw/excalidraw`](https://github.com/excalidraw/excalidraw) | ⭐122.5k | 🔥 | Virtual whiteboard for sketching hand-drawn like diagrams |
+| [`toeverything/AFFiNE`](https://github.com/toeverything/AFFiNE) | ⭐68.0k | 🔥 | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that bring... |
+| [`siyuan-note/siyuan`](https://github.com/siyuan-note/siyuan) | ⭐43.6k | 🔥 | A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescri... |
+| [`logseq/logseq`](https://github.com/logseq/logseq) | ⭐42.7k | 🔥 | A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://gi... |
+| [`squidfunk/mkdocs-material`](https://github.com/squidfunk/mkdocs-material) | ⭐26.7k | 🔥 | Documentation that simply works |
+| [`streetwriters/notesnook`](https://github.com/streetwriters/notesnook) | ⭐14.0k | 🔥 | A fully open source & end-to-end encrypted note taking alternative to Evernote. |
+| [`zensical/zensical`](https://github.com/zensical/zensical) | ⭐4.5k | 🔥 | A modern static site generator by the Material for MkDocs team |
+
+</details>
+
+<details>
 <summary><b>TUI</b> &nbsp;·&nbsp; 7 ⭐ &nbsp;·&nbsp; <i>Terminal UI applications: file managers, monitors and curses-style tools.</i></summary>
 
 | Repo | Stars | Status | Description |
@@ -582,21 +599,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 </details>
 
 <details>
-<summary><b>Docs</b> &nbsp;·&nbsp; 6 ⭐ &nbsp;·&nbsp; <i>Note-taking apps, knowledge bases and documentation site generators.</i></summary>
-
-| Repo | Stars | Status | Description |
-| --- | --- | --- | --- |
-| [`excalidraw/excalidraw`](https://github.com/excalidraw/excalidraw) | ⭐122.5k | 🔥 | Virtual whiteboard for sketching hand-drawn like diagrams |
-| [`toeverything/AFFiNE`](https://github.com/toeverything/AFFiNE) | ⭐68.0k | 🔥 | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that bring... |
-| [`siyuan-note/siyuan`](https://github.com/siyuan-note/siyuan) | ⭐43.6k | 🔥 | A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescri... |
-| [`logseq/logseq`](https://github.com/logseq/logseq) | ⭐42.7k | 🔥 | A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://gi... |
-| [`streetwriters/notesnook`](https://github.com/streetwriters/notesnook) | ⭐14.0k | 🔥 | A fully open source & end-to-end encrypted note taking alternative to Evernote. |
-| [`zensical/zensical`](https://github.com/zensical/zensical) | ⭐4.5k | 🔥 | A modern static site generator by the Material for MkDocs team |
-
-</details>
-
-<details>
-<summary><b>Documents</b> &nbsp;·&nbsp; 6 ⭐ &nbsp;·&nbsp; <i>PDF editors, document management and ebook libraries.</i></summary>
+<summary><b>Library</b> &nbsp;·&nbsp; 6 ⭐ &nbsp;·&nbsp; <i>PDF editors, document management and ebook libraries.</i></summary>
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
@@ -728,17 +731,6 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`docker-mailserver/docker-mailserver`](https://github.com/docker-mailserver/docker-mailserver) | ⭐18.2k | 🔥 | Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running ins... |
 | [`Mailu/Mailu`](https://github.com/Mailu/Mailu) | ⭐7.2k | 🔥 | Insular email distribution - mail server as Docker images |
 | [`Mail-0/Zero`](https://github.com/Mail-0/Zero) | ⭐10.5k |  | Experience email the way you want with Mail0 – the first open source email app that puts your privacy and s... |
-
-</details>
-
-<details>
-<summary><b>Work</b> &nbsp;·&nbsp; 3 ⭐ &nbsp;·&nbsp; <i>Observability stacks, XMPP servers, Ansible roles and infrastructure for daily ops.</i></summary>
-
-| Repo | Stars | Status | Description |
-| --- | --- | --- | --- |
-| [`squidfunk/mkdocs-material`](https://github.com/squidfunk/mkdocs-material) | ⭐26.7k | 🔥 | Documentation that simply works |
-| [`prometheus-erl/prometheus.erl`](https://github.com/prometheus-erl/prometheus.erl) | ⭐354 |  | Prometheus.io client in Erlang |
-| [`heiniha/Nagios-Responsive-HTML-Email-Notifications`](https://github.com/heiniha/Nagios-Responsive-HTML-Email-Notifications) | ⭐17 | 💤 | A notification plugin for Nagios to figure out if responsive or none-responsive HTML emails are to be sent ... |
 
 </details>
 
