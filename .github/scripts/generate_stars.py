@@ -159,7 +159,7 @@ def render(lists: list[dict]) -> str:
         if info["total"] == 0:
             continue
         out.append("<details>")
-        summary = f'<summary><b>{info["name"]}</b> &nbsp;·&nbsp; {info["total"]} repos'
+        summary = f'<summary><b>{info["name"]}</b> &nbsp;·&nbsp; {info["total"]} ⭐'
         if info.get("description"):
             summary += f' &nbsp;·&nbsp; <i>{info["description"]}</i>'
         summary += "</summary>"
