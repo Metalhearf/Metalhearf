@@ -126,6 +126,9 @@ def status_emoji(r: dict, now: datetime) -> str:
     return ""
 
 
+_STATUS_RANK = {"🔥": 0, "": 1, "💤": 2, "📦": 3}
+
+
 def fmt_row(r: dict, now: datetime) -> str:
     desc = (r.get("description") or "").strip().replace("|", "\\|").replace("\n", " ")
     if len(desc) > 110:
@@ -145,7 +148,7 @@ def render(lists: list[dict]) -> str:
         "",
         "I keep my GitHub stars grouped by topic. Expand a section to browse what I've collected.",
         "",
-        f"_Last updated: {today} · Status legend: 📦 archived · 💤 stale (no push in {STALE_DAYS}+ days) · 🔥 hot (pushed in last {HOT_DAYS} days)_",
+        f"_Last updated: {today} · Status legend: 🔥 hot (pushed in last {HOT_DAYS} days) · 💤 stale (no push in {STALE_DAYS}+ days) · 📦 archived_",
         "",
     ]
     sorted_lists = sorted(
@@ -161,7 +164,7 @@ def render(lists: list[dict]) -> str:
         out.append("")
         out.append("| Repo | Stars | Status | Description |")
         out.append("| --- | --- | --- | --- |")
-        for r in sorted(info["repos"], key=lambda x: (x.get("isArchived", False), -x.get("stargazerCount", 0))):
+        for r in sorted(info["repos"], key=lambda x: (_STATUS_RANK[status_emoji(x, now)], -x.get("stargazerCount", 0))):
             out.append(fmt_row(r, now))
         out.append("")
         out.append("</details>")
