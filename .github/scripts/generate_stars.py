@@ -11,6 +11,8 @@ import json
 import os
 import re
 import sys
+import time
+import urllib.error
 import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
@@ -21,7 +23,10 @@ END = "<!-- STARS:END -->"
 STALE_DAYS = 365
 HOT_DAYS = 7
 
-def graphql(query: str, variables: dict | None = None) -> dict:
+RETRY_STATUS = {502, 503, 504}
+
+
+def graphql(query: str, variables: dict | None = None, attempts: int = 4) -> dict:
     token = os.environ["STARS_TOKEN"]
     body = json.dumps({"query": query, "variables": variables or {}}).encode()
     req = urllib.request.Request(
@@ -33,11 +38,28 @@ def graphql(query: str, variables: dict | None = None) -> dict:
             "User-Agent": "stars-readme-updater",
         },
     )
-    with urllib.request.urlopen(req, timeout=30) as resp:
-        payload = json.loads(resp.read())
-    if "errors" in payload:
-        raise RuntimeError(f"GraphQL errors: {payload['errors']}")
-    return payload["data"]
+    for attempt in range(1, attempts + 1):
+        try:
+            with urllib.request.urlopen(req, timeout=30) as resp:
+                payload = json.loads(resp.read())
+            if "errors" in payload:
+                raise RuntimeError(f"GraphQL errors: {payload['errors']}")
+            return payload["data"]
+        except urllib.error.HTTPError as e:
+            if e.code in RETRY_STATUS and attempt < attempts:
+                wait = 2 ** attempt
+                print(f"HTTP {e.code} (attempt {attempt}/{attempts}), retrying in {wait}s", file=sys.stderr)
+                time.sleep(wait)
+                continue
+            raise
+        except urllib.error.URLError as e:
+            if attempt < attempts:
+                wait = 2 ** attempt
+                print(f"Network error: {e} (attempt {attempt}/{attempts}), retrying in {wait}s", file=sys.stderr)
+                time.sleep(wait)
+                continue
+            raise
+    raise RuntimeError("Exhausted retries")
 
 
 REPO_FRAG = """
