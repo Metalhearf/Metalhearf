@@ -129,7 +129,7 @@ I keep my GitHub stars grouped by topic. Expand a section to browse what I've co
 | [`CyferShepard/Jellystat`](https://github.com/CyferShepard/Jellystat) | ⭐2.2k |  | Jellystat is a free and open source Statistics App for Jellyfin |
 | [`ChristopheJacquet/PiFmRds`](https://github.com/ChristopheJacquet/PiFmRds) | ⭐1.6k |  | FM-RDS transmitter using the Raspberry Pi's PWM |
 | [`hack-chat/main`](https://github.com/hack-chat/main) | ⭐1.4k |  | a minimal, distraction-free chat application |
-| [`Salvoxia/immich-folder-album-creator`](https://github.com/Salvoxia/immich-folder-album-creator) | ⭐993 |  | Automatically create and populate albums in Immich from a folder structure in external libraries |
+| [`Salvoxia/immich-folder-album-creator`](https://github.com/Salvoxia/immich-folder-album-creator) | ⭐994 |  | Automatically create and populate albums in Immich from a folder structure in external libraries |
 | [`CTalvio/Ultrachromic`](https://github.com/CTalvio/Ultrachromic) | ⭐944 |  | The final form, the true evolution of the chromic theme saga! |
 | [`WaLLy3K/wally3k.github.io`](https://github.com/WaLLy3K/wally3k.github.io) | ⭐904 |  | Repo for Firebog hosting |
 | [`darkxst/silabs-firmware-builder`](https://github.com/darkxst/silabs-firmware-builder) | ⭐783 |  | Silicon Labs firmware builder |
@@ -439,7 +439,7 @@ I keep my GitHub stars grouped by topic. Expand a section to browse what I've co
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
-| [`awesome-selfhosted/awesome-selfhosted`](https://github.com/awesome-selfhosted/awesome-selfhosted) | ⭐290.3k | 🔥 | A list of Free Software network services and web applications which can be hosted on your own servers |
+| [`awesome-selfhosted/awesome-selfhosted`](https://github.com/awesome-selfhosted/awesome-selfhosted) | ⭐290.4k | 🔥 | A list of Free Software network services and web applications which can be hosted on your own servers |
 | [`danielmiessler/SecLists`](https://github.com/danielmiessler/SecLists) | ⭐70.7k | 🔥 | SecLists is the security tester's companion. It's a collection of multiple types of lists used during secur... |
 | [`linux-surface/linux-surface`](https://github.com/linux-surface/linux-surface) | ⭐7.2k | 🔥 | Linux Kernel for Surface Devices |
 | [`infoslack/awesome-web-hacking`](https://github.com/infoslack/awesome-web-hacking) | ⭐6.8k | 🔥 | A list of web application security |
@@ -581,7 +581,7 @@ I keep my GitHub stars grouped by topic. Expand a section to browse what I've co
 | [`OpenBMB/VoxCPM`](https://github.com/OpenBMB/VoxCPM) | ⭐17.4k | 🔥 | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Clo... |
 | [`elie222/inbox-zero`](https://github.com/elie222/inbox-zero) | ⭐10.6k | 🔥 | The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast. |
 | [`clusterzx/paperless-ai`](https://github.com/clusterzx/paperless-ai) | ⭐5.6k | 🔥 | An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenA... |
-| [`forrestchang/andrej-karpathy-skills`](https://github.com/forrestchang/andrej-karpathy-skills) | ⭐113.4k |  | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM... |
+| [`forrestchang/andrej-karpathy-skills`](https://github.com/forrestchang/andrej-karpathy-skills) | ⭐113.5k |  | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM... |
 | [`yoanbernabeu/NanoThumbnail`](https://github.com/yoanbernabeu/NanoThumbnail) | ⭐34 |  | Generate Viral Thumbnails with AI |
 | [`Zyphra/Zonos`](https://github.com/Zyphra/Zonos) | ⭐7.2k | 💤 | Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilin... |
 
@@ -611,5 +611,5 @@ I keep my GitHub stars grouped by topic. Expand a section to browse what I've co
 
 </details>
 
-_Last updated: 2026-05-05 · Status legend: 🔥 hot (pushed in last 7 days) · 💤 stale (no push in 365+ days) · 📦 archived_
+<sub>Last updated: 2026-05-05<br>🔥 hot — pushed in last 7 days<br>💤 stale — no push in 365+ days<br>📦 archived</sub>
 <!-- STARS:END -->
