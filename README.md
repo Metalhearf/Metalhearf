@@ -30,7 +30,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 I keep my GitHub stars grouped by topic. Expand a section to browse what I've collected.
 
 <details>
-<summary><b>🏠 Self-Hosted</b> &nbsp;·&nbsp; 130 repos &nbsp;·&nbsp; <a href="https://github.com/stars/Metalhearf/lists/self-hosted">view on GitHub →</a></summary>
+<summary><b>Self-Hosted</b> &nbsp;·&nbsp; 130 repos &nbsp;·&nbsp; <a href="https://github.com/stars/Metalhearf/lists/self-hosted">view on GitHub →</a></summary>
 
 | Repo | Lang | Stars | Description |
 | --- | --- | --- | --- |
@@ -168,7 +168,7 @@ I keep my GitHub stars grouped by topic. Expand a section to browse what I've co
 </details>
 
 <details>
-<summary><b>🔧 Tools</b> &nbsp;·&nbsp; 69 repos &nbsp;·&nbsp; <a href="https://github.com/stars/Metalhearf/lists/tools">view on GitHub →</a></summary>
+<summary><b>Tools</b> &nbsp;·&nbsp; 69 repos &nbsp;·&nbsp; <a href="https://github.com/stars/Metalhearf/lists/tools">view on GitHub →</a></summary>
 
 | Repo | Lang | Stars | Description |
 | --- | --- | --- | --- |
@@ -245,206 +245,7 @@ I keep my GitHub stars grouped by topic. Expand a section to browse what I've co
 </details>
 
 <details>
-<summary><b>🛡️ Hacking</b> &nbsp;·&nbsp; 28 repos &nbsp;·&nbsp; <a href="https://github.com/stars/Metalhearf/lists/hacking">view on GitHub →</a></summary>
-
-| Repo | Lang | Stars | Description |
-| --- | --- | --- | --- |
-| [`massgravel/Microsoft-Activation-Scripts`](https://github.com/massgravel/Microsoft-Activation-Scripts) | Batchfile | ⭐174.1k | Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods,... |
-| [`ruvnet/RuView`](https://github.com/ruvnet/RuView) | Rust | ⭐51.7k | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and prese... |
-| [`KeygraphHQ/shannon`](https://github.com/KeygraphHQ/shannon) | TypeScript | ⭐41.3k | Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your sourc... |
-| [`trufflesecurity/trufflehog`](https://github.com/trufflesecurity/trufflehog) | Go | ⭐26.0k | Find, verify, and analyze leaked credentials |
-| [`hashcat/hashcat`](https://github.com/hashcat/hashcat) | C | ⭐25.9k | World's fastest and most advanced password recovery utility |
-| [`usestrix/strix`](https://github.com/usestrix/strix) | Python | ⭐24.9k | Open-source AI hackers to find and fix your app’s vulnerabilities. |
-| [`ffuf/ffuf`](https://github.com/ffuf/ffuf) | Go | ⭐16.0k | Fast web fuzzer written in Go |
-| [`CISOfy/lynis`](https://github.com/CISOfy/lynis) | Shell | ⭐15.6k | Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (H... |
-| [`SpacehuhnTech/esp8266_deauther`](https://github.com/SpacehuhnTech/esp8266_deauther) | C | ⭐14.8k | Affordable WiFi hacking platform for testing and learning |
-| [`maurosoria/dirsearch`](https://github.com/maurosoria/dirsearch) | Python | ⭐14.2k | Web path scanner |
-| [`threat9/routersploit`](https://github.com/threat9/routersploit) | Python | ⭐13.1k | Exploitation Framework for Embedded Devices |
-| [`evilsocket/pwnagotchi`](https://github.com/evilsocket/pwnagotchi) | Python | ⭐9.1k | (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning. |
-| [`yogeshojha/rengine`](https://github.com/yogeshojha/rengine) | HTML | ⭐8.6k | reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable s... |
-| [`six2dez/reconftw`](https://github.com/six2dez/reconftw) | Shell | ⭐7.5k | reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools ... |
-| [`EmenstaNougat/ESP32-BlueJammer`](https://github.com/EmenstaNougat/ESP32-BlueJammer) |  | ⭐5.9k | The ESP32-BlueJammer (Bluetooth jammer, BLE jammer, WiFi jammer, RC jammer) disrupts 2.4GHz communications.... |
-| [`infinition/Bjorn`](https://github.com/infinition/Bjorn) | Python | ⭐5.9k | Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Pa... |
-| [`AzeemIdrisi/PhoneSploit-Pro`](https://github.com/AzeemIdrisi/PhoneSploit-Pro) | Python | ⭐5.8k | An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a ... |
-| [`brandonlw/Psychson`](https://github.com/brandonlw/Psychson) | C# | ⭐4.2k | Phison 2251-03 (2303) Custom Firmware & Existing Firmware Patches (BadUSB) |
-| [`vanhoefm/krackattacks-scripts`](https://github.com/vanhoefm/krackattacks-scripts) | C | ⭐3.5k | _(no description)_ |
-| [`MaximeBeasse/KeyDecoder`](https://github.com/MaximeBeasse/KeyDecoder) | Dart | ⭐3.2k | KeyDecoder app lets you use your smartphone or tablet to decode your mechanical keys in seconds. |
-| [`jayofelony/pwnagotchi`](https://github.com/jayofelony/pwnagotchi) | Python | ⭐2.7k | (⌐■_■) - Raspberry Pi instrumenting Bettercap for Wi-Fi pwning. |
-| [`owerdogan/whoami-project`](https://github.com/owerdogan/whoami-project) | Shell | ⭐2.3k | Whoami provides enhanced privacy, anonymity for Debian and Arch based linux distributions |
-| [`LionSec/xerosploit`](https://github.com/LionSec/xerosploit) | Ruby | ⭐2.2k | Efficient and advanced man in the middle framework |
-| [`mostafa-wahied/portracker`](https://github.com/mostafa-wahied/portracker) | JavaScript | ⭐2.1k | An open source, self-hosted, real-time port monitoring and discovery tool. |
-| [`pentestfunctions/BlueDucky`](https://github.com/pentestfunctions/BlueDucky) | Python | ⭐1.8k | 🚨 CVE-2023-45866 - BlueDucky Implementation (Using DuckyScript) 🔓 Unauthenticated Peering Leading to Code E... |
-| [`praetorian-inc/Hob0Rules`](https://github.com/praetorian-inc/Hob0Rules) |  | ⭐1.5k | Password cracking rules for Hashcat based on statistics and industry patterns |
-| [`dev-sec/linux-baseline`](https://github.com/dev-sec/linux-baseline) | Ruby | ⭐869 | DevSec Linux Baseline - InSpec Profile |
-| [`santoru/shcheck`](https://github.com/santoru/shcheck) | Python | ⭐830 | A basic tool to check security headers of a website |
-
-</details>
-
-<details>
-<summary><b>🕵️ OSINT</b> &nbsp;·&nbsp; 21 repos &nbsp;·&nbsp; <a href="https://github.com/stars/Metalhearf/lists/osint">view on GitHub →</a></summary>
-
-| Repo | Lang | Stars | Description |
-| --- | --- | --- | --- |
-| [`sherlock-project/sherlock`](https://github.com/sherlock-project/sherlock) | Python | ⭐82.9k | Hunt down social media accounts by username across social networks |
-| [`Lissy93/web-check`](https://github.com/Lissy93/web-check) | TypeScript | ⭐33.0k | 🕵️‍♂️ All-in-one OSINT tool for analysing any website |
-| [`soxoj/maigret`](https://github.com/soxoj/maigret) | Python | ⭐25.4k | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
-| [`twintproject/twint`](https://github.com/twintproject/twint) | Python | ⭐16.4k | An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to... |
-| [`Datalux/Osintgram`](https://github.com/Datalux/Osintgram) | Python | ⭐12.7k | Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram acc... |
-| [`megadose/holehe`](https://github.com/megadose/holehe) | Python | ⭐10.8k | holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve... |
-| [`blacklanternsecurity/bbot`](https://github.com/blacklanternsecurity/bbot) | Python | ⭐9.7k | The recursive internet scanner for hackers. 🧡 |
-| [`alpkeskin/mosint`](https://github.com/alpkeskin/mosint) | Go | ⭐5.8k | An automated e-mail OSINT tool |
-| [`khast3x/h8mail`](https://github.com/khast3x/h8mail) | Python | ⭐5.0k | Email OSINT & Password breach hunting tool, locally or using premium services. Supports chasing down relate... |
-| [`bisguzar/twitter-scraper`](https://github.com/bisguzar/twitter-scraper) | Python | ⭐4.0k | Scrape the Twitter Frontend API without authentication. |
-| [`megadose/toutatis`](https://github.com/megadose/toutatis) | Python | ⭐3.9k | Toutatis is a tool that allows you to extract information from instagrams accounts such as e-mails, phone n... |
-| [`Lucksi/Mr.Holmes`](https://github.com/Lucksi/Mr.Holmes) | Python | ⭐3.4k | A Complete Osint Tool :mag: |
-| [`0x0be/yesitsme`](https://github.com/0x0be/yesitsme) | Python | ⭐2.8k | Simple OSINT script to find Instagram profiles by name and e-mail/phone |
-| [`bhavsec/reconspider`](https://github.com/bhavsec/reconspider) | Python | ⭐2.7k | 🔎 Most Advanced Open Source Intelligence (OSINT) Framework for scanning IP Address, Emails, Websites, Organ... |
-| [`musana/CF-Hero`](https://github.com/musana/CF-Hero) | Go | ⭐1.8k | CF-Hero is a reconnaissance tool that uses multiple data sources to discover the origin IP addresses of Clo... |
-| [`megadose/ignorant`](https://github.com/megadose/ignorant) | Python | ⭐1.7k | ignorant allows you to check if a phone number is used on different sites like snapchat, instagram. |
-| [`th3unkn0n/osi.ig`](https://github.com/th3unkn0n/osi.ig) | Python | ⭐1.5k | Information Gathering Instagram. |
-| [`s0md3v/Zen`](https://github.com/s0md3v/Zen) | Python | ⭐591 | Find emails of Github users |
-| [`l4rm4nd/LinkedInDumper`](https://github.com/l4rm4nd/LinkedInDumper) | Python | ⭐587 | Python 3 script to dump/scrape/extract company employees from LinkedIn API |
-| [`twintproject/twint-zero`](https://github.com/twintproject/twint-zero) | Go | ⭐281 | Old Twint style, but zero fat. |
-| [`itzmeanjan/twiz`](https://github.com/itzmeanjan/twiz) | Python | ⭐6 | Your Twitter Account Data Analysis & Visualization Tool <3 |
-
-</details>
-
-<details>
-<summary><b>🔒 Privacy</b> &nbsp;·&nbsp; 12 repos &nbsp;·&nbsp; <a href="https://github.com/stars/Metalhearf/lists/privacy">view on GitHub →</a></summary>
-
-| Repo | Lang | Stars | Description |
-| --- | --- | --- | --- |
-| [`logseq/logseq`](https://github.com/logseq/logseq) | Clojure | ⭐42.7k | A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://gi... |
-| [`pluja/awesome-privacy`](https://github.com/pluja/awesome-privacy) |  | ⭐18.7k | Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MAT... |
-| [`mvt-project/mvt`](https://github.com/mvt-project/mvt) | Python | ⭐12.4k | MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs ... |
-| [`pixeltris/TwitchAdSolutions`](https://github.com/pixeltris/TwitchAdSolutions) | JavaScript | ⭐11.3k | _(no description)_ |
-| [`simplex-chat/simplex-chat`](https://github.com/simplex-chat/simplex-chat) | Haskell | ⭐11.0k | SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by desi... |
-| [`victornpb/undiscord`](https://github.com/victornpb/undiscord) | JavaScript | ⭐6.5k | Undiscord - Delete all messages in a Discord server / channel or DM (Easy and fast) Bulk delete |
-| [`Shawn-Shan/fawkes`](https://github.com/Shawn-Shan/fawkes) | Python | ⭐5.5k | Fawkes, privacy preserving tool against facial recognition systems. More info at https://sandlab.cs.uchicag... |
-| [`ClearURLs/Addon`](https://github.com/ClearURLs/Addon) | JavaScript | ⭐4.9k | ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking ele... |
-| [`OhMyGuus/I-Still-Dont-Care-About-Cookies`](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) | JavaScript | ⭐4.1k | Debloated fork of the extension "I don't care about cookies" |
-| [`cathugger/mkp224o`](https://github.com/cathugger/mkp224o) | C | ⭐1.6k | vanity address generator for tor onion v3 (ed25519) hidden services |
-| [`peterhanania/Discord-Package`](https://github.com/peterhanania/Discord-Package) | TypeScript | ⭐544 | A detailed Discord data package explorer designed to help users visualize the data Discord collects. |
-| [`jystervinou/free-mobile-filtres-demarchage`](https://github.com/jystervinou/free-mobile-filtres-demarchage) | HTML | ⭐7 | Free Mobile Filtres Démarchage |
-
-</details>
-
-<details>
-<summary><b>🐧 Arch</b> &nbsp;·&nbsp; 28 repos &nbsp;·&nbsp; <a href="https://github.com/stars/Metalhearf/lists/arch">view on GitHub →</a></summary>
-
-| Repo | Lang | Stars | Description |
-| --- | --- | --- | --- |
-| [`ohmyzsh/ohmyzsh`](https://github.com/ohmyzsh/ohmyzsh) | Shell | ⭐186.7k | 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration.... |
-| [`romkatv/powerlevel10k`](https://github.com/romkatv/powerlevel10k) | Shell | ⭐54.1k | A Zsh theme |
-| [`dylanaraps/neofetch`](https://github.com/dylanaraps/neofetch) | Shell | ⭐23.7k | 🖼️  A command-line system information tool written in bash 3.2+ |
-| [`zsh-users/zsh-syntax-highlighting`](https://github.com/zsh-users/zsh-syntax-highlighting) | Shell | ⭐22.6k | Fish shell like syntax highlighting for Zsh. |
-| [`be5invis/Iosevka`](https://github.com/be5invis/Iosevka) | JavaScript | ⭐22.2k | Versatile typeface for code, from code. |
-| [`davatorium/rofi`](https://github.com/davatorium/rofi) | C | ⭐16.0k | Rofi: A window switcher, application launcher and dmenu replacement |
-| [`polybar/polybar`](https://github.com/polybar/polybar) | C++ | ⭐15.2k | A fast and easy-to-use status bar |
-| [`HyDE-Project/HyDE`](https://github.com/HyDE-Project/HyDE) | Shell | ⭐8.9k | HyDE, your Development Environment 🖥️💻 |
-| [`adi1090x/polybar-themes`](https://github.com/adi1090x/polybar-themes) | Shell | ⭐6.2k | A huge collection of polybar themes with different styles, colors and variants. |
-| [`hyprland-community/awesome-hyprland`](https://github.com/hyprland-community/awesome-hyprland) |  | ⭐5.1k | Awesome list for Hyprland [maintainer=@yavko] |
-| [`home-sweet-gnome/dash-to-panel`](https://github.com/home-sweet-gnome/dash-to-panel) | JavaScript | ⭐4.4k | An icon taskbar for the Gnome Shell. This extension moves the dash into the gnome main panel so that the ap... |
-| [`Keyitdev/sddm-astronaut-theme`](https://github.com/Keyitdev/sddm-astronaut-theme) | QML | ⭐2.8k | Series of modern looking themes for SDDM. |
-| [`EliverLara/Nordic`](https://github.com/EliverLara/Nordic) | CSS | ⭐2.7k | :snowflake: Dark Gtk3.20+ theme created using the awesome Nord color pallete. |
-| [`EliverLara/Sweet`](https://github.com/EliverLara/Sweet) | CSS | ⭐1.7k | A beautiful theme with neon vibes for GNOME |
-| [`SleepyCatHey/CozyPixels`](https://github.com/SleepyCatHey/CozyPixels) |  | ⭐1.1k | 🎨 Aesthetic wallpaper collection gathered over a year! Catppuccin, Nord, One Dark themes & cozy vibes. Free... |
-| [`catppuccin/userstyles`](https://github.com/catppuccin/userstyles) | Less | ⭐1.0k | 🖌 Soothing pastel userstyles |
-| [`catppuccin/vscode-icons`](https://github.com/catppuccin/vscode-icons) | TypeScript | ⭐975 | 🦊 Soothing pastel icons for VSCode/VSCodium |
-| [`Stunkymonkey/nautilus-open-any-terminal`](https://github.com/Stunkymonkey/nautilus-open-any-terminal) | Python | ⭐938 | _(no description)_ |
-| [`zhichaoh/catppuccin-wallpapers`](https://github.com/zhichaoh/catppuccin-wallpapers) |  | ⭐835 | 🖼️ Wallpapers to match your Catppuccin setups! |
-| [`Litarvan/lightdm-webkit-theme-litarvan`](https://github.com/Litarvan/lightdm-webkit-theme-litarvan) | Vue | ⭐727 | Litarvan's LightDM HTML Theme |
-| [`catppuccin/cursors`](https://github.com/catppuccin/cursors) | Python | ⭐716 | 🐁 Soothing pastel cursors for GTK/Plasma/Hyprland |
-| [`nickclyde/rofi-bluetooth`](https://github.com/nickclyde/rofi-bluetooth) | Shell | ⭐600 | 🔷 A script that generates a rofi menu that uses bluetoothctl to connect to bluetooth devices and display st... |
-| [`odziom91/libadwaita-theme-changer`](https://github.com/odziom91/libadwaita-theme-changer) | Python | ⭐337 | Theme changer for Libadwaita |
-| [`EliverLara/Sweet-folders`](https://github.com/EliverLara/Sweet-folders) |  | ⭐245 | _(no description)_ |
-| [`rubiin/Tsumiki`](https://github.com/rubiin/Tsumiki) | Python | ⭐231 | modular panel written on fabric |
-| [`nordtheme/terminator`](https://github.com/nordtheme/terminator) | JavaScript | ⭐113 | An arctic, north-bluish clean and elegant Terminator color theme. |
-| [`uncenter/catppuccin-userstyles-customizer`](https://github.com/uncenter/catppuccin-userstyles-customizer) | Vue | ⭐48 | 🧚🏼 Customize your preferred flavors and accent color for catppuccin/userstyles. Generates a JSON file for i... |
-| [`catppuccin/terminator`](https://github.com/catppuccin/terminator) | Just | ⭐37 | 🦣 Soothing pastel theme for Terminator |
-
-</details>
-
-<details>
-<summary><b>🤖 Android</b> &nbsp;·&nbsp; 20 repos &nbsp;·&nbsp; <a href="https://github.com/stars/Metalhearf/lists/android">view on GitHub →</a></summary>
-
-| Repo | Lang | Stars | Description |
-| --- | --- | --- | --- |
-| [`Genymobile/scrcpy`](https://github.com/Genymobile/scrcpy) | C | ⭐139.4k | Display and control your Android device |
-| [`topjohnwu/Magisk`](https://github.com/topjohnwu/Magisk) | Kotlin | ⭐60.2k | The Magic Mask for Android |
-| [`yuliskov/SmartTube`](https://github.com/yuliskov/SmartTube) | Java | ⭐30.0k | Browse media content with your own rules on Android TV |
-| [`ReVanced/revanced-manager`](https://github.com/ReVanced/revanced-manager) | Kotlin | ⭐27.7k | 💊 Application to use ReVanced on Android |
-| [`0x192/universal-android-debloater`](https://github.com/0x192/universal-android-debloater) | Rust | ⭐19.3k | Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, t... |
-| [`beemdevelopment/Aegis`](https://github.com/beemdevelopment/Aegis) | Java | ⭐12.4k | A free, secure and open source app for Android to manage your 2-step verification tokens. |
-| [`Team-xManager/xManager`](https://github.com/Team-xManager/xManager) | Java | ⭐12.2k | Ad-Free, New Features & Freedom |
-| [`breezy-weather/breezy-weather`](https://github.com/breezy-weather/breezy-weather) | Kotlin | ⭐10.0k | A feature-rich weather app with good visualizations and more than 50 sources. |
-| [`offa/android-foss`](https://github.com/offa/android-foss) | Python | ⭐10.0k | A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy. |
-| [`MetrolistGroup/Metrolist`](https://github.com/MetrolistGroup/Metrolist) | Kotlin | ⭐9.1k | YouTube Music client for Android |
-| [`Universal-Debloater-Alliance/universal-android-debloater-next-generation`](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) | Rust | ⭐6.5k | Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, t... |
-| [`MorpheApp/morphe-manager`](https://github.com/MorpheApp/morphe-manager) | Kotlin | ⭐4.7k | Morphe app patcher for Android |
-| [`MorpheApp/morphe-patches`](https://github.com/MorpheApp/morphe-patches) | Java | ⭐2.0k | Morphe Patches |
-| [`BaltiApps/Pixelify-Google-Photos`](https://github.com/BaltiApps/Pixelify-Google-Photos) | Kotlin | ⭐1.6k | Pixelify GPhotos |
-| [`Arcticons-Team/Arcticons`](https://github.com/Arcticons-Team/Arcticons) | Java | ⭐1.4k | A monotone line-based icon pack for android |
-| [`xpavle00/Habo`](https://github.com/xpavle00/Habo) | Dart | ⭐1.3k | Habo is an open-source habit tracker. Created in a flutter. |
-| [`bryanroscoe/shield_optimizer`](https://github.com/bryanroscoe/shield_optimizer) | PowerShell | ⭐587 | _(no description)_ |
-| [`khlam/debloat-samsung-android`](https://github.com/khlam/debloat-samsung-android) |  | ⭐479 | ADB commands to aggressively de-bloat Samsung Android Phones without root. Make Samsung One UI closer to st... |
-| [`corentin-c/SpotifyAutoPatcher`](https://github.com/corentin-c/SpotifyAutoPatcher) | Java | ⭐413 | The easiest way to patch Spotify and Youtube Music, without the need to download APKs ! |
-| [`ayush5harma/PixelFeatureDrops`](https://github.com/ayush5harma/PixelFeatureDrops) | Shell | ⭐350 | Magisk Module for Pixel Feature Drops that adds the system files for the same and spoof using the latest de... |
-
-</details>
-
-<details>
-<summary><b>🧠 AI</b> &nbsp;·&nbsp; 10 repos &nbsp;·&nbsp; <a href="https://github.com/stars/Metalhearf/lists/ai">view on GitHub →</a></summary>
-
-| Repo | Lang | Stars | Description |
-| --- | --- | --- | --- |
-| [`openclaw/openclaw`](https://github.com/openclaw/openclaw) | TypeScript | ⭐368.6k | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 |
-| [`anomalyco/opencode`](https://github.com/anomalyco/opencode) | TypeScript | ⭐155.1k | The open source coding agent. |
-| [`open-webui/open-webui`](https://github.com/open-webui/open-webui) | Python | ⭐135.6k | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) |
-| [`forrestchang/andrej-karpathy-skills`](https://github.com/forrestchang/andrej-karpathy-skills) |  | ⭐113.4k | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM... |
-| [`yamadashy/repomix`](https://github.com/yamadashy/repomix) | TypeScript | ⭐24.4k | 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for... |
-| [`OpenBMB/VoxCPM`](https://github.com/OpenBMB/VoxCPM) | Python | ⭐17.4k | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Clo... |
-| [`elie222/inbox-zero`](https://github.com/elie222/inbox-zero) | TypeScript | ⭐10.6k | The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast. |
-| [`Zyphra/Zonos`](https://github.com/Zyphra/Zonos) | Python | ⭐7.2k | Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilin... |
-| [`clusterzx/paperless-ai`](https://github.com/clusterzx/paperless-ai) | JavaScript | ⭐5.6k | An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenA... |
-| [`yoanbernabeu/NanoThumbnail`](https://github.com/yoanbernabeu/NanoThumbnail) | Astro | ⭐34 | Generate Viral Thumbnails with AI |
-
-</details>
-
-<details>
-<summary><b>🎵 Media</b> &nbsp;·&nbsp; 24 repos &nbsp;·&nbsp; <a href="https://github.com/stars/Metalhearf/lists/media">view on GitHub →</a></summary>
-
-| Repo | Lang | Stars | Description |
-| --- | --- | --- | --- |
-| [`yt-dlp/yt-dlp`](https://github.com/yt-dlp/yt-dlp) | Python | ⭐160.7k | A feature-rich command-line audio/video downloader |
-| [`iptv-org/iptv`](https://github.com/iptv-org/iptv) | TypeScript | ⭐115.9k | Collection of publicly available IPTV channels from all over the world |
-| [`KRTirtho/spotube`](https://github.com/KRTirtho/spotube) | Dart | ⭐46.0k | 🎧 Open source music streaming app! Available for both desktop & mobile! |
-| [`spicetify/cli`](https://github.com/spicetify/cli) | JavaScript | ⭐23.0k | Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux. |
-| [`beetbox/beets`](https://github.com/beetbox/beets) | Python | ⭐15.1k | music library manager and MusicBrainz tagger |
-| [`pystardust/ani-cli`](https://github.com/pystardust/ani-cli) | Shell | ⭐12.3k | A cli tool to browse and play anime |
-| [`streamlink/streamlink`](https://github.com/streamlink/streamlink) | Python | ⭐11.4k | Streamlink is a CLI utility which pipes video streams from various services into a video player |
-| [`spotbye/SpotiFLAC`](https://github.com/spotbye/SpotiFLAC) | TypeScript | ⭐8.1k | Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required. |
-| [`hrkfdn/ncspot`](https://github.com/hrkfdn/ncspot) | Rust | ⭐6.6k | Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes. |
-| [`metabrainz/picard`](https://github.com/metabrainz/picard) | Python | ⭐4.8k | Picard is a cross-platform music tagger powered by the MusicBrainz database |
-| [`linsomniac/spotify_to_ytmusic`](https://github.com/linsomniac/spotify_to_ytmusic) | Python | ⭐4.5k | Copy playlists and liked music from Spotify to YTMusic |
-| [`obsproject/obs-websocket`](https://github.com/obsproject/obs-websocket) | C++ | ⭐4.3k | Remote-control of OBS Studio through WebSocket |
-| [`Vhonowslend/StreamFX-Public`](https://github.com/Vhonowslend/StreamFX-Public) | C++ | ⭐4.1k | StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoder... |
-| [`watsonbox/exportify`](https://github.com/watsonbox/exportify) | TypeScript | ⭐4.1k | Export/Backup Spotify playlists using the Web API |
-| [`spotiflacapp/SpotiFLAC-Mobile`](https://github.com/spotiflacapp/SpotiFLAC-Mobile) | Dart | ⭐4.0k | Mobile music utility built with Flutter and Go. High-quality audio management for your personal library. - ... |
-| [`spicetify/marketplace`](https://github.com/spicetify/marketplace) | TypeScript | ⭐1.5k | Download extensions and themes directly from Spicetify |
-| [`JMPerez/spotify-dedup`](https://github.com/JMPerez/spotify-dedup) | TypeScript | ⭐1.1k | Remove duplicates from your Spotify Playlists |
-| [`univrsal/spectralizer`](https://github.com/univrsal/spectralizer) | C++ | ⭐617 | Audio visualizer plugin for obs-studio |
-| [`benfoxall/lastfm-to-csv`](https://github.com/benfoxall/lastfm-to-csv) | JavaScript | ⭐544 | Web based tool for exporting scrobbles |
-| [`JimmyAppelt/snaz`](https://github.com/JimmyAppelt/snaz) | JavaScript | ⭐301 | Snaz |
-| [`Kalejin/DCSB`](https://github.com/Kalejin/DCSB) | C# | ⭐287 | Deathcounter and Soundboard, WPF app for setting up key shortcuts |
-| [`GuGuss/ARTE-7-Downloader`](https://github.com/GuGuss/ARTE-7-Downloader) | JavaScript | ⭐261 | User script to download videos from the ARTE+7 website |
-| [`rx342/senscritique2letterboxd`](https://github.com/rx342/senscritique2letterboxd) | Python | ⭐25 | Move your Senscritique library to Letterboxd |
-| [`phileastv/SensBoxd`](https://github.com/phileastv/SensBoxd) | JavaScript | ⭐24 | Exporter sa collection SensCritique pour Letterboxd. |
-
-</details>
-
-<details>
-<summary><b>🎮 Games</b> &nbsp;·&nbsp; 48 repos &nbsp;·&nbsp; <a href="https://github.com/stars/Metalhearf/lists/games">view on GitHub →</a></summary>
+<summary><b>Games</b> &nbsp;·&nbsp; 48 repos &nbsp;·&nbsp; <a href="https://github.com/stars/Metalhearf/lists/games">view on GitHub →</a></summary>
 
 | Repo | Lang | Stars | Description |
 | --- | --- | --- | --- |
@@ -500,7 +301,111 @@ I keep my GitHub stars grouped by topic. Expand a section to browse what I've co
 </details>
 
 <details>
-<summary><b>🎉 Fun</b> &nbsp;·&nbsp; 22 repos &nbsp;·&nbsp; <a href="https://github.com/stars/Metalhearf/lists/fun">view on GitHub →</a></summary>
+<summary><b>Hacking</b> &nbsp;·&nbsp; 28 repos &nbsp;·&nbsp; <a href="https://github.com/stars/Metalhearf/lists/hacking">view on GitHub →</a></summary>
+
+| Repo | Lang | Stars | Description |
+| --- | --- | --- | --- |
+| [`massgravel/Microsoft-Activation-Scripts`](https://github.com/massgravel/Microsoft-Activation-Scripts) | Batchfile | ⭐174.1k | Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods,... |
+| [`ruvnet/RuView`](https://github.com/ruvnet/RuView) | Rust | ⭐51.8k | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and prese... |
+| [`KeygraphHQ/shannon`](https://github.com/KeygraphHQ/shannon) | TypeScript | ⭐41.3k | Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your sourc... |
+| [`trufflesecurity/trufflehog`](https://github.com/trufflesecurity/trufflehog) | Go | ⭐26.0k | Find, verify, and analyze leaked credentials |
+| [`hashcat/hashcat`](https://github.com/hashcat/hashcat) | C | ⭐25.9k | World's fastest and most advanced password recovery utility |
+| [`usestrix/strix`](https://github.com/usestrix/strix) | Python | ⭐24.9k | Open-source AI hackers to find and fix your app’s vulnerabilities. |
+| [`ffuf/ffuf`](https://github.com/ffuf/ffuf) | Go | ⭐16.0k | Fast web fuzzer written in Go |
+| [`CISOfy/lynis`](https://github.com/CISOfy/lynis) | Shell | ⭐15.6k | Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (H... |
+| [`SpacehuhnTech/esp8266_deauther`](https://github.com/SpacehuhnTech/esp8266_deauther) | C | ⭐14.8k | Affordable WiFi hacking platform for testing and learning |
+| [`maurosoria/dirsearch`](https://github.com/maurosoria/dirsearch) | Python | ⭐14.2k | Web path scanner |
+| [`threat9/routersploit`](https://github.com/threat9/routersploit) | Python | ⭐13.1k | Exploitation Framework for Embedded Devices |
+| [`evilsocket/pwnagotchi`](https://github.com/evilsocket/pwnagotchi) | Python | ⭐9.1k | (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning. |
+| [`yogeshojha/rengine`](https://github.com/yogeshojha/rengine) | HTML | ⭐8.6k | reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable s... |
+| [`six2dez/reconftw`](https://github.com/six2dez/reconftw) | Shell | ⭐7.5k | reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools ... |
+| [`EmenstaNougat/ESP32-BlueJammer`](https://github.com/EmenstaNougat/ESP32-BlueJammer) |  | ⭐5.9k | The ESP32-BlueJammer (Bluetooth jammer, BLE jammer, WiFi jammer, RC jammer) disrupts 2.4GHz communications.... |
+| [`infinition/Bjorn`](https://github.com/infinition/Bjorn) | Python | ⭐5.9k | Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Pa... |
+| [`AzeemIdrisi/PhoneSploit-Pro`](https://github.com/AzeemIdrisi/PhoneSploit-Pro) | Python | ⭐5.8k | An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a ... |
+| [`brandonlw/Psychson`](https://github.com/brandonlw/Psychson) | C# | ⭐4.2k | Phison 2251-03 (2303) Custom Firmware & Existing Firmware Patches (BadUSB) |
+| [`vanhoefm/krackattacks-scripts`](https://github.com/vanhoefm/krackattacks-scripts) | C | ⭐3.5k | _(no description)_ |
+| [`MaximeBeasse/KeyDecoder`](https://github.com/MaximeBeasse/KeyDecoder) | Dart | ⭐3.2k | KeyDecoder app lets you use your smartphone or tablet to decode your mechanical keys in seconds. |
+| [`jayofelony/pwnagotchi`](https://github.com/jayofelony/pwnagotchi) | Python | ⭐2.7k | (⌐■_■) - Raspberry Pi instrumenting Bettercap for Wi-Fi pwning. |
+| [`owerdogan/whoami-project`](https://github.com/owerdogan/whoami-project) | Shell | ⭐2.3k | Whoami provides enhanced privacy, anonymity for Debian and Arch based linux distributions |
+| [`LionSec/xerosploit`](https://github.com/LionSec/xerosploit) | Ruby | ⭐2.2k | Efficient and advanced man in the middle framework |
+| [`mostafa-wahied/portracker`](https://github.com/mostafa-wahied/portracker) | JavaScript | ⭐2.1k | An open source, self-hosted, real-time port monitoring and discovery tool. |
+| [`pentestfunctions/BlueDucky`](https://github.com/pentestfunctions/BlueDucky) | Python | ⭐1.8k | 🚨 CVE-2023-45866 - BlueDucky Implementation (Using DuckyScript) 🔓 Unauthenticated Peering Leading to Code E... |
+| [`praetorian-inc/Hob0Rules`](https://github.com/praetorian-inc/Hob0Rules) |  | ⭐1.5k | Password cracking rules for Hashcat based on statistics and industry patterns |
+| [`dev-sec/linux-baseline`](https://github.com/dev-sec/linux-baseline) | Ruby | ⭐869 | DevSec Linux Baseline - InSpec Profile |
+| [`santoru/shcheck`](https://github.com/santoru/shcheck) | Python | ⭐830 | A basic tool to check security headers of a website |
+
+</details>
+
+<details>
+<summary><b>Arch</b> &nbsp;·&nbsp; 28 repos &nbsp;·&nbsp; <a href="https://github.com/stars/Metalhearf/lists/arch">view on GitHub →</a></summary>
+
+| Repo | Lang | Stars | Description |
+| --- | --- | --- | --- |
+| [`ohmyzsh/ohmyzsh`](https://github.com/ohmyzsh/ohmyzsh) | Shell | ⭐186.7k | 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration.... |
+| [`romkatv/powerlevel10k`](https://github.com/romkatv/powerlevel10k) | Shell | ⭐54.1k | A Zsh theme |
+| [`dylanaraps/neofetch`](https://github.com/dylanaraps/neofetch) | Shell | ⭐23.7k | 🖼️  A command-line system information tool written in bash 3.2+ |
+| [`zsh-users/zsh-syntax-highlighting`](https://github.com/zsh-users/zsh-syntax-highlighting) | Shell | ⭐22.6k | Fish shell like syntax highlighting for Zsh. |
+| [`be5invis/Iosevka`](https://github.com/be5invis/Iosevka) | JavaScript | ⭐22.2k | Versatile typeface for code, from code. |
+| [`davatorium/rofi`](https://github.com/davatorium/rofi) | C | ⭐16.0k | Rofi: A window switcher, application launcher and dmenu replacement |
+| [`polybar/polybar`](https://github.com/polybar/polybar) | C++ | ⭐15.2k | A fast and easy-to-use status bar |
+| [`HyDE-Project/HyDE`](https://github.com/HyDE-Project/HyDE) | Shell | ⭐8.9k | HyDE, your Development Environment 🖥️💻 |
+| [`adi1090x/polybar-themes`](https://github.com/adi1090x/polybar-themes) | Shell | ⭐6.2k | A huge collection of polybar themes with different styles, colors and variants. |
+| [`hyprland-community/awesome-hyprland`](https://github.com/hyprland-community/awesome-hyprland) |  | ⭐5.1k | Awesome list for Hyprland [maintainer=@yavko] |
+| [`home-sweet-gnome/dash-to-panel`](https://github.com/home-sweet-gnome/dash-to-panel) | JavaScript | ⭐4.4k | An icon taskbar for the Gnome Shell. This extension moves the dash into the gnome main panel so that the ap... |
+| [`Keyitdev/sddm-astronaut-theme`](https://github.com/Keyitdev/sddm-astronaut-theme) | QML | ⭐2.8k | Series of modern looking themes for SDDM. |
+| [`EliverLara/Nordic`](https://github.com/EliverLara/Nordic) | CSS | ⭐2.7k | :snowflake: Dark Gtk3.20+ theme created using the awesome Nord color pallete. |
+| [`EliverLara/Sweet`](https://github.com/EliverLara/Sweet) | CSS | ⭐1.7k | A beautiful theme with neon vibes for GNOME |
+| [`SleepyCatHey/CozyPixels`](https://github.com/SleepyCatHey/CozyPixels) |  | ⭐1.1k | 🎨 Aesthetic wallpaper collection gathered over a year! Catppuccin, Nord, One Dark themes & cozy vibes. Free... |
+| [`catppuccin/userstyles`](https://github.com/catppuccin/userstyles) | Less | ⭐1.0k | 🖌 Soothing pastel userstyles |
+| [`catppuccin/vscode-icons`](https://github.com/catppuccin/vscode-icons) | TypeScript | ⭐975 | 🦊 Soothing pastel icons for VSCode/VSCodium |
+| [`Stunkymonkey/nautilus-open-any-terminal`](https://github.com/Stunkymonkey/nautilus-open-any-terminal) | Python | ⭐938 | _(no description)_ |
+| [`zhichaoh/catppuccin-wallpapers`](https://github.com/zhichaoh/catppuccin-wallpapers) |  | ⭐835 | 🖼️ Wallpapers to match your Catppuccin setups! |
+| [`Litarvan/lightdm-webkit-theme-litarvan`](https://github.com/Litarvan/lightdm-webkit-theme-litarvan) | Vue | ⭐727 | Litarvan's LightDM HTML Theme |
+| [`catppuccin/cursors`](https://github.com/catppuccin/cursors) | Python | ⭐716 | 🐁 Soothing pastel cursors for GTK/Plasma/Hyprland |
+| [`nickclyde/rofi-bluetooth`](https://github.com/nickclyde/rofi-bluetooth) | Shell | ⭐600 | 🔷 A script that generates a rofi menu that uses bluetoothctl to connect to bluetooth devices and display st... |
+| [`odziom91/libadwaita-theme-changer`](https://github.com/odziom91/libadwaita-theme-changer) | Python | ⭐337 | Theme changer for Libadwaita |
+| [`EliverLara/Sweet-folders`](https://github.com/EliverLara/Sweet-folders) |  | ⭐245 | _(no description)_ |
+| [`rubiin/Tsumiki`](https://github.com/rubiin/Tsumiki) | Python | ⭐231 | modular panel written on fabric |
+| [`nordtheme/terminator`](https://github.com/nordtheme/terminator) | JavaScript | ⭐113 | An arctic, north-bluish clean and elegant Terminator color theme. |
+| [`uncenter/catppuccin-userstyles-customizer`](https://github.com/uncenter/catppuccin-userstyles-customizer) | Vue | ⭐48 | 🧚🏼 Customize your preferred flavors and accent color for catppuccin/userstyles. Generates a JSON file for i... |
+| [`catppuccin/terminator`](https://github.com/catppuccin/terminator) | Just | ⭐37 | 🦣 Soothing pastel theme for Terminator |
+
+</details>
+
+<details>
+<summary><b>Media</b> &nbsp;·&nbsp; 24 repos &nbsp;·&nbsp; <a href="https://github.com/stars/Metalhearf/lists/media">view on GitHub →</a></summary>
+
+| Repo | Lang | Stars | Description |
+| --- | --- | --- | --- |
+| [`yt-dlp/yt-dlp`](https://github.com/yt-dlp/yt-dlp) | Python | ⭐160.7k | A feature-rich command-line audio/video downloader |
+| [`iptv-org/iptv`](https://github.com/iptv-org/iptv) | TypeScript | ⭐115.9k | Collection of publicly available IPTV channels from all over the world |
+| [`KRTirtho/spotube`](https://github.com/KRTirtho/spotube) | Dart | ⭐46.0k | 🎧 Open source music streaming app! Available for both desktop & mobile! |
+| [`spicetify/cli`](https://github.com/spicetify/cli) | JavaScript | ⭐23.0k | Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux. |
+| [`beetbox/beets`](https://github.com/beetbox/beets) | Python | ⭐15.1k | music library manager and MusicBrainz tagger |
+| [`pystardust/ani-cli`](https://github.com/pystardust/ani-cli) | Shell | ⭐12.3k | A cli tool to browse and play anime |
+| [`streamlink/streamlink`](https://github.com/streamlink/streamlink) | Python | ⭐11.4k | Streamlink is a CLI utility which pipes video streams from various services into a video player |
+| [`spotbye/SpotiFLAC`](https://github.com/spotbye/SpotiFLAC) | TypeScript | ⭐8.1k | Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required. |
+| [`hrkfdn/ncspot`](https://github.com/hrkfdn/ncspot) | Rust | ⭐6.6k | Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes. |
+| [`metabrainz/picard`](https://github.com/metabrainz/picard) | Python | ⭐4.8k | Picard is a cross-platform music tagger powered by the MusicBrainz database |
+| [`linsomniac/spotify_to_ytmusic`](https://github.com/linsomniac/spotify_to_ytmusic) | Python | ⭐4.5k | Copy playlists and liked music from Spotify to YTMusic |
+| [`obsproject/obs-websocket`](https://github.com/obsproject/obs-websocket) | C++ | ⭐4.3k | Remote-control of OBS Studio through WebSocket |
+| [`Vhonowslend/StreamFX-Public`](https://github.com/Vhonowslend/StreamFX-Public) | C++ | ⭐4.1k | StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoder... |
+| [`watsonbox/exportify`](https://github.com/watsonbox/exportify) | TypeScript | ⭐4.1k | Export/Backup Spotify playlists using the Web API |
+| [`spotiflacapp/SpotiFLAC-Mobile`](https://github.com/spotiflacapp/SpotiFLAC-Mobile) | Dart | ⭐4.0k | Mobile music utility built with Flutter and Go. High-quality audio management for your personal library. - ... |
+| [`spicetify/marketplace`](https://github.com/spicetify/marketplace) | TypeScript | ⭐1.5k | Download extensions and themes directly from Spicetify |
+| [`JMPerez/spotify-dedup`](https://github.com/JMPerez/spotify-dedup) | TypeScript | ⭐1.1k | Remove duplicates from your Spotify Playlists |
+| [`univrsal/spectralizer`](https://github.com/univrsal/spectralizer) | C++ | ⭐617 | Audio visualizer plugin for obs-studio |
+| [`benfoxall/lastfm-to-csv`](https://github.com/benfoxall/lastfm-to-csv) | JavaScript | ⭐544 | Web based tool for exporting scrobbles |
+| [`JimmyAppelt/snaz`](https://github.com/JimmyAppelt/snaz) | JavaScript | ⭐301 | Snaz |
+| [`Kalejin/DCSB`](https://github.com/Kalejin/DCSB) | C# | ⭐287 | Deathcounter and Soundboard, WPF app for setting up key shortcuts |
+| [`GuGuss/ARTE-7-Downloader`](https://github.com/GuGuss/ARTE-7-Downloader) | JavaScript | ⭐261 | User script to download videos from the ARTE+7 website |
+| [`rx342/senscritique2letterboxd`](https://github.com/rx342/senscritique2letterboxd) | Python | ⭐25 | Move your Senscritique library to Letterboxd |
+| [`phileastv/SensBoxd`](https://github.com/phileastv/SensBoxd) | JavaScript | ⭐24 | Exporter sa collection SensCritique pour Letterboxd. |
+
+</details>
+
+<details>
+<summary><b>Fun</b> &nbsp;·&nbsp; 22 repos &nbsp;·&nbsp; <a href="https://github.com/stars/Metalhearf/lists/fun">view on GitHub →</a></summary>
 
 | Repo | Lang | Stars | Description |
 | --- | --- | --- | --- |
@@ -530,13 +435,13 @@ I keep my GitHub stars grouped by topic. Expand a section to browse what I've co
 </details>
 
 <details>
-<summary><b>📚 Resources</b> &nbsp;·&nbsp; 21 repos &nbsp;·&nbsp; <a href="https://github.com/stars/Metalhearf/lists/resources">view on GitHub →</a></summary>
+<summary><b>Resources</b> &nbsp;·&nbsp; 21 repos &nbsp;·&nbsp; <a href="https://github.com/stars/Metalhearf/lists/resources">view on GitHub →</a></summary>
 
 | Repo | Lang | Stars | Description |
 | --- | --- | --- | --- |
 | [`codecrafters-io/build-your-own-x`](https://github.com/codecrafters-io/build-your-own-x) | Markdown | ⭐499.2k | Master programming by recreating your favorite technologies from scratch. |
 | [`donnemartin/system-design-primer`](https://github.com/donnemartin/system-design-primer) | Python | ⭐347.1k | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. |
-| [`jwasham/coding-interview-university`](https://github.com/jwasham/coding-interview-university) |  | ⭐345.6k | A complete computer science study plan to become a software engineer. |
+| [`jwasham/coding-interview-university`](https://github.com/jwasham/coding-interview-university) |  | ⭐345.7k | A complete computer science study plan to become a software engineer. |
 | [`awesome-selfhosted/awesome-selfhosted`](https://github.com/awesome-selfhosted/awesome-selfhosted) |  | ⭐290.3k | A list of Free Software network services and web applications which can be hosted on your own servers |
 | [`trimstray/the-book-of-secret-knowledge`](https://github.com/trimstray/the-book-of-secret-knowledge) |  | ⭐218.8k | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. |
 | [`twitter/the-algorithm`](https://github.com/twitter/the-algorithm) | Scala | ⭐73.1k | Source code for the X Recommendation Algorithm |
@@ -559,7 +464,36 @@ I keep my GitHub stars grouped by topic. Expand a section to browse what I've co
 </details>
 
 <details>
-<summary><b>💼 Work</b> &nbsp;·&nbsp; 21 repos &nbsp;·&nbsp; <a href="https://github.com/stars/Metalhearf/lists/work">view on GitHub →</a></summary>
+<summary><b>OSINT</b> &nbsp;·&nbsp; 21 repos &nbsp;·&nbsp; <a href="https://github.com/stars/Metalhearf/lists/osint">view on GitHub →</a></summary>
+
+| Repo | Lang | Stars | Description |
+| --- | --- | --- | --- |
+| [`sherlock-project/sherlock`](https://github.com/sherlock-project/sherlock) | Python | ⭐82.9k | Hunt down social media accounts by username across social networks |
+| [`Lissy93/web-check`](https://github.com/Lissy93/web-check) | TypeScript | ⭐33.0k | 🕵️‍♂️ All-in-one OSINT tool for analysing any website |
+| [`soxoj/maigret`](https://github.com/soxoj/maigret) | Python | ⭐25.4k | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
+| [`twintproject/twint`](https://github.com/twintproject/twint) | Python | ⭐16.4k | An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to... |
+| [`Datalux/Osintgram`](https://github.com/Datalux/Osintgram) | Python | ⭐12.7k | Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram acc... |
+| [`megadose/holehe`](https://github.com/megadose/holehe) | Python | ⭐10.8k | holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve... |
+| [`blacklanternsecurity/bbot`](https://github.com/blacklanternsecurity/bbot) | Python | ⭐9.7k | The recursive internet scanner for hackers. 🧡 |
+| [`alpkeskin/mosint`](https://github.com/alpkeskin/mosint) | Go | ⭐5.8k | An automated e-mail OSINT tool |
+| [`khast3x/h8mail`](https://github.com/khast3x/h8mail) | Python | ⭐5.0k | Email OSINT & Password breach hunting tool, locally or using premium services. Supports chasing down relate... |
+| [`bisguzar/twitter-scraper`](https://github.com/bisguzar/twitter-scraper) | Python | ⭐4.0k | Scrape the Twitter Frontend API without authentication. |
+| [`megadose/toutatis`](https://github.com/megadose/toutatis) | Python | ⭐3.9k | Toutatis is a tool that allows you to extract information from instagrams accounts such as e-mails, phone n... |
+| [`Lucksi/Mr.Holmes`](https://github.com/Lucksi/Mr.Holmes) | Python | ⭐3.4k | A Complete Osint Tool :mag: |
+| [`0x0be/yesitsme`](https://github.com/0x0be/yesitsme) | Python | ⭐2.8k | Simple OSINT script to find Instagram profiles by name and e-mail/phone |
+| [`bhavsec/reconspider`](https://github.com/bhavsec/reconspider) | Python | ⭐2.7k | 🔎 Most Advanced Open Source Intelligence (OSINT) Framework for scanning IP Address, Emails, Websites, Organ... |
+| [`musana/CF-Hero`](https://github.com/musana/CF-Hero) | Go | ⭐1.8k | CF-Hero is a reconnaissance tool that uses multiple data sources to discover the origin IP addresses of Clo... |
+| [`megadose/ignorant`](https://github.com/megadose/ignorant) | Python | ⭐1.7k | ignorant allows you to check if a phone number is used on different sites like snapchat, instagram. |
+| [`th3unkn0n/osi.ig`](https://github.com/th3unkn0n/osi.ig) | Python | ⭐1.5k | Information Gathering Instagram. |
+| [`s0md3v/Zen`](https://github.com/s0md3v/Zen) | Python | ⭐591 | Find emails of Github users |
+| [`l4rm4nd/LinkedInDumper`](https://github.com/l4rm4nd/LinkedInDumper) | Python | ⭐587 | Python 3 script to dump/scrape/extract company employees from LinkedIn API |
+| [`twintproject/twint-zero`](https://github.com/twintproject/twint-zero) | Go | ⭐281 | Old Twint style, but zero fat. |
+| [`itzmeanjan/twiz`](https://github.com/itzmeanjan/twiz) | Python | ⭐6 | Your Twitter Account Data Analysis & Visualization Tool <3 |
+
+</details>
+
+<details>
+<summary><b>Work</b> &nbsp;·&nbsp; 21 repos &nbsp;·&nbsp; <a href="https://github.com/stars/Metalhearf/lists/work">view on GitHub →</a></summary>
 
 | Repo | Lang | Stars | Description |
 | --- | --- | --- | --- |
@@ -588,7 +522,73 @@ I keep my GitHub stars grouped by topic. Expand a section to browse what I've co
 </details>
 
 <details>
-<summary><b>🐙 GitHub</b> &nbsp;·&nbsp; 6 repos &nbsp;·&nbsp; <a href="https://github.com/stars/Metalhearf/lists/github">view on GitHub →</a></summary>
+<summary><b>Android</b> &nbsp;·&nbsp; 20 repos &nbsp;·&nbsp; <a href="https://github.com/stars/Metalhearf/lists/android">view on GitHub →</a></summary>
+
+| Repo | Lang | Stars | Description |
+| --- | --- | --- | --- |
+| [`Genymobile/scrcpy`](https://github.com/Genymobile/scrcpy) | C | ⭐139.4k | Display and control your Android device |
+| [`topjohnwu/Magisk`](https://github.com/topjohnwu/Magisk) | Kotlin | ⭐60.2k | The Magic Mask for Android |
+| [`yuliskov/SmartTube`](https://github.com/yuliskov/SmartTube) | Java | ⭐30.0k | Browse media content with your own rules on Android TV |
+| [`ReVanced/revanced-manager`](https://github.com/ReVanced/revanced-manager) | Kotlin | ⭐27.7k | 💊 Application to use ReVanced on Android |
+| [`0x192/universal-android-debloater`](https://github.com/0x192/universal-android-debloater) | Rust | ⭐19.3k | Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, t... |
+| [`beemdevelopment/Aegis`](https://github.com/beemdevelopment/Aegis) | Java | ⭐12.4k | A free, secure and open source app for Android to manage your 2-step verification tokens. |
+| [`Team-xManager/xManager`](https://github.com/Team-xManager/xManager) | Java | ⭐12.2k | Ad-Free, New Features & Freedom |
+| [`breezy-weather/breezy-weather`](https://github.com/breezy-weather/breezy-weather) | Kotlin | ⭐10.0k | A feature-rich weather app with good visualizations and more than 50 sources. |
+| [`offa/android-foss`](https://github.com/offa/android-foss) | Python | ⭐10.0k | A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy. |
+| [`MetrolistGroup/Metrolist`](https://github.com/MetrolistGroup/Metrolist) | Kotlin | ⭐9.1k | YouTube Music client for Android |
+| [`Universal-Debloater-Alliance/universal-android-debloater-next-generation`](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) | Rust | ⭐6.5k | Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, t... |
+| [`MorpheApp/morphe-manager`](https://github.com/MorpheApp/morphe-manager) | Kotlin | ⭐4.7k | Morphe app patcher for Android |
+| [`MorpheApp/morphe-patches`](https://github.com/MorpheApp/morphe-patches) | Java | ⭐2.0k | Morphe Patches |
+| [`BaltiApps/Pixelify-Google-Photos`](https://github.com/BaltiApps/Pixelify-Google-Photos) | Kotlin | ⭐1.6k | Pixelify GPhotos |
+| [`Arcticons-Team/Arcticons`](https://github.com/Arcticons-Team/Arcticons) | Java | ⭐1.4k | A monotone line-based icon pack for android |
+| [`xpavle00/Habo`](https://github.com/xpavle00/Habo) | Dart | ⭐1.3k | Habo is an open-source habit tracker. Created in a flutter. |
+| [`bryanroscoe/shield_optimizer`](https://github.com/bryanroscoe/shield_optimizer) | PowerShell | ⭐587 | _(no description)_ |
+| [`khlam/debloat-samsung-android`](https://github.com/khlam/debloat-samsung-android) |  | ⭐479 | ADB commands to aggressively de-bloat Samsung Android Phones without root. Make Samsung One UI closer to st... |
+| [`corentin-c/SpotifyAutoPatcher`](https://github.com/corentin-c/SpotifyAutoPatcher) | Java | ⭐413 | The easiest way to patch Spotify and Youtube Music, without the need to download APKs ! |
+| [`ayush5harma/PixelFeatureDrops`](https://github.com/ayush5harma/PixelFeatureDrops) | Shell | ⭐350 | Magisk Module for Pixel Feature Drops that adds the system files for the same and spoof using the latest de... |
+
+</details>
+
+<details>
+<summary><b>Privacy</b> &nbsp;·&nbsp; 12 repos &nbsp;·&nbsp; <a href="https://github.com/stars/Metalhearf/lists/privacy">view on GitHub →</a></summary>
+
+| Repo | Lang | Stars | Description |
+| --- | --- | --- | --- |
+| [`logseq/logseq`](https://github.com/logseq/logseq) | Clojure | ⭐42.7k | A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://gi... |
+| [`pluja/awesome-privacy`](https://github.com/pluja/awesome-privacy) |  | ⭐18.7k | Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MAT... |
+| [`mvt-project/mvt`](https://github.com/mvt-project/mvt) | Python | ⭐12.4k | MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs ... |
+| [`pixeltris/TwitchAdSolutions`](https://github.com/pixeltris/TwitchAdSolutions) | JavaScript | ⭐11.3k | _(no description)_ |
+| [`simplex-chat/simplex-chat`](https://github.com/simplex-chat/simplex-chat) | Haskell | ⭐11.0k | SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by desi... |
+| [`victornpb/undiscord`](https://github.com/victornpb/undiscord) | JavaScript | ⭐6.5k | Undiscord - Delete all messages in a Discord server / channel or DM (Easy and fast) Bulk delete |
+| [`Shawn-Shan/fawkes`](https://github.com/Shawn-Shan/fawkes) | Python | ⭐5.5k | Fawkes, privacy preserving tool against facial recognition systems. More info at https://sandlab.cs.uchicag... |
+| [`ClearURLs/Addon`](https://github.com/ClearURLs/Addon) | JavaScript | ⭐4.9k | ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking ele... |
+| [`OhMyGuus/I-Still-Dont-Care-About-Cookies`](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) | JavaScript | ⭐4.1k | Debloated fork of the extension "I don't care about cookies" |
+| [`cathugger/mkp224o`](https://github.com/cathugger/mkp224o) | C | ⭐1.6k | vanity address generator for tor onion v3 (ed25519) hidden services |
+| [`peterhanania/Discord-Package`](https://github.com/peterhanania/Discord-Package) | TypeScript | ⭐544 | A detailed Discord data package explorer designed to help users visualize the data Discord collects. |
+| [`jystervinou/free-mobile-filtres-demarchage`](https://github.com/jystervinou/free-mobile-filtres-demarchage) | HTML | ⭐7 | Free Mobile Filtres Démarchage |
+
+</details>
+
+<details>
+<summary><b>AI</b> &nbsp;·&nbsp; 10 repos &nbsp;·&nbsp; <a href="https://github.com/stars/Metalhearf/lists/ai">view on GitHub →</a></summary>
+
+| Repo | Lang | Stars | Description |
+| --- | --- | --- | --- |
+| [`openclaw/openclaw`](https://github.com/openclaw/openclaw) | TypeScript | ⭐368.6k | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 |
+| [`anomalyco/opencode`](https://github.com/anomalyco/opencode) | TypeScript | ⭐155.1k | The open source coding agent. |
+| [`open-webui/open-webui`](https://github.com/open-webui/open-webui) | Python | ⭐135.6k | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) |
+| [`forrestchang/andrej-karpathy-skills`](https://github.com/forrestchang/andrej-karpathy-skills) |  | ⭐113.4k | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM... |
+| [`yamadashy/repomix`](https://github.com/yamadashy/repomix) | TypeScript | ⭐24.4k | 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for... |
+| [`OpenBMB/VoxCPM`](https://github.com/OpenBMB/VoxCPM) | Python | ⭐17.4k | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Clo... |
+| [`elie222/inbox-zero`](https://github.com/elie222/inbox-zero) | TypeScript | ⭐10.6k | The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast. |
+| [`Zyphra/Zonos`](https://github.com/Zyphra/Zonos) | Python | ⭐7.2k | Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilin... |
+| [`clusterzx/paperless-ai`](https://github.com/clusterzx/paperless-ai) | JavaScript | ⭐5.6k | An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenA... |
+| [`yoanbernabeu/NanoThumbnail`](https://github.com/yoanbernabeu/NanoThumbnail) | Astro | ⭐34 | Generate Viral Thumbnails with AI |
+
+</details>
+
+<details>
+<summary><b>GitHub</b> &nbsp;·&nbsp; 6 repos &nbsp;·&nbsp; <a href="https://github.com/stars/Metalhearf/lists/github">view on GitHub →</a></summary>
 
 | Repo | Lang | Stars | Description |
 | --- | --- | --- | --- |
@@ -602,7 +602,7 @@ I keep my GitHub stars grouped by topic. Expand a section to browse what I've co
 </details>
 
 <details>
-<summary><b>✍️ Blog</b> &nbsp;·&nbsp; 2 repos &nbsp;·&nbsp; <a href="https://github.com/stars/Metalhearf/lists/blog">view on GitHub →</a></summary>
+<summary><b>Blog</b> &nbsp;·&nbsp; 2 repos &nbsp;·&nbsp; <a href="https://github.com/stars/Metalhearf/lists/blog">view on GitHub →</a></summary>
 
 | Repo | Lang | Stars | Description |
 | --- | --- | --- | --- |

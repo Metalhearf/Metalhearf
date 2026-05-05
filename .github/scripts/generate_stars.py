@@ -19,32 +19,6 @@ README = Path(__file__).resolve().parents[2] / "README.md"
 START = "<!-- STARS:START -->"
 END = "<!-- STARS:END -->"
 
-ICONS = {
-    "Self-Hosted": "🏠",
-    "Tools": "🔧",
-    "Games": "🎮",
-    "Hacking": "🛡️",
-    "Arch": "🐧",
-    "Media": "🎵",
-    "Resources": "📚",
-    "Fun": "🎉",
-    "Work": "💼",
-    "OSINT": "🕵️",
-    "Android": "🤖",
-    "Privacy": "🔒",
-    "AI": "🧠",
-    "GitHub": "🐙",
-    "Blog": "✍️",
-}
-
-ORDER = [
-    "Self-Hosted", "Tools", "Hacking", "OSINT", "Privacy",
-    "Arch", "Android", "AI",
-    "Media", "Games", "Fun",
-    "Resources", "Work", "GitHub", "Blog",
-]
-
-
 def graphql(query: str, variables: dict | None = None) -> dict:
     token = os.environ["STARS_TOKEN"]
     body = json.dumps({"query": query, "variables": variables or {}}).encode()
@@ -145,22 +119,24 @@ def fmt_row(r: dict) -> str:
 
 
 def render(lists: list[dict]) -> str:
-    by_name = {l["name"]: l for l in lists}
     out = [
         "## ⭐ Curated Stars",
         "",
         "I keep my GitHub stars grouped by topic. Expand a section to browse what I've collected.",
         "",
     ]
-    for name in ORDER:
-        info = by_name.get(name)
-        if not info:
+    sorted_lists = sorted(
+        lists,
+        key=lambda l: (l["total"], sum(r.get("stargazerCount", 0) for r in l["repos"])),
+        reverse=True,
+    )
+    for info in sorted_lists:
+        if info["total"] == 0:
             continue
-        icon = ICONS.get(name, "📁")
         list_url = f"https://github.com/stars/{USER}/lists/{info['slug']}"
         out.append("<details>")
         out.append(
-            f'<summary><b>{icon} {name}</b> &nbsp;·&nbsp; {info["total"]} repos &nbsp;·&nbsp; '
+            f'<summary><b>{info["name"]}</b> &nbsp;·&nbsp; {info["total"]} repos &nbsp;·&nbsp; '
             f'<a href="{list_url}">view on GitHub →</a></summary>'
         )
         out.append("")
