@@ -32,7 +32,7 @@ I keep my GitHub stars grouped by topic. Expand a section to browse what I've co
 _Last updated: 2026-05-05_
 
 <details>
-<summary><b>Self-Hosted</b> &nbsp;·&nbsp; 130 repos</summary>
+<summary><b>Self-Hosted</b> &nbsp;·&nbsp; 130 repos &nbsp;·&nbsp; <i>Docker apps for replacing cloud services: media, photos, VPN, dashboards, automation.</i></summary>
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
@@ -170,7 +170,7 @@ _Last updated: 2026-05-05_
 </details>
 
 <details>
-<summary><b>Tools</b> &nbsp;·&nbsp; 69 repos</summary>
+<summary><b>Tools</b> &nbsp;·&nbsp; 69 repos &nbsp;·&nbsp; <i>CLI utilities, terminal eye-candy, file managers and modern Unix replacements.</i></summary>
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
@@ -247,7 +247,7 @@ _Last updated: 2026-05-05_
 </details>
 
 <details>
-<summary><b>Games</b> &nbsp;·&nbsp; 48 repos</summary>
+<summary><b>Games</b> &nbsp;·&nbsp; 48 repos &nbsp;·&nbsp; <i>Emulators, save editors, private game servers and modding tools across platforms.</i></summary>
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
@@ -303,7 +303,7 @@ _Last updated: 2026-05-05_
 </details>
 
 <details>
-<summary><b>Hacking</b> &nbsp;·&nbsp; 28 repos</summary>
+<summary><b>Hacking</b> &nbsp;·&nbsp; 28 repos &nbsp;·&nbsp; <i>Pentesting frameworks, WiFi/Bluetooth attack tools and offensive security utilities.</i></summary>
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
@@ -339,7 +339,7 @@ _Last updated: 2026-05-05_
 </details>
 
 <details>
-<summary><b>Arch</b> &nbsp;·&nbsp; 28 repos</summary>
+<summary><b>Arch</b> &nbsp;·&nbsp; 28 repos &nbsp;·&nbsp; <i>Linux ricing essentials: Hyprland, polybar, rofi, Catppuccin themes and shell tweaks.</i></summary>
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
@@ -375,7 +375,7 @@ _Last updated: 2026-05-05_
 </details>
 
 <details>
-<summary><b>Media</b> &nbsp;·&nbsp; 24 repos</summary>
+<summary><b>Media</b> &nbsp;·&nbsp; 24 repos &nbsp;·&nbsp; <i>Spotify clients, video downloaders, OBS plugins and music library managers.</i></summary>
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
@@ -407,7 +407,7 @@ _Last updated: 2026-05-05_
 </details>
 
 <details>
-<summary><b>Fun</b> &nbsp;·&nbsp; 22 repos</summary>
+<summary><b>Fun</b> &nbsp;·&nbsp; 22 repos &nbsp;·&nbsp; <i>Quirky joke projects, terminal pranks and absurd tech curiosities.</i></summary>
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
@@ -437,7 +437,7 @@ _Last updated: 2026-05-05_
 </details>
 
 <details>
-<summary><b>Resources</b> &nbsp;·&nbsp; 21 repos</summary>
+<summary><b>Resources</b> &nbsp;·&nbsp; 21 repos &nbsp;·&nbsp; <i>Awesome-lists, cheatsheets and study guides for sysadmins, devs and security folks.</i></summary>
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
@@ -466,7 +466,7 @@ _Last updated: 2026-05-05_
 </details>
 
 <details>
-<summary><b>OSINT</b> &nbsp;·&nbsp; 21 repos</summary>
+<summary><b>OSINT</b> &nbsp;·&nbsp; 21 repos &nbsp;·&nbsp; <i>Username, email, phone and social-media reconnaissance tools for investigators.</i></summary>
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
@@ -495,7 +495,7 @@ _Last updated: 2026-05-05_
 </details>
 
 <details>
-<summary><b>Work</b> &nbsp;·&nbsp; 21 repos</summary>
+<summary><b>Work</b> &nbsp;·&nbsp; 21 repos &nbsp;·&nbsp; <i>Observability stacks, XMPP servers, Ansible roles and infrastructure for daily ops.</i></summary>
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
@@ -524,7 +524,7 @@ _Last updated: 2026-05-05_
 </details>
 
 <details>
-<summary><b>Android</b> &nbsp;·&nbsp; 20 repos</summary>
+<summary><b>Android</b> &nbsp;·&nbsp; 20 repos &nbsp;·&nbsp; <i>Debloaters, ReVanced/Magisk patches, FOSS apps and rooting utilities for Android.</i></summary>
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
@@ -539,8 +539,8 @@ _Last updated: 2026-05-05_
 | [`MorpheApp/morphe-manager`](https://github.com/MorpheApp/morphe-manager) | ⭐4.7k | 🔥 | Morphe app patcher for Android |
 | [`MorpheApp/morphe-patches`](https://github.com/MorpheApp/morphe-patches) | ⭐2.0k | 🔥 | Morphe Patches |
 | [`Arcticons-Team/Arcticons`](https://github.com/Arcticons-Team/Arcticons) | ⭐1.4k | 🔥 | A monotone line-based icon pack for android |
+| [`xpavle00/Habo`](https://github.com/xpavle00/Habo) | ⭐1.3k | 🔥 | Habo is an open-source habit tracker. Created in a flutter. |
 | [`beemdevelopment/Aegis`](https://github.com/beemdevelopment/Aegis) | ⭐12.4k |  | A free, secure and open source app for Android to manage your 2-step verification tokens. |
-| [`xpavle00/Habo`](https://github.com/xpavle00/Habo) | ⭐1.3k |  | Habo is an open-source habit tracker. Created in a flutter. |
 | [`bryanroscoe/shield_optimizer`](https://github.com/bryanroscoe/shield_optimizer) | ⭐587 |  | _(no description)_ |
 | [`corentin-c/SpotifyAutoPatcher`](https://github.com/corentin-c/SpotifyAutoPatcher) | ⭐413 |  | The easiest way to patch Spotify and Youtube Music, without the need to download APKs ! |
 | [`0x192/universal-android-debloater`](https://github.com/0x192/universal-android-debloater) | ⭐19.3k | 💤 | Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, t... |
@@ -552,7 +552,7 @@ _Last updated: 2026-05-05_
 </details>
 
 <details>
-<summary><b>Privacy</b> &nbsp;·&nbsp; 12 repos</summary>
+<summary><b>Privacy</b> &nbsp;·&nbsp; 12 repos &nbsp;·&nbsp; <i>Tracker blockers, anonymous messaging and tools to escape surveillance and profiling.</i></summary>
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
@@ -572,7 +572,7 @@ _Last updated: 2026-05-05_
 </details>
 
 <details>
-<summary><b>AI</b> &nbsp;·&nbsp; 10 repos</summary>
+<summary><b>AI</b> &nbsp;·&nbsp; 10 repos &nbsp;·&nbsp; <i>Local LLMs, AI coding agents, TTS engines and AI-augmented productivity tools.</i></summary>
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
@@ -590,7 +590,7 @@ _Last updated: 2026-05-05_
 </details>
 
 <details>
-<summary><b>GitHub</b> &nbsp;·&nbsp; 6 repos</summary>
+<summary><b>GitHub</b> &nbsp;·&nbsp; 6 repos &nbsp;·&nbsp; <i>Widgets and stat generators for dressing up your GitHub profile README.</i></summary>
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
@@ -604,7 +604,7 @@ _Last updated: 2026-05-05_
 </details>
 
 <details>
-<summary><b>Blog</b> &nbsp;·&nbsp; 2 repos</summary>
+<summary><b>Blog</b> &nbsp;·&nbsp; 2 repos &nbsp;·&nbsp; <i>Minimalist Hugo themes and design experiments for personal websites.</i></summary>
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |

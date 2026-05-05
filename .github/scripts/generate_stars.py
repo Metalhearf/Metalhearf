@@ -59,7 +59,7 @@ def fetch_lists() -> list[dict]:
           viewer {
             lists(first: 100) {
               nodes {
-                id name slug
+                id name slug description
                 items(first: 100) {
                   totalCount
                   pageInfo { hasNextPage endCursor }
@@ -99,6 +99,7 @@ def fetch_lists() -> list[dict]:
         lists.append({
             "name": node["name"],
             "slug": node["slug"],
+            "description": node.get("description") or "",
             "total": node["items"]["totalCount"],
             "repos": repos,
         })
@@ -160,7 +161,11 @@ def render(lists: list[dict]) -> str:
         if info["total"] == 0:
             continue
         out.append("<details>")
-        out.append(f'<summary><b>{info["name"]}</b> &nbsp;·&nbsp; {info["total"]} repos</summary>')
+        summary = f'<summary><b>{info["name"]}</b> &nbsp;·&nbsp; {info["total"]} repos'
+        if info.get("description"):
+            summary += f' &nbsp;·&nbsp; <i>{info["description"]}</i>'
+        summary += "</summary>"
+        out.append(summary)
         out.append("")
         out.append("| Repo | Stars | Status | Description |")
         out.append("| --- | --- | --- | --- |")
