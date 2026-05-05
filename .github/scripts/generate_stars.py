@@ -175,8 +175,8 @@ def render(lists: list[dict]) -> str:
     out.append(
         f"<sub>"
         f"Last updated: {today}<br>"
-        f"🔥 hot — pushed in last {HOT_DAYS} days<br>"
-        f"💤 stale — no push in {STALE_DAYS}+ days<br>"
+        f"🔥 hot: pushed in last {HOT_DAYS} days<br>"
+        f"💤 stale: no push in {STALE_DAYS}+ days<br>"
         f"📦 archived"
         f"</sub>"
     )

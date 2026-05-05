@@ -611,5 +611,5 @@ I keep my GitHub stars grouped by topic. Expand a section to browse what I've co
 
 </details>
 
-<sub>Last updated: 2026-05-05<br>🔥 hot — pushed in last 7 days<br>💤 stale — no push in 365+ days<br>📦 archived</sub>
+<sub>Last updated: 2026-05-05<br>🔥 hot: pushed in last 7 days<br>💤 stale: no push in 365+ days<br>📦 archived</sub>
 <!-- STARS:END -->
