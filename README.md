@@ -27,7 +27,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 <!-- STARS:START -->
 ## ⭐ Curated Stars
 
-**458 repos** across **15 categories**, refreshed daily via [awesome-stars](https://github.com/Metalhearf/awesome-stars). Click any section to expand.
+**458 repos** across **15 categories**. Click any section to expand.
 
 <details>
 <summary><b>Self-Hosted</b> &nbsp;·&nbsp; 130 ⭐ &nbsp;·&nbsp; <i>Docker apps for replacing cloud services: media, photos, VPN, dashboards, automation.</i></summary>
