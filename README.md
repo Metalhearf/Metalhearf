@@ -35,7 +35,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
 | [`n8n-io/n8n`](https://github.com/n8n-io/n8n) | ⭐186.8k | 🔥 | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom cod... |
-| [`open-webui/open-webui`](https://github.com/open-webui/open-webui) | ⭐135.6k | 🔥 | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) |
+| [`open-webui/open-webui`](https://github.com/open-webui/open-webui) | ⭐135.7k | 🔥 | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) |
 | [`excalidraw/excalidraw`](https://github.com/excalidraw/excalidraw) | ⭐122.6k | 🔥 | Virtual whiteboard for sketching hand-drawn like diagrams |
 | [`immich-app/immich`](https://github.com/immich-app/immich) | ⭐99.8k | 🔥 | High performance self-hosted photo and video management solution. |
 | [`louislam/uptime-kuma`](https://github.com/louislam/uptime-kuma) | ⭐86.3k | 🔥 | A fancy self-hosted monitoring tool |
@@ -84,7 +84,6 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`Freika/dawarich`](https://github.com/Freika/dawarich) | ⭐9.0k | 🔥 | Your favorite self-hostable alternative to Google Timeline (Google Location History) |
 | [`TandoorRecipes/recipes`](https://github.com/TandoorRecipes/recipes) | ⭐8.3k | 🔥 | Application for managing recipes, planning meals, building shopping lists and much much more! |
 | [`we-promise/sure`](https://github.com/we-promise/sure) | ⭐8.1k | 🔥 | The personal finance app for everyone. NOT affiliated with or endorsed by Maybe Finance Inc. |
-| [`AnalogJ/scrutiny`](https://github.com/AnalogJ/scrutiny) | ⭐7.7k | 🔥 | Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds |
 | [`openwrt/luci`](https://github.com/openwrt/luci) | ⭐7.6k | 🔥 | LuCI - OpenWrt Configuration Interface |
 | [`tinyauthapp/tinyauth`](https://github.com/tinyauthapp/tinyauth) | ⭐7.3k | 🔥 | The tiniest authentication and authorization server you have ever seen. |
 | [`Mailu/Mailu`](https://github.com/Mailu/Mailu) | ⭐7.2k | 🔥 | Insular email distribution - mail server as Docker images |
@@ -116,6 +115,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`Mail-0/Zero`](https://github.com/Mail-0/Zero) | ⭐10.5k |  | Experience email the way you want with Mail0 – the first open source email app that puts your privacy and s... |
 | [`fluxerapp/fluxer`](https://github.com/fluxerapp/fluxer) | ⭐8.5k |  | A free and open source instant messaging and VoIP platform built for friends, groups, and communities. Self... |
 | [`pivpn/pivpn`](https://github.com/pivpn/pivpn) | ⭐8.0k |  | The Simplest VPN installer, designed for Raspberry Pi |
+| [`AnalogJ/scrutiny`](https://github.com/AnalogJ/scrutiny) | ⭐7.7k |  | Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds |
 | [`crocodilestick/Calibre-Web-Automated`](https://github.com/crocodilestick/Calibre-Web-Automated) | ⭐5.5k |  | Calibre-Web but Automated and with tons of New Features! Fully automate and simplify your eBook set up! |
 | [`geerlingguy/internet-pi`](https://github.com/geerlingguy/internet-pi) | ⭐4.7k |  | Raspberry Pi config for all things Internet. |
 | [`Yooooomi/your_spotify`](https://github.com/Yooooomi/your_spotify) | ⭐4.4k |  | Self hosted Spotify tracking dashboard |
@@ -575,12 +575,12 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | --- | --- | --- | --- |
 | [`openclaw/openclaw`](https://github.com/openclaw/openclaw) | ⭐368.7k | 🔥 | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 |
 | [`anomalyco/opencode`](https://github.com/anomalyco/opencode) | ⭐155.3k | 🔥 | The open source coding agent. |
-| [`open-webui/open-webui`](https://github.com/open-webui/open-webui) | ⭐135.6k | 🔥 | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) |
+| [`open-webui/open-webui`](https://github.com/open-webui/open-webui) | ⭐135.7k | 🔥 | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) |
 | [`yamadashy/repomix`](https://github.com/yamadashy/repomix) | ⭐24.4k | 🔥 | 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for... |
 | [`OpenBMB/VoxCPM`](https://github.com/OpenBMB/VoxCPM) | ⭐17.4k | 🔥 | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Clo... |
 | [`elie222/inbox-zero`](https://github.com/elie222/inbox-zero) | ⭐10.6k | 🔥 | The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast. |
 | [`clusterzx/paperless-ai`](https://github.com/clusterzx/paperless-ai) | ⭐5.6k | 🔥 | An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenA... |
-| [`forrestchang/andrej-karpathy-skills`](https://github.com/forrestchang/andrej-karpathy-skills) | ⭐113.9k |  | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM... |
+| [`forrestchang/andrej-karpathy-skills`](https://github.com/forrestchang/andrej-karpathy-skills) | ⭐114.0k |  | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM... |
 | [`yoanbernabeu/NanoThumbnail`](https://github.com/yoanbernabeu/NanoThumbnail) | ⭐34 |  | Generate Viral Thumbnails with AI |
 | [`Zyphra/Zonos`](https://github.com/Zyphra/Zonos) | ⭐7.2k | 💤 | Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilin... |
 
