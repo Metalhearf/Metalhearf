@@ -25,7 +25,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 ---
 
 <!-- STARS:START -->
-## ⭐ Curated Stars
+## ⭐ My [Starshelf](https://github.com/Metalhearf/starshelf)
 
 **455 repos** across **29 categories**. Click any section to expand.
 
@@ -37,8 +37,8 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`massgravel/Microsoft-Activation-Scripts`](https://github.com/massgravel/Microsoft-Activation-Scripts) | ⭐174.2k | 🔥 | Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods,... |
 | [`ruvnet/RuView`](https://github.com/ruvnet/RuView) | ⭐51.8k | 🔥 | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and prese... |
 | [`KeygraphHQ/shannon`](https://github.com/KeygraphHQ/shannon) | ⭐41.3k | 🔥 | Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your sourc... |
-| [`trufflesecurity/trufflehog`](https://github.com/trufflesecurity/trufflehog) | ⭐26.0k | 🔥 | Find, verify, and analyze leaked credentials |
-| [`usestrix/strix`](https://github.com/usestrix/strix) | ⭐24.9k | 🔥 | Open-source AI hackers to find and fix your app’s vulnerabilities. |
+| [`trufflesecurity/trufflehog`](https://github.com/trufflesecurity/trufflehog) | ⭐26.1k | 🔥 | Find, verify, and analyze leaked credentials |
+| [`usestrix/strix`](https://github.com/usestrix/strix) | ⭐25.0k | 🔥 | Open-source AI hackers to find and fix your app’s vulnerabilities. |
 | [`CISOfy/lynis`](https://github.com/CISOfy/lynis) | ⭐15.6k | 🔥 | Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (H... |
 | [`maurosoria/dirsearch`](https://github.com/maurosoria/dirsearch) | ⭐14.2k | 🔥 | Web path scanner |
 | [`threat9/routersploit`](https://github.com/threat9/routersploit) | ⭐13.1k | 🔥 | Exploitation Framework for Embedded Devices |
@@ -50,7 +50,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`evilsocket/pwnagotchi`](https://github.com/evilsocket/pwnagotchi) | ⭐9.1k |  | (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning. |
 | [`yogeshojha/rengine`](https://github.com/yogeshojha/rengine) | ⭐8.6k |  | reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable s... |
 | [`jonasstrehle/supercookie`](https://github.com/jonasstrehle/supercookie) | ⭐7.0k |  | ⚠️ Browser fingerprinting via favicon! |
-| [`EmenstaNougat/ESP32-BlueJammer`](https://github.com/EmenstaNougat/ESP32-BlueJammer) | ⭐5.9k |  | The ESP32-BlueJammer (Bluetooth jammer, BLE jammer, WiFi jammer, RC jammer) disrupts 2.4GHz communications.... |
+| [`EmenstaNougat/ESP32-BlueJammer`](https://github.com/EmenstaNougat/ESP32-BlueJammer) | ⭐6.0k |  | The ESP32-BlueJammer (Bluetooth jammer, BLE jammer, WiFi jammer, RC jammer) disrupts 2.4GHz communications.... |
 | [`AzeemIdrisi/PhoneSploit-Pro`](https://github.com/AzeemIdrisi/PhoneSploit-Pro) | ⭐5.8k |  | An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a ... |
 | [`chromium/badssl.com`](https://github.com/chromium/badssl.com) | ⭐3.0k |  | :lock: Memorable site for testing clients against bad SSL configs. |
 | [`jayofelony/pwnagotchi`](https://github.com/jayofelony/pwnagotchi) | ⭐2.7k |  | (⌐■_■) - Raspberry Pi instrumenting Bettercap for Wi-Fi pwning. |
@@ -146,7 +146,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`EliverLara/Nordic`](https://github.com/EliverLara/Nordic) | ⭐2.7k | 🔥 | :snowflake: Dark Gtk3.20+ theme created using the awesome Nord color pallete. |
 | [`catppuccin/userstyles`](https://github.com/catppuccin/userstyles) | ⭐1.0k | 🔥 | 🖌 Soothing pastel userstyles |
 | [`catppuccin/vscode-icons`](https://github.com/catppuccin/vscode-icons) | ⭐975 | 🔥 | 🦊 Soothing pastel icons for VSCode/VSCodium |
-| [`Stunkymonkey/nautilus-open-any-terminal`](https://github.com/Stunkymonkey/nautilus-open-any-terminal) | ⭐938 | 🔥 | _(no description)_ |
+| [`Stunkymonkey/nautilus-open-any-terminal`](https://github.com/Stunkymonkey/nautilus-open-any-terminal) | ⭐939 | 🔥 | _(no description)_ |
 | [`catppuccin/cursors`](https://github.com/catppuccin/cursors) | ⭐716 | 🔥 | 🐁 Soothing pastel cursors for GTK/Plasma/Hyprland |
 | [`rubiin/Tsumiki`](https://github.com/rubiin/Tsumiki) | ⭐231 | 🔥 | modular panel written on fabric |
 | [`uncenter/catppuccin-userstyles-customizer`](https://github.com/uncenter/catppuccin-userstyles-customizer) | ⭐48 | 🔥 | 🧚🏼 Customize your preferred flavors and accent color for catppuccin/userstyles. Generates a JSON file for i... |
@@ -157,7 +157,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`Keyitdev/sddm-astronaut-theme`](https://github.com/Keyitdev/sddm-astronaut-theme) | ⭐2.8k |  | Series of modern looking themes for SDDM. |
 | [`EliverLara/Sweet`](https://github.com/EliverLara/Sweet) | ⭐1.7k |  | A beautiful theme with neon vibes for GNOME |
 | [`SleepyCatHey/CozyPixels`](https://github.com/SleepyCatHey/CozyPixels) | ⭐1.1k |  | 🎨 Aesthetic wallpaper collection gathered over a year! Catppuccin, Nord, One Dark themes & cozy vibes. Free... |
-| [`zhichaoh/catppuccin-wallpapers`](https://github.com/zhichaoh/catppuccin-wallpapers) | ⭐837 | 💤 | 🖼️ Wallpapers to match your Catppuccin setups! |
+| [`zhichaoh/catppuccin-wallpapers`](https://github.com/zhichaoh/catppuccin-wallpapers) | ⭐838 | 💤 | 🖼️ Wallpapers to match your Catppuccin setups! |
 | [`nickclyde/rofi-bluetooth`](https://github.com/nickclyde/rofi-bluetooth) | ⭐600 | 💤 | 🔷 A script that generates a rofi menu that uses bluetoothctl to connect to bluetooth devices and display st... |
 | [`EliverLara/Sweet-folders`](https://github.com/EliverLara/Sweet-folders) | ⭐245 | 💤 | _(no description)_ |
 | [`nordtheme/terminator`](https://github.com/nordtheme/terminator) | ⭐113 | 💤 | An arctic, north-bluish clean and elegant Terminator color theme. |
@@ -170,18 +170,18 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
-| [`awesome-selfhosted/awesome-selfhosted`](https://github.com/awesome-selfhosted/awesome-selfhosted) | ⭐290.4k | 🔥 | A list of Free Software network services and web applications which can be hosted on your own servers |
+| [`awesome-selfhosted/awesome-selfhosted`](https://github.com/awesome-selfhosted/awesome-selfhosted) | ⭐290.5k | 🔥 | A list of Free Software network services and web applications which can be hosted on your own servers |
 | [`danielmiessler/SecLists`](https://github.com/danielmiessler/SecLists) | ⭐70.7k | 🔥 | SecLists is the security tester's companion. It's a collection of multiple types of lists used during secur... |
 | [`linux-surface/linux-surface`](https://github.com/linux-surface/linux-surface) | ⭐7.2k | 🔥 | Linux Kernel for Surface Devices |
-| [`infoslack/awesome-web-hacking`](https://github.com/infoslack/awesome-web-hacking) | ⭐6.8k | 🔥 | A list of web application security |
 | [`codecrafters-io/build-your-own-x`](https://github.com/codecrafters-io/build-your-own-x) | ⭐499.3k |  | Master programming by recreating your favorite technologies from scratch. |
-| [`donnemartin/system-design-primer`](https://github.com/donnemartin/system-design-primer) | ⭐347.1k |  | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. |
-| [`jwasham/coding-interview-university`](https://github.com/jwasham/coding-interview-university) | ⭐345.8k |  | A complete computer science study plan to become a software engineer. |
+| [`donnemartin/system-design-primer`](https://github.com/donnemartin/system-design-primer) | ⭐347.2k |  | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. |
+| [`jwasham/coding-interview-university`](https://github.com/jwasham/coding-interview-university) | ⭐346.0k |  | A complete computer science study plan to become a software engineer. |
 | [`twitter/the-algorithm`](https://github.com/twitter/the-algorithm) | ⭐73.1k |  | Source code for the X Recommendation Algorithm |
 | [`imthenachoman/How-To-Secure-A-Linux-Server`](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) | ⭐26.0k |  | An evolving how-to guide for securing a Linux server. |
 | [`sbilly/awesome-security`](https://github.com/sbilly/awesome-security) | ⭐14.3k |  | A collection of awesome software, libraries, documents, books, resources and cools stuffs about security. |
 | [`qazbnm456/awesome-web-security`](https://github.com/qazbnm456/awesome-web-security) | ⭐13.3k |  | 🐶 A curated list of Web Security materials and resources. |
 | [`BartoszJarocki/cv`](https://github.com/BartoszJarocki/cv) | ⭐9.6k |  | Print-friendly, minimalist CV page |
+| [`infoslack/awesome-web-hacking`](https://github.com/infoslack/awesome-web-hacking) | ⭐6.8k |  | A list of web application security |
 | [`pirate/wireguard-docs`](https://github.com/pirate/wireguard-docs) | ⭐5.0k |  | 📖 Unofficial WireGuard Documentation: Setup, Usage, Configuration, and full example setups for VPNs support... |
 | [`clarketm/proxy-list`](https://github.com/clarketm/proxy-list) | ⭐2.4k |  | A list of free, public, forward proxy servers. UPDATED DAILY! |
 | [`matchai/awesome-pinned-gists`](https://github.com/matchai/awesome-pinned-gists) | ⭐2.1k |  | 📌✨ A collection of awesome dynamic pinned gists for GitHub |
@@ -237,7 +237,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`zampierilucas/scx_horoscope`](https://github.com/zampierilucas/scx_horoscope) | ⭐1.4k |  | Astrological CPU Scheduler |
 | [`maunium/dontasktoask.com`](https://github.com/maunium/dontasktoask.com) | ⭐505 |  | An informational website about why you should ask questions directly instead of asking to ask |
 | [`nvbn/thefuck`](https://github.com/nvbn/thefuck) | ⭐96.8k | 💤 | Magnificent app which corrects your previous console command. |
-| [`kelseyhightower/nocode`](https://github.com/kelseyhightower/nocode) | ⭐65.3k | 💤 | The best way to write secure and reliable applications. Write nothing; deploy nowhere. |
+| [`kelseyhightower/nocode`](https://github.com/kelseyhightower/nocode) | ⭐65.2k | 💤 | The best way to write secure and reliable applications. Write nothing; deploy nowhere. |
 | [`ading2210/linuxpdf`](https://github.com/ading2210/linuxpdf) | ⭐4.9k | 💤 | Linux running inside a PDF file via a RISC-V emulator |
 | [`steeve/france.code-civil`](https://github.com/steeve/france.code-civil) | ⭐2.7k | 💤 | Le code civil français sous git |
 | [`nohello-net/site`](https://github.com/nohello-net/site) | ⭐1.5k | 💤 | _(no description)_ |
@@ -262,9 +262,9 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | --- | --- | --- | --- |
 | [`sherlock-project/sherlock`](https://github.com/sherlock-project/sherlock) | ⭐83.0k | 🔥 | Hunt down social media accounts by username across social networks |
 | [`Lissy93/web-check`](https://github.com/Lissy93/web-check) | ⭐33.0k | 🔥 | 🕵️‍♂️ All-in-one OSINT tool for analysing any website |
-| [`soxoj/maigret`](https://github.com/soxoj/maigret) | ⭐25.5k | 🔥 | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
+| [`soxoj/maigret`](https://github.com/soxoj/maigret) | ⭐25.7k | 🔥 | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
 | [`blacklanternsecurity/bbot`](https://github.com/blacklanternsecurity/bbot) | ⭐9.7k | 🔥 | The recursive internet scanner for hackers. 🧡 |
-| [`Datalux/Osintgram`](https://github.com/Datalux/Osintgram) | ⭐12.7k |  | Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram acc... |
+| [`Datalux/Osintgram`](https://github.com/Datalux/Osintgram) | ⭐12.8k |  | Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram acc... |
 | [`Lucksi/Mr.Holmes`](https://github.com/Lucksi/Mr.Holmes) | ⭐3.4k |  | A Complete Osint Tool :mag: |
 | [`musana/CF-Hero`](https://github.com/musana/CF-Hero) | ⭐1.8k |  | CF-Hero is a reconnaissance tool that uses multiple data sources to discover the origin IP addresses of Clo... |
 | [`l4rm4nd/LinkedInDumper`](https://github.com/l4rm4nd/LinkedInDumper) | ⭐587 |  | Python 3 script to dump/scrape/extract company employees from LinkedIn API |
@@ -289,6 +289,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
+| [`dockur/windows`](https://github.com/dockur/windows) | ⭐51.2k | 🔥 | Windows inside a Docker container. |
 | [`Dokploy/dokploy`](https://github.com/Dokploy/dokploy) | ⭐33.7k | 🔥 | Open Source Alternative to Vercel, Netlify and Heroku. |
 | [`ansible/awx`](https://github.com/ansible/awx) | ⭐15.4k | 🔥 | AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of th... |
 | [`semaphoreui/semaphore`](https://github.com/semaphoreui/semaphore) | ⭐13.6k | 🔥 | Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools. |
@@ -297,7 +298,6 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`composerize/composerize`](https://github.com/composerize/composerize) | ⭐3.7k | 🔥 | 🏃→🎼  docker run asdlksjfksdf > docker-composerize up |
 | [`nicholas-fedor/watchtower`](https://github.com/nicholas-fedor/watchtower) | ⭐3.5k | 🔥 | Automate Docker container image updates |
 | [`Mafyuh/iac`](https://github.com/Mafyuh/iac) | ⭐470 | 🔥 | GitOps-driven Infrastructure as Code for my homelab |
-| [`dockur/windows`](https://github.com/dockur/windows) | ⭐51.2k |  | Windows inside a Docker container. |
 | [`geerlingguy/internet-pi`](https://github.com/geerlingguy/internet-pi) | ⭐4.7k |  | Raspberry Pi config for all things Internet. |
 | [`davestephens/ansible-nas`](https://github.com/davestephens/ansible-nas) | ⭐3.7k |  | Build a full-featured home server or NAS replacement with an Ubuntu box and this playbook. |
 | [`ChristopheJacquet/PiFmRds`](https://github.com/ChristopheJacquet/PiFmRds) | ⭐1.6k |  | FM-RDS transmitter using the Raspberry Pi's PWM |
@@ -372,7 +372,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
 | [`Genymobile/scrcpy`](https://github.com/Genymobile/scrcpy) | ⭐139.5k | 🔥 | Display and control your Android device |
-| [`topjohnwu/Magisk`](https://github.com/topjohnwu/Magisk) | ⭐60.2k | 🔥 | The Magic Mask for Android |
+| [`topjohnwu/Magisk`](https://github.com/topjohnwu/Magisk) | ⭐60.3k | 🔥 | The Magic Mask for Android |
 | [`yuliskov/SmartTube`](https://github.com/yuliskov/SmartTube) | ⭐30.0k | 🔥 | Browse media content with your own rules on Android TV |
 | [`ReVanced/revanced-manager`](https://github.com/ReVanced/revanced-manager) | ⭐27.7k | 🔥 | 💊 Application to use ReVanced on Android |
 | [`breezy-weather/breezy-weather`](https://github.com/breezy-weather/breezy-weather) | ⭐10.0k | 🔥 | A feature-rich weather app with good visualizations and more than 50 sources. |
@@ -455,9 +455,9 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`miffycs/Animal-Crossing-Amiibo`](https://github.com/miffycs/Animal-Crossing-Amiibo) | ⭐964 |  | 🎮   Step-by-step instructions on how to recreate Amiibo cards for Animal Crossing: New Horizons. For educat... |
 | [`TheOrcDev/warcraftcn-ui`](https://github.com/TheOrcDev/warcraftcn-ui) | ⭐732 |  | A collection of accessible, retro-inspired UI components drawing from classic real-time strategy aesthetics... |
 | [`ZKjellberg/dark-souls-3-cheat-sheet`](https://github.com/ZKjellberg/dark-souls-3-cheat-sheet) | ⭐356 |  | Checklist for Dark Souls 3 using HTML5 storage to retain progress |
-| [`mackieks/Kawaii`](https://github.com/mackieks/Kawaii) | ⭐300 |  | Tiny, beautiful metal Wii keychain |
+| [`mackieks/Kawaii`](https://github.com/mackieks/Kawaii) | ⭐301 |  | Tiny, beautiful metal Wii keychain |
 | [`mapcrafter/mapcrafter`](https://github.com/mapcrafter/mapcrafter) | ⭐639 | 💤 | High Performance Minecraft Map Renderer. |
-| [`DeltaJordan/BotW-Save-Manager`](https://github.com/DeltaJordan/BotW-Save-Manager) | ⭐402 | 💤 | BOTW Save Manager for Switch and Wii U |
+| [`DeltaJordan/BotW-Save-Manager`](https://github.com/DeltaJordan/BotW-Save-Manager) | ⭐403 | 💤 | BOTW Save Manager for Switch and Wii U |
 | [`RatchetModding/slimseditor`](https://github.com/RatchetModding/slimseditor) | ⭐22 | 💤 | A savegame editor for the Ratchet and Clank games, written in Python. |
 | [`jswidler/HOTSNet`](https://github.com/jswidler/HOTSNet) | ⭐14 | 💤 | Use machine learning to predict Heroes of the Storm games |
 | [`tama/pogo-discord-raid-bot`](https://github.com/tama/pogo-discord-raid-bot) | ⭐1 | 💤 | A bot to list players on a discord server participating to a raid |
@@ -473,8 +473,8 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | --- | --- | --- | --- |
 | [`LadybirdBrowser/ladybird`](https://github.com/LadybirdBrowser/ladybird) | ⭐62.8k | 🔥 | Truly independent web browser |
 | [`ghostty-org/ghostty`](https://github.com/ghostty-org/ghostty) | ⭐53.6k | 🔥 | 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GP... |
-| [`tw93/Mole`](https://github.com/tw93/Mole) | ⭐50.1k | 🔥 | 🐹 Deep clean and optimize your Mac. |
-| [`microsoft/WSL`](https://github.com/microsoft/WSL) | ⭐32.1k | 🔥 | Windows Subsystem for Linux |
+| [`tw93/Mole`](https://github.com/tw93/Mole) | ⭐50.2k | 🔥 | 🐹 Deep clean and optimize your Mac. |
+| [`microsoft/WSL`](https://github.com/microsoft/WSL) | ⭐32.2k | 🔥 | Windows Subsystem for Linux |
 | [`Devolutions/UniGetUI`](https://github.com/Devolutions/UniGetUI) | ⭐23.5k | 🔥 | UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manag... |
 | [`beekeeper-studio/beekeeper-studio`](https://github.com/beekeeper-studio/beekeeper-studio) | ⭐22.7k | 🔥 | Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Wind... |
 | [`keylase/nvidia-patch`](https://github.com/keylase/nvidia-patch) | ⭐4.6k | 🔥 | This patch removes restriction on maximum number of simultaneous NVENC video encoding sessions imposed by N... |
@@ -518,7 +518,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`Koenkk/zigbee2mqtt`](https://github.com/Koenkk/zigbee2mqtt) | ⭐15.1k | 🔥 | Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨 |
 | [`pvvx/ATC_MiThermometer`](https://github.com/pvvx/ATC_MiThermometer) | ⭐4.1k | 🔥 | Custom firmware for the Xiaomi Thermometers and Telink Flasher |
 | [`pvvx/ZigbeeTLc`](https://github.com/pvvx/ZigbeeTLc) | ⭐760 | 🔥 | Custom firmware for Zigbee 3.0 IoT devices on the TLSR825x chip |
-| [`CTalvio/Ultrachromic`](https://github.com/CTalvio/Ultrachromic) | ⭐944 |  | The final form, the true evolution of the chromic theme saga! |
+| [`CTalvio/Ultrachromic`](https://github.com/CTalvio/Ultrachromic) | ⭐945 |  | The final form, the true evolution of the chromic theme saga! |
 | [`darkxst/silabs-firmware-builder`](https://github.com/darkxst/silabs-firmware-builder) | ⭐784 |  | Silicon Labs firmware builder |
 | [`sbidy/pywizlight`](https://github.com/sbidy/pywizlight) | ⭐529 |  | A python connector for WiZ devices |
 | [`HGHugo/FreeboxOS-Ultra-Dashboard`](https://github.com/HGHugo/FreeboxOS-Ultra-Dashboard) | ⭐387 |  | Freebox OS Ultra Dashboard est une interface web moderne (React 19 + Express 5) pour piloter une Freebox : ... |
@@ -537,16 +537,16 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
-| [`openclaw/openclaw`](https://github.com/openclaw/openclaw) | ⭐368.7k | 🔥 | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 |
-| [`anomalyco/opencode`](https://github.com/anomalyco/opencode) | ⭐155.3k | 🔥 | The open source coding agent. |
+| [`openclaw/openclaw`](https://github.com/openclaw/openclaw) | ⭐368.8k | 🔥 | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 |
+| [`anomalyco/opencode`](https://github.com/anomalyco/opencode) | ⭐155.4k | 🔥 | The open source coding agent. |
 | [`open-webui/open-webui`](https://github.com/open-webui/open-webui) | ⭐135.7k | 🔥 | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) |
 | [`punkpeye/awesome-mcp-servers`](https://github.com/punkpeye/awesome-mcp-servers) | ⭐86.3k | 🔥 | A collection of MCP servers. |
-| [`santifer/career-ops`](https://github.com/santifer/career-ops) | ⭐42.8k | 🔥 | AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch proc... |
+| [`santifer/career-ops`](https://github.com/santifer/career-ops) | ⭐42.9k | 🔥 | AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch proc... |
 | [`srbhr/Resume-Matcher`](https://github.com/srbhr/Resume-Matcher) | ⭐26.9k | 🔥 | Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job de... |
 | [`yamadashy/repomix`](https://github.com/yamadashy/repomix) | ⭐24.4k | 🔥 | 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for... |
-| [`OpenBMB/VoxCPM`](https://github.com/OpenBMB/VoxCPM) | ⭐17.4k | 🔥 | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Clo... |
 | [`elie222/inbox-zero`](https://github.com/elie222/inbox-zero) | ⭐10.6k | 🔥 | The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast. |
-| [`forrestchang/andrej-karpathy-skills`](https://github.com/forrestchang/andrej-karpathy-skills) | ⭐114.1k |  | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM... |
+| [`forrestchang/andrej-karpathy-skills`](https://github.com/forrestchang/andrej-karpathy-skills) | ⭐114.9k |  | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM... |
+| [`OpenBMB/VoxCPM`](https://github.com/OpenBMB/VoxCPM) | ⭐17.4k |  | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Clo... |
 | [`TheEvilSkeleton/Upscaler`](https://github.com/TheEvilSkeleton/Upscaler) | ⭐42 |  | Upscale and enhance images |
 | [`yoanbernabeu/NanoThumbnail`](https://github.com/yoanbernabeu/NanoThumbnail) | ⭐34 |  | Generate Viral Thumbnails with AI |
 | [`Zyphra/Zonos`](https://github.com/Zyphra/Zonos) | ⭐7.2k | 💤 | Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilin... |
@@ -560,7 +560,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | --- | --- | --- | --- |
 | [`junegunn/fzf`](https://github.com/junegunn/fzf) | ⭐80.0k | 🔥 | :cherry_blossom: A command-line fuzzy finder |
 | [`sharkdp/bat`](https://github.com/sharkdp/bat) | ⭐58.7k | 🔥 | A cat(1) clone with wings. |
-| [`sharkdp/fd`](https://github.com/sharkdp/fd) | ⭐42.8k | 🔥 | A simple, fast and user-friendly alternative to 'find' |
+| [`sharkdp/fd`](https://github.com/sharkdp/fd) | ⭐42.9k | 🔥 | A simple, fast and user-friendly alternative to 'find' |
 | [`chubin/wttr.in`](https://github.com/chubin/wttr.in) | ⭐29.5k | 🔥 | :partly_sunny: The right way to check the weather |
 | [`fastfetch-cli/fastfetch`](https://github.com/fastfetch-cli/fastfetch) | ⭐22.5k | 🔥 | A maintained, feature-rich and performance oriented, neofetch like system information tool. |
 | [`topgrade-rs/topgrade`](https://github.com/topgrade-rs/topgrade) | ⭐4.0k | 🔥 | Upgrade all the things |
@@ -581,8 +581,8 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | --- | --- | --- | --- |
 | [`jesseduffield/lazygit`](https://github.com/jesseduffield/lazygit) | ⭐77.5k | 🔥 | simple terminal UI for git commands |
 | [`sxyazi/yazi`](https://github.com/sxyazi/yazi) | ⭐37.6k | 🔥 | 💥 Blazing fast terminal file manager written in Rust, based on async I/O. |
-| [`jordond/jolt`](https://github.com/jordond/jolt) | ⭐494 | 🔥 | ⚡️A terminal-based battery and energy monitor for macOS and Linux. |
-| [`Harry-kp/vortix`](https://github.com/Harry-kp/vortix) | ⭐414 | 🔥 | Terminal UI for WireGuard and OpenVPN with real-time telemetry and leak guarding. |
+| [`jordond/jolt`](https://github.com/jordond/jolt) | ⭐496 | 🔥 | ⚡️A terminal-based battery and energy monitor for macOS and Linux. |
+| [`Harry-kp/vortix`](https://github.com/Harry-kp/vortix) | ⭐415 | 🔥 | Terminal UI for WireGuard and OpenVPN with real-time telemetry and leak guarding. |
 | [`jesseduffield/lazydocker`](https://github.com/jesseduffield/lazydocker) | ⭐50.9k |  | The lazier way to manage everything docker |
 | [`derailed/k9s`](https://github.com/derailed/k9s) | ⭐33.6k |  | 🐶 Kubernetes CLI To Manage Your Clusters In Style! |
 | [`rothgar/awesome-tuis`](https://github.com/rothgar/awesome-tuis) | ⭐18.6k |  | List of projects that provide terminal user interfaces |
@@ -600,11 +600,11 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
 | [`nektos/act`](https://github.com/nektos/act) | ⭐70.2k | 🔥 | Run your GitHub Actions locally 🚀 |
+| [`lowlighter/metrics`](https://github.com/lowlighter/metrics) | ⭐16.6k | 🔥 | 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account an... |
 | [`ahmedkhaleel2004/gitdiagram`](https://github.com/ahmedkhaleel2004/gitdiagram) | ⭐15.6k | 🔥 | Free, simple, fast interactive diagrams for any GitHub repository |
 | [`octobox/octobox`](https://github.com/octobox/octobox) | ⭐4.5k | 🔥 | 📮 Untangle your GitHub Notifications |
 | [`anuraghazra/github-readme-stats`](https://github.com/anuraghazra/github-readme-stats) | ⭐79.3k |  | :zap: Dynamically generated stats for your github readmes |
 | [`tipsy/profile-summary-for-github`](https://github.com/tipsy/profile-summary-for-github) | ⭐19.9k |  | Tool for visualizing GitHub profiles |
-| [`lowlighter/metrics`](https://github.com/lowlighter/metrics) | ⭐16.6k |  | 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account an... |
 | [`acaudwell/Gource`](https://github.com/acaudwell/Gource) | ⭐13.0k |  | software version control visualization |
 | [`vn7n24fzkq/github-profile-summary-cards`](https://github.com/vn7n24fzkq/github-profile-summary-cards) | ⭐3.5k |  | A tool to generate your GitHub summary card for profile README |
 | [`gautamkrishnar/blog-post-workflow`](https://github.com/gautamkrishnar/blog-post-workflow) | ⭐3.4k |  | Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub pro... |
@@ -673,7 +673,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | --- | --- | --- | --- |
 | [`ebkr/r2modmanPlus`](https://github.com/ebkr/r2modmanPlus) | ⭐2.0k | 🔥 | A simple and easy to use mod manager for several games using Thunderstore |
 | [`Grokitach/Stalker_GAMMA`](https://github.com/Grokitach/Stalker_GAMMA) | ⭐1.1k | 🔥 | S.T.A.L.K.E.R. G.A.M.M.A. modpack for Anomaly |
-| [`CookiePLMonster/SilentPatch`](https://github.com/CookiePLMonster/SilentPatch) | ⭐925 | 🔥 | SilentPatch for GTA III, Vice City, and San Andreas |
+| [`CookiePLMonster/SilentPatch`](https://github.com/CookiePLMonster/SilentPatch) | ⭐926 | 🔥 | SilentPatch for GTA III, Vice City, and San Andreas |
 | [`marcrobledo/savegame-editors`](https://github.com/marcrobledo/savegame-editors) | ⭐1.3k |  | A compilation of console savegame editors made with HTML5 technologies. |
 | [`hoverbike1/TOTK-Mods-collection`](https://github.com/hoverbike1/TOTK-Mods-collection) | ⭐3.2k | 💤 | Mod repo for Tears of The Kingdom (TOTK) for Switch and Switch Emulation |
 | [`FailedShack/USBHelperLauncher`](https://github.com/FailedShack/USBHelperLauncher) | ⭐504 | 💤 | USBHelperLauncher restores and enhances Wii U USB Helper functionality by patching it at runtime and interc... |
