@@ -573,8 +573,8 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
-| [`openclaw/openclaw`](https://github.com/openclaw/openclaw) | ⭐368.6k | 🔥 | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 |
-| [`anomalyco/opencode`](https://github.com/anomalyco/opencode) | ⭐155.2k | 🔥 | The open source coding agent. |
+| [`openclaw/openclaw`](https://github.com/openclaw/openclaw) | ⭐368.7k | 🔥 | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 |
+| [`anomalyco/opencode`](https://github.com/anomalyco/opencode) | ⭐155.3k | 🔥 | The open source coding agent. |
 | [`open-webui/open-webui`](https://github.com/open-webui/open-webui) | ⭐135.6k | 🔥 | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) |
 | [`yamadashy/repomix`](https://github.com/yamadashy/repomix) | ⭐24.4k | 🔥 | 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for... |
 | [`OpenBMB/VoxCPM`](https://github.com/OpenBMB/VoxCPM) | ⭐17.4k | 🔥 | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Clo... |

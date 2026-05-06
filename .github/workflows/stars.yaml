@@ -1,4 +1,4 @@
-name: Sync stars from awesome-stars
+name: Sync stars
 
 on:
   schedule:
@@ -19,7 +19,7 @@ jobs:
       - uses: actions/checkout@v5
 
       - name: Fetch upstream catalog
-        run: curl -fsSL -o /tmp/upstream.md "https://raw.githubusercontent.com/${{ github.repository_owner }}/awesome-stars/main/README.md"
+        run: curl -fsSL -o /tmp/upstream.md "https://raw.githubusercontent.com/${{ github.repository_owner }}/stars/main/README.md"
 
       - name: Replace marker block in profile README
         run: python3 .github/scripts/sync_stars.py
