@@ -27,7 +27,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 <!-- STARS:START -->
 ## ⭐ Curated Stars
 
-**458 repos** across **29 categories**. Click any section to expand.
+**455 repos** across **29 categories**. Click any section to expand.
 
 <details>
 <summary><b>Hacking</b> &nbsp;·&nbsp; 29 ⭐ &nbsp;·&nbsp; <i>Pentesting frameworks, WiFi/Bluetooth attack tools and offensive security utilities.</i></summary>
@@ -67,42 +67,6 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 </details>
 
 <details>
-<summary><b>Arch</b> &nbsp;·&nbsp; 28 ⭐ &nbsp;·&nbsp; <i>Linux ricing essentials: Hyprland, polybar, rofi, Catppuccin themes and shell tweaks.</i></summary>
-
-| Repo | Stars | Status | Description |
-| --- | --- | --- | --- |
-| [`ohmyzsh/ohmyzsh`](https://github.com/ohmyzsh/ohmyzsh) | ⭐186.7k | 🔥 | 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration.... |
-| [`be5invis/Iosevka`](https://github.com/be5invis/Iosevka) | ⭐22.2k | 🔥 | Versatile typeface for code, from code. |
-| [`davatorium/rofi`](https://github.com/davatorium/rofi) | ⭐16.0k | 🔥 | Rofi: A window switcher, application launcher and dmenu replacement |
-| [`HyDE-Project/HyDE`](https://github.com/HyDE-Project/HyDE) | ⭐8.9k | 🔥 | HyDE, your Development Environment 🖥️💻 |
-| [`adi1090x/polybar-themes`](https://github.com/adi1090x/polybar-themes) | ⭐6.2k | 🔥 | A huge collection of polybar themes with different styles, colors and variants. |
-| [`hyprland-community/awesome-hyprland`](https://github.com/hyprland-community/awesome-hyprland) | ⭐5.1k | 🔥 | Awesome list for Hyprland [maintainer=@yavko] |
-| [`EliverLara/Nordic`](https://github.com/EliverLara/Nordic) | ⭐2.7k | 🔥 | :snowflake: Dark Gtk3.20+ theme created using the awesome Nord color pallete. |
-| [`catppuccin/userstyles`](https://github.com/catppuccin/userstyles) | ⭐1.0k | 🔥 | 🖌 Soothing pastel userstyles |
-| [`catppuccin/vscode-icons`](https://github.com/catppuccin/vscode-icons) | ⭐975 | 🔥 | 🦊 Soothing pastel icons for VSCode/VSCodium |
-| [`Stunkymonkey/nautilus-open-any-terminal`](https://github.com/Stunkymonkey/nautilus-open-any-terminal) | ⭐938 | 🔥 | _(no description)_ |
-| [`catppuccin/cursors`](https://github.com/catppuccin/cursors) | ⭐716 | 🔥 | 🐁 Soothing pastel cursors for GTK/Plasma/Hyprland |
-| [`rubiin/Tsumiki`](https://github.com/rubiin/Tsumiki) | ⭐231 | 🔥 | modular panel written on fabric |
-| [`uncenter/catppuccin-userstyles-customizer`](https://github.com/uncenter/catppuccin-userstyles-customizer) | ⭐48 | 🔥 | 🧚🏼 Customize your preferred flavors and accent color for catppuccin/userstyles. Generates a JSON file for i... |
-| [`romkatv/powerlevel10k`](https://github.com/romkatv/powerlevel10k) | ⭐54.1k |  | A Zsh theme |
-| [`zsh-users/zsh-syntax-highlighting`](https://github.com/zsh-users/zsh-syntax-highlighting) | ⭐22.6k |  | Fish shell like syntax highlighting for Zsh. |
-| [`polybar/polybar`](https://github.com/polybar/polybar) | ⭐15.2k |  | A fast and easy-to-use status bar |
-| [`home-sweet-gnome/dash-to-panel`](https://github.com/home-sweet-gnome/dash-to-panel) | ⭐4.4k |  | An icon taskbar for the Gnome Shell. This extension moves the dash into the gnome main panel so that the ap... |
-| [`Keyitdev/sddm-astronaut-theme`](https://github.com/Keyitdev/sddm-astronaut-theme) | ⭐2.8k |  | Series of modern looking themes for SDDM. |
-| [`EliverLara/Sweet`](https://github.com/EliverLara/Sweet) | ⭐1.7k |  | A beautiful theme with neon vibes for GNOME |
-| [`SleepyCatHey/CozyPixels`](https://github.com/SleepyCatHey/CozyPixels) | ⭐1.1k |  | 🎨 Aesthetic wallpaper collection gathered over a year! Catppuccin, Nord, One Dark themes & cozy vibes. Free... |
-| [`zhichaoh/catppuccin-wallpapers`](https://github.com/zhichaoh/catppuccin-wallpapers) | ⭐837 | 💤 | 🖼️ Wallpapers to match your Catppuccin setups! |
-| [`Litarvan/lightdm-webkit-theme-litarvan`](https://github.com/Litarvan/lightdm-webkit-theme-litarvan) | ⭐727 | 💤 | Litarvan's LightDM HTML Theme |
-| [`nickclyde/rofi-bluetooth`](https://github.com/nickclyde/rofi-bluetooth) | ⭐600 | 💤 | 🔷 A script that generates a rofi menu that uses bluetoothctl to connect to bluetooth devices and display st... |
-| [`odziom91/libadwaita-theme-changer`](https://github.com/odziom91/libadwaita-theme-changer) | ⭐337 | 💤 | Theme changer for Libadwaita |
-| [`EliverLara/Sweet-folders`](https://github.com/EliverLara/Sweet-folders) | ⭐245 | 💤 | _(no description)_ |
-| [`nordtheme/terminator`](https://github.com/nordtheme/terminator) | ⭐113 | 💤 | An arctic, north-bluish clean and elegant Terminator color theme. |
-| [`catppuccin/terminator`](https://github.com/catppuccin/terminator) | ⭐36 | 💤 | 🦣 Soothing pastel theme for Terminator |
-| [`dylanaraps/neofetch`](https://github.com/dylanaraps/neofetch) | ⭐23.7k | 📦 | 🖼️  A command-line system information tool written in bash 3.2+ |
-
-</details>
-
-<details>
 <summary><b>Productivity</b> &nbsp;·&nbsp; 25 ⭐ &nbsp;·&nbsp; <i>Documents, ebooks, notes/PKM, dashboards, recipes and workflow automation.</i></summary>
 
 | Repo | Stars | Status | Description |
@@ -136,7 +100,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 </details>
 
 <details>
-<summary><b>Media</b> &nbsp;·&nbsp; 25 ⭐ &nbsp;·&nbsp; <i>Spotify clients, video downloaders, OBS plugins and music library managers.</i></summary>
+<summary><b>Media</b> &nbsp;·&nbsp; 25 ⭐ &nbsp;·&nbsp; <i>Self-hosted media servers, photo libraries, IP cameras, video downloaders and OBS plugins.</i></summary>
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
@@ -165,6 +129,39 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`GuGuss/ARTE-7-Downloader`](https://github.com/GuGuss/ARTE-7-Downloader) | ⭐261 | 💤 | User script to download videos from the ARTE+7 website |
 | [`univrsal/spectralizer`](https://github.com/univrsal/spectralizer) | ⭐617 | 📦 | Audio visualizer plugin for obs-studio |
 | [`danielveigasilva/jellyfin-plugin-letterboxd-sync`](https://github.com/danielveigasilva/jellyfin-plugin-letterboxd-sync) | ⭐108 | 📦 | A unofficial plugin to keep your watched movie history from Jellyfin automatically updated to your Letterbo... |
+
+</details>
+
+<details>
+<summary><b>Arch</b> &nbsp;·&nbsp; 25 ⭐ &nbsp;·&nbsp; <i>Linux ricing essentials: Hyprland, polybar, rofi, Catppuccin themes and shell tweaks.</i></summary>
+
+| Repo | Stars | Status | Description |
+| --- | --- | --- | --- |
+| [`ohmyzsh/ohmyzsh`](https://github.com/ohmyzsh/ohmyzsh) | ⭐186.7k | 🔥 | 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration.... |
+| [`be5invis/Iosevka`](https://github.com/be5invis/Iosevka) | ⭐22.2k | 🔥 | Versatile typeface for code, from code. |
+| [`davatorium/rofi`](https://github.com/davatorium/rofi) | ⭐16.0k | 🔥 | Rofi: A window switcher, application launcher and dmenu replacement |
+| [`HyDE-Project/HyDE`](https://github.com/HyDE-Project/HyDE) | ⭐8.9k | 🔥 | HyDE, your Development Environment 🖥️💻 |
+| [`adi1090x/polybar-themes`](https://github.com/adi1090x/polybar-themes) | ⭐6.2k | 🔥 | A huge collection of polybar themes with different styles, colors and variants. |
+| [`hyprland-community/awesome-hyprland`](https://github.com/hyprland-community/awesome-hyprland) | ⭐5.1k | 🔥 | Awesome list for Hyprland [maintainer=@yavko] |
+| [`EliverLara/Nordic`](https://github.com/EliverLara/Nordic) | ⭐2.7k | 🔥 | :snowflake: Dark Gtk3.20+ theme created using the awesome Nord color pallete. |
+| [`catppuccin/userstyles`](https://github.com/catppuccin/userstyles) | ⭐1.0k | 🔥 | 🖌 Soothing pastel userstyles |
+| [`catppuccin/vscode-icons`](https://github.com/catppuccin/vscode-icons) | ⭐975 | 🔥 | 🦊 Soothing pastel icons for VSCode/VSCodium |
+| [`Stunkymonkey/nautilus-open-any-terminal`](https://github.com/Stunkymonkey/nautilus-open-any-terminal) | ⭐938 | 🔥 | _(no description)_ |
+| [`catppuccin/cursors`](https://github.com/catppuccin/cursors) | ⭐716 | 🔥 | 🐁 Soothing pastel cursors for GTK/Plasma/Hyprland |
+| [`rubiin/Tsumiki`](https://github.com/rubiin/Tsumiki) | ⭐231 | 🔥 | modular panel written on fabric |
+| [`uncenter/catppuccin-userstyles-customizer`](https://github.com/uncenter/catppuccin-userstyles-customizer) | ⭐48 | 🔥 | 🧚🏼 Customize your preferred flavors and accent color for catppuccin/userstyles. Generates a JSON file for i... |
+| [`romkatv/powerlevel10k`](https://github.com/romkatv/powerlevel10k) | ⭐54.1k |  | A Zsh theme |
+| [`zsh-users/zsh-syntax-highlighting`](https://github.com/zsh-users/zsh-syntax-highlighting) | ⭐22.6k |  | Fish shell like syntax highlighting for Zsh. |
+| [`polybar/polybar`](https://github.com/polybar/polybar) | ⭐15.2k |  | A fast and easy-to-use status bar |
+| [`home-sweet-gnome/dash-to-panel`](https://github.com/home-sweet-gnome/dash-to-panel) | ⭐4.4k |  | An icon taskbar for the Gnome Shell. This extension moves the dash into the gnome main panel so that the ap... |
+| [`Keyitdev/sddm-astronaut-theme`](https://github.com/Keyitdev/sddm-astronaut-theme) | ⭐2.8k |  | Series of modern looking themes for SDDM. |
+| [`EliverLara/Sweet`](https://github.com/EliverLara/Sweet) | ⭐1.7k |  | A beautiful theme with neon vibes for GNOME |
+| [`SleepyCatHey/CozyPixels`](https://github.com/SleepyCatHey/CozyPixels) | ⭐1.1k |  | 🎨 Aesthetic wallpaper collection gathered over a year! Catppuccin, Nord, One Dark themes & cozy vibes. Free... |
+| [`zhichaoh/catppuccin-wallpapers`](https://github.com/zhichaoh/catppuccin-wallpapers) | ⭐837 | 💤 | 🖼️ Wallpapers to match your Catppuccin setups! |
+| [`nickclyde/rofi-bluetooth`](https://github.com/nickclyde/rofi-bluetooth) | ⭐600 | 💤 | 🔷 A script that generates a rofi menu that uses bluetoothctl to connect to bluetooth devices and display st... |
+| [`EliverLara/Sweet-folders`](https://github.com/EliverLara/Sweet-folders) | ⭐245 | 💤 | _(no description)_ |
+| [`nordtheme/terminator`](https://github.com/nordtheme/terminator) | ⭐113 | 💤 | An arctic, north-bluish clean and elegant Terminator color theme. |
+| [`catppuccin/terminator`](https://github.com/catppuccin/terminator) | ⭐36 | 💤 | 🦣 Soothing pastel theme for Terminator |
 
 </details>
 
@@ -420,13 +417,13 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 </details>
 
 <details>
-<summary><b>Privacy</b> &nbsp;·&nbsp; 17 ⭐ &nbsp;·&nbsp; <i>Tracker blockers, anonymous messaging and tools to escape surveillance and profiling.</i></summary>
+<summary><b>Privacy</b> &nbsp;·&nbsp; 17 ⭐ &nbsp;·&nbsp; <i>Tracker blockers, password managers, anonymous messaging and tools to escape surveillance.</i></summary>
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
 | [`dani-garcia/vaultwarden`](https://github.com/dani-garcia/vaultwarden) | ⭐59.8k | 🔥 | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs |
 | [`umami-software/umami`](https://github.com/umami-software/umami) | ⭐36.5k | 🔥 | Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixp... |
-| [`searxng/searxng`](https://github.com/searxng/searxng) | ⭐29.4k | 🔥 | SearXNG is a free internet metasearch engine which aggregates results from various search services and data... |
+| [`searxng/searxng`](https://github.com/searxng/searxng) | ⭐29.5k | 🔥 | SearXNG is a free internet metasearch engine which aggregates results from various search services and data... |
 | [`keeweb/keeweb`](https://github.com/keeweb/keeweb) | ⭐12.9k | 🔥 | Free cross-platform password manager compatible with KeePass |
 | [`mvt-project/mvt`](https://github.com/mvt-project/mvt) | ⭐12.4k | 🔥 | MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs ... |
 | [`simplex-chat/simplex-chat`](https://github.com/simplex-chat/simplex-chat) | ⭐11.0k | 🔥 | SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by desi... |
@@ -549,7 +546,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`yamadashy/repomix`](https://github.com/yamadashy/repomix) | ⭐24.4k | 🔥 | 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for... |
 | [`OpenBMB/VoxCPM`](https://github.com/OpenBMB/VoxCPM) | ⭐17.4k | 🔥 | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Clo... |
 | [`elie222/inbox-zero`](https://github.com/elie222/inbox-zero) | ⭐10.6k | 🔥 | The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast. |
-| [`forrestchang/andrej-karpathy-skills`](https://github.com/forrestchang/andrej-karpathy-skills) | ⭐114.0k |  | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM... |
+| [`forrestchang/andrej-karpathy-skills`](https://github.com/forrestchang/andrej-karpathy-skills) | ⭐114.1k |  | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM... |
 | [`TheEvilSkeleton/Upscaler`](https://github.com/TheEvilSkeleton/Upscaler) | ⭐42 |  | Upscale and enhance images |
 | [`yoanbernabeu/NanoThumbnail`](https://github.com/yoanbernabeu/NanoThumbnail) | ⭐34 |  | Generate Viral Thumbnails with AI |
 | [`Zyphra/Zonos`](https://github.com/Zyphra/Zonos) | ⭐7.2k | 💤 | Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilin... |
@@ -589,8 +586,8 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`jesseduffield/lazydocker`](https://github.com/jesseduffield/lazydocker) | ⭐50.9k |  | The lazier way to manage everything docker |
 | [`derailed/k9s`](https://github.com/derailed/k9s) | ⭐33.6k |  | 🐶 Kubernetes CLI To Manage Your Clusters In Style! |
 | [`rothgar/awesome-tuis`](https://github.com/rothgar/awesome-tuis) | ⭐18.6k |  | List of projects that provide terminal user interfaces |
-| [`muesli/duf`](https://github.com/muesli/duf) | ⭐15.0k |  | Disk Usage/Free Utility - a better 'df' alternative |
 | [`pranshuparmar/witr`](https://github.com/pranshuparmar/witr) | ⭐15.0k |  | Why is this running? |
+| [`muesli/duf`](https://github.com/muesli/duf) | ⭐15.0k |  | Disk Usage/Free Utility - a better 'df' alternative |
 | [`orf/gping`](https://github.com/orf/gping) | ⭐12.5k |  | Ping, but with a graph |
 | [`da-luce/astroterm`](https://github.com/da-luce/astroterm) | ⭐1.9k |  | A planetarium for your terminal! Explore stars, planets, constellations, and more, all rendered right in th... |
 | [`Chleba/netscanner`](https://github.com/Chleba/netscanner) | ⭐1.8k |  | Terminal Network scanner & diagnostic tool with modern TUI |
@@ -598,7 +595,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 </details>
 
 <details>
-<summary><b>GitHub</b> &nbsp;·&nbsp; 12 ⭐ &nbsp;·&nbsp; <i>Widgets and stat generators for dressing up your GitHub profile README.</i></summary>
+<summary><b>GitHub</b> &nbsp;·&nbsp; 12 ⭐ &nbsp;·&nbsp; <i>GitHub-flavored tooling: profile widgets, repo migrators, git visualizers and notification managers.</i></summary>
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
