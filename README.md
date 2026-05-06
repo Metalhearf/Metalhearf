@@ -27,7 +27,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 <!-- STARS:START -->
 ## ⭐ Curated Stars
 
-**458 starred repos** organized into **15 categories**. Expand a section to browse.
+**458 repos** across **15 categories**, refreshed daily via [awesome-stars](https://github.com/Metalhearf/awesome-stars). Click any section to expand.
 
 <details>
 <summary><b>Self-Hosted</b> &nbsp;·&nbsp; 130 ⭐ &nbsp;·&nbsp; <i>Docker apps for replacing cloud services: media, photos, VPN, dashboards, automation.</i></summary>
@@ -36,9 +36,9 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | --- | --- | --- | --- |
 | [`n8n-io/n8n`](https://github.com/n8n-io/n8n) | ⭐186.8k | 🔥 | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom cod... |
 | [`open-webui/open-webui`](https://github.com/open-webui/open-webui) | ⭐135.6k | 🔥 | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) |
-| [`excalidraw/excalidraw`](https://github.com/excalidraw/excalidraw) | ⭐122.5k | 🔥 | Virtual whiteboard for sketching hand-drawn like diagrams |
-| [`immich-app/immich`](https://github.com/immich-app/immich) | ⭐99.7k | 🔥 | High performance self-hosted photo and video management solution. |
-| [`louislam/uptime-kuma`](https://github.com/louislam/uptime-kuma) | ⭐86.2k | 🔥 | A fancy self-hosted monitoring tool |
+| [`excalidraw/excalidraw`](https://github.com/excalidraw/excalidraw) | ⭐122.6k | 🔥 | Virtual whiteboard for sketching hand-drawn like diagrams |
+| [`immich-app/immich`](https://github.com/immich-app/immich) | ⭐99.8k | 🔥 | High performance self-hosted photo and video management solution. |
+| [`louislam/uptime-kuma`](https://github.com/louislam/uptime-kuma) | ⭐86.3k | 🔥 | A fancy self-hosted monitoring tool |
 | [`netdata/netdata`](https://github.com/netdata/netdata) | ⭐78.7k | 🔥 | The fastest path to AI-powered full stack observability, even for lean teams. |
 | [`Stirling-Tools/Stirling-PDF`](https://github.com/Stirling-Tools/Stirling-PDF) | ⭐78.2k | 🔥 | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere |
 | [`traefik/traefik`](https://github.com/traefik/traefik) | ⭐63.0k | 🔥 | The Cloud Native Application Proxy |
@@ -61,7 +61,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`gethomepage/homepage`](https://github.com/gethomepage/homepage) | ⭐29.9k | 🔥 | A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrati... |
 | [`searxng/searxng`](https://github.com/searxng/searxng) | ⭐29.4k | 🔥 | SearXNG is a free internet metasearch engine which aggregates results from various search services and data... |
 | [`chatwoot/chatwoot`](https://github.com/chatwoot/chatwoot) | ⭐29.0k | 🔥 | Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Se... |
-| [`sipeed/picoclaw`](https://github.com/sipeed/picoclaw) | ⭐28.7k | 🔥 | Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity |
+| [`sipeed/picoclaw`](https://github.com/sipeed/picoclaw) | ⭐28.8k | 🔥 | Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity |
 | [`openwrt/openwrt`](https://github.com/openwrt/openwrt) | ⭐26.8k | 🔥 | This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is ... |
 | [`wg-easy/wg-easy`](https://github.com/wg-easy/wg-easy) | ⭐25.6k | 🔥 | The easiest way to run WireGuard VPN + Web-based Admin UI. |
 | [`henrygd/beszel`](https://github.com/henrygd/beszel) | ⭐21.6k | 🔥 | Lightweight server monitoring with historical data, docker stats, and alerts. |
@@ -81,7 +81,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`netbootxyz/netboot.xyz`](https://github.com/netbootxyz/netboot.xyz) | ⭐11.7k | 🔥 | Your favorite operating systems in one place.  A network-based bootable operating system installer based on... |
 | [`getumbrel/umbrel`](https://github.com/getumbrel/umbrel) | ⭐11.2k | 🔥 | An elegant home server OS. Run OpenClaw, store your files and photos, run a Bitcoin node, and do more with ... |
 | [`seerr-team/seerr`](https://github.com/seerr-team/seerr) | ⭐11.1k | 🔥 | Open-source media request and discovery manager for Jellyfin, Plex, and Emby. |
-| [`Freika/dawarich`](https://github.com/Freika/dawarich) | ⭐8.9k | 🔥 | Your favorite self-hostable alternative to Google Timeline (Google Location History) |
+| [`Freika/dawarich`](https://github.com/Freika/dawarich) | ⭐9.0k | 🔥 | Your favorite self-hostable alternative to Google Timeline (Google Location History) |
 | [`TandoorRecipes/recipes`](https://github.com/TandoorRecipes/recipes) | ⭐8.3k | 🔥 | Application for managing recipes, planning meals, building shopping lists and much much more! |
 | [`we-promise/sure`](https://github.com/we-promise/sure) | ⭐8.1k | 🔥 | The personal finance app for everyone. NOT affiliated with or endorsed by Maybe Finance Inc. |
 | [`AnalogJ/scrutiny`](https://github.com/AnalogJ/scrutiny) | ⭐7.7k | 🔥 | Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds |
@@ -131,8 +131,8 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`hack-chat/main`](https://github.com/hack-chat/main) | ⭐1.4k |  | a minimal, distraction-free chat application |
 | [`Salvoxia/immich-folder-album-creator`](https://github.com/Salvoxia/immich-folder-album-creator) | ⭐994 |  | Automatically create and populate albums in Immich from a folder structure in external libraries |
 | [`CTalvio/Ultrachromic`](https://github.com/CTalvio/Ultrachromic) | ⭐944 |  | The final form, the true evolution of the chromic theme saga! |
-| [`WaLLy3K/wally3k.github.io`](https://github.com/WaLLy3K/wally3k.github.io) | ⭐904 |  | Repo for Firebog hosting |
-| [`darkxst/silabs-firmware-builder`](https://github.com/darkxst/silabs-firmware-builder) | ⭐783 |  | Silicon Labs firmware builder |
+| [`WaLLy3K/wally3k.github.io`](https://github.com/WaLLy3K/wally3k.github.io) | ⭐903 |  | Repo for Firebog hosting |
+| [`darkxst/silabs-firmware-builder`](https://github.com/darkxst/silabs-firmware-builder) | ⭐784 |  | Silicon Labs firmware builder |
 | [`mult1v4c/hestia-core`](https://github.com/mult1v4c/hestia-core) | ⭐674 |  | A grid-based, modular dashboard built entirely from HTML, CSS, and JS with the ability to create your custo... |
 | [`ServerContainers/samba`](https://github.com/ServerContainers/samba) | ⭐650 |  | samba - (ghcr.io/servercontainers/samba) (+ optional zeroconf, wsdd2 & time machine) on alpine [x86 + arm] |
 | [`WindowsGSM/WindowsGSM`](https://github.com/WindowsGSM/WindowsGSM) | ⭐625 |  | 🎲 A powerful tool to manage game servers. Equipped with a GUI for server admins to install, import, start, ... |
@@ -147,7 +147,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`rclone/rclone-webui-react`](https://github.com/rclone/rclone-webui-react) | ⭐1.6k | 💤 | A full fledged UI for the rclone cloud sync tool |
 | [`mmotti/pihole-regex`](https://github.com/mmotti/pihole-regex) | ⭐1.4k | 💤 | Custom regex filter list for use with Pi-hole. |
 | [`Madelena/hass-config-public`](https://github.com/Madelena/hass-config-public) | ⭐1.1k | 💤 | My Dashboards for Home Assistant - Advanced data visualizations, responsive design, a neat maximalist Metro... |
-| [`Madelena/Metrology-for-Hass`](https://github.com/Madelena/Metrology-for-Hass) | ⭐675 | 💤 | 🎨 Give your Home Assistant a modern and clean facelift. 🟥🟧🟩🟦🟪 24 Variations with 2 Styles + 6 Colors (Magen... |
+| [`Madelena/Metrology-for-Hass`](https://github.com/Madelena/Metrology-for-Hass) | ⭐676 | 💤 | 🎨 Give your Home Assistant a modern and clean facelift. 🟥🟧🟩🟦🟪 24 Variations with 2 Styles + 6 Colors (Magen... |
 | [`PAPAMICA/home-config`](https://github.com/PAPAMICA/home-config) | ⭐150 | 💤 | All configs files of my house configuration ! |
 | [`Trikos/Home-Assistant-Naming-Convention`](https://github.com/Trikos/Home-Assistant-Naming-Convention) | ⭐70 | 💤 | A repository dedicated to best practices for naming devices, sensors, and entities in Home Assistant setups... |
 | [`C-Duv/freemobile-smsapi-client`](https://github.com/C-Duv/freemobile-smsapi-client) | ⭐58 | 💤 | API client for the Free Mobile SMS notification service |
@@ -179,7 +179,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`toeverything/AFFiNE`](https://github.com/toeverything/AFFiNE) | ⭐68.0k | 🔥 | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that bring... |
 | [`LadybirdBrowser/ladybird`](https://github.com/LadybirdBrowser/ladybird) | ⭐62.8k | 🔥 | Truly independent web browser |
 | [`sharkdp/bat`](https://github.com/sharkdp/bat) | ⭐58.7k | 🔥 | A cat(1) clone with wings. |
-| [`ghostty-org/ghostty`](https://github.com/ghostty-org/ghostty) | ⭐53.5k | 🔥 | 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GP... |
+| [`ghostty-org/ghostty`](https://github.com/ghostty-org/ghostty) | ⭐53.6k | 🔥 | 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GP... |
 | [`tw93/Mole`](https://github.com/tw93/Mole) | ⭐50.1k | 🔥 | 🐹 Deep clean and optimize your Mac. |
 | [`sharkdp/fd`](https://github.com/sharkdp/fd) | ⭐42.8k | 🔥 | A simple, fast and user-friendly alternative to 'find' |
 | [`sxyazi/yazi`](https://github.com/sxyazi/yazi) | ⭐37.6k | 🔥 | 💥 Blazing fast terminal file manager written in Rust, based on async I/O. |
@@ -198,7 +198,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`topgrade-rs/topgrade`](https://github.com/topgrade-rs/topgrade) | ⭐4.0k | 🔥 | Upgrade all the things |
 | [`portfolio-performance/portfolio`](https://github.com/portfolio-performance/portfolio) | ⭐3.8k | 🔥 | Track and evaluate the performance of your investment portfolio across stocks, cryptocurrencies, and other ... |
 | [`composerize/composerize`](https://github.com/composerize/composerize) | ⭐3.7k | 🔥 | 🏃→🎼  docker run asdlksjfksdf > docker-composerize up |
-| [`jordond/jolt`](https://github.com/jordond/jolt) | ⭐492 | 🔥 | ⚡️A terminal-based battery and energy monitor for macOS and Linux. |
+| [`jordond/jolt`](https://github.com/jordond/jolt) | ⭐494 | 🔥 | ⚡️A terminal-based battery and energy monitor for macOS and Linux. |
 | [`Harry-kp/vortix`](https://github.com/Harry-kp/vortix) | ⭐414 | 🔥 | Terminal UI for WireGuard and OpenVPN with real-time telemetry and leak guarding. |
 | [`ventoy/Ventoy`](https://github.com/ventoy/Ventoy) | ⭐76.4k |  | A new bootable USB solution. |
 | [`jesseduffield/lazydocker`](https://github.com/jesseduffield/lazydocker) | ⭐50.9k |  | The lazier way to manage everything docker |
@@ -222,7 +222,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`Chleba/netscanner`](https://github.com/Chleba/netscanner) | ⭐1.8k |  | Terminal Network scanner & diagnostic tool with modern TUI |
 | [`IonicaBizau/image-to-ascii`](https://github.com/IonicaBizau/image-to-ascii) | ⭐1.7k |  | :floppy_disk: A Node.js module that converts images to ASCII art. |
 | [`nowthis/sankeymatic`](https://github.com/nowthis/sankeymatic) | ⭐1.4k |  | Make Beautiful Flow Diagrams |
-| [`romkatv/zsh-bench`](https://github.com/romkatv/zsh-bench) | ⭐959 |  | Benchmark for interactive Zsh |
+| [`romkatv/zsh-bench`](https://github.com/romkatv/zsh-bench) | ⭐960 |  | Benchmark for interactive Zsh |
 | [`tahnok/colmi_r02_client`](https://github.com/tahnok/colmi_r02_client) | ⭐614 |  | A python client + documentation for the Colmi R02 smart ring |
 | [`sbidy/pywizlight`](https://github.com/sbidy/pywizlight) | ⭐529 |  | A python connector for WiZ devices |
 | [`PatNei/GITHUB2FORGEJO`](https://github.com/PatNei/GITHUB2FORGEJO) | ⭐70 |  | Github 2 Forgejo: This script migrates your GitHub repositories to a Forgejo instance using the Forgejo API... |
@@ -274,7 +274,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`DaedalusX64/daedalus`](https://github.com/DaedalusX64/daedalus) | ⭐668 |  | The Nintendo 64 Emulator itself |
 | [`BohemiaInteractive/DayZ-Central-Economy`](https://github.com/BohemiaInteractive/DayZ-Central-Economy) | ⭐379 |  | DayZ Central Economy configuration |
 | [`ZKjellberg/dark-souls-3-cheat-sheet`](https://github.com/ZKjellberg/dark-souls-3-cheat-sheet) | ⭐356 |  | Checklist for Dark Souls 3 using HTML5 storage to retain progress |
-| [`mackieks/Kawaii`](https://github.com/mackieks/Kawaii) | ⭐297 |  | Tiny, beautiful metal Wii keychain |
+| [`mackieks/Kawaii`](https://github.com/mackieks/Kawaii) | ⭐300 |  | Tiny, beautiful metal Wii keychain |
 | [`balakethelock/SuperWoW`](https://github.com/balakethelock/SuperWoW) | ⭐159 |  | 1.12.1 WoW client mod that expands on API functionalities |
 | [`mangostwo/database`](https://github.com/mangostwo/database) | ⭐55 |  | The Mangos TWO world database contains creatures, NPCs, Quests, Items/objects & gossip information to popul... |
 | [`hoverbike1/TOTK-Mods-collection`](https://github.com/hoverbike1/TOTK-Mods-collection) | ⭐3.2k | 💤 | Mod repo for Tears of The Kingdom (TOTK) for Switch and Switch Emulation |
@@ -305,7 +305,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
-| [`massgravel/Microsoft-Activation-Scripts`](https://github.com/massgravel/Microsoft-Activation-Scripts) | ⭐174.1k | 🔥 | Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods,... |
+| [`massgravel/Microsoft-Activation-Scripts`](https://github.com/massgravel/Microsoft-Activation-Scripts) | ⭐174.2k | 🔥 | Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods,... |
 | [`ruvnet/RuView`](https://github.com/ruvnet/RuView) | ⭐51.8k | 🔥 | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and prese... |
 | [`KeygraphHQ/shannon`](https://github.com/KeygraphHQ/shannon) | ⭐41.3k | 🔥 | Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your sourc... |
 | [`trufflesecurity/trufflehog`](https://github.com/trufflesecurity/trufflehog) | ⭐26.0k | 🔥 | Find, verify, and analyze leaked credentials |
@@ -326,7 +326,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`owerdogan/whoami-project`](https://github.com/owerdogan/whoami-project) | ⭐2.3k |  | Whoami provides enhanced privacy, anonymity for Debian and Arch based linux distributions |
 | [`pentestfunctions/BlueDucky`](https://github.com/pentestfunctions/BlueDucky) | ⭐1.8k |  | 🚨 CVE-2023-45866 - BlueDucky Implementation (Using DuckyScript) 🔓 Unauthenticated Peering Leading to Code E... |
 | [`dev-sec/linux-baseline`](https://github.com/dev-sec/linux-baseline) | ⭐869 |  | DevSec Linux Baseline - InSpec Profile |
-| [`santoru/shcheck`](https://github.com/santoru/shcheck) | ⭐830 |  | A basic tool to check security headers of a website |
+| [`santoru/shcheck`](https://github.com/santoru/shcheck) | ⭐831 |  | A basic tool to check security headers of a website |
 | [`SpacehuhnTech/esp8266_deauther`](https://github.com/SpacehuhnTech/esp8266_deauther) | ⭐14.8k | 💤 | Affordable WiFi hacking platform for testing and learning |
 | [`brandonlw/Psychson`](https://github.com/brandonlw/Psychson) | ⭐4.2k | 💤 | Phison 2251-03 (2303) Custom Firmware & Existing Firmware Patches (BadUSB) |
 | [`vanhoefm/krackattacks-scripts`](https://github.com/vanhoefm/krackattacks-scripts) | ⭐3.5k | 💤 | _(no description)_ |
@@ -350,6 +350,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`EliverLara/Nordic`](https://github.com/EliverLara/Nordic) | ⭐2.7k | 🔥 | :snowflake: Dark Gtk3.20+ theme created using the awesome Nord color pallete. |
 | [`catppuccin/userstyles`](https://github.com/catppuccin/userstyles) | ⭐1.0k | 🔥 | 🖌 Soothing pastel userstyles |
 | [`catppuccin/vscode-icons`](https://github.com/catppuccin/vscode-icons) | ⭐975 | 🔥 | 🦊 Soothing pastel icons for VSCode/VSCodium |
+| [`Stunkymonkey/nautilus-open-any-terminal`](https://github.com/Stunkymonkey/nautilus-open-any-terminal) | ⭐938 | 🔥 | _(no description)_ |
 | [`catppuccin/cursors`](https://github.com/catppuccin/cursors) | ⭐716 | 🔥 | 🐁 Soothing pastel cursors for GTK/Plasma/Hyprland |
 | [`rubiin/Tsumiki`](https://github.com/rubiin/Tsumiki) | ⭐231 | 🔥 | modular panel written on fabric |
 | [`uncenter/catppuccin-userstyles-customizer`](https://github.com/uncenter/catppuccin-userstyles-customizer) | ⭐48 | 🔥 | 🧚🏼 Customize your preferred flavors and accent color for catppuccin/userstyles. Generates a JSON file for i... |
@@ -360,14 +361,13 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`Keyitdev/sddm-astronaut-theme`](https://github.com/Keyitdev/sddm-astronaut-theme) | ⭐2.8k |  | Series of modern looking themes for SDDM. |
 | [`EliverLara/Sweet`](https://github.com/EliverLara/Sweet) | ⭐1.7k |  | A beautiful theme with neon vibes for GNOME |
 | [`SleepyCatHey/CozyPixels`](https://github.com/SleepyCatHey/CozyPixels) | ⭐1.1k |  | 🎨 Aesthetic wallpaper collection gathered over a year! Catppuccin, Nord, One Dark themes & cozy vibes. Free... |
-| [`Stunkymonkey/nautilus-open-any-terminal`](https://github.com/Stunkymonkey/nautilus-open-any-terminal) | ⭐938 |  | _(no description)_ |
-| [`zhichaoh/catppuccin-wallpapers`](https://github.com/zhichaoh/catppuccin-wallpapers) | ⭐835 | 💤 | 🖼️ Wallpapers to match your Catppuccin setups! |
+| [`zhichaoh/catppuccin-wallpapers`](https://github.com/zhichaoh/catppuccin-wallpapers) | ⭐837 | 💤 | 🖼️ Wallpapers to match your Catppuccin setups! |
 | [`Litarvan/lightdm-webkit-theme-litarvan`](https://github.com/Litarvan/lightdm-webkit-theme-litarvan) | ⭐727 | 💤 | Litarvan's LightDM HTML Theme |
 | [`nickclyde/rofi-bluetooth`](https://github.com/nickclyde/rofi-bluetooth) | ⭐600 | 💤 | 🔷 A script that generates a rofi menu that uses bluetoothctl to connect to bluetooth devices and display st... |
 | [`odziom91/libadwaita-theme-changer`](https://github.com/odziom91/libadwaita-theme-changer) | ⭐337 | 💤 | Theme changer for Libadwaita |
 | [`EliverLara/Sweet-folders`](https://github.com/EliverLara/Sweet-folders) | ⭐245 | 💤 | _(no description)_ |
 | [`nordtheme/terminator`](https://github.com/nordtheme/terminator) | ⭐113 | 💤 | An arctic, north-bluish clean and elegant Terminator color theme. |
-| [`catppuccin/terminator`](https://github.com/catppuccin/terminator) | ⭐37 | 💤 | 🦣 Soothing pastel theme for Terminator |
+| [`catppuccin/terminator`](https://github.com/catppuccin/terminator) | ⭐36 | 💤 | 🦣 Soothing pastel theme for Terminator |
 | [`dylanaraps/neofetch`](https://github.com/dylanaraps/neofetch) | ⭐23.7k | 📦 | 🖼️  A command-line system information tool written in bash 3.2+ |
 
 </details>
@@ -378,7 +378,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
 | [`yt-dlp/yt-dlp`](https://github.com/yt-dlp/yt-dlp) | ⭐160.7k | 🔥 | A feature-rich command-line audio/video downloader |
-| [`iptv-org/iptv`](https://github.com/iptv-org/iptv) | ⭐115.9k | 🔥 | Collection of publicly available IPTV channels from all over the world |
+| [`iptv-org/iptv`](https://github.com/iptv-org/iptv) | ⭐116.0k | 🔥 | Collection of publicly available IPTV channels from all over the world |
 | [`spicetify/cli`](https://github.com/spicetify/cli) | ⭐23.0k | 🔥 | Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux. |
 | [`beetbox/beets`](https://github.com/beetbox/beets) | ⭐15.1k | 🔥 | music library manager and MusicBrainz tagger |
 | [`pystardust/ani-cli`](https://github.com/pystardust/ani-cli) | ⭐12.3k | 🔥 | A cli tool to browse and play anime |
@@ -444,9 +444,9 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`linux-surface/linux-surface`](https://github.com/linux-surface/linux-surface) | ⭐7.2k | 🔥 | Linux Kernel for Surface Devices |
 | [`infoslack/awesome-web-hacking`](https://github.com/infoslack/awesome-web-hacking) | ⭐6.8k | 🔥 | A list of web application security |
 | [`dev-sec/ansible-collection-hardening`](https://github.com/dev-sec/ansible-collection-hardening) | ⭐5.3k | 🔥 | This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL |
-| [`codecrafters-io/build-your-own-x`](https://github.com/codecrafters-io/build-your-own-x) | ⭐499.2k |  | Master programming by recreating your favorite technologies from scratch. |
+| [`codecrafters-io/build-your-own-x`](https://github.com/codecrafters-io/build-your-own-x) | ⭐499.3k |  | Master programming by recreating your favorite technologies from scratch. |
 | [`donnemartin/system-design-primer`](https://github.com/donnemartin/system-design-primer) | ⭐347.1k |  | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. |
-| [`jwasham/coding-interview-university`](https://github.com/jwasham/coding-interview-university) | ⭐345.7k |  | A complete computer science study plan to become a software engineer. |
+| [`jwasham/coding-interview-university`](https://github.com/jwasham/coding-interview-university) | ⭐345.8k |  | A complete computer science study plan to become a software engineer. |
 | [`twitter/the-algorithm`](https://github.com/twitter/the-algorithm) | ⭐73.1k |  | Source code for the X Recommendation Algorithm |
 | [`imthenachoman/How-To-Secure-A-Linux-Server`](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) | ⭐26.0k |  | An evolving how-to guide for securing a Linux server. |
 | [`sbilly/awesome-security`](https://github.com/sbilly/awesome-security) | ⭐14.3k |  | A collection of awesome software, libraries, documents, books, resources and cools stuffs about security. |
@@ -455,7 +455,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`clarketm/proxy-list`](https://github.com/clarketm/proxy-list) | ⭐2.4k |  | A list of free, public, forward proxy servers. UPDATED DAILY! |
 | [`matchai/awesome-pinned-gists`](https://github.com/matchai/awesome-pinned-gists) | ⭐2.1k |  | 📌✨ A collection of awesome dynamic pinned gists for GitHub |
 | [`ironicbadger/pms-wiki`](https://github.com/ironicbadger/pms-wiki) | ⭐522 |  | The aim is to share knowledge and information about building an open-source media server. |
-| [`trimstray/the-book-of-secret-knowledge`](https://github.com/trimstray/the-book-of-secret-knowledge) | ⭐218.8k | 💤 | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. |
+| [`trimstray/the-book-of-secret-knowledge`](https://github.com/trimstray/the-book-of-secret-knowledge) | ⭐218.9k | 💤 | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. |
 | [`open-guides/og-aws`](https://github.com/open-guides/og-aws) | ⭐36.4k | 💤 | 📙 Amazon Web Services — a practical guide |
 | [`kahun/awesome-sysadmin`](https://github.com/kahun/awesome-sysadmin) | ⭐24.3k | 💤 | A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP. |
 | [`roboyoshi/datacurator-filetree`](https://github.com/roboyoshi/datacurator-filetree) | ⭐1.6k | 💤 | a standard filetree for /r/datacurator [ and r/datahoarder ] |
@@ -468,9 +468,9 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
-| [`sherlock-project/sherlock`](https://github.com/sherlock-project/sherlock) | ⭐82.9k | 🔥 | Hunt down social media accounts by username across social networks |
+| [`sherlock-project/sherlock`](https://github.com/sherlock-project/sherlock) | ⭐83.0k | 🔥 | Hunt down social media accounts by username across social networks |
 | [`Lissy93/web-check`](https://github.com/Lissy93/web-check) | ⭐33.0k | 🔥 | 🕵️‍♂️ All-in-one OSINT tool for analysing any website |
-| [`soxoj/maigret`](https://github.com/soxoj/maigret) | ⭐25.4k | 🔥 | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
+| [`soxoj/maigret`](https://github.com/soxoj/maigret) | ⭐25.5k | 🔥 | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
 | [`blacklanternsecurity/bbot`](https://github.com/blacklanternsecurity/bbot) | ⭐9.7k | 🔥 | The recursive internet scanner for hackers. 🧡 |
 | [`Datalux/Osintgram`](https://github.com/Datalux/Osintgram) | ⭐12.7k |  | Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram acc... |
 | [`Lucksi/Mr.Holmes`](https://github.com/Lucksi/Mr.Holmes) | ⭐3.4k |  | A Complete Osint Tool :mag: |
@@ -497,7 +497,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
-| [`santifer/career-ops`](https://github.com/santifer/career-ops) | ⭐42.7k | 🔥 | AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch proc... |
+| [`santifer/career-ops`](https://github.com/santifer/career-ops) | ⭐42.8k | 🔥 | AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch proc... |
 | [`grafana/loki`](https://github.com/grafana/loki) | ⭐28.1k | 🔥 | Like Prometheus, but for logs. |
 | [`squidfunk/mkdocs-material`](https://github.com/squidfunk/mkdocs-material) | ⭐26.7k | 🔥 | Documentation that simply works |
 | [`netbirdio/netbird`](https://github.com/netbirdio/netbird) | ⭐25.0k | 🔥 | Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access contr... |
@@ -526,7 +526,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
-| [`Genymobile/scrcpy`](https://github.com/Genymobile/scrcpy) | ⭐139.4k | 🔥 | Display and control your Android device |
+| [`Genymobile/scrcpy`](https://github.com/Genymobile/scrcpy) | ⭐139.5k | 🔥 | Display and control your Android device |
 | [`topjohnwu/Magisk`](https://github.com/topjohnwu/Magisk) | ⭐60.2k | 🔥 | The Magic Mask for Android |
 | [`yuliskov/SmartTube`](https://github.com/yuliskov/SmartTube) | ⭐30.0k | 🔥 | Browse media content with your own rules on Android TV |
 | [`ReVanced/revanced-manager`](https://github.com/ReVanced/revanced-manager) | ⭐27.7k | 🔥 | 💊 Application to use ReVanced on Android |
@@ -543,7 +543,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`corentin-c/SpotifyAutoPatcher`](https://github.com/corentin-c/SpotifyAutoPatcher) | ⭐413 |  | The easiest way to patch Spotify and Youtube Music, without the need to download APKs ! |
 | [`0x192/universal-android-debloater`](https://github.com/0x192/universal-android-debloater) | ⭐19.3k | 💤 | Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, t... |
 | [`BaltiApps/Pixelify-Google-Photos`](https://github.com/BaltiApps/Pixelify-Google-Photos) | ⭐1.6k | 💤 | Pixelify GPhotos |
-| [`ayush5harma/PixelFeatureDrops`](https://github.com/ayush5harma/PixelFeatureDrops) | ⭐350 | 💤 | Magisk Module for Pixel Feature Drops that adds the system files for the same and spoof using the latest de... |
+| [`ayush5harma/PixelFeatureDrops`](https://github.com/ayush5harma/PixelFeatureDrops) | ⭐351 | 💤 | Magisk Module for Pixel Feature Drops that adds the system files for the same and spoof using the latest de... |
 | [`Team-xManager/xManager`](https://github.com/Team-xManager/xManager) | ⭐12.2k | 📦 | Ad-Free, New Features & Freedom |
 
 </details>
@@ -574,13 +574,13 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
 | [`openclaw/openclaw`](https://github.com/openclaw/openclaw) | ⭐368.6k | 🔥 | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 |
-| [`anomalyco/opencode`](https://github.com/anomalyco/opencode) | ⭐155.1k | 🔥 | The open source coding agent. |
+| [`anomalyco/opencode`](https://github.com/anomalyco/opencode) | ⭐155.2k | 🔥 | The open source coding agent. |
 | [`open-webui/open-webui`](https://github.com/open-webui/open-webui) | ⭐135.6k | 🔥 | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) |
 | [`yamadashy/repomix`](https://github.com/yamadashy/repomix) | ⭐24.4k | 🔥 | 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for... |
 | [`OpenBMB/VoxCPM`](https://github.com/OpenBMB/VoxCPM) | ⭐17.4k | 🔥 | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Clo... |
 | [`elie222/inbox-zero`](https://github.com/elie222/inbox-zero) | ⭐10.6k | 🔥 | The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast. |
 | [`clusterzx/paperless-ai`](https://github.com/clusterzx/paperless-ai) | ⭐5.6k | 🔥 | An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenA... |
-| [`forrestchang/andrej-karpathy-skills`](https://github.com/forrestchang/andrej-karpathy-skills) | ⭐113.5k |  | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM... |
+| [`forrestchang/andrej-karpathy-skills`](https://github.com/forrestchang/andrej-karpathy-skills) | ⭐113.9k |  | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM... |
 | [`yoanbernabeu/NanoThumbnail`](https://github.com/yoanbernabeu/NanoThumbnail) | ⭐34 |  | Generate Viral Thumbnails with AI |
 | [`Zyphra/Zonos`](https://github.com/Zyphra/Zonos) | ⭐7.2k | 💤 | Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilin... |
 
@@ -610,5 +610,5 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 
 </details>
 
-<sub>Last updated: 2026-05-05<br>🔥 hot: pushed in last 7 days<br>💤 stale: no push in 365+ days<br>📦 archived</sub>
+<sub>Last updated: 2026-05-06<br>🔥 hot: pushed in last 7 days<br>💤 stale: no push in 365+ days<br>📦 archived</sub>
 <!-- STARS:END -->

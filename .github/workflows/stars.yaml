@@ -1,33 +1,30 @@
-name: Update curated stars in README
+name: Sync stars from awesome-stars
 
 on:
   schedule:
-    - cron: '0 6 * * *'  # Daily at 06:00 UTC (~08:00 Europe/Paris)
+    - cron: '30 6 * * *'
   workflow_dispatch:
 
 permissions:
   contents: write
 
 concurrency:
-  group: update-stars
+  group: sync-stars
   cancel-in-progress: false
 
 jobs:
-  update-stars:
+  sync:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.x'
+      - name: Fetch upstream catalog
+        run: curl -fsSL -o /tmp/upstream.md "https://raw.githubusercontent.com/${{ github.repository_owner }}/awesome-stars/main/README.md"
 
-      - name: Generate stars block
-        env:
-          STARS_TOKEN: ${{ secrets.STARS_TOKEN }}
-        run: python .github/scripts/generate_stars.py
+      - name: Replace marker block in profile README
+        run: python3 .github/scripts/sync_stars.py
 
-      - name: Commit and push if changed
+      - name: Commit if changed
         run: |
           if git diff --quiet README.md; then
             echo "No changes"
@@ -36,5 +33,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "chore: update curated stars (auto)"
+          git commit -m "chore: sync stars from awesome-stars"
           git push
