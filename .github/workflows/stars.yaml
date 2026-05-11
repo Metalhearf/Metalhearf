@@ -1,28 +1,31 @@
-name: Sync stars
+name: Build stars
 
 on:
   schedule:
-    - cron: '30 6 * * *'
+    - cron: '0 6 * * *'
   workflow_dispatch:
 
 permissions:
   contents: write
 
 concurrency:
-  group: sync-stars
+  group: build-stars
   cancel-in-progress: false
 
 jobs:
-  sync:
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
 
-      - name: Fetch upstream catalog
-        run: curl -fsSL -o /tmp/upstream.md "https://raw.githubusercontent.com/${{ github.repository_owner }}/stars/main/README.md"
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
 
-      - name: Replace marker block in profile README
-        run: python3 .github/scripts/sync_stars.py
+      - name: Rebuild catalog
+        env:
+          STARS_TOKEN: ${{ secrets.STARS_TOKEN }}
+        run: python .github/scripts/generate_stars.py
 
       - name: Commit if changed
         run: |
@@ -33,5 +36,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "chore: sync stars from awesome-stars"
+          git commit -m "chore: rebuild stars catalog"
           git push
