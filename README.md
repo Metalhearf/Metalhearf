@@ -266,7 +266,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`ading2210/doompdf`](https://github.com/ading2210/doompdf) | ⭐3.8k |  | A port of Doom (1993) that runs inside a PDF file |
 | [`joeycastillo/Sensor-Watch`](https://github.com/joeycastillo/Sensor-Watch) | ⭐1.9k |  | A board replacement for the classic Casio F-91W wristwatch |
 | [`zampierilucas/scx_horoscope`](https://github.com/zampierilucas/scx_horoscope) | ⭐1.4k |  | Astrological CPU Scheduler |
-| [`maunium/dontasktoask.com`](https://github.com/maunium/dontasktoask.com) | ⭐507 |  | An informational website about why you should ask questions directly instead of asking to ask |
+| [`maunium/dontasktoask.com`](https://github.com/maunium/dontasktoask.com) | ⭐506 |  | An informational website about why you should ask questions directly instead of asking to ask |
 | [`nvbn/thefuck`](https://github.com/nvbn/thefuck) | ⭐96.9k | 💤 | Magnificent app which corrects your previous console command. |
 | [`kelseyhightower/nocode`](https://github.com/kelseyhightower/nocode) | ⭐65.3k | 💤 | The best way to write secure and reliable applications. Write nothing; deploy nowhere. |
 | [`ading2210/linuxpdf`](https://github.com/ading2210/linuxpdf) | ⭐4.9k | 💤 | Linux running inside a PDF file via a RISC-V emulator |
@@ -424,13 +424,13 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
-| [`dani-garcia/vaultwarden`](https://github.com/dani-garcia/vaultwarden) | ⭐60.1k | 🔥 | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs |
 | [`umami-software/umami`](https://github.com/umami-software/umami) | ⭐36.6k | 🔥 | Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixp... |
 | [`searxng/searxng`](https://github.com/searxng/searxng) | ⭐29.8k | 🔥 | SearXNG is a free internet metasearch engine which aggregates results from various search services and data... |
 | [`keeweb/keeweb`](https://github.com/keeweb/keeweb) | ⭐12.9k | 🔥 | Free cross-platform password manager compatible with KeePass |
 | [`mvt-project/mvt`](https://github.com/mvt-project/mvt) | ⭐12.4k | 🔥 | MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs ... |
 | [`simplex-chat/simplex-chat`](https://github.com/simplex-chat/simplex-chat) | ⭐11.1k | 🔥 | SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by desi... |
 | [`OhMyGuus/I-Still-Dont-Care-About-Cookies`](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) | ⭐4.1k | 🔥 | Debloated fork of the extension "I don't care about cookies" |
+| [`dani-garcia/vaultwarden`](https://github.com/dani-garcia/vaultwarden) | ⭐60.1k |  | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs |
 | [`pluja/awesome-privacy`](https://github.com/pluja/awesome-privacy) | ⭐18.7k |  | Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MAT... |
 | [`victornpb/undiscord`](https://github.com/victornpb/undiscord) | ⭐6.5k |  | Undiscord - Delete all messages in a Discord server / channel or DM (Easy and fast) Bulk delete |
 | [`ClearURLs/Addon`](https://github.com/ClearURLs/Addon) | ⭐4.9k |  | ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking ele... |
@@ -482,8 +482,8 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`yamadashy/repomix`](https://github.com/yamadashy/repomix) | ⭐24.6k | 🔥 | 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for... |
 | [`OpenBMB/VoxCPM`](https://github.com/OpenBMB/VoxCPM) | ⭐18.2k | 🔥 | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Clo... |
 | [`elie222/inbox-zero`](https://github.com/elie222/inbox-zero) | ⭐10.7k | 🔥 | The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast. |
-| [`romainsimon/paperasse`](https://github.com/romainsimon/paperasse) | ⭐1.5k | 🔥 | 🇫🇷  Skills pour agents IA spécialisés dans la bureaucratie française : Comptable, Notaire, ... |
-| [`forrestchang/andrej-karpathy-skills`](https://github.com/forrestchang/andrej-karpathy-skills) | ⭐124.6k |  | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM... |
+| [`romainsimon/paperasse`](https://github.com/romainsimon/paperasse) | ⭐1.6k | 🔥 | 🇫🇷  Skills pour agents IA spécialisés dans la bureaucratie française : Comptable, Notaire, ... |
+| [`forrestchang/andrej-karpathy-skills`](https://github.com/forrestchang/andrej-karpathy-skills) | ⭐124.7k |  | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM... |
 | [`punkpeye/awesome-mcp-servers`](https://github.com/punkpeye/awesome-mcp-servers) | ⭐86.7k |  | A collection of MCP servers. |
 | [`TheEvilSkeleton/Upscaler`](https://github.com/TheEvilSkeleton/Upscaler) | ⭐42 |  | Upscale and enhance images |
 | [`yoanbernabeu/NanoThumbnail`](https://github.com/yoanbernabeu/NanoThumbnail) | ⭐35 |  | Generate Viral Thumbnails with AI |
@@ -721,5 +721,5 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 
 </details>
 
-<sub>Last updated: 2026-05-11<br>🔥 hot: pushed in last 7 days<br>💤 stale: no push in 365+ days<br>📦 archived</sub>
+<sub>Metadata last refreshed: 2026-05-11<br>🔥 hot: pushed in last 7 days<br>💤 stale: no push in 365+ days<br>📦 archived</sub>
 <!-- STARS:END -->
