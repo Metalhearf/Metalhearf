@@ -35,7 +35,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
 | [`massgravel/Microsoft-Activation-Scripts`](https://github.com/massgravel/Microsoft-Activation-Scripts) | ⭐174.8k | 🔥 | Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods,... |
-| [`ruvnet/RuView`](https://github.com/ruvnet/RuView) | ⭐52.4k | 🔥 | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and prese... |
+| [`ruvnet/RuView`](https://github.com/ruvnet/RuView) | ⭐52.5k | 🔥 | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and prese... |
 | [`KeygraphHQ/shannon`](https://github.com/KeygraphHQ/shannon) | ⭐41.7k | 🔥 | Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your sourc... |
 | [`trufflesecurity/trufflehog`](https://github.com/trufflesecurity/trufflehog) | ⭐26.1k | 🔥 | Find, verify, and analyze leaked credentials |
 | [`usestrix/strix`](https://github.com/usestrix/strix) | ⭐25.2k | 🔥 | Open-source AI hackers to find and fix your app’s vulnerabilities. |
@@ -475,7 +475,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
 | [`openclaw/openclaw`](https://github.com/openclaw/openclaw) | ⭐370.8k | 🔥 | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 |
-| [`anomalyco/opencode`](https://github.com/anomalyco/opencode) | ⭐158.3k | 🔥 | The open source coding agent. |
+| [`anomalyco/opencode`](https://github.com/anomalyco/opencode) | ⭐158.4k | 🔥 | The open source coding agent. |
 | [`open-webui/open-webui`](https://github.com/open-webui/open-webui) | ⭐136.6k | 🔥 | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) |
 | [`santifer/career-ops`](https://github.com/santifer/career-ops) | ⭐44.0k | 🔥 | AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch proc... |
 | [`srbhr/Resume-Matcher`](https://github.com/srbhr/Resume-Matcher) | ⭐27.0k | 🔥 | Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job de... |
