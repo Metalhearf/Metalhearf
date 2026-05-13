@@ -71,6 +71,14 @@
     "status": "🔥",
     "url": "https://github.com/AnalogJ/scrutiny"
   },
+  "Anon-Planet/thgtoa": {
+    "description": "The comprehensive guide for online anonymity and OpSec.",
+    "isArchived": false,
+    "pushedAt": "2026-04-25T21:40:57Z",
+    "stargazerCount": 725,
+    "status": "",
+    "url": "https://github.com/Anon-Planet/thgtoa"
+  },
   "Arcticons-Team/Arcticons": {
     "description": "A monotone line-based icon pack for android",
     "isArchived": false,
@@ -494,6 +502,14 @@
     "stargazerCount": 63281,
     "status": "🔥",
     "url": "https://github.com/LadybirdBrowser/ladybird"
+  },
+  "Legcord/Legcord": {
+    "description": "Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight.",
+    "isArchived": false,
+    "pushedAt": "2026-05-11T19:11:41Z",
+    "stargazerCount": 3213,
+    "status": "🔥",
+    "url": "https://github.com/Legcord/Legcord"
   },
   "LionSec/xerosploit": {
     "description": "Efficient and advanced man in the middle framework",
@@ -985,6 +1001,14 @@
     "stargazerCount": 79370,
     "status": "",
     "url": "https://github.com/anuraghazra/github-readme-stats"
+  },
+  "arkenfox/user.js": {
+    "description": "Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening",
+    "isArchived": false,
+    "pushedAt": "2026-05-12T16:58:55Z",
+    "stargazerCount": 12512,
+    "status": "🔥",
+    "url": "https://github.com/arkenfox/user.js"
   },
   "arsenetar/dupeguru": {
     "description": "Find duplicate files",
@@ -1546,6 +1570,14 @@
     "status": "🔥",
     "url": "https://github.com/fastfetch-cli/fastfetch"
   },
+  "fatedier/frp": {
+    "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+    "isArchived": false,
+    "pushedAt": "2026-05-12T03:13:50Z",
+    "stargazerCount": 106490,
+    "status": "🔥",
+    "url": "https://github.com/fatedier/frp"
+  },
   "ffuf/ffuf": {
     "description": "Fast web fuzzer written in Go",
     "isArchived": false,
@@ -1673,6 +1705,14 @@
     "stargazerCount": 28460,
     "status": "🔥",
     "url": "https://github.com/goharbor/harbor"
+  },
+  "gorhill/uBlock": {
+    "description": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.",
+    "isArchived": false,
+    "pushedAt": "2026-05-12T15:13:38Z",
+    "stargazerCount": 64638,
+    "status": "🔥",
+    "url": "https://github.com/gorhill/uBlock"
   },
   "grafana/docker-otel-lgtm": {
     "description": "An OpenTelemetry backend in a Docker container image",
@@ -2402,6 +2442,14 @@
     "status": "",
     "url": "https://github.com/mult1v4c/hestia-core"
   },
+  "multica-ai/andrej-karpathy-skills": {
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "isArchived": false,
+    "pushedAt": "2026-04-20T10:05:04Z",
+    "stargazerCount": 127506,
+    "status": "",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills"
+  },
   "musana/CF-Hero": {
     "description": "CF-Hero is a reconnaissance tool that uses multiple data sources to discover the origin IP addresses of Cloudflare-protected web applications",
     "isArchived": false,
@@ -2897,6 +2945,14 @@
     "stargazerCount": 176,
     "status": "💤",
     "url": "https://github.com/rakyll/fake-it-til-you-make-it"
+  },
+  "rathole-org/rathole": {
+    "description": "A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.",
+    "isArchived": false,
+    "pushedAt": "2026-04-16T12:38:36Z",
+    "stargazerCount": 13531,
+    "status": "",
+    "url": "https://github.com/rathole-org/rathole"
   },
   "ravikiranvm/aws-finops-dashboard": {
     "description": "A terminal-based AWS cost and resource dashboard built with Python and the Rich library. It provides an overview of AWS spend by account, service-level breakdowns, budget tracking, and EC2 instance summaries.",

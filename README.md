@@ -27,7 +27,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 <!-- STARS:START -->
 ## ⭐ Curated Stars
 
-**460 repos** across **29 categories**. Click any section to expand.
+**466 repos** across **29 categories**. Click any section to expand.
 
 <details>
 <summary><b>Hacking</b> &nbsp;·&nbsp; 30 ⭐ &nbsp;·&nbsp; <i>Pentesting frameworks, WiFi/Bluetooth attack tools and offensive security utilities.</i></summary>
@@ -167,6 +167,68 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 </details>
 
 <details>
+<summary><b>InfraAsCode</b> &nbsp;·&nbsp; 23 ⭐ &nbsp;·&nbsp; <i>Ansible playbooks, container hosting platforms and cloud-provider helper scripts.</i></summary>
+
+| Repo | Stars | Status | Description |
+| --- | --- | --- | --- |
+| [`fatedier/frp`](https://github.com/fatedier/frp) | ⭐106.5k | 🔥 | A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. |
+| [`dockur/windows`](https://github.com/dockur/windows) | ⭐51.3k | 🔥 | Windows inside a Docker container. |
+| [`Dokploy/dokploy`](https://github.com/Dokploy/dokploy) | ⭐33.9k | 🔥 | Open Source Alternative to Vercel, Netlify and Heroku. |
+| [`goharbor/harbor`](https://github.com/goharbor/harbor) | ⭐28.5k | 🔥 | An open source trusted cloud native registry project that stores, signs, and scans content. |
+| [`ansible/awx`](https://github.com/ansible/awx) | ⭐15.4k | 🔥 | AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of th... |
+| [`semaphoreui/semaphore`](https://github.com/semaphoreui/semaphore) | ⭐13.6k | 🔥 | Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools. |
+| [`getumbrel/umbrel`](https://github.com/getumbrel/umbrel) | ⭐11.2k | 🔥 | An elegant home server OS. Run OpenClaw, store your files and photos, run a Bitcoin node, and do more with ... |
+| [`dev-sec/ansible-collection-hardening`](https://github.com/dev-sec/ansible-collection-hardening) | ⭐5.3k | 🔥 | This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL |
+| [`composerize/composerize`](https://github.com/composerize/composerize) | ⭐3.7k | 🔥 | 🏃→🎼  docker run asdlksjfksdf > docker-composerize up |
+| [`nicholas-fedor/watchtower`](https://github.com/nicholas-fedor/watchtower) | ⭐3.6k | 🔥 | Automate Docker container image updates |
+| [`Mafyuh/iac`](https://github.com/Mafyuh/iac) | ⭐471 | 🔥 | GitOps-driven Infrastructure as Code for my homelab |
+| [`geerlingguy/internet-pi`](https://github.com/geerlingguy/internet-pi) | ⭐4.7k |  | Raspberry Pi config for all things Internet. |
+| [`davestephens/ansible-nas`](https://github.com/davestephens/ansible-nas) | ⭐3.7k |  | Build a full-featured home server or NAS replacement with an Ubuntu box and this playbook. |
+| [`ChristopheJacquet/PiFmRds`](https://github.com/ChristopheJacquet/PiFmRds) | ⭐1.6k |  | FM-RDS transmitter using the Raspberry Pi's PWM |
+| [`ravikiranvm/aws-finops-dashboard`](https://github.com/ravikiranvm/aws-finops-dashboard) | ⭐1.2k |  | A terminal-based AWS cost and resource dashboard built with Python and the Rich library. It provides an ove... |
+| [`Hexxeh/rpi-update`](https://github.com/Hexxeh/rpi-update) | ⭐1.9k | 💤 | An easier way to update the firmware of your Raspberry Pi |
+| [`Codycody31/Prevent-OCI-Deletion-for-being-idle`](https://github.com/Codycody31/Prevent-OCI-Deletion-for-being-idle) | ⭐36 | 💤 | Scripts to maintain active OCI ForeverFree tier instances, preventing deletions due to inactivity. |
+| [`claranet/ansible-role-motd`](https://github.com/claranet/ansible-role-motd) | ⭐13 | 💤 | Install and configure dynamic MOTD and SSH banner |
+| [`containrrr/watchtower`](https://github.com/containrrr/watchtower) | ⭐24.6k | 📦 | A process for automating Docker container base image updates. |
+| [`notthebee/infra`](https://github.com/notthebee/infra) | ⭐1.5k | 📦 | IaC for my Linux/Unix machines |
+| [`hitrov/oci-arm-host-capacity`](https://github.com/hitrov/oci-arm-host-capacity) | ⭐1.2k | 📦 | This script allows to bypass Oracle Cloud Infrastructure 'Out of host capacity' error immediately when addi... |
+| [`notro/rpi-source`](https://github.com/notro/rpi-source) | ⭐288 | 📦 | Development has moved to https://github.com/RPi-Distro/rpi-source |
+| [`aws-samples/ec2-classic-resource-finder`](https://github.com/aws-samples/ec2-classic-resource-finder) | ⭐131 | 📦 | This script enables the identification of resources running in Amazon EC2 Classic |
+
+</details>
+
+<details>
+<summary><b>Communication</b> &nbsp;·&nbsp; 23 ⭐ &nbsp;·&nbsp; <i>Self-hosted mail, XMPP/Matrix and federated social platforms for chat and publishing.</i></summary>
+
+| Repo | Stars | Status | Description |
+| --- | --- | --- | --- |
+| [`TryGhost/Ghost`](https://github.com/TryGhost/Ghost) | ⭐52.8k | 🔥 | Independent technology for modern publishing, memberships, subscriptions and newsletters. |
+| [`mastodon/mastodon`](https://github.com/mastodon/mastodon) | ⭐49.9k | 🔥 | Your self-hosted, globally interconnected microblogging community |
+| [`gitroomhq/postiz-app`](https://github.com/gitroomhq/postiz-app) | ⭐30.2k | 🔥 | 📨 The ultimate agentic social media scheduling tool 🤖 |
+| [`chatwoot/chatwoot`](https://github.com/chatwoot/chatwoot) | ⭐29.1k | 🔥 | Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Se... |
+| [`Vendicated/Vencord`](https://github.com/Vendicated/Vencord) | ⭐13.3k | 🔥 | The cutest Discord modification |
+| [`Vencord/Vesktop`](https://github.com/Vencord/Vesktop) | ⭐7.9k | 🔥 | Vesktop is a custom Discord App aiming to give you better performance and improve linux support |
+| [`Mailu/Mailu`](https://github.com/Mailu/Mailu) | ⭐7.2k | 🔥 | Insular email distribution - mail server as Docker images |
+| [`processone/ejabberd`](https://github.com/processone/ejabberd) | ⭐6.7k | 🔥 | Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server) |
+| [`spantaleev/matrix-docker-ansible-deploy`](https://github.com/spantaleev/matrix-docker-ansible-deploy) | ⭐6.4k | 🔥 | 🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker |
+| [`Legcord/Legcord`](https://github.com/Legcord/Legcord) | ⭐3.2k | 🔥 | Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight. |
+| [`movim/movim`](https://github.com/movim/movim) | ⭐2.0k | 🔥 | Movim - Decentralized social platform |
+| [`processone/fluux-messenger`](https://github.com/processone/fluux-messenger) | ⭐336 | 🔥 | Fluux Messenger: A fast, modern, cross-platform XMPP client for communities and organizations. |
+| [`docker-mailserver/docker-mailserver`](https://github.com/docker-mailserver/docker-mailserver) | ⭐18.2k |  | Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running ins... |
+| [`Mail-0/Zero`](https://github.com/Mail-0/Zero) | ⭐10.5k |  | Experience email the way you want with Mail0 – the first open source email app that puts your privacy and s... |
+| [`fluxerapp/fluxer`](https://github.com/fluxerapp/fluxer) | ⭐8.6k |  | A free and open source instant messaging and VoIP platform built for friends, groups, and communities. Self... |
+| [`sethcottle/littlelink`](https://github.com/sethcottle/littlelink) | ⭐2.9k |  | A lightweight DIY Linktree alternative. |
+| [`bluesky-social/pds`](https://github.com/bluesky-social/pds) | ⭐2.5k |  | Bluesky PDS (Personal Data Server) container image, compose file, and documentation |
+| [`dino/dino`](https://github.com/dino/dino) | ⭐2.4k |  | Modern XMPP ("Jabber") Chat Client using GTK/Vala |
+| [`hack-chat/main`](https://github.com/hack-chat/main) | ⭐1.4k |  | a minimal, distraction-free chat application |
+| [`typpo/textbelt`](https://github.com/typpo/textbelt) | ⭐3.3k | 💤 | Free API for outgoing SMS |
+| [`rhiever/TwitterFollowBot`](https://github.com/rhiever/TwitterFollowBot) | ⭐1.3k | 💤 | A Python bot that automates several actions on Twitter, such as following users and favoriting tweets. |
+| [`beeper/self-host`](https://github.com/beeper/self-host) | ⭐1.1k | 📦 | Learn how to self-host Beeper |
+| [`louisgrasset/touitomamout`](https://github.com/louisgrasset/touitomamout) | ⭐252 | 📦 | Touitomamout is an easy way to synchronize your Twitter's tweets 🦤 to Mastodon 🦣 and Bluesky post ☁️ (also ... |
+
+</details>
+
+<details>
 <summary><b>Resources</b> &nbsp;·&nbsp; 22 ⭐ &nbsp;·&nbsp; <i>Awesome-lists, cheatsheets and study guides for sysadmins, devs and security folks.</i></summary>
 
 | Repo | Stars | Status | Description |
@@ -193,66 +255,6 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`kahun/awesome-sysadmin`](https://github.com/kahun/awesome-sysadmin) | ⭐24.3k | 💤 | A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP. |
 | [`roboyoshi/datacurator-filetree`](https://github.com/roboyoshi/datacurator-filetree) | ⭐1.6k | 💤 | a standard filetree for /r/datacurator [ and r/datahoarder ] |
 | [`simon987/awesome-datahoarding`](https://github.com/simon987/awesome-datahoarding) | ⭐1.3k | 💤 | List of data-hoarding related tools |
-
-</details>
-
-<details>
-<summary><b>Communication</b> &nbsp;·&nbsp; 22 ⭐ &nbsp;·&nbsp; <i>Self-hosted mail, XMPP/Matrix and federated social platforms for chat and publishing.</i></summary>
-
-| Repo | Stars | Status | Description |
-| --- | --- | --- | --- |
-| [`TryGhost/Ghost`](https://github.com/TryGhost/Ghost) | ⭐52.8k | 🔥 | Independent technology for modern publishing, memberships, subscriptions and newsletters. |
-| [`mastodon/mastodon`](https://github.com/mastodon/mastodon) | ⭐49.9k | 🔥 | Your self-hosted, globally interconnected microblogging community |
-| [`gitroomhq/postiz-app`](https://github.com/gitroomhq/postiz-app) | ⭐30.2k | 🔥 | 📨 The ultimate agentic social media scheduling tool 🤖 |
-| [`chatwoot/chatwoot`](https://github.com/chatwoot/chatwoot) | ⭐29.1k | 🔥 | Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Se... |
-| [`Vendicated/Vencord`](https://github.com/Vendicated/Vencord) | ⭐13.3k | 🔥 | The cutest Discord modification |
-| [`Vencord/Vesktop`](https://github.com/Vencord/Vesktop) | ⭐7.9k | 🔥 | Vesktop is a custom Discord App aiming to give you better performance and improve linux support |
-| [`Mailu/Mailu`](https://github.com/Mailu/Mailu) | ⭐7.2k | 🔥 | Insular email distribution - mail server as Docker images |
-| [`processone/ejabberd`](https://github.com/processone/ejabberd) | ⭐6.7k | 🔥 | Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server) |
-| [`spantaleev/matrix-docker-ansible-deploy`](https://github.com/spantaleev/matrix-docker-ansible-deploy) | ⭐6.4k | 🔥 | 🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker |
-| [`movim/movim`](https://github.com/movim/movim) | ⭐2.0k | 🔥 | Movim - Decentralized social platform |
-| [`processone/fluux-messenger`](https://github.com/processone/fluux-messenger) | ⭐336 | 🔥 | Fluux Messenger: A fast, modern, cross-platform XMPP client for communities and organizations. |
-| [`docker-mailserver/docker-mailserver`](https://github.com/docker-mailserver/docker-mailserver) | ⭐18.2k |  | Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running ins... |
-| [`Mail-0/Zero`](https://github.com/Mail-0/Zero) | ⭐10.5k |  | Experience email the way you want with Mail0 – the first open source email app that puts your privacy and s... |
-| [`fluxerapp/fluxer`](https://github.com/fluxerapp/fluxer) | ⭐8.6k |  | A free and open source instant messaging and VoIP platform built for friends, groups, and communities. Self... |
-| [`sethcottle/littlelink`](https://github.com/sethcottle/littlelink) | ⭐2.9k |  | A lightweight DIY Linktree alternative. |
-| [`bluesky-social/pds`](https://github.com/bluesky-social/pds) | ⭐2.5k |  | Bluesky PDS (Personal Data Server) container image, compose file, and documentation |
-| [`dino/dino`](https://github.com/dino/dino) | ⭐2.4k |  | Modern XMPP ("Jabber") Chat Client using GTK/Vala |
-| [`hack-chat/main`](https://github.com/hack-chat/main) | ⭐1.4k |  | a minimal, distraction-free chat application |
-| [`typpo/textbelt`](https://github.com/typpo/textbelt) | ⭐3.3k | 💤 | Free API for outgoing SMS |
-| [`rhiever/TwitterFollowBot`](https://github.com/rhiever/TwitterFollowBot) | ⭐1.3k | 💤 | A Python bot that automates several actions on Twitter, such as following users and favoriting tweets. |
-| [`beeper/self-host`](https://github.com/beeper/self-host) | ⭐1.1k | 📦 | Learn how to self-host Beeper |
-| [`louisgrasset/touitomamout`](https://github.com/louisgrasset/touitomamout) | ⭐252 | 📦 | Touitomamout is an easy way to synchronize your Twitter's tweets 🦤 to Mastodon 🦣 and Bluesky post ☁️ (also ... |
-
-</details>
-
-<details>
-<summary><b>InfraAsCode</b> &nbsp;·&nbsp; 22 ⭐ &nbsp;·&nbsp; <i>Ansible playbooks, container hosting platforms and cloud-provider helper scripts.</i></summary>
-
-| Repo | Stars | Status | Description |
-| --- | --- | --- | --- |
-| [`dockur/windows`](https://github.com/dockur/windows) | ⭐51.3k | 🔥 | Windows inside a Docker container. |
-| [`Dokploy/dokploy`](https://github.com/Dokploy/dokploy) | ⭐33.9k | 🔥 | Open Source Alternative to Vercel, Netlify and Heroku. |
-| [`goharbor/harbor`](https://github.com/goharbor/harbor) | ⭐28.5k | 🔥 | An open source trusted cloud native registry project that stores, signs, and scans content. |
-| [`ansible/awx`](https://github.com/ansible/awx) | ⭐15.4k | 🔥 | AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of th... |
-| [`semaphoreui/semaphore`](https://github.com/semaphoreui/semaphore) | ⭐13.6k | 🔥 | Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools. |
-| [`getumbrel/umbrel`](https://github.com/getumbrel/umbrel) | ⭐11.2k | 🔥 | An elegant home server OS. Run OpenClaw, store your files and photos, run a Bitcoin node, and do more with ... |
-| [`dev-sec/ansible-collection-hardening`](https://github.com/dev-sec/ansible-collection-hardening) | ⭐5.3k | 🔥 | This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL |
-| [`composerize/composerize`](https://github.com/composerize/composerize) | ⭐3.7k | 🔥 | 🏃→🎼  docker run asdlksjfksdf > docker-composerize up |
-| [`nicholas-fedor/watchtower`](https://github.com/nicholas-fedor/watchtower) | ⭐3.6k | 🔥 | Automate Docker container image updates |
-| [`Mafyuh/iac`](https://github.com/Mafyuh/iac) | ⭐471 | 🔥 | GitOps-driven Infrastructure as Code for my homelab |
-| [`geerlingguy/internet-pi`](https://github.com/geerlingguy/internet-pi) | ⭐4.7k |  | Raspberry Pi config for all things Internet. |
-| [`davestephens/ansible-nas`](https://github.com/davestephens/ansible-nas) | ⭐3.7k |  | Build a full-featured home server or NAS replacement with an Ubuntu box and this playbook. |
-| [`ChristopheJacquet/PiFmRds`](https://github.com/ChristopheJacquet/PiFmRds) | ⭐1.6k |  | FM-RDS transmitter using the Raspberry Pi's PWM |
-| [`ravikiranvm/aws-finops-dashboard`](https://github.com/ravikiranvm/aws-finops-dashboard) | ⭐1.2k |  | A terminal-based AWS cost and resource dashboard built with Python and the Rich library. It provides an ove... |
-| [`Hexxeh/rpi-update`](https://github.com/Hexxeh/rpi-update) | ⭐1.9k | 💤 | An easier way to update the firmware of your Raspberry Pi |
-| [`Codycody31/Prevent-OCI-Deletion-for-being-idle`](https://github.com/Codycody31/Prevent-OCI-Deletion-for-being-idle) | ⭐36 | 💤 | Scripts to maintain active OCI ForeverFree tier instances, preventing deletions due to inactivity. |
-| [`claranet/ansible-role-motd`](https://github.com/claranet/ansible-role-motd) | ⭐13 | 💤 | Install and configure dynamic MOTD and SSH banner |
-| [`containrrr/watchtower`](https://github.com/containrrr/watchtower) | ⭐24.6k | 📦 | A process for automating Docker container base image updates. |
-| [`notthebee/infra`](https://github.com/notthebee/infra) | ⭐1.5k | 📦 | IaC for my Linux/Unix machines |
-| [`hitrov/oci-arm-host-capacity`](https://github.com/hitrov/oci-arm-host-capacity) | ⭐1.2k | 📦 | This script allows to bypass Oracle Cloud Infrastructure 'Out of host capacity' error immediately when addi... |
-| [`notro/rpi-source`](https://github.com/notro/rpi-source) | ⭐288 | 📦 | Development has moved to https://github.com/RPi-Distro/rpi-source |
-| [`aws-samples/ec2-classic-resource-finder`](https://github.com/aws-samples/ec2-classic-resource-finder) | ⭐131 | 📦 | This script enables the identification of resources running in Amazon EC2 Classic |
 
 </details>
 
@@ -316,7 +318,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 </details>
 
 <details>
-<summary><b>Network</b> &nbsp;·&nbsp; 19 ⭐ &nbsp;·&nbsp; <i>VPNs, reverse proxies, DNS-level adblock and router firmware.</i></summary>
+<summary><b>Network</b> &nbsp;·&nbsp; 20 ⭐ &nbsp;·&nbsp; <i>VPNs, reverse proxies, DNS-level adblock and router firmware.</i></summary>
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
@@ -333,12 +335,41 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`openwrt/luci`](https://github.com/openwrt/luci) | ⭐7.6k | 🔥 | LuCI - OpenWrt Configuration Interface |
 | [`tinyauthapp/tinyauth`](https://github.com/tinyauthapp/tinyauth) | ⭐7.3k | 🔥 | The tiniest authentication and authorization server you have ever seen. |
 | [`proxifly/free-proxy-list`](https://github.com/proxifly/free-proxy-list) | ⭐5.1k | 🔥 | 🚀 Free HTTP, SOCKS4, & SOCKS5 Proxy List * Updated every 5 minutes * |
+| [`rathole-org/rathole`](https://github.com/rathole-org/rathole) | ⭐13.5k |  | A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp ... |
 | [`pivpn/pivpn`](https://github.com/pivpn/pivpn) | ⭐8.0k |  | The Simplest VPN installer, designed for Raspberry Pi |
 | [`WaLLy3K/wally3k.github.io`](https://github.com/WaLLy3K/wally3k.github.io) | ⭐903 |  | Repo for Firebog hosting |
 | [`yubiuser/pihole_adlist_tool`](https://github.com/yubiuser/pihole_adlist_tool) | ⭐549 |  | A tool to analyse how your pihole adlists cover you browsing behavior |
 | [`mmotti/pihole-regex`](https://github.com/mmotti/pihole-regex) | ⭐1.4k | 💤 | Custom regex filter list for use with Pi-hole. |
 | [`cidrblock/drawthe.net`](https://github.com/cidrblock/drawthe.net) | ⭐1.2k | 💤 | drawthe.net draws network diagrams dynamically from a text file describing the placement, layout and icons.... |
 | [`sterrenb/flutterhole`](https://github.com/sterrenb/flutterhole) | ⭐392 | 📦 | A third party Android application for the Pi-Hole® dashboard. |
+
+</details>
+
+<details>
+<summary><b>Privacy</b> &nbsp;·&nbsp; 20 ⭐ &nbsp;·&nbsp; <i>Tracker blockers, password managers, anonymous messaging and tools to escape surveillance.</i></summary>
+
+| Repo | Stars | Status | Description |
+| --- | --- | --- | --- |
+| [`gorhill/uBlock`](https://github.com/gorhill/uBlock) | ⭐64.6k | 🔥 | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. |
+| [`umami-software/umami`](https://github.com/umami-software/umami) | ⭐36.6k | 🔥 | Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixp... |
+| [`searxng/searxng`](https://github.com/searxng/searxng) | ⭐29.8k | 🔥 | SearXNG is a free internet metasearch engine which aggregates results from various search services and data... |
+| [`keeweb/keeweb`](https://github.com/keeweb/keeweb) | ⭐12.9k | 🔥 | Free cross-platform password manager compatible with KeePass |
+| [`arkenfox/user.js`](https://github.com/arkenfox/user.js) | ⭐12.5k | 🔥 | Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening |
+| [`mvt-project/mvt`](https://github.com/mvt-project/mvt) | ⭐12.4k | 🔥 | MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs ... |
+| [`simplex-chat/simplex-chat`](https://github.com/simplex-chat/simplex-chat) | ⭐11.1k | 🔥 | SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by desi... |
+| [`OhMyGuus/I-Still-Dont-Care-About-Cookies`](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) | ⭐4.1k | 🔥 | Debloated fork of the extension "I don't care about cookies" |
+| [`dani-garcia/vaultwarden`](https://github.com/dani-garcia/vaultwarden) | ⭐60.1k |  | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs |
+| [`pluja/awesome-privacy`](https://github.com/pluja/awesome-privacy) | ⭐18.7k |  | Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MAT... |
+| [`victornpb/undiscord`](https://github.com/victornpb/undiscord) | ⭐6.5k |  | Undiscord - Delete all messages in a Discord server / channel or DM (Easy and fast) Bulk delete |
+| [`ClearURLs/Addon`](https://github.com/ClearURLs/Addon) | ⭐4.9k |  | ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking ele... |
+| [`Anon-Planet/thgtoa`](https://github.com/Anon-Planet/thgtoa) | ⭐725 |  | The comprehensive guide for online anonymity and OpSec. |
+| [`peterhanania/Discord-Package`](https://github.com/peterhanania/Discord-Package) | ⭐544 |  | A detailed Discord data package explorer designed to help users visualize the data Discord collects. |
+| [`jystervinou/free-mobile-filtres-demarchage`](https://github.com/jystervinou/free-mobile-filtres-demarchage) | ⭐7 |  | Free Mobile Filtres Démarchage |
+| [`rztprog/outlook-web-plus`](https://github.com/rztprog/outlook-web-plus) | ⭐2 |  | Remove ads and improve Outlook's web mailbox |
+| [`Shawn-Shan/fawkes`](https://github.com/Shawn-Shan/fawkes) | ⭐5.5k | 💤 | Fawkes, privacy preserving tool against facial recognition systems. More info at https://sandlab.cs.uchicag... |
+| [`cathugger/mkp224o`](https://github.com/cathugger/mkp224o) | ⭐1.6k | 💤 | vanity address generator for tor onion v3 (ed25519) hidden services |
+| [`manekinekko/digital-covid-certificate-decoder`](https://github.com/manekinekko/digital-covid-certificate-decoder) | ⭐30 | 💤 | An attempt to decode the Digital Covid Certificate (signed by the french app TousAntiCovid) - For Education... |
+| [`pixeltris/TwitchAdSolutions`](https://github.com/pixeltris/TwitchAdSolutions) | ⭐11.3k | 📦 | _(no description)_ |
 
 </details>
 
@@ -420,31 +451,6 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 </details>
 
 <details>
-<summary><b>Privacy</b> &nbsp;·&nbsp; 17 ⭐ &nbsp;·&nbsp; <i>Tracker blockers, password managers, anonymous messaging and tools to escape surveillance.</i></summary>
-
-| Repo | Stars | Status | Description |
-| --- | --- | --- | --- |
-| [`umami-software/umami`](https://github.com/umami-software/umami) | ⭐36.6k | 🔥 | Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixp... |
-| [`searxng/searxng`](https://github.com/searxng/searxng) | ⭐29.8k | 🔥 | SearXNG is a free internet metasearch engine which aggregates results from various search services and data... |
-| [`keeweb/keeweb`](https://github.com/keeweb/keeweb) | ⭐12.9k | 🔥 | Free cross-platform password manager compatible with KeePass |
-| [`mvt-project/mvt`](https://github.com/mvt-project/mvt) | ⭐12.4k | 🔥 | MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs ... |
-| [`simplex-chat/simplex-chat`](https://github.com/simplex-chat/simplex-chat) | ⭐11.1k | 🔥 | SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by desi... |
-| [`OhMyGuus/I-Still-Dont-Care-About-Cookies`](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) | ⭐4.1k | 🔥 | Debloated fork of the extension "I don't care about cookies" |
-| [`dani-garcia/vaultwarden`](https://github.com/dani-garcia/vaultwarden) | ⭐60.1k |  | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs |
-| [`pluja/awesome-privacy`](https://github.com/pluja/awesome-privacy) | ⭐18.7k |  | Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MAT... |
-| [`victornpb/undiscord`](https://github.com/victornpb/undiscord) | ⭐6.5k |  | Undiscord - Delete all messages in a Discord server / channel or DM (Easy and fast) Bulk delete |
-| [`ClearURLs/Addon`](https://github.com/ClearURLs/Addon) | ⭐4.9k |  | ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking ele... |
-| [`peterhanania/Discord-Package`](https://github.com/peterhanania/Discord-Package) | ⭐544 |  | A detailed Discord data package explorer designed to help users visualize the data Discord collects. |
-| [`jystervinou/free-mobile-filtres-demarchage`](https://github.com/jystervinou/free-mobile-filtres-demarchage) | ⭐7 |  | Free Mobile Filtres Démarchage |
-| [`rztprog/outlook-web-plus`](https://github.com/rztprog/outlook-web-plus) | ⭐2 |  | Remove ads and improve Outlook's web mailbox |
-| [`Shawn-Shan/fawkes`](https://github.com/Shawn-Shan/fawkes) | ⭐5.5k | 💤 | Fawkes, privacy preserving tool against facial recognition systems. More info at https://sandlab.cs.uchicag... |
-| [`cathugger/mkp224o`](https://github.com/cathugger/mkp224o) | ⭐1.6k | 💤 | vanity address generator for tor onion v3 (ed25519) hidden services |
-| [`manekinekko/digital-covid-certificate-decoder`](https://github.com/manekinekko/digital-covid-certificate-decoder) | ⭐30 | 💤 | An attempt to decode the Digital Covid Certificate (signed by the french app TousAntiCovid) - For Education... |
-| [`pixeltris/TwitchAdSolutions`](https://github.com/pixeltris/TwitchAdSolutions) | ⭐11.3k | 📦 | _(no description)_ |
-
-</details>
-
-<details>
 <summary><b>Games-Tools</b> &nbsp;·&nbsp; 17 ⭐ &nbsp;·&nbsp; <i>Game companions, save managers, launchers, map renderers and discord bots.</i></summary>
 
 | Repo | Stars | Status | Description |
@@ -483,7 +489,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`OpenBMB/VoxCPM`](https://github.com/OpenBMB/VoxCPM) | ⭐18.2k | 🔥 | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Clo... |
 | [`elie222/inbox-zero`](https://github.com/elie222/inbox-zero) | ⭐10.7k | 🔥 | The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast. |
 | [`romainsimon/paperasse`](https://github.com/romainsimon/paperasse) | ⭐1.6k | 🔥 | 🇫🇷  Skills pour agents IA spécialisés dans la bureaucratie française : Comptable, Notaire, ... |
-| [`forrestchang/andrej-karpathy-skills`](https://github.com/forrestchang/andrej-karpathy-skills) | ⭐124.7k |  | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM... |
+| [`multica-ai/andrej-karpathy-skills`](https://github.com/multica-ai/andrej-karpathy-skills) | ⭐127.5k |  | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM... |
 | [`punkpeye/awesome-mcp-servers`](https://github.com/punkpeye/awesome-mcp-servers) | ⭐86.7k |  | A collection of MCP servers. |
 | [`TheEvilSkeleton/Upscaler`](https://github.com/TheEvilSkeleton/Upscaler) | ⭐42 |  | Upscale and enhance images |
 | [`yoanbernabeu/NanoThumbnail`](https://github.com/yoanbernabeu/NanoThumbnail) | ⭐35 |  | Generate Viral Thumbnails with AI |
