@@ -294,7 +294,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
 | [`sherlock-project/sherlock`](https://github.com/sherlock-project/sherlock) | ⭐83.2k | 🔥 | Hunt down social media accounts by username across social networks |
-| [`Lissy93/web-check`](https://github.com/Lissy93/web-check) | ⭐33.1k | 🔥 | 🕵️‍♂️ All-in-one OSINT tool for analysing any website |
+| [`lissy93/web-check`](https://github.com/lissy93/web-check) | ⭐33.1k | 🔥 | 🕵️‍♂️ All-in-one OSINT tool for analysing any website |
 | [`soxoj/maigret`](https://github.com/soxoj/maigret) | ⭐27.7k | 🔥 | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
 | [`blacklanternsecurity/bbot`](https://github.com/blacklanternsecurity/bbot) | ⭐9.7k | 🔥 | The recursive internet scanner for hackers. 🧡 |
 | [`Datalux/Osintgram`](https://github.com/Datalux/Osintgram) | ⭐12.8k |  | Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram acc... |

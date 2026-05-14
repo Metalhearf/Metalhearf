@@ -2146,6 +2146,14 @@
     "status": "🔥",
     "url": "https://github.com/linux-surface/linux-surface"
   },
+  "lissy93/web-check": {
+    "description": "🕵️‍♂️ All-in-one OSINT tool for analysing any website",
+    "isArchived": false,
+    "pushedAt": "2026-05-11T10:03:33Z",
+    "stargazerCount": 33085,
+    "status": "🔥",
+    "url": "https://github.com/lissy93/web-check"
+  },
   "logseq/logseq": {
     "description": "A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV",
     "isArchived": false,
