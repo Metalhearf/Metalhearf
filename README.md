@@ -27,7 +27,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 <!-- STARS:START -->
 ## ⭐ Curated Stars
 
-**466 repos** across **29 categories**. Click any section to expand.
+**467 repos** across **29 categories**. Click any section to expand.
 
 <details>
 <summary><b>Hacking</b> &nbsp;·&nbsp; 30 ⭐ &nbsp;·&nbsp; <i>Pentesting frameworks, WiFi/Bluetooth attack tools and offensive security utilities.</i></summary>
@@ -68,6 +68,40 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 </details>
 
 <details>
+<summary><b>Media</b> &nbsp;·&nbsp; 26 ⭐ &nbsp;·&nbsp; <i>Self-hosted media servers, photo libraries, IP cameras, video downloaders and OBS plugins.</i></summary>
+
+| Repo | Stars | Status | Description |
+| --- | --- | --- | --- |
+| [`iptv-org/iptv`](https://github.com/iptv-org/iptv) | ⭐116.2k | 🔥 | Collection of publicly available IPTV channels from all over the world |
+| [`immich-app/immich`](https://github.com/immich-app/immich) | ⭐100.6k | 🔥 | High performance self-hosted photo and video management solution. |
+| [`jellyfin/jellyfin`](https://github.com/jellyfin/jellyfin) | ⭐51.6k | 🔥 | The Free Software Media System - Server Backend & API |
+| [`photoprism/photoprism`](https://github.com/photoprism/photoprism) | ⭐39.7k | 🔥 | AI-Powered Photos App for the Decentralized Web 🌈💎✨ |
+| [`blakeblackshear/frigate`](https://github.com/blakeblackshear/frigate) | ⭐31.9k | 🔥 | NVR with realtime local object detection for IP cameras |
+| [`navidrome/navidrome`](https://github.com/navidrome/navidrome) | ⭐21.1k | 🔥 | 🎧 Your Personal Streaming Service |
+| [`pystardust/ani-cli`](https://github.com/pystardust/ani-cli) | ⭐12.4k | 🔥 | A cli tool to browse and play anime |
+| [`streamlink/streamlink`](https://github.com/streamlink/streamlink) | ⭐11.5k | 🔥 | Streamlink is a CLI utility which pipes video streams from various services into a video player |
+| [`seerr-team/seerr`](https://github.com/seerr-team/seerr) | ⭐11.3k | 🔥 | Open-source media request and discovery manager for Jellyfin, Plex, and Emby. |
+| [`Freika/dawarich`](https://github.com/Freika/dawarich) | ⭐9.0k | 🔥 | Your favorite self-hostable alternative to Google Timeline (Google Location History) |
+| [`motioneye-project/motioneye`](https://github.com/motioneye-project/motioneye) | ⭐4.6k | 🔥 | A web frontend for the motion daemon. |
+| [`intro-skipper/intro-skipper`](https://github.com/intro-skipper/intro-skipper) | ⭐2.3k | 🔥 | Automatically detect and skip intro/credit sequences in Jellyfin |
+| [`byrongamatos/slopsmith-desktop`](https://github.com/byrongamatos/slopsmith-desktop) | ⭐483 | 🔥 | _(no description)_ |
+| [`rx342/senscritique2letterboxd`](https://github.com/rx342/senscritique2letterboxd) | ⭐25 | 🔥 | Move your Senscritique library to Letterboxd |
+| [`yt-dlp/yt-dlp`](https://github.com/yt-dlp/yt-dlp) | ⭐162.3k |  | A feature-rich command-line audio/video downloader |
+| [`AlexxIT/go2rtc`](https://github.com/AlexxIT/go2rtc) | ⭐13.0k |  | Ultimate camera streaming application |
+| [`obsproject/obs-websocket`](https://github.com/obsproject/obs-websocket) | ⭐4.3k |  | Remote-control of OBS Studio through WebSocket |
+| [`Salvoxia/immich-folder-album-creator`](https://github.com/Salvoxia/immich-folder-album-creator) | ⭐1.0k |  | Automatically create and populate albums in Immich from a folder structure in external libraries |
+| [`SmilyOrg/photofield`](https://github.com/SmilyOrg/photofield) | ⭐578 |  | A self-hosted non-invasive single-binary photo gallery with a focus on speed and simplicity. |
+| [`JimmyAppelt/snaz`](https://github.com/JimmyAppelt/snaz) | ⭐301 |  | Snaz |
+| [`phileastv/SensBoxd`](https://github.com/phileastv/SensBoxd) | ⭐24 |  | Exporter sa collection SensCritique pour Letterboxd. |
+| [`Vhonowslend/StreamFX-Public`](https://github.com/Vhonowslend/StreamFX-Public) | ⭐4.1k | 💤 | StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoder... |
+| [`Kalejin/DCSB`](https://github.com/Kalejin/DCSB) | ⭐288 | 💤 | Deathcounter and Soundboard, WPF app for setting up key shortcuts |
+| [`GuGuss/ARTE-7-Downloader`](https://github.com/GuGuss/ARTE-7-Downloader) | ⭐261 | 💤 | User script to download videos from the ARTE+7 website |
+| [`univrsal/spectralizer`](https://github.com/univrsal/spectralizer) | ⭐617 | 📦 | Audio visualizer plugin for obs-studio |
+| [`danielveigasilva/jellyfin-plugin-letterboxd-sync`](https://github.com/danielveigasilva/jellyfin-plugin-letterboxd-sync) | ⭐108 | 📦 | A unofficial plugin to keep your watched movie history from Jellyfin automatically updated to your Letterbo... |
+
+</details>
+
+<details>
 <summary><b>Productivity</b> &nbsp;·&nbsp; 25 ⭐ &nbsp;·&nbsp; <i>Documents, ebooks, notes/PKM, dashboards, recipes and workflow automation.</i></summary>
 
 | Repo | Stars | Status | Description |
@@ -97,39 +131,6 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`crocodilestick/Calibre-Web-Automated`](https://github.com/crocodilestick/Calibre-Web-Automated) | ⭐5.6k |  | Calibre-Web but Automated and with tons of New Features! Fully automate and simplify your eBook set up! |
 | [`mult1v4c/hestia-core`](https://github.com/mult1v4c/hestia-core) | ⭐676 |  | A grid-based, modular dashboard built entirely from HTML, CSS, and JS with the ability to create your custo... |
 | [`na--/ebook-tools`](https://github.com/na--/ebook-tools) | ⭐765 | 💤 | Shell scripts for organizing and managing ebook collections |
-
-</details>
-
-<details>
-<summary><b>Media</b> &nbsp;·&nbsp; 25 ⭐ &nbsp;·&nbsp; <i>Self-hosted media servers, photo libraries, IP cameras, video downloaders and OBS plugins.</i></summary>
-
-| Repo | Stars | Status | Description |
-| --- | --- | --- | --- |
-| [`iptv-org/iptv`](https://github.com/iptv-org/iptv) | ⭐116.2k | 🔥 | Collection of publicly available IPTV channels from all over the world |
-| [`immich-app/immich`](https://github.com/immich-app/immich) | ⭐100.6k | 🔥 | High performance self-hosted photo and video management solution. |
-| [`jellyfin/jellyfin`](https://github.com/jellyfin/jellyfin) | ⭐51.6k | 🔥 | The Free Software Media System - Server Backend & API |
-| [`photoprism/photoprism`](https://github.com/photoprism/photoprism) | ⭐39.7k | 🔥 | AI-Powered Photos App for the Decentralized Web 🌈💎✨ |
-| [`blakeblackshear/frigate`](https://github.com/blakeblackshear/frigate) | ⭐31.9k | 🔥 | NVR with realtime local object detection for IP cameras |
-| [`navidrome/navidrome`](https://github.com/navidrome/navidrome) | ⭐21.1k | 🔥 | 🎧 Your Personal Streaming Service |
-| [`pystardust/ani-cli`](https://github.com/pystardust/ani-cli) | ⭐12.4k | 🔥 | A cli tool to browse and play anime |
-| [`streamlink/streamlink`](https://github.com/streamlink/streamlink) | ⭐11.5k | 🔥 | Streamlink is a CLI utility which pipes video streams from various services into a video player |
-| [`seerr-team/seerr`](https://github.com/seerr-team/seerr) | ⭐11.3k | 🔥 | Open-source media request and discovery manager for Jellyfin, Plex, and Emby. |
-| [`Freika/dawarich`](https://github.com/Freika/dawarich) | ⭐9.0k | 🔥 | Your favorite self-hostable alternative to Google Timeline (Google Location History) |
-| [`motioneye-project/motioneye`](https://github.com/motioneye-project/motioneye) | ⭐4.6k | 🔥 | A web frontend for the motion daemon. |
-| [`intro-skipper/intro-skipper`](https://github.com/intro-skipper/intro-skipper) | ⭐2.3k | 🔥 | Automatically detect and skip intro/credit sequences in Jellyfin |
-| [`rx342/senscritique2letterboxd`](https://github.com/rx342/senscritique2letterboxd) | ⭐25 | 🔥 | Move your Senscritique library to Letterboxd |
-| [`yt-dlp/yt-dlp`](https://github.com/yt-dlp/yt-dlp) | ⭐162.3k |  | A feature-rich command-line audio/video downloader |
-| [`AlexxIT/go2rtc`](https://github.com/AlexxIT/go2rtc) | ⭐13.0k |  | Ultimate camera streaming application |
-| [`obsproject/obs-websocket`](https://github.com/obsproject/obs-websocket) | ⭐4.3k |  | Remote-control of OBS Studio through WebSocket |
-| [`Salvoxia/immich-folder-album-creator`](https://github.com/Salvoxia/immich-folder-album-creator) | ⭐1.0k |  | Automatically create and populate albums in Immich from a folder structure in external libraries |
-| [`SmilyOrg/photofield`](https://github.com/SmilyOrg/photofield) | ⭐578 |  | A self-hosted non-invasive single-binary photo gallery with a focus on speed and simplicity. |
-| [`JimmyAppelt/snaz`](https://github.com/JimmyAppelt/snaz) | ⭐301 |  | Snaz |
-| [`phileastv/SensBoxd`](https://github.com/phileastv/SensBoxd) | ⭐24 |  | Exporter sa collection SensCritique pour Letterboxd. |
-| [`Vhonowslend/StreamFX-Public`](https://github.com/Vhonowslend/StreamFX-Public) | ⭐4.1k | 💤 | StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoder... |
-| [`Kalejin/DCSB`](https://github.com/Kalejin/DCSB) | ⭐288 | 💤 | Deathcounter and Soundboard, WPF app for setting up key shortcuts |
-| [`GuGuss/ARTE-7-Downloader`](https://github.com/GuGuss/ARTE-7-Downloader) | ⭐261 | 💤 | User script to download videos from the ARTE+7 website |
-| [`univrsal/spectralizer`](https://github.com/univrsal/spectralizer) | ⭐617 | 📦 | Audio visualizer plugin for obs-studio |
-| [`danielveigasilva/jellyfin-plugin-letterboxd-sync`](https://github.com/danielveigasilva/jellyfin-plugin-letterboxd-sync) | ⭐108 | 📦 | A unofficial plugin to keep your watched movie history from Jellyfin automatically updated to your Letterbo... |
 
 </details>
 
