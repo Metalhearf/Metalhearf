@@ -27,7 +27,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 <!-- STARS:START -->
 ## ⭐ Curated Stars
 
-**467 repos** across **29 categories**. Click any section to expand.
+**468 repos** across **29 categories**. Click any section to expand.
 
 <details>
 <summary><b>Hacking</b> &nbsp;·&nbsp; 30 ⭐ &nbsp;·&nbsp; <i>Pentesting frameworks, WiFi/Bluetooth attack tools and offensive security utilities.</i></summary>
@@ -477,6 +477,29 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 </details>
 
 <details>
+<summary><b>HomeAutomation</b> &nbsp;·&nbsp; 15 ⭐ &nbsp;·&nbsp; <i>Home Assistant configs, Zigbee bridges and smart-home firmware.</i></summary>
+
+| Repo | Stars | Status | Description |
+| --- | --- | --- | --- |
+| [`Koenkk/zigbee2mqtt`](https://github.com/Koenkk/zigbee2mqtt) | ⭐15.1k | 🔥 | Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨 |
+| [`homeassistant-ai/ha-mcp`](https://github.com/homeassistant-ai/ha-mcp) | ⭐2.9k | 🔥 | The Unofficial and Awesome Home Assistant MCP Server |
+| [`HGHugo/FreeboxOS-Ultra-Dashboard`](https://github.com/HGHugo/FreeboxOS-Ultra-Dashboard) | ⭐392 | 🔥 | Freebox OS Ultra Dashboard est une interface web moderne (React 19 + Express 5) pour piloter une Freebox : ... |
+| [`pvvx/ATC_MiThermometer`](https://github.com/pvvx/ATC_MiThermometer) | ⭐4.1k |  | Custom firmware for the Xiaomi Thermometers and Telink Flasher |
+| [`CTalvio/Ultrachromic`](https://github.com/CTalvio/Ultrachromic) | ⭐947 |  | The final form, the true evolution of the chromic theme saga! |
+| [`darkxst/silabs-firmware-builder`](https://github.com/darkxst/silabs-firmware-builder) | ⭐785 |  | Silicon Labs firmware builder |
+| [`pvvx/ZigbeeTLc`](https://github.com/pvvx/ZigbeeTLc) | ⭐763 |  | Custom firmware for Zigbee 3.0 IoT devices on the TLSR825x chip |
+| [`sbidy/pywizlight`](https://github.com/sbidy/pywizlight) | ⭐534 |  | A python connector for WiZ devices |
+| [`matt8707/hass-config`](https://github.com/matt8707/hass-config) | ⭐5.2k | 💤 | ✨ A different take on designing a Lovelace UI (Dashboard) |
+| [`Madelena/hass-config-public`](https://github.com/Madelena/hass-config-public) | ⭐1.1k | 💤 | My Dashboards for Home Assistant - Advanced data visualizations, responsive design, a neat maximalist Metro... |
+| [`Madelena/Metrology-for-Hass`](https://github.com/Madelena/Metrology-for-Hass) | ⭐677 | 💤 | 🎨 Give your Home Assistant a modern and clean facelift. 🟥🟧🟩🟦🟪 24 Variations with 2 Styles + 6 Colors (Magen... |
+| [`PAPAMICA/home-config`](https://github.com/PAPAMICA/home-config) | ⭐150 | 💤 | All configs files of my house configuration ! |
+| [`Trikos/Home-Assistant-Naming-Convention`](https://github.com/Trikos/Home-Assistant-Naming-Convention) | ⭐70 | 💤 | A repository dedicated to best practices for naming devices, sensors, and entities in Home Assistant setups... |
+| [`C-Duv/freemobile-smsapi-client`](https://github.com/C-Duv/freemobile-smsapi-client) | ⭐58 | 💤 | API client for the Free Mobile SMS notification service |
+| [`Aymkdn/assistant-freebox`](https://github.com/Aymkdn/assistant-freebox) | ⭐24 | 💤 | Plugin pour contrôler la Freebox Révolution via un Assistant comme Google Home |
+
+</details>
+
+<details>
 <summary><b>AI</b> &nbsp;·&nbsp; 14 ⭐ &nbsp;·&nbsp; <i>Local LLMs, AI coding agents, TTS engines and AI-augmented productivity tools.</i></summary>
 
 | Repo | Stars | Status | Description |
@@ -539,28 +562,6 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`spicetify/marketplace`](https://github.com/spicetify/marketplace) | ⭐1.5k |  | Download extensions and themes directly from Spicetify |
 | [`JMPerez/spotify-dedup`](https://github.com/JMPerez/spotify-dedup) | ⭐1.1k |  | Remove duplicates from your Spotify Playlists |
 | [`benfoxall/lastfm-to-csv`](https://github.com/benfoxall/lastfm-to-csv) | ⭐544 | 💤 | Web based tool for exporting scrobbles |
-
-</details>
-
-<details>
-<summary><b>HomeAutomation</b> &nbsp;·&nbsp; 14 ⭐ &nbsp;·&nbsp; <i>Home Assistant configs, Zigbee bridges and smart-home firmware.</i></summary>
-
-| Repo | Stars | Status | Description |
-| --- | --- | --- | --- |
-| [`Koenkk/zigbee2mqtt`](https://github.com/Koenkk/zigbee2mqtt) | ⭐15.1k | 🔥 | Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨 |
-| [`HGHugo/FreeboxOS-Ultra-Dashboard`](https://github.com/HGHugo/FreeboxOS-Ultra-Dashboard) | ⭐392 | 🔥 | Freebox OS Ultra Dashboard est une interface web moderne (React 19 + Express 5) pour piloter une Freebox : ... |
-| [`pvvx/ATC_MiThermometer`](https://github.com/pvvx/ATC_MiThermometer) | ⭐4.1k |  | Custom firmware for the Xiaomi Thermometers and Telink Flasher |
-| [`CTalvio/Ultrachromic`](https://github.com/CTalvio/Ultrachromic) | ⭐947 |  | The final form, the true evolution of the chromic theme saga! |
-| [`darkxst/silabs-firmware-builder`](https://github.com/darkxst/silabs-firmware-builder) | ⭐785 |  | Silicon Labs firmware builder |
-| [`pvvx/ZigbeeTLc`](https://github.com/pvvx/ZigbeeTLc) | ⭐763 |  | Custom firmware for Zigbee 3.0 IoT devices on the TLSR825x chip |
-| [`sbidy/pywizlight`](https://github.com/sbidy/pywizlight) | ⭐534 |  | A python connector for WiZ devices |
-| [`matt8707/hass-config`](https://github.com/matt8707/hass-config) | ⭐5.2k | 💤 | ✨ A different take on designing a Lovelace UI (Dashboard) |
-| [`Madelena/hass-config-public`](https://github.com/Madelena/hass-config-public) | ⭐1.1k | 💤 | My Dashboards for Home Assistant - Advanced data visualizations, responsive design, a neat maximalist Metro... |
-| [`Madelena/Metrology-for-Hass`](https://github.com/Madelena/Metrology-for-Hass) | ⭐677 | 💤 | 🎨 Give your Home Assistant a modern and clean facelift. 🟥🟧🟩🟦🟪 24 Variations with 2 Styles + 6 Colors (Magen... |
-| [`PAPAMICA/home-config`](https://github.com/PAPAMICA/home-config) | ⭐150 | 💤 | All configs files of my house configuration ! |
-| [`Trikos/Home-Assistant-Naming-Convention`](https://github.com/Trikos/Home-Assistant-Naming-Convention) | ⭐70 | 💤 | A repository dedicated to best practices for naming devices, sensors, and entities in Home Assistant setups... |
-| [`C-Duv/freemobile-smsapi-client`](https://github.com/C-Duv/freemobile-smsapi-client) | ⭐58 | 💤 | API client for the Free Mobile SMS notification service |
-| [`Aymkdn/assistant-freebox`](https://github.com/Aymkdn/assistant-freebox) | ⭐24 | 💤 | Plugin pour contrôler la Freebox Révolution via un Assistant comme Google Home |
 
 </details>
 

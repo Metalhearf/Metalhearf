@@ -1786,6 +1786,14 @@
     "status": "",
     "url": "https://github.com/home-sweet-gnome/dash-to-panel"
   },
+  "homeassistant-ai/ha-mcp": {
+    "description": "The Unofficial and Awesome Home Assistant MCP Server",
+    "isArchived": false,
+    "pushedAt": "2026-05-16T23:06:31Z",
+    "stargazerCount": 2921,
+    "status": "🔥",
+    "url": "https://github.com/homeassistant-ai/ha-mcp"
+  },
   "hotsapi/HotsStats": {
     "description": "An app that shows player stats during loading screen in Heroes of the Storm",
     "isArchived": true,
