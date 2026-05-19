@@ -27,7 +27,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 <!-- STARS:START -->
 ## ⭐ Curated Stars
 
-**468 repos** across **29 categories**. Click any section to expand.
+**469 repos** across **29 categories**. Click any section to expand.
 
 <details>
 <summary><b>Hacking</b> &nbsp;·&nbsp; 30 ⭐ &nbsp;·&nbsp; <i>Pentesting frameworks, WiFi/Bluetooth attack tools and offensive security utilities.</i></summary>
@@ -402,6 +402,32 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 </details>
 
 <details>
+<summary><b>Games-Tools</b> &nbsp;·&nbsp; 18 ⭐ &nbsp;·&nbsp; <i>Game companions, save managers, launchers, map renderers and discord bots.</i></summary>
+
+| Repo | Stars | Status | Description |
+| --- | --- | --- | --- |
+| [`hydralauncher/hydra`](https://github.com/hydralauncher/hydra) | ⭐15.7k | 🔥 | Hydra Launcher is an open-source gaming platform created to be the single tool that you need |
+| [`lutris/lutris`](https://github.com/lutris/lutris) | ⭐10.0k | 🔥 | Lutris desktop client |
+| [`HiddenRamblings/TagMo`](https://github.com/HiddenRamblings/TagMo) | ⭐3.2k | 🔥 | _(no description)_ |
+| [`BlueMap-Minecraft/BlueMap`](https://github.com/BlueMap-Minecraft/BlueMap) | ⭐2.7k | 🔥 | A Minecraft mapping tool that creates 3D models of your Minecraft worlds and displays them in a web viewer. |
+| [`EDCD/EDMarketConnector`](https://github.com/EDCD/EDMarketConnector) | ⭐1.2k | 🔥 | Downloads commodity market and other station data from the game Elite: Dangerous for use with all popular o... |
+| [`feldorn/free-games-claimer`](https://github.com/feldorn/free-games-claimer) | ⭐39 | 🔥 | Automatically claims free games and DLCs on the Epic Games Store, Steam, Amazon Prime Gaming and GOG. |
+| [`kwsch/NHSE`](https://github.com/kwsch/NHSE) | ⭐1.2k |  | Animal Crossing: New Horizons save editor |
+| [`miffycs/Animal-Crossing-Amiibo`](https://github.com/miffycs/Animal-Crossing-Amiibo) | ⭐965 |  | 🎮   Step-by-step instructions on how to recreate Amiibo cards for Animal Crossing: New Horizons. For educat... |
+| [`TheOrcDev/warcraftcn-ui`](https://github.com/TheOrcDev/warcraftcn-ui) | ⭐737 |  | A collection of accessible, retro-inspired UI components drawing from classic real-time strategy aesthetics... |
+| [`ZKjellberg/dark-souls-3-cheat-sheet`](https://github.com/ZKjellberg/dark-souls-3-cheat-sheet) | ⭐357 |  | Checklist for Dark Souls 3 using HTML5 storage to retain progress |
+| [`mackieks/Kawaii`](https://github.com/mackieks/Kawaii) | ⭐328 |  | Tiny, beautiful metal Wii keychain |
+| [`mapcrafter/mapcrafter`](https://github.com/mapcrafter/mapcrafter) | ⭐639 | 💤 | High Performance Minecraft Map Renderer. |
+| [`DeltaJordan/BotW-Save-Manager`](https://github.com/DeltaJordan/BotW-Save-Manager) | ⭐404 | 💤 | BOTW Save Manager for Switch and Wii U |
+| [`RatchetModding/slimseditor`](https://github.com/RatchetModding/slimseditor) | ⭐22 | 💤 | A savegame editor for the Ratchet and Clank games, written in Python. |
+| [`jswidler/HOTSNet`](https://github.com/jswidler/HOTSNet) | ⭐14 | 💤 | Use machine learning to predict Heroes of the Storm games |
+| [`tama/pogo-discord-raid-bot`](https://github.com/tama/pogo-discord-raid-bot) | ⭐1 | 💤 | A bot to list players on a discord server participating to a raid |
+| [`tama/pogo-discord-mod-bot`](https://github.com/tama/pogo-discord-mod-bot) | ⭐1 | 💤 | Simple mod tasks on a (pokemon go related) discord server |
+| [`hotsapi/HotsStats`](https://github.com/hotsapi/HotsStats) | ⭐145 | 📦 | An app that shows player stats during loading screen in Heroes of the Storm |
+
+</details>
+
+<details>
 <summary><b>Android</b> &nbsp;·&nbsp; 17 ⭐ &nbsp;·&nbsp; <i>Debloaters, ReVanced/Magisk patches, FOSS apps and rooting utilities for Android.</i></summary>
 
 | Repo | Stars | Status | Description |
@@ -448,31 +474,6 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`phpservermon/phpservermon`](https://github.com/phpservermon/phpservermon) | ⭐2.2k | 💤 | PHP Server Monitor |
 | [`Matty9191/ssl-cert-check`](https://github.com/Matty9191/ssl-cert-check) | ⭐780 | 💤 | Send notifications when SSL certificates are about to expire. |
 | [`heiniha/Nagios-Responsive-HTML-Email-Notifications`](https://github.com/heiniha/Nagios-Responsive-HTML-Email-Notifications) | ⭐17 | 💤 | A notification plugin for Nagios to figure out if responsive or none-responsive HTML emails are to be sent ... |
-
-</details>
-
-<details>
-<summary><b>Games-Tools</b> &nbsp;·&nbsp; 17 ⭐ &nbsp;·&nbsp; <i>Game companions, save managers, launchers, map renderers and discord bots.</i></summary>
-
-| Repo | Stars | Status | Description |
-| --- | --- | --- | --- |
-| [`hydralauncher/hydra`](https://github.com/hydralauncher/hydra) | ⭐15.7k | 🔥 | Hydra Launcher is an open-source gaming platform created to be the single tool that you need |
-| [`lutris/lutris`](https://github.com/lutris/lutris) | ⭐10.0k | 🔥 | Lutris desktop client |
-| [`HiddenRamblings/TagMo`](https://github.com/HiddenRamblings/TagMo) | ⭐3.2k | 🔥 | _(no description)_ |
-| [`BlueMap-Minecraft/BlueMap`](https://github.com/BlueMap-Minecraft/BlueMap) | ⭐2.7k | 🔥 | A Minecraft mapping tool that creates 3D models of your Minecraft worlds and displays them in a web viewer. |
-| [`EDCD/EDMarketConnector`](https://github.com/EDCD/EDMarketConnector) | ⭐1.2k | 🔥 | Downloads commodity market and other station data from the game Elite: Dangerous for use with all popular o... |
-| [`kwsch/NHSE`](https://github.com/kwsch/NHSE) | ⭐1.2k |  | Animal Crossing: New Horizons save editor |
-| [`miffycs/Animal-Crossing-Amiibo`](https://github.com/miffycs/Animal-Crossing-Amiibo) | ⭐965 |  | 🎮   Step-by-step instructions on how to recreate Amiibo cards for Animal Crossing: New Horizons. For educat... |
-| [`TheOrcDev/warcraftcn-ui`](https://github.com/TheOrcDev/warcraftcn-ui) | ⭐737 |  | A collection of accessible, retro-inspired UI components drawing from classic real-time strategy aesthetics... |
-| [`ZKjellberg/dark-souls-3-cheat-sheet`](https://github.com/ZKjellberg/dark-souls-3-cheat-sheet) | ⭐357 |  | Checklist for Dark Souls 3 using HTML5 storage to retain progress |
-| [`mackieks/Kawaii`](https://github.com/mackieks/Kawaii) | ⭐328 |  | Tiny, beautiful metal Wii keychain |
-| [`mapcrafter/mapcrafter`](https://github.com/mapcrafter/mapcrafter) | ⭐639 | 💤 | High Performance Minecraft Map Renderer. |
-| [`DeltaJordan/BotW-Save-Manager`](https://github.com/DeltaJordan/BotW-Save-Manager) | ⭐404 | 💤 | BOTW Save Manager for Switch and Wii U |
-| [`RatchetModding/slimseditor`](https://github.com/RatchetModding/slimseditor) | ⭐22 | 💤 | A savegame editor for the Ratchet and Clank games, written in Python. |
-| [`jswidler/HOTSNet`](https://github.com/jswidler/HOTSNet) | ⭐14 | 💤 | Use machine learning to predict Heroes of the Storm games |
-| [`tama/pogo-discord-raid-bot`](https://github.com/tama/pogo-discord-raid-bot) | ⭐1 | 💤 | A bot to list players on a discord server participating to a raid |
-| [`tama/pogo-discord-mod-bot`](https://github.com/tama/pogo-discord-mod-bot) | ⭐1 | 💤 | Simple mod tasks on a (pokemon go related) discord server |
-| [`hotsapi/HotsStats`](https://github.com/hotsapi/HotsStats) | ⭐145 | 📦 | An app that shows player stats during loading screen in Heroes of the Storm |
 
 </details>
 

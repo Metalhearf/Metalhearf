@@ -1578,6 +1578,14 @@
     "status": "🔥",
     "url": "https://github.com/fatedier/frp"
   },
+  "feldorn/free-games-claimer": {
+    "description": "Automatically claims free games and DLCs on the Epic Games Store, Steam, Amazon Prime Gaming and GOG.",
+    "isArchived": false,
+    "pushedAt": "2026-05-19T01:03:26Z",
+    "stargazerCount": 39,
+    "status": "🔥",
+    "url": "https://github.com/feldorn/free-games-claimer"
+  },
   "ffuf/ffuf": {
     "description": "Fast web fuzzer written in Go",
     "isArchived": false,
