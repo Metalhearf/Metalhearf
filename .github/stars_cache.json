@@ -1138,6 +1138,14 @@
     "status": "🔥",
     "url": "https://github.com/blacklanternsecurity/bbot"
   },
+  "blader/humanizer": {
+    "description": "Claude Code skill that removes signs of AI-generated writing from text",
+    "isArchived": false,
+    "pushedAt": "2026-05-27T02:55:25Z",
+    "stargazerCount": 21106,
+    "status": "🔥",
+    "url": "https://github.com/blader/humanizer"
+  },
   "blakeblackshear/frigate": {
     "description": "NVR with realtime local object detection for IP cameras",
     "isArchived": false,
