@@ -27,7 +27,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 <!-- STARS:START -->
 ## ⭐ Curated Stars
 
-**470 repos** across **29 categories**. Click any section to expand.
+**471 repos** across **30 categories**. Click any section to expand.
 
 <details>
 <summary><b>Hacking</b> &nbsp;·&nbsp; 30 ⭐ &nbsp;·&nbsp; <i>Pentesting frameworks, WiFi/Bluetooth attack tools and offensive security utilities.</i></summary>
@@ -84,7 +84,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`Freika/dawarich`](https://github.com/Freika/dawarich) | ⭐9.0k | 🔥 | Your favorite self-hostable alternative to Google Timeline (Google Location History) |
 | [`motioneye-project/motioneye`](https://github.com/motioneye-project/motioneye) | ⭐4.6k | 🔥 | A web frontend for the motion daemon. |
 | [`intro-skipper/intro-skipper`](https://github.com/intro-skipper/intro-skipper) | ⭐2.3k | 🔥 | Automatically detect and skip intro/credit sequences in Jellyfin |
-| [`byrongamatos/slopsmith-desktop`](https://github.com/byrongamatos/slopsmith-desktop) | ⭐483 | 🔥 | _(no description)_ |
+| [`slopsmith/slopsmith-desktop`](https://github.com/slopsmith/slopsmith-desktop) | ⭐928 | 🔥 | Cross-platform desktop app for interactive full-band music notation — built-in VST hosting, amp modeling (N... |
 | [`rx342/senscritique2letterboxd`](https://github.com/rx342/senscritique2letterboxd) | ⭐25 | 🔥 | Move your Senscritique library to Letterboxd |
 | [`yt-dlp/yt-dlp`](https://github.com/yt-dlp/yt-dlp) | ⭐162.3k |  | A feature-rich command-line audio/video downloader |
 | [`AlexxIT/go2rtc`](https://github.com/AlexxIT/go2rtc) | ⭐13.0k |  | Ultimate camera streaming application |
@@ -728,6 +728,15 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | --- | --- | --- | --- |
 | [`nunocoracao/blowfish`](https://github.com/nunocoracao/blowfish) | ⭐2.8k | 🔥 | Personal Website & Blog Theme for Hugo |
 | [`owickstrom/the-monospace-web`](https://github.com/owickstrom/the-monospace-web) | ⭐3.1k |  | A minimalist design exploration |
+
+</details>
+
+<details>
+<summary><b>Unsorted</b> &nbsp;·&nbsp; 1 ⭐ &nbsp;·&nbsp; <i>Starred but not yet sorted into any list.</i></summary>
+
+| Repo | Stars | Status | Description |
+| --- | --- | --- | --- |
+| [`spotbye/SpotiFLAC-Next`](https://github.com/spotbye/SpotiFLAC-Next) | ⭐1.4k | 🔥 | Get Spotify tracks in true Lossless from Tidal, Qobuz, Amazon Music, Deezer & Apple Music — no account requ... |
 
 </details>
 

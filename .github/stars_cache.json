@@ -3242,6 +3242,14 @@
     "status": "🔥",
     "url": "https://github.com/siyuan-note/siyuan"
   },
+  "slopsmith/slopsmith-desktop": {
+    "description": "Cross-platform desktop app for interactive full-band music notation — built-in VST hosting, amp modeling (NAM), and low-latency audio I/O",
+    "isArchived": false,
+    "pushedAt": "2026-05-28T06:51:22Z",
+    "stargazerCount": 928,
+    "status": "🔥",
+    "url": "https://github.com/slopsmith/slopsmith-desktop"
+  },
   "soxoj/maigret": {
     "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
     "isArchived": false,
@@ -3289,6 +3297,14 @@
     "stargazerCount": 8436,
     "status": "",
     "url": "https://github.com/spotbye/SpotiFLAC"
+  },
+  "spotbye/SpotiFLAC-Next": {
+    "description": "Get Spotify tracks in true Lossless from Tidal, Qobuz, Amazon Music, Deezer & Apple Music — no account required.",
+    "isArchived": false,
+    "pushedAt": "2026-05-20T10:07:44Z",
+    "stargazerCount": 1441,
+    "status": "🔥",
+    "url": "https://github.com/spotbye/SpotiFLAC-Next"
   },
   "spotiflacapp/SpotiFLAC-Mobile": {
     "description": "Mobile music utility built with Flutter and Go. High-quality audio management for your personal library. - open source, no ads, no subscription.",
