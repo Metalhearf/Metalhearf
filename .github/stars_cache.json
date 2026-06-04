@@ -3426,6 +3426,14 @@
     "status": "",
     "url": "https://github.com/tahnok/colmi_r02_client"
   },
+  "tale/headplane": {
+    "description": "A feature-complete Web UI for Headscale",
+    "isArchived": false,
+    "pushedAt": "2026-05-31T18:53:33Z",
+    "stargazerCount": 2521,
+    "status": "🔥",
+    "url": "https://github.com/tale/headplane"
+  },
   "tama/pogo-discord-mod-bot": {
     "description": "Simple mod tasks on a (pokemon go related) discord server",
     "isArchived": false,

@@ -27,7 +27,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 <!-- STARS:START -->
 ## ⭐ Curated Stars
 
-**472 repos** across **30 categories**. Click any section to expand.
+**473 repos** across **30 categories**. Click any section to expand.
 
 <details>
 <summary><b>Hacking</b> &nbsp;·&nbsp; 30 ⭐ &nbsp;·&nbsp; <i>Pentesting frameworks, WiFi/Bluetooth attack tools and offensive security utilities.</i></summary>
@@ -290,6 +290,35 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 </details>
 
 <details>
+<summary><b>Network</b> &nbsp;·&nbsp; 21 ⭐ &nbsp;·&nbsp; <i>VPNs, reverse proxies, DNS-level adblock and router firmware.</i></summary>
+
+| Repo | Stars | Status | Description |
+| --- | --- | --- | --- |
+| [`traefik/traefik`](https://github.com/traefik/traefik) | ⭐63.4k | 🔥 | The Cloud Native Application Proxy |
+| [`pi-hole/pi-hole`](https://github.com/pi-hole/pi-hole) | ⭐59.1k | 🔥 | A black hole for Internet advertisements |
+| [`juanfont/headscale`](https://github.com/juanfont/headscale) | ⭐39.5k | 🔥 | An open source, self-hosted implementation of the Tailscale control server |
+| [`openwrt/openwrt`](https://github.com/openwrt/openwrt) | ⭐27.1k | 🔥 | This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is ... |
+| [`wg-easy/wg-easy`](https://github.com/wg-easy/wg-easy) | ⭐25.9k | 🔥 | The easiest way to run WireGuard VPN + Web-based Admin UI. |
+| [`netbirdio/netbird`](https://github.com/netbirdio/netbird) | ⭐25.7k | 🔥 | Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access contr... |
+| [`fosrl/pangolin`](https://github.com/fosrl/pangolin) | ⭐21.0k | 🔥 | Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard®. |
+| [`nginx-proxy/nginx-proxy`](https://github.com/nginx-proxy/nginx-proxy) | ⭐19.8k | 🔥 | Automated Nginx Reverse Proxy for Docker |
+| [`TecharoHQ/anubis`](https://github.com/TecharoHQ/anubis) | ⭐19.7k | 🔥 | Weighs the soul of incoming HTTP requests to stop AI crawlers |
+| [`netbootxyz/netboot.xyz`](https://github.com/netbootxyz/netboot.xyz) | ⭐11.8k | 🔥 | Your favorite operating systems in one place.  A network-based bootable operating system installer based on... |
+| [`openwrt/luci`](https://github.com/openwrt/luci) | ⭐7.6k | 🔥 | LuCI - OpenWrt Configuration Interface |
+| [`tinyauthapp/tinyauth`](https://github.com/tinyauthapp/tinyauth) | ⭐7.4k | 🔥 | The tiniest authentication and authorization server you have ever seen. |
+| [`proxifly/free-proxy-list`](https://github.com/proxifly/free-proxy-list) | ⭐5.5k | 🔥 | 🚀 Free HTTP, SOCKS4, & SOCKS5 Proxy List * Updated every 5 minutes * |
+| [`tale/headplane`](https://github.com/tale/headplane) | ⭐2.5k | 🔥 | A feature-complete Web UI for Headscale |
+| [`rathole-org/rathole`](https://github.com/rathole-org/rathole) | ⭐13.7k |  | A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp ... |
+| [`pivpn/pivpn`](https://github.com/pivpn/pivpn) | ⭐8.0k |  | The Simplest VPN installer, designed for Raspberry Pi |
+| [`WaLLy3K/wally3k.github.io`](https://github.com/WaLLy3K/wally3k.github.io) | ⭐905 |  | Repo for Firebog hosting |
+| [`yubiuser/pihole_adlist_tool`](https://github.com/yubiuser/pihole_adlist_tool) | ⭐549 |  | A tool to analyse how your pihole adlists cover you browsing behavior |
+| [`mmotti/pihole-regex`](https://github.com/mmotti/pihole-regex) | ⭐1.4k | 💤 | Custom regex filter list for use with Pi-hole. |
+| [`cidrblock/drawthe.net`](https://github.com/cidrblock/drawthe.net) | ⭐1.2k | 💤 | drawthe.net draws network diagrams dynamically from a text file describing the placement, layout and icons.... |
+| [`sterrenb/flutterhole`](https://github.com/sterrenb/flutterhole) | ⭐390 | 📦 | A third party Android application for the Pi-Hole® dashboard. |
+
+</details>
+
+<details>
 <summary><b>OSINT</b> &nbsp;·&nbsp; 21 ⭐ &nbsp;·&nbsp; <i>Username, email, phone and social-media reconnaissance tools for investigators.</i></summary>
 
 | Repo | Stars | Status | Description |
@@ -315,34 +344,6 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`itzmeanjan/twiz`](https://github.com/itzmeanjan/twiz) | ⭐6 | 💤 | Your Twitter Account Data Analysis & Visualization Tool <3 |
 | [`twintproject/twint`](https://github.com/twintproject/twint) | ⭐16.4k | 📦 | An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to... |
 | [`bisguzar/twitter-scraper`](https://github.com/bisguzar/twitter-scraper) | ⭐4.0k | 📦 | Scrape the Twitter Frontend API without authentication. |
-
-</details>
-
-<details>
-<summary><b>Network</b> &nbsp;·&nbsp; 20 ⭐ &nbsp;·&nbsp; <i>VPNs, reverse proxies, DNS-level adblock and router firmware.</i></summary>
-
-| Repo | Stars | Status | Description |
-| --- | --- | --- | --- |
-| [`traefik/traefik`](https://github.com/traefik/traefik) | ⭐63.4k | 🔥 | The Cloud Native Application Proxy |
-| [`pi-hole/pi-hole`](https://github.com/pi-hole/pi-hole) | ⭐59.1k | 🔥 | A black hole for Internet advertisements |
-| [`juanfont/headscale`](https://github.com/juanfont/headscale) | ⭐39.5k | 🔥 | An open source, self-hosted implementation of the Tailscale control server |
-| [`openwrt/openwrt`](https://github.com/openwrt/openwrt) | ⭐27.1k | 🔥 | This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is ... |
-| [`wg-easy/wg-easy`](https://github.com/wg-easy/wg-easy) | ⭐25.9k | 🔥 | The easiest way to run WireGuard VPN + Web-based Admin UI. |
-| [`netbirdio/netbird`](https://github.com/netbirdio/netbird) | ⭐25.7k | 🔥 | Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access contr... |
-| [`fosrl/pangolin`](https://github.com/fosrl/pangolin) | ⭐21.0k | 🔥 | Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard®. |
-| [`nginx-proxy/nginx-proxy`](https://github.com/nginx-proxy/nginx-proxy) | ⭐19.8k | 🔥 | Automated Nginx Reverse Proxy for Docker |
-| [`TecharoHQ/anubis`](https://github.com/TecharoHQ/anubis) | ⭐19.7k | 🔥 | Weighs the soul of incoming HTTP requests to stop AI crawlers |
-| [`netbootxyz/netboot.xyz`](https://github.com/netbootxyz/netboot.xyz) | ⭐11.8k | 🔥 | Your favorite operating systems in one place.  A network-based bootable operating system installer based on... |
-| [`openwrt/luci`](https://github.com/openwrt/luci) | ⭐7.6k | 🔥 | LuCI - OpenWrt Configuration Interface |
-| [`tinyauthapp/tinyauth`](https://github.com/tinyauthapp/tinyauth) | ⭐7.4k | 🔥 | The tiniest authentication and authorization server you have ever seen. |
-| [`proxifly/free-proxy-list`](https://github.com/proxifly/free-proxy-list) | ⭐5.5k | 🔥 | 🚀 Free HTTP, SOCKS4, & SOCKS5 Proxy List * Updated every 5 minutes * |
-| [`rathole-org/rathole`](https://github.com/rathole-org/rathole) | ⭐13.7k |  | A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp ... |
-| [`pivpn/pivpn`](https://github.com/pivpn/pivpn) | ⭐8.0k |  | The Simplest VPN installer, designed for Raspberry Pi |
-| [`WaLLy3K/wally3k.github.io`](https://github.com/WaLLy3K/wally3k.github.io) | ⭐905 |  | Repo for Firebog hosting |
-| [`yubiuser/pihole_adlist_tool`](https://github.com/yubiuser/pihole_adlist_tool) | ⭐549 |  | A tool to analyse how your pihole adlists cover you browsing behavior |
-| [`mmotti/pihole-regex`](https://github.com/mmotti/pihole-regex) | ⭐1.4k | 💤 | Custom regex filter list for use with Pi-hole. |
-| [`cidrblock/drawthe.net`](https://github.com/cidrblock/drawthe.net) | ⭐1.2k | 💤 | drawthe.net draws network diagrams dynamically from a text file describing the placement, layout and icons.... |
-| [`sterrenb/flutterhole`](https://github.com/sterrenb/flutterhole) | ⭐390 | 📦 | A third party Android application for the Pi-Hole® dashboard. |
 
 </details>
 
