@@ -47,6 +47,14 @@
     "status": "🔥",
     "url": "https://github.com/9001/copyparty"
   },
+  "AbdurazaaqMohammed/AntiSplit-M": {
+    "description": "App to AntiSplit (merge) split APKs (APKS/XAPK/APKM) to regular .APK file on Android",
+    "isArchived": false,
+    "pushedAt": "2026-06-16T03:26:45Z",
+    "stargazerCount": 4540,
+    "status": "",
+    "url": "https://github.com/AbdurazaaqMohammed/AntiSplit-M"
+  },
   "AlexxIT/go2rtc": {
     "description": "Ultimate camera streaming application",
     "isArchived": false,
@@ -110,6 +118,14 @@
     "stargazerCount": 5886,
     "status": "🔥",
     "url": "https://github.com/AzeemIdrisi/PhoneSploit-Pro"
+  },
+  "BCUninstaller/Bulk-Crap-Uninstaller": {
+    "description": "Remove large amounts of unwanted applications quickly.",
+    "isArchived": false,
+    "pushedAt": "2026-06-18T13:42:02Z",
+    "stargazerCount": 20045,
+    "status": "",
+    "url": "https://github.com/BCUninstaller/Bulk-Crap-Uninstaller"
   },
   "BaltiApps/Pixelify-Google-Photos": {
     "description": "Pixelify GPhotos",
@@ -962,6 +978,14 @@
     "status": "💤",
     "url": "https://github.com/alpkeskin/mosint"
   },
+  "amruthpillai/reactive-resume": {
+    "description": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
+    "isArchived": false,
+    "pushedAt": "2026-07-04T07:30:16Z",
+    "stargazerCount": 39305,
+    "status": "🔥",
+    "url": "https://github.com/amruthpillai/reactive-resume"
+  },
   "andreimarcu/linx-server": {
     "description": "Self-hosted file/code/media sharing website. ",
     "isArchived": false,
@@ -1618,6 +1642,14 @@
     "status": "🔥",
     "url": "https://github.com/fosrl/pangolin"
   },
+  "gabehf/Koito": {
+    "description": "Koito is a modern, themeable scrobbler that you can use with any program that scrobbles to a custom ListenBrainz URL",
+    "isArchived": false,
+    "pushedAt": "2026-06-19T00:14:27Z",
+    "stargazerCount": 922,
+    "status": "",
+    "url": "https://github.com/gabehf/Koito"
+  },
   "gautamkrishnar/blog-post-workflow": {
     "description": "Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed",
     "isArchived": false,
@@ -1706,6 +1738,14 @@
     "status": "🔥",
     "url": "https://github.com/goharbor/harbor"
   },
+  "google/cadvisor": {
+    "description": "Analyzes resource usage and performance characteristics of running containers.",
+    "isArchived": false,
+    "pushedAt": "2026-07-02T06:24:18Z",
+    "stargazerCount": 19264,
+    "status": "🔥",
+    "url": "https://github.com/google/cadvisor"
+  },
   "gorhill/uBlock": {
     "description": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.",
     "isArchived": false,
@@ -1737,6 +1777,14 @@
     "stargazerCount": 1458,
     "status": "🔥",
     "url": "https://github.com/gramps-project/gramps-web"
+  },
+  "gurucomputing/headscale-ui": {
+    "description": "A web frontend for the headscale Tailscale-compatible coordination server",
+    "isArchived": false,
+    "pushedAt": "2026-03-16T19:37:30Z",
+    "stargazerCount": 2665,
+    "status": "",
+    "url": "https://github.com/gurucomputing/headscale-ui"
   },
   "gyfen/GTA-Lucky-Wheel": {
     "description": "Lucky Wheel script for GTA V Online",
@@ -2113,6 +2161,14 @@
     "stargazerCount": 5013,
     "status": "💤",
     "url": "https://github.com/khast3x/h8mail"
+  },
+  "koala73/worldmonitor": {
+    "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+    "isArchived": false,
+    "pushedAt": "2026-07-04T09:37:48Z",
+    "stargazerCount": 61299,
+    "status": "🔥",
+    "url": "https://github.com/koala73/worldmonitor"
   },
   "koalaman/shellcheck": {
     "description": "ShellCheck, a static analysis tool for shell scripts",
@@ -2666,6 +2722,14 @@
     "status": "🔥",
     "url": "https://github.com/ohmyzsh/ohmyzsh"
   },
+  "ollama/ollama": {
+    "description": "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+    "isArchived": false,
+    "pushedAt": "2026-07-04T01:30:46Z",
+    "stargazerCount": 175427,
+    "status": "🔥",
+    "url": "https://github.com/ollama/ollama"
+  },
   "open-guides/og-aws": {
     "description": "📙 Amazon Web Services — a practical guide",
     "isArchived": false,
@@ -2905,6 +2969,14 @@
     "stargazerCount": 354,
     "status": "",
     "url": "https://github.com/prometheus-erl/prometheus.erl"
+  },
+  "prometheus/blackbox_exporter": {
+    "description": "Blackbox prober exporter",
+    "isArchived": false,
+    "pushedAt": "2026-07-02T17:31:46Z",
+    "stargazerCount": 5763,
+    "status": "🔥",
+    "url": "https://github.com/prometheus/blackbox_exporter"
   },
   "prometheus/node_exporter": {
     "description": "Exporter for machine metrics",
@@ -3537,6 +3609,14 @@
     "stargazerCount": 225946,
     "status": "💤",
     "url": "https://github.com/trimstray/the-book-of-secret-knowledge"
+  },
+  "truelockmc/streambert": {
+    "description": "A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking",
+    "isArchived": false,
+    "pushedAt": "2026-07-03T11:58:18Z",
+    "stargazerCount": 5645,
+    "status": "🔥",
+    "url": "https://github.com/truelockmc/streambert"
   },
   "trufflesecurity/trufflehog": {
     "description": "Find, verify, and analyze leaked credentials",

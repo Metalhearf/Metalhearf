@@ -27,7 +27,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 <!-- STARS:START -->
 ## ⭐ Curated Stars
 
-**473 repos** across **30 categories**. Click any section to expand.
+**481 repos** across **30 categories**. Click any section to expand.
 
 <details>
 <summary><b>Hacking</b> &nbsp;·&nbsp; 30 ⭐ &nbsp;·&nbsp; <i>Pentesting frameworks, WiFi/Bluetooth attack tools and offensive security utilities.</i></summary>
@@ -82,9 +82,9 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`streamlink/streamlink`](https://github.com/streamlink/streamlink) | ⭐11.5k | 🔥 | Streamlink is a CLI utility which pipes video streams from various services into a video player |
 | [`seerr-team/seerr`](https://github.com/seerr-team/seerr) | ⭐11.4k | 🔥 | Open-source media request and discovery manager for Jellyfin, Plex, and Emby. |
 | [`Freika/dawarich`](https://github.com/Freika/dawarich) | ⭐9.2k | 🔥 | Your favorite self-hostable alternative to Google Timeline (Google Location History) |
+| [`truelockmc/streambert`](https://github.com/truelockmc/streambert) | ⭐5.6k | 🔥 | A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Ze... |
 | [`motioneye-project/motioneye`](https://github.com/motioneye-project/motioneye) | ⭐4.6k | 🔥 | A web frontend for the motion daemon. |
 | [`intro-skipper/intro-skipper`](https://github.com/intro-skipper/intro-skipper) | ⭐2.4k | 🔥 | Automatically detect and skip intro/credit sequences in Jellyfin |
-| [`slopsmith/slopsmith-desktop`](https://github.com/slopsmith/slopsmith-desktop) | ⭐959 | 🔥 | Cross-platform desktop app for interactive full-band music notation — built-in VST hosting, amp modeling (N... |
 | [`SmilyOrg/photofield`](https://github.com/SmilyOrg/photofield) | ⭐584 | 🔥 | A self-hosted non-invasive single-binary photo gallery with a focus on speed and simplicity. |
 | [`phileastv/SensBoxd`](https://github.com/phileastv/SensBoxd) | ⭐24 | 🔥 | Exporter sa collection SensCritique pour Letterboxd. |
 | [`AlexxIT/go2rtc`](https://github.com/AlexxIT/go2rtc) | ⭐13.1k |  | Ultimate camera streaming application |
@@ -260,6 +260,36 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 </details>
 
 <details>
+<summary><b>Network</b> &nbsp;·&nbsp; 22 ⭐ &nbsp;·&nbsp; <i>VPNs, reverse proxies, DNS-level adblock and router firmware.</i></summary>
+
+| Repo | Stars | Status | Description |
+| --- | --- | --- | --- |
+| [`traefik/traefik`](https://github.com/traefik/traefik) | ⭐63.4k | 🔥 | The Cloud Native Application Proxy |
+| [`pi-hole/pi-hole`](https://github.com/pi-hole/pi-hole) | ⭐59.1k | 🔥 | A black hole for Internet advertisements |
+| [`juanfont/headscale`](https://github.com/juanfont/headscale) | ⭐39.5k | 🔥 | An open source, self-hosted implementation of the Tailscale control server |
+| [`openwrt/openwrt`](https://github.com/openwrt/openwrt) | ⭐27.1k | 🔥 | This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is ... |
+| [`wg-easy/wg-easy`](https://github.com/wg-easy/wg-easy) | ⭐25.9k | 🔥 | The easiest way to run WireGuard VPN + Web-based Admin UI. |
+| [`netbirdio/netbird`](https://github.com/netbirdio/netbird) | ⭐25.7k | 🔥 | Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access contr... |
+| [`fosrl/pangolin`](https://github.com/fosrl/pangolin) | ⭐21.0k | 🔥 | Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard®. |
+| [`nginx-proxy/nginx-proxy`](https://github.com/nginx-proxy/nginx-proxy) | ⭐19.8k | 🔥 | Automated Nginx Reverse Proxy for Docker |
+| [`TecharoHQ/anubis`](https://github.com/TecharoHQ/anubis) | ⭐19.7k | 🔥 | Weighs the soul of incoming HTTP requests to stop AI crawlers |
+| [`netbootxyz/netboot.xyz`](https://github.com/netbootxyz/netboot.xyz) | ⭐11.8k | 🔥 | Your favorite operating systems in one place.  A network-based bootable operating system installer based on... |
+| [`openwrt/luci`](https://github.com/openwrt/luci) | ⭐7.6k | 🔥 | LuCI - OpenWrt Configuration Interface |
+| [`tinyauthapp/tinyauth`](https://github.com/tinyauthapp/tinyauth) | ⭐7.4k | 🔥 | The tiniest authentication and authorization server you have ever seen. |
+| [`proxifly/free-proxy-list`](https://github.com/proxifly/free-proxy-list) | ⭐5.5k | 🔥 | 🚀 Free HTTP, SOCKS4, & SOCKS5 Proxy List * Updated every 5 minutes * |
+| [`tale/headplane`](https://github.com/tale/headplane) | ⭐2.5k | 🔥 | A feature-complete Web UI for Headscale |
+| [`rathole-org/rathole`](https://github.com/rathole-org/rathole) | ⭐13.7k |  | A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp ... |
+| [`pivpn/pivpn`](https://github.com/pivpn/pivpn) | ⭐8.0k |  | The Simplest VPN installer, designed for Raspberry Pi |
+| [`gurucomputing/headscale-ui`](https://github.com/gurucomputing/headscale-ui) | ⭐2.7k |  | A web frontend for the headscale Tailscale-compatible coordination server |
+| [`WaLLy3K/wally3k.github.io`](https://github.com/WaLLy3K/wally3k.github.io) | ⭐905 |  | Repo for Firebog hosting |
+| [`yubiuser/pihole_adlist_tool`](https://github.com/yubiuser/pihole_adlist_tool) | ⭐549 |  | A tool to analyse how your pihole adlists cover you browsing behavior |
+| [`mmotti/pihole-regex`](https://github.com/mmotti/pihole-regex) | ⭐1.4k | 💤 | Custom regex filter list for use with Pi-hole. |
+| [`cidrblock/drawthe.net`](https://github.com/cidrblock/drawthe.net) | ⭐1.2k | 💤 | drawthe.net draws network diagrams dynamically from a text file describing the placement, layout and icons.... |
+| [`sterrenb/flutterhole`](https://github.com/sterrenb/flutterhole) | ⭐390 | 📦 | A third party Android application for the Pi-Hole® dashboard. |
+
+</details>
+
+<details>
 <summary><b>Fun</b> &nbsp;·&nbsp; 22 ⭐ &nbsp;·&nbsp; <i>Quirky joke projects, terminal pranks and absurd tech curiosities.</i></summary>
 
 | Repo | Stars | Status | Description |
@@ -290,35 +320,6 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 </details>
 
 <details>
-<summary><b>Network</b> &nbsp;·&nbsp; 21 ⭐ &nbsp;·&nbsp; <i>VPNs, reverse proxies, DNS-level adblock and router firmware.</i></summary>
-
-| Repo | Stars | Status | Description |
-| --- | --- | --- | --- |
-| [`traefik/traefik`](https://github.com/traefik/traefik) | ⭐63.4k | 🔥 | The Cloud Native Application Proxy |
-| [`pi-hole/pi-hole`](https://github.com/pi-hole/pi-hole) | ⭐59.1k | 🔥 | A black hole for Internet advertisements |
-| [`juanfont/headscale`](https://github.com/juanfont/headscale) | ⭐39.5k | 🔥 | An open source, self-hosted implementation of the Tailscale control server |
-| [`openwrt/openwrt`](https://github.com/openwrt/openwrt) | ⭐27.1k | 🔥 | This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is ... |
-| [`wg-easy/wg-easy`](https://github.com/wg-easy/wg-easy) | ⭐25.9k | 🔥 | The easiest way to run WireGuard VPN + Web-based Admin UI. |
-| [`netbirdio/netbird`](https://github.com/netbirdio/netbird) | ⭐25.7k | 🔥 | Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access contr... |
-| [`fosrl/pangolin`](https://github.com/fosrl/pangolin) | ⭐21.0k | 🔥 | Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard®. |
-| [`nginx-proxy/nginx-proxy`](https://github.com/nginx-proxy/nginx-proxy) | ⭐19.8k | 🔥 | Automated Nginx Reverse Proxy for Docker |
-| [`TecharoHQ/anubis`](https://github.com/TecharoHQ/anubis) | ⭐19.7k | 🔥 | Weighs the soul of incoming HTTP requests to stop AI crawlers |
-| [`netbootxyz/netboot.xyz`](https://github.com/netbootxyz/netboot.xyz) | ⭐11.8k | 🔥 | Your favorite operating systems in one place.  A network-based bootable operating system installer based on... |
-| [`openwrt/luci`](https://github.com/openwrt/luci) | ⭐7.6k | 🔥 | LuCI - OpenWrt Configuration Interface |
-| [`tinyauthapp/tinyauth`](https://github.com/tinyauthapp/tinyauth) | ⭐7.4k | 🔥 | The tiniest authentication and authorization server you have ever seen. |
-| [`proxifly/free-proxy-list`](https://github.com/proxifly/free-proxy-list) | ⭐5.5k | 🔥 | 🚀 Free HTTP, SOCKS4, & SOCKS5 Proxy List * Updated every 5 minutes * |
-| [`tale/headplane`](https://github.com/tale/headplane) | ⭐2.5k | 🔥 | A feature-complete Web UI for Headscale |
-| [`rathole-org/rathole`](https://github.com/rathole-org/rathole) | ⭐13.7k |  | A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp ... |
-| [`pivpn/pivpn`](https://github.com/pivpn/pivpn) | ⭐8.0k |  | The Simplest VPN installer, designed for Raspberry Pi |
-| [`WaLLy3K/wally3k.github.io`](https://github.com/WaLLy3K/wally3k.github.io) | ⭐905 |  | Repo for Firebog hosting |
-| [`yubiuser/pihole_adlist_tool`](https://github.com/yubiuser/pihole_adlist_tool) | ⭐549 |  | A tool to analyse how your pihole adlists cover you browsing behavior |
-| [`mmotti/pihole-regex`](https://github.com/mmotti/pihole-regex) | ⭐1.4k | 💤 | Custom regex filter list for use with Pi-hole. |
-| [`cidrblock/drawthe.net`](https://github.com/cidrblock/drawthe.net) | ⭐1.2k | 💤 | drawthe.net draws network diagrams dynamically from a text file describing the placement, layout and icons.... |
-| [`sterrenb/flutterhole`](https://github.com/sterrenb/flutterhole) | ⭐390 | 📦 | A third party Android application for the Pi-Hole® dashboard. |
-
-</details>
-
-<details>
 <summary><b>OSINT</b> &nbsp;·&nbsp; 21 ⭐ &nbsp;·&nbsp; <i>Username, email, phone and social-media reconnaissance tools for investigators.</i></summary>
 
 | Repo | Stars | Status | Description |
@@ -344,6 +345,34 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`itzmeanjan/twiz`](https://github.com/itzmeanjan/twiz) | ⭐6 | 💤 | Your Twitter Account Data Analysis & Visualization Tool <3 |
 | [`twintproject/twint`](https://github.com/twintproject/twint) | ⭐16.4k | 📦 | An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to... |
 | [`bisguzar/twitter-scraper`](https://github.com/bisguzar/twitter-scraper) | ⭐4.0k | 📦 | Scrape the Twitter Frontend API without authentication. |
+
+</details>
+
+<details>
+<summary><b>Monitoring</b> &nbsp;·&nbsp; 20 ⭐ &nbsp;·&nbsp; <i>Uptime checkers, observability stacks and homelab metrics dashboards.</i></summary>
+
+| Repo | Stars | Status | Description |
+| --- | --- | --- | --- |
+| [`louislam/uptime-kuma`](https://github.com/louislam/uptime-kuma) | ⭐87.5k | 🔥 | A fancy self-hosted monitoring tool |
+| [`netdata/netdata`](https://github.com/netdata/netdata) | ⭐79.0k | 🔥 | The fastest path to AI-powered full stack observability, even for lean teams. |
+| [`koala73/worldmonitor`](https://github.com/koala73/worldmonitor) | ⭐61.3k | 🔥 | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastr... |
+| [`dgtlmoon/changedetection.io`](https://github.com/dgtlmoon/changedetection.io) | ⭐31.8k | 🔥 | Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfec... |
+| [`grafana/loki`](https://github.com/grafana/loki) | ⭐28.3k | 🔥 | Like Prometheus, but for logs. |
+| [`henrygd/beszel`](https://github.com/henrygd/beszel) | ⭐22.3k | 🔥 | Lightweight server monitoring with historical data, docker stats, and alerts. |
+| [`google/cadvisor`](https://github.com/google/cadvisor) | ⭐19.3k | 🔥 | Analyzes resource usage and performance characteristics of running containers. |
+| [`openobserve/openobserve`](https://github.com/openobserve/openobserve) | ⭐19.1k | 🔥 | Open source observability platform for logs, metrics, traces, frontend monitoring, pipelines and LLM observ... |
+| [`prometheus/node_exporter`](https://github.com/prometheus/node_exporter) | ⭐13.5k | 🔥 | Exporter for machine metrics |
+| [`AnalogJ/scrutiny`](https://github.com/AnalogJ/scrutiny) | ⭐7.8k | 🔥 | Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds |
+| [`prometheus/blackbox_exporter`](https://github.com/prometheus/blackbox_exporter) | ⭐5.8k | 🔥 | Blackbox prober exporter |
+| [`NagiosEnterprises/nagioscore`](https://github.com/NagiosEnterprises/nagioscore) | ⭐2.0k | 🔥 | Nagios Core |
+| [`grafana/docker-otel-lgtm`](https://github.com/grafana/docker-otel-lgtm) | ⭐1.9k | 🔥 | An OpenTelemetry backend in a Docker container image |
+| [`autobrr/netronome`](https://github.com/autobrr/netronome) | ⭐915 | 🔥 | Netronome is a modern network speed testing and monitoring tool built with Go and React. |
+| [`CyferShepard/Jellystat`](https://github.com/CyferShepard/Jellystat) | ⭐2.3k |  | Jellystat is a free and open source Statistics App for Jellyfin |
+| [`Matty9191/ssl-cert-check`](https://github.com/Matty9191/ssl-cert-check) | ⭐780 |  | Send notifications when SSL certificates are about to expire. |
+| [`prometheus-erl/prometheus.erl`](https://github.com/prometheus-erl/prometheus.erl) | ⭐354 |  | Prometheus.io client in Erlang |
+| [`geerlingguy/ansible-role-node_exporter`](https://github.com/geerlingguy/ansible-role-node_exporter) | ⭐142 |  | Ansible role - Node exporter |
+| [`phpservermon/phpservermon`](https://github.com/phpservermon/phpservermon) | ⭐2.2k | 💤 | PHP Server Monitor |
+| [`heiniha/Nagios-Responsive-HTML-Email-Notifications`](https://github.com/heiniha/Nagios-Responsive-HTML-Email-Notifications) | ⭐17 | 💤 | A notification plugin for Nagios to figure out if responsive or none-responsive HTML emails are to be sent ... |
 
 </details>
 
@@ -403,6 +432,32 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 </details>
 
 <details>
+<summary><b>Android</b> &nbsp;·&nbsp; 18 ⭐ &nbsp;·&nbsp; <i>Debloaters, ReVanced/Magisk patches, FOSS apps and rooting utilities for Android.</i></summary>
+
+| Repo | Stars | Status | Description |
+| --- | --- | --- | --- |
+| [`Genymobile/scrcpy`](https://github.com/Genymobile/scrcpy) | ⭐142.8k | 🔥 | Display and control your Android device |
+| [`topjohnwu/Magisk`](https://github.com/topjohnwu/Magisk) | ⭐60.7k | 🔥 | The Magic Mask for Android |
+| [`yuliskov/SmartTube`](https://github.com/yuliskov/SmartTube) | ⭐30.3k | 🔥 | Browse media content with your own rules on Android TV |
+| [`ReVanced/revanced-manager`](https://github.com/ReVanced/revanced-manager) | ⭐28.1k | 🔥 | 💊 Application to use ReVanced on Android |
+| [`breezy-weather/breezy-weather`](https://github.com/breezy-weather/breezy-weather) | ⭐10.3k | 🔥 | A feature-rich weather app with good visualizations and more than 50 sources. |
+| [`offa/android-foss`](https://github.com/offa/android-foss) | ⭐10.2k | 🔥 | A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy. |
+| [`Universal-Debloater-Alliance/universal-android-debloater-next-generation`](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) | ⭐6.7k | 🔥 | Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, t... |
+| [`MorpheApp/morphe-manager`](https://github.com/MorpheApp/morphe-manager) | ⭐5.4k | 🔥 | Morphe app patcher for Android |
+| [`MorpheApp/morphe-patches`](https://github.com/MorpheApp/morphe-patches) | ⭐2.4k | 🔥 | Morphe Patches |
+| [`Arcticons-Team/Arcticons`](https://github.com/Arcticons-Team/Arcticons) | ⭐1.5k | 🔥 | A monotone line-based icon pack for android |
+| [`bryanroscoe/shield_optimizer`](https://github.com/bryanroscoe/shield_optimizer) | ⭐616 | 🔥 | _(no description)_ |
+| [`beemdevelopment/Aegis`](https://github.com/beemdevelopment/Aegis) | ⭐12.5k |  | A free, secure and open source app for Android to manage your 2-step verification tokens. |
+| [`AbdurazaaqMohammed/AntiSplit-M`](https://github.com/AbdurazaaqMohammed/AntiSplit-M) | ⭐4.5k |  | App to AntiSplit (merge) split APKs (APKS/XAPK/APKM) to regular .APK file on Android |
+| [`corentin-c/SpotifyAutoPatcher`](https://github.com/corentin-c/SpotifyAutoPatcher) | ⭐467 |  | The easiest way to patch Spotify and Youtube Music, without the need to download APKs ! |
+| [`0x192/universal-android-debloater`](https://github.com/0x192/universal-android-debloater) | ⭐19.4k | 💤 | Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, t... |
+| [`BaltiApps/Pixelify-Google-Photos`](https://github.com/BaltiApps/Pixelify-Google-Photos) | ⭐1.6k | 💤 | Pixelify GPhotos |
+| [`ayush5harma/PixelFeatureDrops`](https://github.com/ayush5harma/PixelFeatureDrops) | ⭐352 | 💤 | Magisk Module for Pixel Feature Drops that adds the system files for the same and spoof using the latest de... |
+| [`Team-xManager/xManager`](https://github.com/Team-xManager/xManager) | ⭐12.2k | 📦 | Ad-Free, New Features & Freedom |
+
+</details>
+
+<details>
 <summary><b>Games-Tools</b> &nbsp;·&nbsp; 18 ⭐ &nbsp;·&nbsp; <i>Game companions, save managers, launchers, map renderers and discord bots.</i></summary>
 
 | Repo | Stars | Status | Description |
@@ -429,61 +484,12 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 </details>
 
 <details>
-<summary><b>Android</b> &nbsp;·&nbsp; 17 ⭐ &nbsp;·&nbsp; <i>Debloaters, ReVanced/Magisk patches, FOSS apps and rooting utilities for Android.</i></summary>
-
-| Repo | Stars | Status | Description |
-| --- | --- | --- | --- |
-| [`Genymobile/scrcpy`](https://github.com/Genymobile/scrcpy) | ⭐142.8k | 🔥 | Display and control your Android device |
-| [`topjohnwu/Magisk`](https://github.com/topjohnwu/Magisk) | ⭐60.7k | 🔥 | The Magic Mask for Android |
-| [`yuliskov/SmartTube`](https://github.com/yuliskov/SmartTube) | ⭐30.3k | 🔥 | Browse media content with your own rules on Android TV |
-| [`ReVanced/revanced-manager`](https://github.com/ReVanced/revanced-manager) | ⭐28.1k | 🔥 | 💊 Application to use ReVanced on Android |
-| [`breezy-weather/breezy-weather`](https://github.com/breezy-weather/breezy-weather) | ⭐10.3k | 🔥 | A feature-rich weather app with good visualizations and more than 50 sources. |
-| [`offa/android-foss`](https://github.com/offa/android-foss) | ⭐10.2k | 🔥 | A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy. |
-| [`Universal-Debloater-Alliance/universal-android-debloater-next-generation`](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) | ⭐6.7k | 🔥 | Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, t... |
-| [`MorpheApp/morphe-manager`](https://github.com/MorpheApp/morphe-manager) | ⭐5.4k | 🔥 | Morphe app patcher for Android |
-| [`MorpheApp/morphe-patches`](https://github.com/MorpheApp/morphe-patches) | ⭐2.4k | 🔥 | Morphe Patches |
-| [`Arcticons-Team/Arcticons`](https://github.com/Arcticons-Team/Arcticons) | ⭐1.5k | 🔥 | A monotone line-based icon pack for android |
-| [`bryanroscoe/shield_optimizer`](https://github.com/bryanroscoe/shield_optimizer) | ⭐616 | 🔥 | _(no description)_ |
-| [`beemdevelopment/Aegis`](https://github.com/beemdevelopment/Aegis) | ⭐12.5k |  | A free, secure and open source app for Android to manage your 2-step verification tokens. |
-| [`corentin-c/SpotifyAutoPatcher`](https://github.com/corentin-c/SpotifyAutoPatcher) | ⭐467 |  | The easiest way to patch Spotify and Youtube Music, without the need to download APKs ! |
-| [`0x192/universal-android-debloater`](https://github.com/0x192/universal-android-debloater) | ⭐19.4k | 💤 | Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, t... |
-| [`BaltiApps/Pixelify-Google-Photos`](https://github.com/BaltiApps/Pixelify-Google-Photos) | ⭐1.6k | 💤 | Pixelify GPhotos |
-| [`ayush5harma/PixelFeatureDrops`](https://github.com/ayush5harma/PixelFeatureDrops) | ⭐352 | 💤 | Magisk Module for Pixel Feature Drops that adds the system files for the same and spoof using the latest de... |
-| [`Team-xManager/xManager`](https://github.com/Team-xManager/xManager) | ⭐12.2k | 📦 | Ad-Free, New Features & Freedom |
-
-</details>
-
-<details>
-<summary><b>Monitoring</b> &nbsp;·&nbsp; 17 ⭐ &nbsp;·&nbsp; <i>Uptime checkers, observability stacks and homelab metrics dashboards.</i></summary>
-
-| Repo | Stars | Status | Description |
-| --- | --- | --- | --- |
-| [`louislam/uptime-kuma`](https://github.com/louislam/uptime-kuma) | ⭐87.5k | 🔥 | A fancy self-hosted monitoring tool |
-| [`netdata/netdata`](https://github.com/netdata/netdata) | ⭐79.0k | 🔥 | The fastest path to AI-powered full stack observability, even for lean teams. |
-| [`dgtlmoon/changedetection.io`](https://github.com/dgtlmoon/changedetection.io) | ⭐31.8k | 🔥 | Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfec... |
-| [`grafana/loki`](https://github.com/grafana/loki) | ⭐28.3k | 🔥 | Like Prometheus, but for logs. |
-| [`henrygd/beszel`](https://github.com/henrygd/beszel) | ⭐22.3k | 🔥 | Lightweight server monitoring with historical data, docker stats, and alerts. |
-| [`openobserve/openobserve`](https://github.com/openobserve/openobserve) | ⭐19.1k | 🔥 | Open source observability platform for logs, metrics, traces, frontend monitoring, pipelines and LLM observ... |
-| [`prometheus/node_exporter`](https://github.com/prometheus/node_exporter) | ⭐13.5k | 🔥 | Exporter for machine metrics |
-| [`AnalogJ/scrutiny`](https://github.com/AnalogJ/scrutiny) | ⭐7.8k | 🔥 | Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds |
-| [`NagiosEnterprises/nagioscore`](https://github.com/NagiosEnterprises/nagioscore) | ⭐2.0k | 🔥 | Nagios Core |
-| [`grafana/docker-otel-lgtm`](https://github.com/grafana/docker-otel-lgtm) | ⭐1.9k | 🔥 | An OpenTelemetry backend in a Docker container image |
-| [`autobrr/netronome`](https://github.com/autobrr/netronome) | ⭐915 | 🔥 | Netronome is a modern network speed testing and monitoring tool built with Go and React. |
-| [`CyferShepard/Jellystat`](https://github.com/CyferShepard/Jellystat) | ⭐2.3k |  | Jellystat is a free and open source Statistics App for Jellyfin |
-| [`Matty9191/ssl-cert-check`](https://github.com/Matty9191/ssl-cert-check) | ⭐780 |  | Send notifications when SSL certificates are about to expire. |
-| [`prometheus-erl/prometheus.erl`](https://github.com/prometheus-erl/prometheus.erl) | ⭐354 |  | Prometheus.io client in Erlang |
-| [`geerlingguy/ansible-role-node_exporter`](https://github.com/geerlingguy/ansible-role-node_exporter) | ⭐142 |  | Ansible role - Node exporter |
-| [`phpservermon/phpservermon`](https://github.com/phpservermon/phpservermon) | ⭐2.2k | 💤 | PHP Server Monitor |
-| [`heiniha/Nagios-Responsive-HTML-Email-Notifications`](https://github.com/heiniha/Nagios-Responsive-HTML-Email-Notifications) | ⭐17 | 💤 | A notification plugin for Nagios to figure out if responsive or none-responsive HTML emails are to be sent ... |
-
-</details>
-
-<details>
-<summary><b>AI</b> &nbsp;·&nbsp; 16 ⭐ &nbsp;·&nbsp; <i>Local LLMs, AI coding agents, TTS engines and AI-augmented productivity tools.</i></summary>
+<summary><b>AI</b> &nbsp;·&nbsp; 17 ⭐ &nbsp;·&nbsp; <i>Local LLMs, AI coding agents, TTS engines and AI-augmented productivity tools.</i></summary>
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
 | [`openclaw/openclaw`](https://github.com/openclaw/openclaw) | ⭐375.9k | 🔥 | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 |
+| [`ollama/ollama`](https://github.com/ollama/ollama) | ⭐175.4k | 🔥 | Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. |
 | [`anomalyco/opencode`](https://github.com/anomalyco/opencode) | ⭐168.0k | 🔥 | The open source coding agent. |
 | [`open-webui/open-webui`](https://github.com/open-webui/open-webui) | ⭐139.5k | 🔥 | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) |
 | [`punkpeye/awesome-mcp-servers`](https://github.com/punkpeye/awesome-mcp-servers) | ⭐88.3k | 🔥 | A collection of MCP servers. |
@@ -499,6 +505,29 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`TheEvilSkeleton/Upscaler`](https://github.com/TheEvilSkeleton/Upscaler) | ⭐42 |  | Upscale and enhance images |
 | [`yoanbernabeu/NanoThumbnail`](https://github.com/yoanbernabeu/NanoThumbnail) | ⭐39 |  | Generate Viral Thumbnails with AI |
 | [`Zyphra/Zonos`](https://github.com/Zyphra/Zonos) | ⭐7.2k | 💤 | Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilin... |
+
+</details>
+
+<details>
+<summary><b>Music</b> &nbsp;·&nbsp; 15 ⭐ &nbsp;·&nbsp; <i>Spotify clients, music library managers and audio tagging tools.</i></summary>
+
+| Repo | Stars | Status | Description |
+| --- | --- | --- | --- |
+| [`KRTirtho/spotube`](https://github.com/KRTirtho/spotube) | ⭐46.7k | 🔥 | 🎧 Open source music streaming app! Available for both desktop & mobile! |
+| [`beetbox/beets`](https://github.com/beetbox/beets) | ⭐15.2k | 🔥 | music library manager and MusicBrainz tagger |
+| [`MetrolistGroup/Metrolist`](https://github.com/MetrolistGroup/Metrolist) | ⭐9.8k | 🔥 | YouTube Music client for Android |
+| [`hrkfdn/ncspot`](https://github.com/hrkfdn/ncspot) | ⭐6.6k | 🔥 | Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes. |
+| [`metabrainz/picard`](https://github.com/metabrainz/picard) | ⭐4.9k | 🔥 | Picard is a cross-platform music tagger powered by the MusicBrainz database |
+| [`Yooooomi/your_spotify`](https://github.com/Yooooomi/your_spotify) | ⭐4.4k | 🔥 | Self hosted Spotify tracking dashboard |
+| [`spotiflacapp/SpotiFLAC-Mobile`](https://github.com/spotiflacapp/SpotiFLAC-Mobile) | ⭐4.4k | 🔥 | Mobile music utility built with Flutter and Go. High-quality audio management for your personal library. - ... |
+| [`spicetify/marketplace`](https://github.com/spicetify/marketplace) | ⭐1.5k | 🔥 | Download extensions and themes directly from Spicetify |
+| [`spicetify/cli`](https://github.com/spicetify/cli) | ⭐23.3k |  | Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux. |
+| [`spotbye/SpotiFLAC`](https://github.com/spotbye/SpotiFLAC) | ⭐8.9k |  | Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required. |
+| [`linsomniac/spotify_to_ytmusic`](https://github.com/linsomniac/spotify_to_ytmusic) | ⭐4.6k |  | Copy playlists and liked music from Spotify to YTMusic |
+| [`watsonbox/exportify`](https://github.com/watsonbox/exportify) | ⭐4.1k |  | Export/Backup Spotify playlists using the Web API |
+| [`JMPerez/spotify-dedup`](https://github.com/JMPerez/spotify-dedup) | ⭐1.1k |  | Remove duplicates from your Spotify Playlists |
+| [`gabehf/Koito`](https://github.com/gabehf/Koito) | ⭐922 |  | Koito is a modern, themeable scrobbler that you can use with any program that scrobbles to a custom ListenB... |
+| [`benfoxall/lastfm-to-csv`](https://github.com/benfoxall/lastfm-to-csv) | ⭐544 | 💤 | Web based tool for exporting scrobbles |
 
 </details>
 
@@ -539,33 +568,11 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`zerebos/ghostty-config`](https://github.com/zerebos/ghostty-config) | ⭐3.8k | 🔥 | A beautiful config generator for Ghostty terminal. |
 | [`ventoy/Ventoy`](https://github.com/ventoy/Ventoy) | ⭐77.0k |  | A new bootable USB solution. |
 | [`m1k1o/neko`](https://github.com/m1k1o/neko) | ⭐21.0k |  | A self hosted virtual browser that runs in docker and uses WebRTC. |
-| [`Klocman/Bulk-Crap-Uninstaller`](https://github.com/Klocman/Bulk-Crap-Uninstaller) | ⭐19.5k |  | Remove large amounts of unwanted applications quickly. |
+| [`BCUninstaller/Bulk-Crap-Uninstaller`](https://github.com/BCUninstaller/Bulk-Crap-Uninstaller) | ⭐20.0k |  | Remove large amounts of unwanted applications quickly. |
 | [`originalankur/maptoposter`](https://github.com/originalankur/maptoposter) | ⭐13.4k |  | Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export v... |
 | [`keylase/nvidia-patch`](https://github.com/keylase/nvidia-patch) | ⭐4.7k |  | This patch removes restriction on maximum number of simultaneous NVENC video encoding sessions imposed by N... |
 | [`nowthis/sankeymatic`](https://github.com/nowthis/sankeymatic) | ⭐1.4k |  | Make Beautiful Flow Diagrams |
 | [`myspaghetti/macos-virtualbox`](https://github.com/myspaghetti/macos-virtualbox) | ⭐13.5k | 📦 | Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox on x86 CPUs for Windo... |
-
-</details>
-
-<details>
-<summary><b>Music</b> &nbsp;·&nbsp; 14 ⭐ &nbsp;·&nbsp; <i>Spotify clients, music library managers and audio tagging tools.</i></summary>
-
-| Repo | Stars | Status | Description |
-| --- | --- | --- | --- |
-| [`KRTirtho/spotube`](https://github.com/KRTirtho/spotube) | ⭐46.7k | 🔥 | 🎧 Open source music streaming app! Available for both desktop & mobile! |
-| [`beetbox/beets`](https://github.com/beetbox/beets) | ⭐15.2k | 🔥 | music library manager and MusicBrainz tagger |
-| [`MetrolistGroup/Metrolist`](https://github.com/MetrolistGroup/Metrolist) | ⭐9.8k | 🔥 | YouTube Music client for Android |
-| [`hrkfdn/ncspot`](https://github.com/hrkfdn/ncspot) | ⭐6.6k | 🔥 | Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes. |
-| [`metabrainz/picard`](https://github.com/metabrainz/picard) | ⭐4.9k | 🔥 | Picard is a cross-platform music tagger powered by the MusicBrainz database |
-| [`Yooooomi/your_spotify`](https://github.com/Yooooomi/your_spotify) | ⭐4.4k | 🔥 | Self hosted Spotify tracking dashboard |
-| [`spotiflacapp/SpotiFLAC-Mobile`](https://github.com/spotiflacapp/SpotiFLAC-Mobile) | ⭐4.4k | 🔥 | Mobile music utility built with Flutter and Go. High-quality audio management for your personal library. - ... |
-| [`spicetify/marketplace`](https://github.com/spicetify/marketplace) | ⭐1.5k | 🔥 | Download extensions and themes directly from Spicetify |
-| [`spicetify/cli`](https://github.com/spicetify/cli) | ⭐23.3k |  | Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux. |
-| [`spotbye/SpotiFLAC`](https://github.com/spotbye/SpotiFLAC) | ⭐8.9k |  | Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required. |
-| [`linsomniac/spotify_to_ytmusic`](https://github.com/linsomniac/spotify_to_ytmusic) | ⭐4.6k |  | Copy playlists and liked music from Spotify to YTMusic |
-| [`watsonbox/exportify`](https://github.com/watsonbox/exportify) | ⭐4.1k |  | Export/Backup Spotify playlists using the Web API |
-| [`JMPerez/spotify-dedup`](https://github.com/JMPerez/spotify-dedup) | ⭐1.1k |  | Remove duplicates from your Spotify Playlists |
-| [`benfoxall/lastfm-to-csv`](https://github.com/benfoxall/lastfm-to-csv) | ⭐544 | 💤 | Web based tool for exporting scrobbles |
 
 </details>
 
@@ -651,10 +658,11 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 </details>
 
 <details>
-<summary><b>Personal</b> &nbsp;·&nbsp; 9 ⭐ &nbsp;·&nbsp; <i>Personal finance trackers, fitness apps, habit trackers and genealogy tools.</i></summary>
+<summary><b>Personal</b> &nbsp;·&nbsp; 10 ⭐ &nbsp;·&nbsp; <i>Personal finance trackers, fitness apps, habit trackers and genealogy tools.</i></summary>
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
+| [`amruthpillai/reactive-resume`](https://github.com/amruthpillai/reactive-resume) | ⭐39.3k | 🔥 | A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, ... |
 | [`we-promise/sure`](https://github.com/we-promise/sure) | ⭐8.5k | 🔥 | The personal finance app for everyone (by everyone) |
 | [`mauriceboe/TREK`](https://github.com/mauriceboe/TREK) | ⭐5.3k | 🔥 | A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets... |
 | [`CodeWithCJ/SparkyFitness`](https://github.com/CodeWithCJ/SparkyFitness) | ⭐4.1k | 🔥 | SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together. |
