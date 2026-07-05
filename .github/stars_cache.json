@@ -3074,6 +3074,14 @@
     "status": "📦",
     "url": "https://github.com/recalbox/recalbox-os"
   },
+  "reconurge/flowsint": {
+    "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+    "isArchived": false,
+    "pushedAt": "2026-07-01T15:15:19Z",
+    "stargazerCount": 7162,
+    "status": "🔥",
+    "url": "https://github.com/reconurge/flowsint"
+  },
   "restic/restic": {
     "description": "Fast, secure, efficient backup program",
     "isArchived": false,

@@ -27,7 +27,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 <!-- STARS:START -->
 ## ⭐ Curated Stars
 
-**481 repos** across **30 categories**. Click any section to expand.
+**482 repos** across **30 categories**. Click any section to expand.
 
 <details>
 <summary><b>Hacking</b> &nbsp;·&nbsp; 30 ⭐ &nbsp;·&nbsp; <i>Pentesting frameworks, WiFi/Bluetooth attack tools and offensive security utilities.</i></summary>
@@ -290,6 +290,36 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 </details>
 
 <details>
+<summary><b>OSINT</b> &nbsp;·&nbsp; 22 ⭐ &nbsp;·&nbsp; <i>Username, email, phone and social-media reconnaissance tools for investigators.</i></summary>
+
+| Repo | Stars | Status | Description |
+| --- | --- | --- | --- |
+| [`sherlock-project/sherlock`](https://github.com/sherlock-project/sherlock) | ⭐84.3k | 🔥 | Hunt down social media accounts by username across social networks |
+| [`soxoj/maigret`](https://github.com/soxoj/maigret) | ⭐31.2k | 🔥 | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
+| [`blacklanternsecurity/bbot`](https://github.com/blacklanternsecurity/bbot) | ⭐9.8k | 🔥 | The recursive internet scanner for hackers. 🧡 |
+| [`reconurge/flowsint`](https://github.com/reconurge/flowsint) | ⭐7.2k | 🔥 | A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analys... |
+| [`lissy93/web-check`](https://github.com/lissy93/web-check) | ⭐33.3k |  | 🕵️‍♂️ All-in-one OSINT tool for analysing any website |
+| [`Datalux/Osintgram`](https://github.com/Datalux/Osintgram) | ⭐13.0k |  | Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram acc... |
+| [`Lucksi/Mr.Holmes`](https://github.com/Lucksi/Mr.Holmes) | ⭐3.5k |  | A Complete Osint Tool :mag: |
+| [`musana/CF-Hero`](https://github.com/musana/CF-Hero) | ⭐2.6k |  | CF-Hero is a reconnaissance tool that uses multiple data sources to discover the origin IP addresses of Clo... |
+| [`l4rm4nd/LinkedInDumper`](https://github.com/l4rm4nd/LinkedInDumper) | ⭐595 |  | Python 3 script to dump/scrape/extract company employees from LinkedIn API |
+| [`megadose/holehe`](https://github.com/megadose/holehe) | ⭐11.1k | 💤 | holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve... |
+| [`alpkeskin/mosint`](https://github.com/alpkeskin/mosint) | ⭐5.8k | 💤 | An automated e-mail OSINT tool |
+| [`khast3x/h8mail`](https://github.com/khast3x/h8mail) | ⭐5.0k | 💤 | Email OSINT & Password breach hunting tool, locally or using premium services. Supports chasing down relate... |
+| [`megadose/toutatis`](https://github.com/megadose/toutatis) | ⭐4.0k | 💤 | Toutatis is a tool that allows you to extract information from instagrams accounts such as e-mails, phone n... |
+| [`0x0be/yesitsme`](https://github.com/0x0be/yesitsme) | ⭐2.8k | 💤 | Simple OSINT script to find Instagram profiles by name and e-mail/phone |
+| [`bhavsec/reconspider`](https://github.com/bhavsec/reconspider) | ⭐2.7k | 💤 | 🔎 Most Advanced Open Source Intelligence (OSINT) Framework for scanning IP Address, Emails, Websites, Organ... |
+| [`megadose/ignorant`](https://github.com/megadose/ignorant) | ⭐1.8k | 💤 | ignorant allows you to check if a phone number is used on different sites like snapchat, instagram. |
+| [`th3unkn0n/osi.ig`](https://github.com/th3unkn0n/osi.ig) | ⭐1.5k | 💤 | Information Gathering Instagram. |
+| [`s0md3v/Zen`](https://github.com/s0md3v/Zen) | ⭐592 | 💤 | Find emails of Github users |
+| [`twintproject/twint-zero`](https://github.com/twintproject/twint-zero) | ⭐282 | 💤 | Old Twint style, but zero fat. |
+| [`itzmeanjan/twiz`](https://github.com/itzmeanjan/twiz) | ⭐6 | 💤 | Your Twitter Account Data Analysis & Visualization Tool <3 |
+| [`twintproject/twint`](https://github.com/twintproject/twint) | ⭐16.4k | 📦 | An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to... |
+| [`bisguzar/twitter-scraper`](https://github.com/bisguzar/twitter-scraper) | ⭐4.0k | 📦 | Scrape the Twitter Frontend API without authentication. |
+
+</details>
+
+<details>
 <summary><b>Fun</b> &nbsp;·&nbsp; 22 ⭐ &nbsp;·&nbsp; <i>Quirky joke projects, terminal pranks and absurd tech curiosities.</i></summary>
 
 | Repo | Stars | Status | Description |
@@ -316,35 +346,6 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`rollercoasterguy/rollercoasterguy.github.io`](https://github.com/rollercoasterguy/rollercoasterguy.github.io) | ⭐42 | 💤 | _(no description)_ |
 | [`kevquirk/512kb.club`](https://github.com/kevquirk/512kb.club) | ⭐611 | 📦 | Website for the 512 KB Club |
 | [`Xe/praise-me`](https://github.com/Xe/praise-me) | ⭐141 | 📦 | Praise my GitHub profile! |
-
-</details>
-
-<details>
-<summary><b>OSINT</b> &nbsp;·&nbsp; 21 ⭐ &nbsp;·&nbsp; <i>Username, email, phone and social-media reconnaissance tools for investigators.</i></summary>
-
-| Repo | Stars | Status | Description |
-| --- | --- | --- | --- |
-| [`sherlock-project/sherlock`](https://github.com/sherlock-project/sherlock) | ⭐84.3k | 🔥 | Hunt down social media accounts by username across social networks |
-| [`soxoj/maigret`](https://github.com/soxoj/maigret) | ⭐31.2k | 🔥 | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
-| [`blacklanternsecurity/bbot`](https://github.com/blacklanternsecurity/bbot) | ⭐9.8k | 🔥 | The recursive internet scanner for hackers. 🧡 |
-| [`lissy93/web-check`](https://github.com/lissy93/web-check) | ⭐33.3k |  | 🕵️‍♂️ All-in-one OSINT tool for analysing any website |
-| [`Datalux/Osintgram`](https://github.com/Datalux/Osintgram) | ⭐13.0k |  | Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram acc... |
-| [`Lucksi/Mr.Holmes`](https://github.com/Lucksi/Mr.Holmes) | ⭐3.5k |  | A Complete Osint Tool :mag: |
-| [`musana/CF-Hero`](https://github.com/musana/CF-Hero) | ⭐2.6k |  | CF-Hero is a reconnaissance tool that uses multiple data sources to discover the origin IP addresses of Clo... |
-| [`l4rm4nd/LinkedInDumper`](https://github.com/l4rm4nd/LinkedInDumper) | ⭐595 |  | Python 3 script to dump/scrape/extract company employees from LinkedIn API |
-| [`megadose/holehe`](https://github.com/megadose/holehe) | ⭐11.1k | 💤 | holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve... |
-| [`alpkeskin/mosint`](https://github.com/alpkeskin/mosint) | ⭐5.8k | 💤 | An automated e-mail OSINT tool |
-| [`khast3x/h8mail`](https://github.com/khast3x/h8mail) | ⭐5.0k | 💤 | Email OSINT & Password breach hunting tool, locally or using premium services. Supports chasing down relate... |
-| [`megadose/toutatis`](https://github.com/megadose/toutatis) | ⭐4.0k | 💤 | Toutatis is a tool that allows you to extract information from instagrams accounts such as e-mails, phone n... |
-| [`0x0be/yesitsme`](https://github.com/0x0be/yesitsme) | ⭐2.8k | 💤 | Simple OSINT script to find Instagram profiles by name and e-mail/phone |
-| [`bhavsec/reconspider`](https://github.com/bhavsec/reconspider) | ⭐2.7k | 💤 | 🔎 Most Advanced Open Source Intelligence (OSINT) Framework for scanning IP Address, Emails, Websites, Organ... |
-| [`megadose/ignorant`](https://github.com/megadose/ignorant) | ⭐1.8k | 💤 | ignorant allows you to check if a phone number is used on different sites like snapchat, instagram. |
-| [`th3unkn0n/osi.ig`](https://github.com/th3unkn0n/osi.ig) | ⭐1.5k | 💤 | Information Gathering Instagram. |
-| [`s0md3v/Zen`](https://github.com/s0md3v/Zen) | ⭐592 | 💤 | Find emails of Github users |
-| [`twintproject/twint-zero`](https://github.com/twintproject/twint-zero) | ⭐282 | 💤 | Old Twint style, but zero fat. |
-| [`itzmeanjan/twiz`](https://github.com/itzmeanjan/twiz) | ⭐6 | 💤 | Your Twitter Account Data Analysis & Visualization Tool <3 |
-| [`twintproject/twint`](https://github.com/twintproject/twint) | ⭐16.4k | 📦 | An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to... |
-| [`bisguzar/twitter-scraper`](https://github.com/bisguzar/twitter-scraper) | ⭐4.0k | 📦 | Scrape the Twitter Frontend API without authentication. |
 
 </details>
 
