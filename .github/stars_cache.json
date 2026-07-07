@@ -671,6 +671,14 @@
     "status": "",
     "url": "https://github.com/PatNei/GITHUB2FORGEJO"
   },
+  "PlakarKorp/plakar": {
+    "description": "plakar is a backup solution powered by Kloset and ptar",
+    "isArchived": false,
+    "pushedAt": "2026-07-06T01:43:23Z",
+    "stargazerCount": 1942,
+    "status": "🔥",
+    "url": "https://github.com/PlakarKorp/plakar"
+  },
   "Pumpkin-MC/Pumpkin": {
     "description": "Empowering everyone to host fast and efficient Minecraft servers.",
     "isArchived": false,

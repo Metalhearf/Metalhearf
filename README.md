@@ -27,7 +27,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 <!-- STARS:START -->
 ## ⭐ Curated Stars
 
-**482 repos** across **30 categories**. Click any section to expand.
+**483 repos** across **30 categories**. Click any section to expand.
 
 <details>
 <summary><b>Hacking</b> &nbsp;·&nbsp; 30 ⭐ &nbsp;·&nbsp; <i>Pentesting frameworks, WiFi/Bluetooth attack tools and offensive security utilities.</i></summary>
@@ -743,10 +743,11 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 </details>
 
 <details>
-<summary><b>Unsorted</b> &nbsp;·&nbsp; 1 ⭐ &nbsp;·&nbsp; <i>Starred but not yet sorted into any list.</i></summary>
+<summary><b>Unsorted</b> &nbsp;·&nbsp; 2 ⭐ &nbsp;·&nbsp; <i>Starred but not yet sorted into any list.</i></summary>
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
+| [`PlakarKorp/plakar`](https://github.com/PlakarKorp/plakar) | ⭐1.9k | 🔥 | plakar is a backup solution powered by Kloset and ptar |
 | [`spotbye/SpotiFLAC-Next`](https://github.com/spotbye/SpotiFLAC-Next) | ⭐1.5k |  | Get Spotify tracks in true Lossless from Tidal, Qobuz, Amazon Music, Deezer & Apple Music — no account requ... |
 
 </details>
