@@ -27,7 +27,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 <!-- STARS:START -->
 ## ⭐ Curated Stars
 
-**483 repos** across **30 categories**. Click any section to expand.
+**484 repos** across **30 categories**. Click any section to expand.
 
 <details>
 <summary><b>Hacking</b> &nbsp;·&nbsp; 30 ⭐ &nbsp;·&nbsp; <i>Pentesting frameworks, WiFi/Bluetooth attack tools and offensive security utilities.</i></summary>
@@ -68,40 +68,6 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 </details>
 
 <details>
-<summary><b>Media</b> &nbsp;·&nbsp; 26 ⭐ &nbsp;·&nbsp; <i>Self-hosted media servers, photo libraries, IP cameras, video downloaders and OBS plugins.</i></summary>
-
-| Repo | Stars | Status | Description |
-| --- | --- | --- | --- |
-| [`yt-dlp/yt-dlp`](https://github.com/yt-dlp/yt-dlp) | ⭐167.0k | 🔥 | A feature-rich command-line audio/video downloader |
-| [`iptv-org/iptv`](https://github.com/iptv-org/iptv) | ⭐116.7k | 🔥 | Collection of publicly available IPTV channels from all over the world |
-| [`immich-app/immich`](https://github.com/immich-app/immich) | ⭐102.4k | 🔥 | High performance self-hosted photo and video management solution. |
-| [`jellyfin/jellyfin`](https://github.com/jellyfin/jellyfin) | ⭐52.8k | 🔥 | The Free Software Media System - Server Backend & API |
-| [`photoprism/photoprism`](https://github.com/photoprism/photoprism) | ⭐39.7k | 🔥 | AI-Powered Photos App for the Decentralized Web 🌈💎✨ |
-| [`blakeblackshear/frigate`](https://github.com/blakeblackshear/frigate) | ⭐33.4k | 🔥 | NVR with realtime local object detection for IP cameras |
-| [`navidrome/navidrome`](https://github.com/navidrome/navidrome) | ⭐21.4k | 🔥 | 🎧 Your Personal Streaming Service |
-| [`streamlink/streamlink`](https://github.com/streamlink/streamlink) | ⭐11.5k | 🔥 | Streamlink is a CLI utility which pipes video streams from various services into a video player |
-| [`seerr-team/seerr`](https://github.com/seerr-team/seerr) | ⭐11.4k | 🔥 | Open-source media request and discovery manager for Jellyfin, Plex, and Emby. |
-| [`Freika/dawarich`](https://github.com/Freika/dawarich) | ⭐9.2k | 🔥 | Your favorite self-hostable alternative to Google Timeline (Google Location History) |
-| [`truelockmc/streambert`](https://github.com/truelockmc/streambert) | ⭐5.6k | 🔥 | A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Ze... |
-| [`motioneye-project/motioneye`](https://github.com/motioneye-project/motioneye) | ⭐4.6k | 🔥 | A web frontend for the motion daemon. |
-| [`intro-skipper/intro-skipper`](https://github.com/intro-skipper/intro-skipper) | ⭐2.4k | 🔥 | Automatically detect and skip intro/credit sequences in Jellyfin |
-| [`SmilyOrg/photofield`](https://github.com/SmilyOrg/photofield) | ⭐584 | 🔥 | A self-hosted non-invasive single-binary photo gallery with a focus on speed and simplicity. |
-| [`phileastv/SensBoxd`](https://github.com/phileastv/SensBoxd) | ⭐24 | 🔥 | Exporter sa collection SensCritique pour Letterboxd. |
-| [`AlexxIT/go2rtc`](https://github.com/AlexxIT/go2rtc) | ⭐13.1k |  | Ultimate camera streaming application |
-| [`pystardust/ani-cli`](https://github.com/pystardust/ani-cli) | ⭐12.5k |  | A cli tool to browse and play anime |
-| [`obsproject/obs-websocket`](https://github.com/obsproject/obs-websocket) | ⭐4.3k |  | Remote-control of OBS Studio through WebSocket |
-| [`Salvoxia/immich-folder-album-creator`](https://github.com/Salvoxia/immich-folder-album-creator) | ⭐1.0k |  | Automatically create and populate albums in Immich from a folder structure in external libraries |
-| [`JimmyAppelt/snaz`](https://github.com/JimmyAppelt/snaz) | ⭐302 |  | Snaz |
-| [`rx342/senscritique2letterboxd`](https://github.com/rx342/senscritique2letterboxd) | ⭐25 |  | Move your Senscritique library to Letterboxd |
-| [`Vhonowslend/StreamFX-Public`](https://github.com/Vhonowslend/StreamFX-Public) | ⭐4.2k | 💤 | StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoder... |
-| [`Kalejin/DCSB`](https://github.com/Kalejin/DCSB) | ⭐288 | 💤 | Deathcounter and Soundboard, WPF app for setting up key shortcuts |
-| [`GuGuss/ARTE-7-Downloader`](https://github.com/GuGuss/ARTE-7-Downloader) | ⭐260 | 💤 | User script to download videos from the ARTE+7 website |
-| [`univrsal/spectralizer`](https://github.com/univrsal/spectralizer) | ⭐619 | 📦 | Audio visualizer plugin for obs-studio |
-| [`danielveigasilva/jellyfin-plugin-letterboxd-sync`](https://github.com/danielveigasilva/jellyfin-plugin-letterboxd-sync) | ⭐110 | 📦 | A unofficial plugin to keep your watched movie history from Jellyfin automatically updated to your Letterbo... |
-
-</details>
-
-<details>
 <summary><b>Productivity</b> &nbsp;·&nbsp; 25 ⭐ &nbsp;·&nbsp; <i>Documents, ebooks, notes/PKM, dashboards, recipes and workflow automation.</i></summary>
 
 | Repo | Stars | Status | Description |
@@ -131,6 +97,39 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`crocodilestick/Calibre-Web-Automated`](https://github.com/crocodilestick/Calibre-Web-Automated) | ⭐5.7k |  | Calibre-Web but Automated and with tons of New Features! Fully automate and simplify your eBook set up! |
 | [`mult1v4c/hestia-core`](https://github.com/mult1v4c/hestia-core) | ⭐676 |  | A grid-based, modular dashboard built entirely from HTML, CSS, and JS with the ability to create your custo... |
 | [`na--/ebook-tools`](https://github.com/na--/ebook-tools) | ⭐766 | 💤 | Shell scripts for organizing and managing ebook collections |
+
+</details>
+
+<details>
+<summary><b>Media</b> &nbsp;·&nbsp; 25 ⭐ &nbsp;·&nbsp; <i>Self-hosted media servers, photo libraries, IP cameras, video downloaders and OBS plugins.</i></summary>
+
+| Repo | Stars | Status | Description |
+| --- | --- | --- | --- |
+| [`yt-dlp/yt-dlp`](https://github.com/yt-dlp/yt-dlp) | ⭐167.0k | 🔥 | A feature-rich command-line audio/video downloader |
+| [`iptv-org/iptv`](https://github.com/iptv-org/iptv) | ⭐116.7k | 🔥 | Collection of publicly available IPTV channels from all over the world |
+| [`immich-app/immich`](https://github.com/immich-app/immich) | ⭐102.4k | 🔥 | High performance self-hosted photo and video management solution. |
+| [`jellyfin/jellyfin`](https://github.com/jellyfin/jellyfin) | ⭐52.8k | 🔥 | The Free Software Media System - Server Backend & API |
+| [`photoprism/photoprism`](https://github.com/photoprism/photoprism) | ⭐39.7k | 🔥 | AI-Powered Photos App for the Decentralized Web 🌈💎✨ |
+| [`blakeblackshear/frigate`](https://github.com/blakeblackshear/frigate) | ⭐33.4k | 🔥 | NVR with realtime local object detection for IP cameras |
+| [`navidrome/navidrome`](https://github.com/navidrome/navidrome) | ⭐21.4k | 🔥 | 🎧 Your Personal Streaming Service |
+| [`streamlink/streamlink`](https://github.com/streamlink/streamlink) | ⭐11.5k | 🔥 | Streamlink is a CLI utility which pipes video streams from various services into a video player |
+| [`seerr-team/seerr`](https://github.com/seerr-team/seerr) | ⭐11.4k | 🔥 | Open-source media request and discovery manager for Jellyfin, Plex, and Emby. |
+| [`Freika/dawarich`](https://github.com/Freika/dawarich) | ⭐9.2k | 🔥 | Your favorite self-hostable alternative to Google Timeline (Google Location History) |
+| [`motioneye-project/motioneye`](https://github.com/motioneye-project/motioneye) | ⭐4.6k | 🔥 | A web frontend for the motion daemon. |
+| [`intro-skipper/intro-skipper`](https://github.com/intro-skipper/intro-skipper) | ⭐2.4k | 🔥 | Automatically detect and skip intro/credit sequences in Jellyfin |
+| [`SmilyOrg/photofield`](https://github.com/SmilyOrg/photofield) | ⭐584 | 🔥 | A self-hosted non-invasive single-binary photo gallery with a focus on speed and simplicity. |
+| [`phileastv/SensBoxd`](https://github.com/phileastv/SensBoxd) | ⭐24 | 🔥 | Exporter sa collection SensCritique pour Letterboxd. |
+| [`AlexxIT/go2rtc`](https://github.com/AlexxIT/go2rtc) | ⭐13.1k |  | Ultimate camera streaming application |
+| [`pystardust/ani-cli`](https://github.com/pystardust/ani-cli) | ⭐12.5k |  | A cli tool to browse and play anime |
+| [`obsproject/obs-websocket`](https://github.com/obsproject/obs-websocket) | ⭐4.3k |  | Remote-control of OBS Studio through WebSocket |
+| [`Salvoxia/immich-folder-album-creator`](https://github.com/Salvoxia/immich-folder-album-creator) | ⭐1.0k |  | Automatically create and populate albums in Immich from a folder structure in external libraries |
+| [`JimmyAppelt/snaz`](https://github.com/JimmyAppelt/snaz) | ⭐302 |  | Snaz |
+| [`rx342/senscritique2letterboxd`](https://github.com/rx342/senscritique2letterboxd) | ⭐25 |  | Move your Senscritique library to Letterboxd |
+| [`Vhonowslend/StreamFX-Public`](https://github.com/Vhonowslend/StreamFX-Public) | ⭐4.2k | 💤 | StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoder... |
+| [`Kalejin/DCSB`](https://github.com/Kalejin/DCSB) | ⭐288 | 💤 | Deathcounter and Soundboard, WPF app for setting up key shortcuts |
+| [`GuGuss/ARTE-7-Downloader`](https://github.com/GuGuss/ARTE-7-Downloader) | ⭐260 | 💤 | User script to download videos from the ARTE+7 website |
+| [`univrsal/spectralizer`](https://github.com/univrsal/spectralizer) | ⭐619 | 📦 | Audio visualizer plugin for obs-studio |
+| [`danielveigasilva/jellyfin-plugin-letterboxd-sync`](https://github.com/danielveigasilva/jellyfin-plugin-letterboxd-sync) | ⭐110 | 📦 | A unofficial plugin to keep your watched movie history from Jellyfin automatically updated to your Letterbo... |
 
 </details>
 
@@ -406,6 +405,33 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 </details>
 
 <details>
+<summary><b>Android</b> &nbsp;·&nbsp; 19 ⭐ &nbsp;·&nbsp; <i>Debloaters, ReVanced/Magisk patches, FOSS apps and rooting utilities for Android.</i></summary>
+
+| Repo | Stars | Status | Description |
+| --- | --- | --- | --- |
+| [`Genymobile/scrcpy`](https://github.com/Genymobile/scrcpy) | ⭐142.8k | 🔥 | Display and control your Android device |
+| [`topjohnwu/Magisk`](https://github.com/topjohnwu/Magisk) | ⭐60.7k | 🔥 | The Magic Mask for Android |
+| [`yuliskov/SmartTube`](https://github.com/yuliskov/SmartTube) | ⭐30.3k | 🔥 | Browse media content with your own rules on Android TV |
+| [`ReVanced/revanced-manager`](https://github.com/ReVanced/revanced-manager) | ⭐28.1k | 🔥 | 💊 Application to use ReVanced on Android |
+| [`breezy-weather/breezy-weather`](https://github.com/breezy-weather/breezy-weather) | ⭐10.3k | 🔥 | A feature-rich weather app with good visualizations and more than 50 sources. |
+| [`offa/android-foss`](https://github.com/offa/android-foss) | ⭐10.2k | 🔥 | A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy. |
+| [`Universal-Debloater-Alliance/universal-android-debloater-next-generation`](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) | ⭐6.7k | 🔥 | Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, t... |
+| [`MorpheApp/morphe-manager`](https://github.com/MorpheApp/morphe-manager) | ⭐5.4k | 🔥 | Morphe app patcher for Android |
+| [`crimera/piko`](https://github.com/crimera/piko) | ⭐4.2k | 🔥 | morphe patches for twitter |
+| [`MorpheApp/morphe-patches`](https://github.com/MorpheApp/morphe-patches) | ⭐2.4k | 🔥 | Morphe Patches |
+| [`Arcticons-Team/Arcticons`](https://github.com/Arcticons-Team/Arcticons) | ⭐1.5k | 🔥 | A monotone line-based icon pack for android |
+| [`bryanroscoe/shield_optimizer`](https://github.com/bryanroscoe/shield_optimizer) | ⭐616 | 🔥 | _(no description)_ |
+| [`beemdevelopment/Aegis`](https://github.com/beemdevelopment/Aegis) | ⭐12.5k |  | A free, secure and open source app for Android to manage your 2-step verification tokens. |
+| [`AbdurazaaqMohammed/AntiSplit-M`](https://github.com/AbdurazaaqMohammed/AntiSplit-M) | ⭐4.5k |  | App to AntiSplit (merge) split APKs (APKS/XAPK/APKM) to regular .APK file on Android |
+| [`corentin-c/SpotifyAutoPatcher`](https://github.com/corentin-c/SpotifyAutoPatcher) | ⭐467 |  | The easiest way to patch Spotify and Youtube Music, without the need to download APKs ! |
+| [`0x192/universal-android-debloater`](https://github.com/0x192/universal-android-debloater) | ⭐19.4k | 💤 | Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, t... |
+| [`BaltiApps/Pixelify-Google-Photos`](https://github.com/BaltiApps/Pixelify-Google-Photos) | ⭐1.6k | 💤 | Pixelify GPhotos |
+| [`ayush5harma/PixelFeatureDrops`](https://github.com/ayush5harma/PixelFeatureDrops) | ⭐352 | 💤 | Magisk Module for Pixel Feature Drops that adds the system files for the same and spoof using the latest de... |
+| [`Team-xManager/xManager`](https://github.com/Team-xManager/xManager) | ⭐12.2k | 📦 | Ad-Free, New Features & Freedom |
+
+</details>
+
+<details>
 <summary><b>Files</b> &nbsp;·&nbsp; 19 ⭐ &nbsp;·&nbsp; <i>File servers, file managers, sharing platforms and backup tooling.</i></summary>
 
 | Repo | Stars | Status | Description |
@@ -433,28 +459,28 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 </details>
 
 <details>
-<summary><b>Android</b> &nbsp;·&nbsp; 18 ⭐ &nbsp;·&nbsp; <i>Debloaters, ReVanced/Magisk patches, FOSS apps and rooting utilities for Android.</i></summary>
+<summary><b>AI</b> &nbsp;·&nbsp; 18 ⭐ &nbsp;·&nbsp; <i>Local LLMs, AI coding agents, TTS engines and AI-augmented productivity tools.</i></summary>
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
-| [`Genymobile/scrcpy`](https://github.com/Genymobile/scrcpy) | ⭐142.8k | 🔥 | Display and control your Android device |
-| [`topjohnwu/Magisk`](https://github.com/topjohnwu/Magisk) | ⭐60.7k | 🔥 | The Magic Mask for Android |
-| [`yuliskov/SmartTube`](https://github.com/yuliskov/SmartTube) | ⭐30.3k | 🔥 | Browse media content with your own rules on Android TV |
-| [`ReVanced/revanced-manager`](https://github.com/ReVanced/revanced-manager) | ⭐28.1k | 🔥 | 💊 Application to use ReVanced on Android |
-| [`breezy-weather/breezy-weather`](https://github.com/breezy-weather/breezy-weather) | ⭐10.3k | 🔥 | A feature-rich weather app with good visualizations and more than 50 sources. |
-| [`offa/android-foss`](https://github.com/offa/android-foss) | ⭐10.2k | 🔥 | A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy. |
-| [`Universal-Debloater-Alliance/universal-android-debloater-next-generation`](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) | ⭐6.7k | 🔥 | Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, t... |
-| [`MorpheApp/morphe-manager`](https://github.com/MorpheApp/morphe-manager) | ⭐5.4k | 🔥 | Morphe app patcher for Android |
-| [`MorpheApp/morphe-patches`](https://github.com/MorpheApp/morphe-patches) | ⭐2.4k | 🔥 | Morphe Patches |
-| [`Arcticons-Team/Arcticons`](https://github.com/Arcticons-Team/Arcticons) | ⭐1.5k | 🔥 | A monotone line-based icon pack for android |
-| [`bryanroscoe/shield_optimizer`](https://github.com/bryanroscoe/shield_optimizer) | ⭐616 | 🔥 | _(no description)_ |
-| [`beemdevelopment/Aegis`](https://github.com/beemdevelopment/Aegis) | ⭐12.5k |  | A free, secure and open source app for Android to manage your 2-step verification tokens. |
-| [`AbdurazaaqMohammed/AntiSplit-M`](https://github.com/AbdurazaaqMohammed/AntiSplit-M) | ⭐4.5k |  | App to AntiSplit (merge) split APKs (APKS/XAPK/APKM) to regular .APK file on Android |
-| [`corentin-c/SpotifyAutoPatcher`](https://github.com/corentin-c/SpotifyAutoPatcher) | ⭐467 |  | The easiest way to patch Spotify and Youtube Music, without the need to download APKs ! |
-| [`0x192/universal-android-debloater`](https://github.com/0x192/universal-android-debloater) | ⭐19.4k | 💤 | Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, t... |
-| [`BaltiApps/Pixelify-Google-Photos`](https://github.com/BaltiApps/Pixelify-Google-Photos) | ⭐1.6k | 💤 | Pixelify GPhotos |
-| [`ayush5harma/PixelFeatureDrops`](https://github.com/ayush5harma/PixelFeatureDrops) | ⭐352 | 💤 | Magisk Module for Pixel Feature Drops that adds the system files for the same and spoof using the latest de... |
-| [`Team-xManager/xManager`](https://github.com/Team-xManager/xManager) | ⭐12.2k | 📦 | Ad-Free, New Features & Freedom |
+| [`openclaw/openclaw`](https://github.com/openclaw/openclaw) | ⭐375.9k | 🔥 | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 |
+| [`ollama/ollama`](https://github.com/ollama/ollama) | ⭐175.4k | 🔥 | Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. |
+| [`anomalyco/opencode`](https://github.com/anomalyco/opencode) | ⭐168.0k | 🔥 | The open source coding agent. |
+| [`open-webui/open-webui`](https://github.com/open-webui/open-webui) | ⭐139.5k | 🔥 | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) |
+| [`punkpeye/awesome-mcp-servers`](https://github.com/punkpeye/awesome-mcp-servers) | ⭐88.3k | 🔥 | A collection of MCP servers. |
+| [`santifer/career-ops`](https://github.com/santifer/career-ops) | ⭐48.1k | 🔥 | AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch proc... |
+| [`jamiepine/voicebox`](https://github.com/jamiepine/voicebox) | ⭐39.5k | 🔥 | The open-source AI voice studio. Clone, dictate, create. |
+| [`srbhr/Resume-Matcher`](https://github.com/srbhr/Resume-Matcher) | ⭐27.2k | 🔥 | Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job de... |
+| [`yamadashy/repomix`](https://github.com/yamadashy/repomix) | ⭐25.8k | 🔥 | 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for... |
+| [`blader/humanizer`](https://github.com/blader/humanizer) | ⭐21.9k | 🔥 | Claude Code skill that removes signs of AI-generated writing from text |
+| [`elie222/inbox-zero`](https://github.com/elie222/inbox-zero) | ⭐11.1k | 🔥 | The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast. |
+| [`pewdiepie-archdaemon/odysseus`](https://github.com/pewdiepie-archdaemon/odysseus) | ⭐11.1k | 🔥 | Self-hosted AI workspace. |
+| [`multica-ai/andrej-karpathy-skills`](https://github.com/multica-ai/andrej-karpathy-skills) | ⭐163.9k |  | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM... |
+| [`OpenBMB/VoxCPM`](https://github.com/OpenBMB/VoxCPM) | ⭐23.8k |  | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Clo... |
+| [`romainsimon/paperasse`](https://github.com/romainsimon/paperasse) | ⭐2.0k |  | 🇫🇷  Skills pour agents IA spécialisés dans la bureaucratie française : Comptable, Notaire, ... |
+| [`TheEvilSkeleton/Upscaler`](https://github.com/TheEvilSkeleton/Upscaler) | ⭐42 |  | Upscale and enhance images |
+| [`yoanbernabeu/NanoThumbnail`](https://github.com/yoanbernabeu/NanoThumbnail) | ⭐39 |  | Generate Viral Thumbnails with AI |
+| [`Zyphra/Zonos`](https://github.com/Zyphra/Zonos) | ⭐7.2k | 💤 | Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilin... |
 
 </details>
 
@@ -481,31 +507,6 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`tama/pogo-discord-raid-bot`](https://github.com/tama/pogo-discord-raid-bot) | ⭐1 | 💤 | A bot to list players on a discord server participating to a raid |
 | [`tama/pogo-discord-mod-bot`](https://github.com/tama/pogo-discord-mod-bot) | ⭐1 | 💤 | Simple mod tasks on a (pokemon go related) discord server |
 | [`hotsapi/HotsStats`](https://github.com/hotsapi/HotsStats) | ⭐144 | 📦 | An app that shows player stats during loading screen in Heroes of the Storm |
-
-</details>
-
-<details>
-<summary><b>AI</b> &nbsp;·&nbsp; 17 ⭐ &nbsp;·&nbsp; <i>Local LLMs, AI coding agents, TTS engines and AI-augmented productivity tools.</i></summary>
-
-| Repo | Stars | Status | Description |
-| --- | --- | --- | --- |
-| [`openclaw/openclaw`](https://github.com/openclaw/openclaw) | ⭐375.9k | 🔥 | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 |
-| [`ollama/ollama`](https://github.com/ollama/ollama) | ⭐175.4k | 🔥 | Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. |
-| [`anomalyco/opencode`](https://github.com/anomalyco/opencode) | ⭐168.0k | 🔥 | The open source coding agent. |
-| [`open-webui/open-webui`](https://github.com/open-webui/open-webui) | ⭐139.5k | 🔥 | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) |
-| [`punkpeye/awesome-mcp-servers`](https://github.com/punkpeye/awesome-mcp-servers) | ⭐88.3k | 🔥 | A collection of MCP servers. |
-| [`santifer/career-ops`](https://github.com/santifer/career-ops) | ⭐48.1k | 🔥 | AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch proc... |
-| [`srbhr/Resume-Matcher`](https://github.com/srbhr/Resume-Matcher) | ⭐27.2k | 🔥 | Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job de... |
-| [`yamadashy/repomix`](https://github.com/yamadashy/repomix) | ⭐25.8k | 🔥 | 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for... |
-| [`blader/humanizer`](https://github.com/blader/humanizer) | ⭐21.9k | 🔥 | Claude Code skill that removes signs of AI-generated writing from text |
-| [`elie222/inbox-zero`](https://github.com/elie222/inbox-zero) | ⭐11.1k | 🔥 | The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast. |
-| [`pewdiepie-archdaemon/odysseus`](https://github.com/pewdiepie-archdaemon/odysseus) | ⭐11.1k | 🔥 | Self-hosted AI workspace. |
-| [`multica-ai/andrej-karpathy-skills`](https://github.com/multica-ai/andrej-karpathy-skills) | ⭐163.9k |  | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM... |
-| [`OpenBMB/VoxCPM`](https://github.com/OpenBMB/VoxCPM) | ⭐23.8k |  | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Clo... |
-| [`romainsimon/paperasse`](https://github.com/romainsimon/paperasse) | ⭐2.0k |  | 🇫🇷  Skills pour agents IA spécialisés dans la bureaucratie française : Comptable, Notaire, ... |
-| [`TheEvilSkeleton/Upscaler`](https://github.com/TheEvilSkeleton/Upscaler) | ⭐42 |  | Upscale and enhance images |
-| [`yoanbernabeu/NanoThumbnail`](https://github.com/yoanbernabeu/NanoThumbnail) | ⭐39 |  | Generate Viral Thumbnails with AI |
-| [`Zyphra/Zonos`](https://github.com/Zyphra/Zonos) | ⭐7.2k | 💤 | Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilin... |
 
 </details>
 

@@ -1370,6 +1370,14 @@
     "status": "",
     "url": "https://github.com/corentin-c/SpotifyAutoPatcher"
   },
+  "crimera/piko": {
+    "description": "morphe patches for twitter",
+    "isArchived": false,
+    "pushedAt": "2026-07-09T00:33:40Z",
+    "stargazerCount": 4245,
+    "status": "🔥",
+    "url": "https://github.com/crimera/piko"
+  },
   "crocodilestick/Calibre-Web-Automated": {
     "description": "Calibre-Web but Automated and with tons of New Features! Fully automate and simplify your eBook set up!",
     "isArchived": false,
@@ -1977,6 +1985,14 @@
     "stargazerCount": 227,
     "status": "🔥",
     "url": "https://github.com/jaedle/mirror-to-gitea"
+  },
+  "jamiepine/voicebox": {
+    "description": "The open-source AI voice studio. Clone, dictate, create.",
+    "isArchived": false,
+    "pushedAt": "2026-07-05T10:18:30Z",
+    "stargazerCount": 39535,
+    "status": "🔥",
+    "url": "https://github.com/jamiepine/voicebox"
   },
   "janeczku/calibre-web": {
     "description": ":books: Web app for browsing, reading and downloading eBooks stored in a Calibre database",
