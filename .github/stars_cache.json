@@ -3618,6 +3618,14 @@
     "status": "🔥",
     "url": "https://github.com/topjohnwu/Magisk"
   },
+  "torvalds/AudioNoise": {
+    "description": "Random digital audio effects",
+    "isArchived": false,
+    "pushedAt": "2026-05-08T17:20:22Z",
+    "stargazerCount": 4428,
+    "status": "",
+    "url": "https://github.com/torvalds/AudioNoise"
+  },
   "traefik/traefik": {
     "description": "The Cloud Native Application Proxy",
     "isArchived": false,
