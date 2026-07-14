@@ -647,6 +647,14 @@
     "status": "",
     "url": "https://github.com/OpenBMB/VoxCPM"
   },
+  "OpenCut-app/OpenCut": {
+    "description": "The open-source CapCut alternative",
+    "isArchived": false,
+    "pushedAt": "2026-07-10T20:26:18Z",
+    "stargazerCount": 67951,
+    "status": "🔥",
+    "url": "https://github.com/OpenCut-app/OpenCut"
+  },
   "OpenRCT2/OpenRCT2": {
     "description": "An open source re-implementation of RollerCoaster Tycoon 2 🎢",
     "isArchived": false,

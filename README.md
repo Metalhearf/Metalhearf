@@ -27,7 +27,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 <!-- STARS:START -->
 ## ⭐ Curated Stars
 
-**485 repos** across **30 categories**. Click any section to expand.
+**486 repos** across **30 categories**. Click any section to expand.
 
 <details>
 <summary><b>Hacking</b> &nbsp;·&nbsp; 30 ⭐ &nbsp;·&nbsp; <i>Pentesting frameworks, WiFi/Bluetooth attack tools and offensive security utilities.</i></summary>
@@ -512,6 +512,29 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 </details>
 
 <details>
+<summary><b>Tools-Desktop</b> &nbsp;·&nbsp; 15 ⭐ &nbsp;·&nbsp; <i>GUI applications, terminal emulators and system utilities (Ghostty, Ventoy, beekeeper, ladybird).</i></summary>
+
+| Repo | Stars | Status | Description |
+| --- | --- | --- | --- |
+| [`OpenCut-app/OpenCut`](https://github.com/OpenCut-app/OpenCut) | ⭐68.0k | 🔥 | The open-source CapCut alternative |
+| [`LadybirdBrowser/ladybird`](https://github.com/LadybirdBrowser/ladybird) | ⭐63.7k | 🔥 | Truly independent web browser |
+| [`ghostty-org/ghostty`](https://github.com/ghostty-org/ghostty) | ⭐55.7k | 🔥 | 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GP... |
+| [`tw93/Mole`](https://github.com/tw93/Mole) | ⭐54.1k | 🔥 | 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal. |
+| [`microsoft/WSL`](https://github.com/microsoft/WSL) | ⭐32.4k | 🔥 | Windows Subsystem for Linux |
+| [`Devolutions/UniGetUI`](https://github.com/Devolutions/UniGetUI) | ⭐24.2k | 🔥 | UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manag... |
+| [`beekeeper-studio/beekeeper-studio`](https://github.com/beekeeper-studio/beekeeper-studio) | ⭐22.9k | 🔥 | Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Wind... |
+| [`zerebos/ghostty-config`](https://github.com/zerebos/ghostty-config) | ⭐3.8k | 🔥 | A beautiful config generator for Ghostty terminal. |
+| [`ventoy/Ventoy`](https://github.com/ventoy/Ventoy) | ⭐77.0k |  | A new bootable USB solution. |
+| [`m1k1o/neko`](https://github.com/m1k1o/neko) | ⭐21.0k |  | A self hosted virtual browser that runs in docker and uses WebRTC. |
+| [`BCUninstaller/Bulk-Crap-Uninstaller`](https://github.com/BCUninstaller/Bulk-Crap-Uninstaller) | ⭐20.0k |  | Remove large amounts of unwanted applications quickly. |
+| [`originalankur/maptoposter`](https://github.com/originalankur/maptoposter) | ⭐13.4k |  | Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export v... |
+| [`keylase/nvidia-patch`](https://github.com/keylase/nvidia-patch) | ⭐4.7k |  | This patch removes restriction on maximum number of simultaneous NVENC video encoding sessions imposed by N... |
+| [`nowthis/sankeymatic`](https://github.com/nowthis/sankeymatic) | ⭐1.4k |  | Make Beautiful Flow Diagrams |
+| [`myspaghetti/macos-virtualbox`](https://github.com/myspaghetti/macos-virtualbox) | ⭐13.5k | 📦 | Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox on x86 CPUs for Windo... |
+
+</details>
+
+<details>
 <summary><b>Music</b> &nbsp;·&nbsp; 15 ⭐ &nbsp;·&nbsp; <i>Spotify clients, music library managers and audio tagging tools.</i></summary>
 
 | Repo | Stars | Status | Description |
@@ -554,28 +577,6 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`Trikos/Home-Assistant-Naming-Convention`](https://github.com/Trikos/Home-Assistant-Naming-Convention) | ⭐71 | 💤 | A repository dedicated to best practices for naming devices, sensors, and entities in Home Assistant setups... |
 | [`C-Duv/freemobile-smsapi-client`](https://github.com/C-Duv/freemobile-smsapi-client) | ⭐58 | 💤 | API client for the Free Mobile SMS notification service |
 | [`Aymkdn/assistant-freebox`](https://github.com/Aymkdn/assistant-freebox) | ⭐24 | 💤 | Plugin pour contrôler la Freebox Révolution via un Assistant comme Google Home |
-
-</details>
-
-<details>
-<summary><b>Tools-Desktop</b> &nbsp;·&nbsp; 14 ⭐ &nbsp;·&nbsp; <i>GUI applications, terminal emulators and system utilities (Ghostty, Ventoy, beekeeper, ladybird).</i></summary>
-
-| Repo | Stars | Status | Description |
-| --- | --- | --- | --- |
-| [`LadybirdBrowser/ladybird`](https://github.com/LadybirdBrowser/ladybird) | ⭐63.7k | 🔥 | Truly independent web browser |
-| [`ghostty-org/ghostty`](https://github.com/ghostty-org/ghostty) | ⭐55.7k | 🔥 | 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GP... |
-| [`tw93/Mole`](https://github.com/tw93/Mole) | ⭐54.1k | 🔥 | 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal. |
-| [`microsoft/WSL`](https://github.com/microsoft/WSL) | ⭐32.4k | 🔥 | Windows Subsystem for Linux |
-| [`Devolutions/UniGetUI`](https://github.com/Devolutions/UniGetUI) | ⭐24.2k | 🔥 | UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manag... |
-| [`beekeeper-studio/beekeeper-studio`](https://github.com/beekeeper-studio/beekeeper-studio) | ⭐22.9k | 🔥 | Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Wind... |
-| [`zerebos/ghostty-config`](https://github.com/zerebos/ghostty-config) | ⭐3.8k | 🔥 | A beautiful config generator for Ghostty terminal. |
-| [`ventoy/Ventoy`](https://github.com/ventoy/Ventoy) | ⭐77.0k |  | A new bootable USB solution. |
-| [`m1k1o/neko`](https://github.com/m1k1o/neko) | ⭐21.0k |  | A self hosted virtual browser that runs in docker and uses WebRTC. |
-| [`BCUninstaller/Bulk-Crap-Uninstaller`](https://github.com/BCUninstaller/Bulk-Crap-Uninstaller) | ⭐20.0k |  | Remove large amounts of unwanted applications quickly. |
-| [`originalankur/maptoposter`](https://github.com/originalankur/maptoposter) | ⭐13.4k |  | Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export v... |
-| [`keylase/nvidia-patch`](https://github.com/keylase/nvidia-patch) | ⭐4.7k |  | This patch removes restriction on maximum number of simultaneous NVENC video encoding sessions imposed by N... |
-| [`nowthis/sankeymatic`](https://github.com/nowthis/sankeymatic) | ⭐1.4k |  | Make Beautiful Flow Diagrams |
-| [`myspaghetti/macos-virtualbox`](https://github.com/myspaghetti/macos-virtualbox) | ⭐13.5k | 📦 | Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox on x86 CPUs for Windo... |
 
 </details>
 
