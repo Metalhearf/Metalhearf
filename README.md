@@ -415,7 +415,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`ollama/ollama`](https://github.com/ollama/ollama) | ⭐176.1k | 🔥 | Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. |
 | [`open-webui/open-webui`](https://github.com/open-webui/open-webui) | ⭐145.5k | 🔥 | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) |
 | [`punkpeye/awesome-mcp-servers`](https://github.com/punkpeye/awesome-mcp-servers) | ⭐90.8k | 🔥 | A collection of MCP servers. |
-| [`pewdiepie-archdaemon/odysseus`](https://github.com/pewdiepie-archdaemon/odysseus) | ⭐82.8k | 🔥 | Self-hosted AI workspace. |
+| [`odysseus-dev/odysseus`](https://github.com/odysseus-dev/odysseus) | ⭐82.9k | 🔥 | Self-hosted AI workspace. |
 | [`santifer/career-ops`](https://github.com/santifer/career-ops) | ⭐60.2k | 🔥 | Open-source AI job search: scan job portals, score listings A-F, tailor your CV, track applications — runs ... |
 | [`jamiepine/voicebox`](https://github.com/jamiepine/voicebox) | ⭐41.4k | 🔥 | The open-source AI voice studio. Clone, dictate, create. |
 | [`OpenBMB/VoxCPM`](https://github.com/OpenBMB/VoxCPM) | ⭐33.4k | 🔥 | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Clo... |
