@@ -2490,6 +2490,14 @@
     "status": "💤",
     "url": "https://github.com/mmotti/pihole-regex"
   },
+  "mollyim/mollyim-android": {
+    "description": "Enhanced and security-focused fork of Signal.",
+    "isArchived": false,
+    "pushedAt": "2026-07-18T00:38:52Z",
+    "stargazerCount": 3562,
+    "status": "🔥",
+    "url": "https://github.com/mollyim/mollyim-android"
+  },
   "mostafa-wahied/portracker": {
     "description": "An open source, self-hosted, real-time port monitoring and discovery tool.",
     "isArchived": false,

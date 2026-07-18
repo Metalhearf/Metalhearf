@@ -27,7 +27,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 <!-- STARS:START -->
 ## ⭐ Curated Stars
 
-**487 repos** across **30 categories**. Click any section to expand.
+**488 repos** across **30 categories**. Click any section to expand.
 
 <details>
 <summary><b>Hacking</b> &nbsp;·&nbsp; 30 ⭐ &nbsp;·&nbsp; <i>Pentesting frameworks, WiFi/Bluetooth attack tools and offensive security utilities.</i></summary>
@@ -350,6 +350,35 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 </details>
 
 <details>
+<summary><b>Privacy</b> &nbsp;·&nbsp; 21 ⭐ &nbsp;·&nbsp; <i>Tracker blockers, password managers, anonymous messaging and tools to escape surveillance.</i></summary>
+
+| Repo | Stars | Status | Description |
+| --- | --- | --- | --- |
+| [`gorhill/uBlock`](https://github.com/gorhill/uBlock) | ⭐66.2k | 🔥 | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. |
+| [`dani-garcia/vaultwarden`](https://github.com/dani-garcia/vaultwarden) | ⭐63.7k | 🔥 | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs |
+| [`umami-software/umami`](https://github.com/umami-software/umami) | ⭐37.7k | 🔥 | Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixp... |
+| [`searxng/searxng`](https://github.com/searxng/searxng) | ⭐33.9k | 🔥 | SearXNG is a free internet metasearch engine which aggregates results from various search services and data... |
+| [`pluja/awesome-privacy`](https://github.com/pluja/awesome-privacy) | ⭐19.1k | 🔥 | Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MAT... |
+| [`simplex-chat/simplex-chat`](https://github.com/simplex-chat/simplex-chat) | ⭐18.6k | 🔥 | SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by desi... |
+| [`arkenfox/user.js`](https://github.com/arkenfox/user.js) | ⭐12.7k | 🔥 | Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening |
+| [`mvt-project/mvt`](https://github.com/mvt-project/mvt) | ⭐12.7k | 🔥 | MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs ... |
+| [`OhMyGuus/I-Still-Dont-Care-About-Cookies`](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) | ⭐4.2k | 🔥 | Debloated fork of the extension "I don't care about cookies" |
+| [`mollyim/mollyim-android`](https://github.com/mollyim/mollyim-android) | ⭐3.6k | 🔥 | Enhanced and security-focused fork of Signal. |
+| [`Anon-Planet/thgtoa`](https://github.com/Anon-Planet/thgtoa) | ⭐768 | 🔥 | The comprehensive guide for online anonymity and OpSec. |
+| [`keeweb/keeweb`](https://github.com/keeweb/keeweb) | ⭐13.0k |  | Free cross-platform password manager compatible with KeePass |
+| [`victornpb/undiscord`](https://github.com/victornpb/undiscord) | ⭐6.6k |  | Undiscord - Delete all messages in a Discord server / channel or DM (Easy and fast) Bulk delete |
+| [`ClearURLs/Addon`](https://github.com/ClearURLs/Addon) | ⭐5.0k |  | ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking ele... |
+| [`peterhanania/Discord-Package`](https://github.com/peterhanania/Discord-Package) | ⭐552 |  | A detailed Discord data package explorer designed to help users visualize the data Discord collects. |
+| [`rztprog/outlook-web-plus`](https://github.com/rztprog/outlook-web-plus) | ⭐4 |  | Remove ads and improve Outlook's web mailbox |
+| [`Shawn-Shan/fawkes`](https://github.com/Shawn-Shan/fawkes) | ⭐5.6k | 💤 | Fawkes, privacy preserving tool against facial recognition systems. More info at https://sandlab.cs.uchicag... |
+| [`cathugger/mkp224o`](https://github.com/cathugger/mkp224o) | ⭐1.6k | 💤 | vanity address generator for tor onion v3 (ed25519) hidden services |
+| [`manekinekko/digital-covid-certificate-decoder`](https://github.com/manekinekko/digital-covid-certificate-decoder) | ⭐30 | 💤 | An attempt to decode the Digital Covid Certificate (signed by the french app TousAntiCovid) - For Education... |
+| [`jystervinou/free-mobile-filtres-demarchage`](https://github.com/jystervinou/free-mobile-filtres-demarchage) | ⭐8 | 💤 | Free Mobile Filtres Démarchage |
+| [`pixeltris/TwitchAdSolutions`](https://github.com/pixeltris/TwitchAdSolutions) | ⭐11.4k | 📦 | _(no description)_ |
+
+</details>
+
+<details>
 <summary><b>Monitoring</b> &nbsp;·&nbsp; 20 ⭐ &nbsp;·&nbsp; <i>Uptime checkers, observability stacks and homelab metrics dashboards.</i></summary>
 
 | Repo | Stars | Status | Description |
@@ -374,34 +403,6 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`geerlingguy/ansible-role-node_exporter`](https://github.com/geerlingguy/ansible-role-node_exporter) | ⭐143 |  | Ansible role - Node exporter |
 | [`heiniha/Nagios-Responsive-HTML-Email-Notifications`](https://github.com/heiniha/Nagios-Responsive-HTML-Email-Notifications) | ⭐17 |  | A notification plugin for Nagios to figure out if responsive or none-responsive HTML emails are to be sent ... |
 | [`phpservermon/phpservermon`](https://github.com/phpservermon/phpservermon) | ⭐2.2k | 💤 | PHP Server Monitor |
-
-</details>
-
-<details>
-<summary><b>Privacy</b> &nbsp;·&nbsp; 20 ⭐ &nbsp;·&nbsp; <i>Tracker blockers, password managers, anonymous messaging and tools to escape surveillance.</i></summary>
-
-| Repo | Stars | Status | Description |
-| --- | --- | --- | --- |
-| [`gorhill/uBlock`](https://github.com/gorhill/uBlock) | ⭐66.2k | 🔥 | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. |
-| [`dani-garcia/vaultwarden`](https://github.com/dani-garcia/vaultwarden) | ⭐63.7k | 🔥 | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs |
-| [`umami-software/umami`](https://github.com/umami-software/umami) | ⭐37.7k | 🔥 | Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixp... |
-| [`searxng/searxng`](https://github.com/searxng/searxng) | ⭐33.9k | 🔥 | SearXNG is a free internet metasearch engine which aggregates results from various search services and data... |
-| [`pluja/awesome-privacy`](https://github.com/pluja/awesome-privacy) | ⭐19.1k | 🔥 | Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MAT... |
-| [`simplex-chat/simplex-chat`](https://github.com/simplex-chat/simplex-chat) | ⭐18.6k | 🔥 | SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by desi... |
-| [`arkenfox/user.js`](https://github.com/arkenfox/user.js) | ⭐12.7k | 🔥 | Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening |
-| [`mvt-project/mvt`](https://github.com/mvt-project/mvt) | ⭐12.7k | 🔥 | MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs ... |
-| [`OhMyGuus/I-Still-Dont-Care-About-Cookies`](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) | ⭐4.2k | 🔥 | Debloated fork of the extension "I don't care about cookies" |
-| [`Anon-Planet/thgtoa`](https://github.com/Anon-Planet/thgtoa) | ⭐768 | 🔥 | The comprehensive guide for online anonymity and OpSec. |
-| [`keeweb/keeweb`](https://github.com/keeweb/keeweb) | ⭐13.0k |  | Free cross-platform password manager compatible with KeePass |
-| [`victornpb/undiscord`](https://github.com/victornpb/undiscord) | ⭐6.6k |  | Undiscord - Delete all messages in a Discord server / channel or DM (Easy and fast) Bulk delete |
-| [`ClearURLs/Addon`](https://github.com/ClearURLs/Addon) | ⭐5.0k |  | ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking ele... |
-| [`peterhanania/Discord-Package`](https://github.com/peterhanania/Discord-Package) | ⭐552 |  | A detailed Discord data package explorer designed to help users visualize the data Discord collects. |
-| [`rztprog/outlook-web-plus`](https://github.com/rztprog/outlook-web-plus) | ⭐4 |  | Remove ads and improve Outlook's web mailbox |
-| [`Shawn-Shan/fawkes`](https://github.com/Shawn-Shan/fawkes) | ⭐5.6k | 💤 | Fawkes, privacy preserving tool against facial recognition systems. More info at https://sandlab.cs.uchicag... |
-| [`cathugger/mkp224o`](https://github.com/cathugger/mkp224o) | ⭐1.6k | 💤 | vanity address generator for tor onion v3 (ed25519) hidden services |
-| [`manekinekko/digital-covid-certificate-decoder`](https://github.com/manekinekko/digital-covid-certificate-decoder) | ⭐30 | 💤 | An attempt to decode the Digital Covid Certificate (signed by the french app TousAntiCovid) - For Education... |
-| [`jystervinou/free-mobile-filtres-demarchage`](https://github.com/jystervinou/free-mobile-filtres-demarchage) | ⭐8 | 💤 | Free Mobile Filtres Démarchage |
-| [`pixeltris/TwitchAdSolutions`](https://github.com/pixeltris/TwitchAdSolutions) | ⭐11.4k | 📦 | _(no description)_ |
 
 </details>
 
