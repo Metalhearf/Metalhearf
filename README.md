@@ -669,7 +669,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
 | [`amruthpillai/reactive-resume`](https://github.com/amruthpillai/reactive-resume) | ⭐39.6k | 🔥 | A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, ... |
-| [`mauriceboe/TREK`](https://github.com/mauriceboe/TREK) | ⭐10.3k | 🔥 | A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets... |
+| [`liketrek/TREK`](https://github.com/liketrek/TREK) | ⭐10.4k | 🔥 | A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets... |
 | [`we-promise/sure`](https://github.com/we-promise/sure) | ⭐9.0k | 🔥 | The personal finance app for everyone (by everyone) |
 | [`CodeWithCJ/SparkyFitness`](https://github.com/CodeWithCJ/SparkyFitness) | ⭐4.8k | 🔥 | SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together. |
 | [`portfolio-performance/portfolio`](https://github.com/portfolio-performance/portfolio) | ⭐4.0k | 🔥 | Track and evaluate the performance of your investment portfolio across stocks, cryptocurrencies, and other ... |

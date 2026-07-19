@@ -2218,6 +2218,14 @@
     "status": "🔥",
     "url": "https://github.com/l4rm4nd/LinkedInDumper"
   },
+  "liketrek/TREK": {
+    "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
+    "isArchived": false,
+    "pushedAt": "2026-07-19T08:25:10Z",
+    "stargazerCount": 10412,
+    "status": "🔥",
+    "url": "https://github.com/liketrek/TREK"
+  },
   "linsomniac/spotify_to_ytmusic": {
     "description": "Copy playlists and liked music from Spotify to YTMusic",
     "isArchived": false,
