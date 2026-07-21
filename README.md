@@ -1,6 +1,6 @@
 # Metalhearf ([/metalɜːθ/](https://ipa-reader.com/?text=metal%C9%9C%CB%90%CE%B8&voice=Brian)) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" alt="wave gif">
 
-I’ve spent over a decade building, securing, and maintaining infrastructures, from small self-hosted setups to large-scale **AWS** environments. I love deploying and automating stuff, optimizing systems and keeping things **lean, private, and under control**.
+I’ve spent over a decade building, securing, and maintaining infrastructures, from small self-hosted setups to hyperscalers environments. I love deploying and automating stuff, optimizing systems and keeping things **lean, private and under control**.
 
 When I’m not breaking or fixing things, I’m usually exploring new tools, tweaking configs, or writing on my ✨ [**blog**](https://metalhearf.fr) ✨ about **Linux**, **self-hosting**, and **privacy**.
 
