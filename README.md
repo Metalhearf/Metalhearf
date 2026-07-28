@@ -27,7 +27,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 <!-- STARS:START -->
 ## ⭐ Curated Stars
 
-**488 repos** across **30 categories**. Click any section to expand.
+**490 repos** across **30 categories**. Click any section to expand.
 
 <details>
 <summary><b>Hacking</b> &nbsp;·&nbsp; 30 ⭐ &nbsp;·&nbsp; <i>Pentesting frameworks, WiFi/Bluetooth attack tools and offensive security utilities.</i></summary>
@@ -407,6 +407,61 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 </details>
 
 <details>
+<summary><b>Files</b> &nbsp;·&nbsp; 20 ⭐ &nbsp;·&nbsp; <i>File servers, file managers, sharing platforms and backup tooling.</i></summary>
+
+| Repo | Stars | Status | Description |
+| --- | --- | --- | --- |
+| [`9001/copyparty`](https://github.com/9001/copyparty) | ⭐45.7k | 🔥 | Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media in... |
+| [`restic/restic`](https://github.com/restic/restic) | ⭐35.0k | 🔥 | Fast, secure, efficient backup program |
+| [`mickael-kerjean/filestash`](https://github.com/mickael-kerjean/filestash) | ⭐14.4k | 🔥 | :file_folder: Universal File Storage Client |
+| [`databasus/databasus`](https://github.com/databasus/databasus) | ⭐7.7k | 🔥 | PostgreSQL backup tool with Point-In-Time-Recovery and restore verification |
+| [`gtsteffaniak/filebrowser`](https://github.com/gtsteffaniak/filebrowser) | ⭐7.5k | 🔥 | 📂 Web File Browser |
+| [`nicotsx/zerobyte`](https://github.com/nicotsx/zerobyte) | ⭐6.7k | 🔥 | Backup automation for self-hosters. Built on top of restic |
+| [`autobrr/qui`](https://github.com/autobrr/qui) | ⭐4.2k | 🔥 | A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-... |
+| [`mtlynch/picoshare`](https://github.com/mtlynch/picoshare) | ⭐3.0k | 🔥 | A minimalist, easy-to-host service for sharing images and other files |
+| [`ttionya/vaultwarden-backup`](https://github.com/ttionya/vaultwarden-backup) | ⭐1.8k | 🔥 | Backup vaultwarden (formerly known as bitwarden_rs) SQLite3/PostgreSQL/MySQL/MariaDB database by rclone. (D... |
+| [`ServerContainers/samba`](https://github.com/ServerContainers/samba) | ⭐664 | 🔥 | samba - (ghcr.io/servercontainers/samba) (+ optional zeroconf, wsdd2 & time machine) on alpine [x86 + arm] |
+| [`spacedriveapp/spacedrive`](https://github.com/spacedriveapp/spacedrive) | ⭐38.6k |  | Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem writ... |
+| [`arsenetar/dupeguru`](https://github.com/arsenetar/dupeguru) | ⭐7.7k |  | Find duplicate files |
+| [`trapexit/mergerfs`](https://github.com/trapexit/mergerfs) | ⭐5.7k |  | a featureful union filesystem |
+| [`szabodanika/microbin`](https://github.com/szabodanika/microbin) | ⭐4.5k |  | A secure, configurable file-sharing and URL shortening web app written in Rust. |
+| [`hurlenko/filebrowser-docker`](https://github.com/hurlenko/filebrowser-docker) | ⭐443 |  | 🐳 filebrowser inside Docker container |
+| [`andreimarcu/linx-server`](https://github.com/andreimarcu/linx-server) | ⭐1.6k | 💤 | Self-hosted file/code/media sharing website. |
+| [`rclone/rclone-webui-react`](https://github.com/rclone/rclone-webui-react) | ⭐1.6k | 💤 | A full fledged UI for the rclone cloud sync tool |
+| [`stonith404/pingvin-share`](https://github.com/stonith404/pingvin-share) | ⭐4.7k | 📦 | A self-hosted file sharing platform that combines lightness and beauty, perfect for seamless and efficient ... |
+| [`mgilangjanuar/teledrive`](https://github.com/mgilangjanuar/teledrive) | ⭐2.0k | 📦 | The Google Drive/OneDrive/etc alternative using Telegram API |
+| [`syncany/syncany`](https://github.com/syncany/syncany) | ⭐1.6k | 📦 | Syncany is a cloud storage and filesharing application with a focus on security and abstraction of storage. |
+
+</details>
+
+<details>
+<summary><b>AI</b> &nbsp;·&nbsp; 19 ⭐ &nbsp;·&nbsp; <i>Local LLMs, AI coding agents, TTS engines and AI-augmented productivity tools.</i></summary>
+
+| Repo | Stars | Status | Description |
+| --- | --- | --- | --- |
+| [`openclaw/openclaw`](https://github.com/openclaw/openclaw) | ⭐383.0k | 🔥 | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 |
+| [`anomalyco/opencode`](https://github.com/anomalyco/opencode) | ⭐185.9k | 🔥 | The open source coding agent. |
+| [`ollama/ollama`](https://github.com/ollama/ollama) | ⭐176.1k | 🔥 | Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. |
+| [`open-webui/open-webui`](https://github.com/open-webui/open-webui) | ⭐145.5k | 🔥 | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) |
+| [`punkpeye/awesome-mcp-servers`](https://github.com/punkpeye/awesome-mcp-servers) | ⭐90.8k | 🔥 | A collection of MCP servers. |
+| [`santifer/career-ops`](https://github.com/santifer/career-ops) | ⭐60.2k | 🔥 | Open-source AI job search: scan job portals, score listings A-F, tailor your CV, track applications — runs ... |
+| [`jamiepine/voicebox`](https://github.com/jamiepine/voicebox) | ⭐41.4k | 🔥 | The open-source AI voice studio. Clone, dictate, create. |
+| [`OpenBMB/VoxCPM`](https://github.com/OpenBMB/VoxCPM) | ⭐33.4k | 🔥 | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Clo... |
+| [`yamadashy/repomix`](https://github.com/yamadashy/repomix) | ⭐27.1k | 🔥 | 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for... |
+| [`elie222/inbox-zero`](https://github.com/elie222/inbox-zero) | ⭐11.6k | 🔥 | The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast. |
+| [`romainsimon/paperasse`](https://github.com/romainsimon/paperasse) | ⭐2.2k | 🔥 | 🇫🇷  Skills pour agents IA spécialisés dans la bureaucratie française : Comptable, Notaire, ... |
+| [`kunchenguid/axi`](https://github.com/kunchenguid/axi) | ⭐1.7k | 🔥 | Design principles for agent ergonomics. Higher accuracy with lower token cost than both MCP and regular CLI. |
+| [`multica-ai/andrej-karpathy-skills`](https://github.com/multica-ai/andrej-karpathy-skills) | ⭐192.4k |  | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM... |
+| [`blader/humanizer`](https://github.com/blader/humanizer) | ⭐29.2k |  | Claude Code skill that removes signs of AI-generated writing from text |
+| [`srbhr/Resume-Matcher`](https://github.com/srbhr/Resume-Matcher) | ⭐27.8k |  | The #1 AI Harness for Building Resumes, PDFs, Cover Letters & more, locally with 100+ LLMs support. |
+| [`torvalds/AudioNoise`](https://github.com/torvalds/AudioNoise) | ⭐4.4k |  | Random digital audio effects |
+| [`yoanbernabeu/NanoThumbnail`](https://github.com/yoanbernabeu/NanoThumbnail) | ⭐44 |  | Generate Viral Thumbnails with AI |
+| [`Zyphra/Zonos`](https://github.com/Zyphra/Zonos) | ⭐7.2k | 💤 | Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilin... |
+| [`TheEvilSkeleton/Upscaler`](https://github.com/TheEvilSkeleton/Upscaler) | ⭐42 | 💤 | Upscale and enhance images |
+
+</details>
+
+<details>
 <summary><b>Android</b> &nbsp;·&nbsp; 19 ⭐ &nbsp;·&nbsp; <i>Debloaters, ReVanced/Magisk patches, FOSS apps and rooting utilities for Android.</i></summary>
 
 | Repo | Stars | Status | Description |
@@ -430,59 +485,6 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`BaltiApps/Pixelify-Google-Photos`](https://github.com/BaltiApps/Pixelify-Google-Photos) | ⭐1.6k | 💤 | Pixelify GPhotos |
 | [`ayush5harma/PixelFeatureDrops`](https://github.com/ayush5harma/PixelFeatureDrops) | ⭐352 | 💤 | Magisk Module for Pixel Feature Drops that adds the system files for the same and spoof using the latest de... |
 | [`Team-xManager/xManager`](https://github.com/Team-xManager/xManager) | ⭐12.2k | 📦 | Ad-Free, New Features & Freedom |
-
-</details>
-
-<details>
-<summary><b>Files</b> &nbsp;·&nbsp; 19 ⭐ &nbsp;·&nbsp; <i>File servers, file managers, sharing platforms and backup tooling.</i></summary>
-
-| Repo | Stars | Status | Description |
-| --- | --- | --- | --- |
-| [`9001/copyparty`](https://github.com/9001/copyparty) | ⭐45.7k | 🔥 | Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media in... |
-| [`restic/restic`](https://github.com/restic/restic) | ⭐35.0k | 🔥 | Fast, secure, efficient backup program |
-| [`mickael-kerjean/filestash`](https://github.com/mickael-kerjean/filestash) | ⭐14.4k | 🔥 | :file_folder: Universal File Storage Client |
-| [`databasus/databasus`](https://github.com/databasus/databasus) | ⭐7.7k | 🔥 | PostgreSQL backup tool with Point-In-Time-Recovery and restore verification |
-| [`nicotsx/zerobyte`](https://github.com/nicotsx/zerobyte) | ⭐6.7k | 🔥 | Backup automation for self-hosters. Built on top of restic |
-| [`autobrr/qui`](https://github.com/autobrr/qui) | ⭐4.2k | 🔥 | A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-... |
-| [`mtlynch/picoshare`](https://github.com/mtlynch/picoshare) | ⭐3.0k | 🔥 | A minimalist, easy-to-host service for sharing images and other files |
-| [`ttionya/vaultwarden-backup`](https://github.com/ttionya/vaultwarden-backup) | ⭐1.8k | 🔥 | Backup vaultwarden (formerly known as bitwarden_rs) SQLite3/PostgreSQL/MySQL/MariaDB database by rclone. (D... |
-| [`ServerContainers/samba`](https://github.com/ServerContainers/samba) | ⭐664 | 🔥 | samba - (ghcr.io/servercontainers/samba) (+ optional zeroconf, wsdd2 & time machine) on alpine [x86 + arm] |
-| [`spacedriveapp/spacedrive`](https://github.com/spacedriveapp/spacedrive) | ⭐38.6k |  | Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem writ... |
-| [`arsenetar/dupeguru`](https://github.com/arsenetar/dupeguru) | ⭐7.7k |  | Find duplicate files |
-| [`trapexit/mergerfs`](https://github.com/trapexit/mergerfs) | ⭐5.7k |  | a featureful union filesystem |
-| [`szabodanika/microbin`](https://github.com/szabodanika/microbin) | ⭐4.5k |  | A secure, configurable file-sharing and URL shortening web app written in Rust. |
-| [`hurlenko/filebrowser-docker`](https://github.com/hurlenko/filebrowser-docker) | ⭐443 |  | 🐳 filebrowser inside Docker container |
-| [`andreimarcu/linx-server`](https://github.com/andreimarcu/linx-server) | ⭐1.6k | 💤 | Self-hosted file/code/media sharing website. |
-| [`rclone/rclone-webui-react`](https://github.com/rclone/rclone-webui-react) | ⭐1.6k | 💤 | A full fledged UI for the rclone cloud sync tool |
-| [`stonith404/pingvin-share`](https://github.com/stonith404/pingvin-share) | ⭐4.7k | 📦 | A self-hosted file sharing platform that combines lightness and beauty, perfect for seamless and efficient ... |
-| [`mgilangjanuar/teledrive`](https://github.com/mgilangjanuar/teledrive) | ⭐2.0k | 📦 | The Google Drive/OneDrive/etc alternative using Telegram API |
-| [`syncany/syncany`](https://github.com/syncany/syncany) | ⭐1.6k | 📦 | Syncany is a cloud storage and filesharing application with a focus on security and abstraction of storage. |
-
-</details>
-
-<details>
-<summary><b>AI</b> &nbsp;·&nbsp; 18 ⭐ &nbsp;·&nbsp; <i>Local LLMs, AI coding agents, TTS engines and AI-augmented productivity tools.</i></summary>
-
-| Repo | Stars | Status | Description |
-| --- | --- | --- | --- |
-| [`openclaw/openclaw`](https://github.com/openclaw/openclaw) | ⭐383.0k | 🔥 | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 |
-| [`anomalyco/opencode`](https://github.com/anomalyco/opencode) | ⭐185.9k | 🔥 | The open source coding agent. |
-| [`ollama/ollama`](https://github.com/ollama/ollama) | ⭐176.1k | 🔥 | Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. |
-| [`open-webui/open-webui`](https://github.com/open-webui/open-webui) | ⭐145.5k | 🔥 | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) |
-| [`punkpeye/awesome-mcp-servers`](https://github.com/punkpeye/awesome-mcp-servers) | ⭐90.8k | 🔥 | A collection of MCP servers. |
-| [`santifer/career-ops`](https://github.com/santifer/career-ops) | ⭐60.2k | 🔥 | Open-source AI job search: scan job portals, score listings A-F, tailor your CV, track applications — runs ... |
-| [`jamiepine/voicebox`](https://github.com/jamiepine/voicebox) | ⭐41.4k | 🔥 | The open-source AI voice studio. Clone, dictate, create. |
-| [`OpenBMB/VoxCPM`](https://github.com/OpenBMB/VoxCPM) | ⭐33.4k | 🔥 | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Clo... |
-| [`yamadashy/repomix`](https://github.com/yamadashy/repomix) | ⭐27.1k | 🔥 | 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for... |
-| [`elie222/inbox-zero`](https://github.com/elie222/inbox-zero) | ⭐11.6k | 🔥 | The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast. |
-| [`romainsimon/paperasse`](https://github.com/romainsimon/paperasse) | ⭐2.2k | 🔥 | 🇫🇷  Skills pour agents IA spécialisés dans la bureaucratie française : Comptable, Notaire, ... |
-| [`multica-ai/andrej-karpathy-skills`](https://github.com/multica-ai/andrej-karpathy-skills) | ⭐192.4k |  | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM... |
-| [`blader/humanizer`](https://github.com/blader/humanizer) | ⭐29.2k |  | Claude Code skill that removes signs of AI-generated writing from text |
-| [`srbhr/Resume-Matcher`](https://github.com/srbhr/Resume-Matcher) | ⭐27.8k |  | The #1 AI Harness for Building Resumes, PDFs, Cover Letters & more, locally with 100+ LLMs support. |
-| [`torvalds/AudioNoise`](https://github.com/torvalds/AudioNoise) | ⭐4.4k |  | Random digital audio effects |
-| [`yoanbernabeu/NanoThumbnail`](https://github.com/yoanbernabeu/NanoThumbnail) | ⭐44 |  | Generate Viral Thumbnails with AI |
-| [`Zyphra/Zonos`](https://github.com/Zyphra/Zonos) | ⭐7.2k | 💤 | Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilin... |
-| [`TheEvilSkeleton/Upscaler`](https://github.com/TheEvilSkeleton/Upscaler) | ⭐42 | 💤 | Upscale and enhance images |
 
 </details>
 

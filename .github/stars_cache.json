@@ -1794,6 +1794,14 @@
     "status": "🔥",
     "url": "https://github.com/gramps-project/gramps-web"
   },
+  "gtsteffaniak/filebrowser": {
+    "description": "📂 Web File Browser",
+    "isArchived": false,
+    "pushedAt": "2026-07-24T20:44:35Z",
+    "stargazerCount": 7533,
+    "status": "🔥",
+    "url": "https://github.com/gtsteffaniak/filebrowser"
+  },
   "gurucomputing/headscale-ui": {
     "description": "A web frontend for the headscale Tailscale-compatible coordination server",
     "isArchived": false,
@@ -2201,6 +2209,14 @@
     "stargazerCount": 39716,
     "status": "",
     "url": "https://github.com/koalaman/shellcheck"
+  },
+  "kunchenguid/axi": {
+    "description": "Design principles for agent ergonomics. Higher accuracy with lower token cost than both MCP and regular CLI.",
+    "isArchived": false,
+    "pushedAt": "2026-07-23T07:00:47Z",
+    "stargazerCount": 1660,
+    "status": "🔥",
+    "url": "https://github.com/kunchenguid/axi"
   },
   "kwsch/NHSE": {
     "description": "Animal Crossing: New Horizons save editor",
