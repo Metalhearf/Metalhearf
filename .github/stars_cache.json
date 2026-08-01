@@ -3,7 +3,7 @@
     "description": "Simple OSINT script to find Instagram profiles by name and e-mail/phone ",
     "isArchived": false,
     "pushedAt": "2024-08-17T18:35:46Z",
-    "stargazerCount": 2872,
+    "stargazerCount": 2963,
     "status": "💤",
     "url": "https://github.com/0x0be/yesitsme"
   },
@@ -11,7 +11,7 @@
     "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.",
     "isArchived": false,
     "pushedAt": "2024-08-02T16:16:12Z",
-    "stargazerCount": 19620,
+    "stargazerCount": 19697,
     "status": "💤",
     "url": "https://github.com/0x192/universal-android-debloater"
   },
@@ -19,15 +19,15 @@
     "description": "A repository containing many free shaders to use with ghostty (the terminal)",
     "isArchived": false,
     "pushedAt": "2026-07-13T07:26:54Z",
-    "stargazerCount": 1436,
-    "status": "🔥",
+    "stargazerCount": 1458,
+    "status": "",
     "url": "https://github.com/0xhckr/ghostty-shaders"
   },
   "0xk1h0/ChatGPT_DAN": {
     "description": "ChatGPT DAN, Jailbreaks prompt",
     "isArchived": false,
     "pushedAt": "2026-03-02T17:44:09Z",
-    "stargazerCount": 12207,
+    "stargazerCount": 12248,
     "status": "",
     "url": "https://github.com/0xk1h0/ChatGPT_DAN"
   },
@@ -42,8 +42,8 @@
   "9001/copyparty": {
     "description": "Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file",
     "isArchived": false,
-    "pushedAt": "2026-07-12T18:47:22Z",
-    "stargazerCount": 45675,
+    "pushedAt": "2026-07-30T18:39:31Z",
+    "stargazerCount": 46017,
     "status": "🔥",
     "url": "https://github.com/9001/copyparty"
   },
@@ -51,7 +51,7 @@
     "description": "App to AntiSplit (merge) split APKs (APKS/XAPK/APKM) to regular .APK file on Android",
     "isArchived": false,
     "pushedAt": "2026-06-16T03:26:45Z",
-    "stargazerCount": 4583,
+    "stargazerCount": 4649,
     "status": "",
     "url": "https://github.com/AbdurazaaqMohammed/AntiSplit-M"
   },
@@ -59,23 +59,23 @@
     "description": "Ultimate camera streaming application",
     "isArchived": false,
     "pushedAt": "2026-07-13T10:54:06Z",
-    "stargazerCount": 13459,
-    "status": "🔥",
+    "stargazerCount": 13593,
+    "status": "",
     "url": "https://github.com/AlexxIT/go2rtc"
   },
   "AlynxZhou/gnome-shell-extension-inotch": {
     "description": "Add a useless notch to your screen.",
     "isArchived": false,
     "pushedAt": "2024-03-21T09:37:39Z",
-    "stargazerCount": 926,
+    "stargazerCount": 925,
     "status": "💤",
     "url": "https://github.com/AlynxZhou/gnome-shell-extension-inotch"
   },
   "AnalogJ/scrutiny": {
     "description": "Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds",
     "isArchived": false,
-    "pushedAt": "2026-07-13T02:34:28Z",
-    "stargazerCount": 7979,
+    "pushedAt": "2026-07-27T17:46:58Z",
+    "stargazerCount": 8044,
     "status": "🔥",
     "url": "https://github.com/AnalogJ/scrutiny"
   },
@@ -83,15 +83,15 @@
     "description": "The comprehensive guide for online anonymity and OpSec.",
     "isArchived": false,
     "pushedAt": "2026-07-13T02:34:09Z",
-    "stargazerCount": 768,
-    "status": "🔥",
+    "stargazerCount": 787,
+    "status": "",
     "url": "https://github.com/Anon-Planet/thgtoa"
   },
   "Arcticons-Team/Arcticons": {
     "description": "A monotone line-based icon pack for android",
     "isArchived": false,
-    "pushedAt": "2026-07-12T09:51:19Z",
-    "stargazerCount": 1502,
+    "pushedAt": "2026-07-29T08:07:40Z",
+    "stargazerCount": 1519,
     "status": "🔥",
     "url": "https://github.com/Arcticons-Team/Arcticons"
   },
@@ -115,15 +115,15 @@
     "description": "An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session.",
     "isArchived": false,
     "pushedAt": "2026-07-14T16:01:02Z",
-    "stargazerCount": 6026,
-    "status": "🔥",
+    "stargazerCount": 6063,
+    "status": "",
     "url": "https://github.com/AzeemIdrisi/PhoneSploit-Pro"
   },
   "BCUninstaller/Bulk-Crap-Uninstaller": {
     "description": "Remove large amounts of unwanted applications quickly.",
     "isArchived": false,
     "pushedAt": "2026-06-18T13:42:02Z",
-    "stargazerCount": 20229,
+    "stargazerCount": 20485,
     "status": "",
     "url": "https://github.com/BCUninstaller/Bulk-Crap-Uninstaller"
   },
@@ -131,7 +131,7 @@
     "description": "Pixelify GPhotos",
     "isArchived": false,
     "pushedAt": "2024-11-19T13:42:29Z",
-    "stargazerCount": 1618,
+    "stargazerCount": 1629,
     "status": "💤",
     "url": "https://github.com/BaltiApps/Pixelify-Google-Photos"
   },
@@ -139,24 +139,24 @@
     "description": "Print-friendly, minimalist CV page",
     "isArchived": false,
     "pushedAt": "2026-03-03T22:25:51Z",
-    "stargazerCount": 9674,
+    "stargazerCount": 9673,
     "status": "",
     "url": "https://github.com/BartoszJarocki/cv"
   },
   "BlueMap-Minecraft/BlueMap": {
     "description": "A Minecraft mapping tool that creates 3D models of your Minecraft worlds and displays them in a web viewer.",
     "isArchived": false,
-    "pushedAt": "2026-07-09T21:34:38Z",
-    "stargazerCount": 2754,
+    "pushedAt": "2026-07-29T11:04:05Z",
+    "stargazerCount": 2772,
     "status": "🔥",
     "url": "https://github.com/BlueMap-Minecraft/BlueMap"
   },
   "BohemiaInteractive/DayZ-Central-Economy": {
     "description": "DayZ Central Economy configuration",
     "isArchived": false,
-    "pushedAt": "2026-06-01T11:05:31Z",
-    "stargazerCount": 387,
-    "status": "",
+    "pushedAt": "2026-07-28T07:44:36Z",
+    "stargazerCount": 396,
+    "status": "🔥",
     "url": "https://github.com/BohemiaInteractive/DayZ-Central-Economy"
   },
   "C-Duv/freemobile-smsapi-client": {
@@ -170,16 +170,16 @@
   "CISOfy/lynis": {
     "description": "Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.",
     "isArchived": false,
-    "pushedAt": "2026-06-25T08:55:17Z",
-    "stargazerCount": 15999,
-    "status": "",
+    "pushedAt": "2026-07-31T10:44:25Z",
+    "stargazerCount": 16088,
+    "status": "🔥",
     "url": "https://github.com/CISOfy/lynis"
   },
   "CTalvio/Ultrachromic": {
     "description": "The final form, the true evolution of the chromic theme saga!",
     "isArchived": false,
     "pushedAt": "2026-06-17T02:21:13Z",
-    "stargazerCount": 974,
+    "stargazerCount": 979,
     "status": "",
     "url": "https://github.com/CTalvio/Ultrachromic"
   },
@@ -187,7 +187,7 @@
     "description": "Terminal Network scanner & diagnostic tool with modern TUI",
     "isArchived": false,
     "pushedAt": "2026-07-06T16:38:09Z",
-    "stargazerCount": 1793,
+    "stargazerCount": 1802,
     "status": "",
     "url": "https://github.com/Chleba/netscanner"
   },
@@ -195,7 +195,7 @@
     "description": "FM-RDS transmitter using the Raspberry Pi's PWM",
     "isArchived": false,
     "pushedAt": "2026-02-01T10:52:49Z",
-    "stargazerCount": 1579,
+    "stargazerCount": 1581,
     "status": "",
     "url": "https://github.com/ChristopheJacquet/PiFmRds"
   },
@@ -203,15 +203,15 @@
     "description": "ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.",
     "isArchived": false,
     "pushedAt": "2025-07-27T12:54:30Z",
-    "stargazerCount": 4960,
-    "status": "",
+    "stargazerCount": 4981,
+    "status": "💤",
     "url": "https://github.com/ClearURLs/Addon"
   },
   "CodeWithCJ/SparkyFitness": {
     "description": "SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.",
     "isArchived": false,
-    "pushedAt": "2026-07-15T02:18:08Z",
-    "stargazerCount": 4825,
+    "pushedAt": "2026-08-01T00:55:35Z",
+    "stargazerCount": 5061,
     "status": "🔥",
     "url": "https://github.com/CodeWithCJ/SparkyFitness"
   },
@@ -226,8 +226,8 @@
   "CookiePLMonster/SilentPatch": {
     "description": "SilentPatch for GTA III, Vice City, and San Andreas",
     "isArchived": false,
-    "pushedAt": "2026-07-11T20:53:34Z",
-    "stargazerCount": 996,
+    "pushedAt": "2026-07-31T20:47:59Z",
+    "stargazerCount": 1025,
     "status": "🔥",
     "url": "https://github.com/CookiePLMonster/SilentPatch"
   },
@@ -235,7 +235,7 @@
     "description": "Jellystat is a free and open source Statistics App for Jellyfin",
     "isArchived": false,
     "pushedAt": "2026-06-23T06:25:26Z",
-    "stargazerCount": 2395,
+    "stargazerCount": 2425,
     "status": "",
     "url": "https://github.com/CyferShepard/Jellystat"
   },
@@ -243,7 +243,7 @@
     "description": "The Nintendo 64 Emulator itself",
     "isArchived": false,
     "pushedAt": "2026-02-16T02:54:16Z",
-    "stargazerCount": 677,
+    "stargazerCount": 679,
     "status": "",
     "url": "https://github.com/DaedalusX64/daedalus"
   },
@@ -251,7 +251,7 @@
     "description": "Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname",
     "isArchived": false,
     "pushedAt": "2025-08-25T12:00:48Z",
-    "stargazerCount": 13533,
+    "stargazerCount": 13783,
     "status": "",
     "url": "https://github.com/Datalux/Osintgram"
   },
@@ -266,32 +266,32 @@
   "Devolutions/UniGetUI": {
     "description": "UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers",
     "isArchived": false,
-    "pushedAt": "2026-07-14T22:07:29Z",
-    "stargazerCount": 25039,
+    "pushedAt": "2026-07-31T19:51:00Z",
+    "stargazerCount": 25315,
     "status": "🔥",
     "url": "https://github.com/Devolutions/UniGetUI"
   },
   "Dokploy/dokploy": {
     "description": "Open Source Alternative to Vercel, Netlify and Heroku.",
     "isArchived": false,
-    "pushedAt": "2026-07-15T05:44:01Z",
-    "stargazerCount": 35653,
+    "pushedAt": "2026-07-31T21:15:12Z",
+    "stargazerCount": 36240,
     "status": "🔥",
     "url": "https://github.com/Dokploy/dokploy"
   },
   "EDCD/EDMarketConnector": {
     "description": "Downloads commodity market and other station data from the game Elite: Dangerous for use with all popular online and offline trading tools.",
     "isArchived": false,
-    "pushedAt": "2026-07-11T01:33:11Z",
-    "stargazerCount": 1238,
+    "pushedAt": "2026-07-26T15:48:33Z",
+    "stargazerCount": 1245,
     "status": "🔥",
     "url": "https://github.com/EDCD/EDMarketConnector"
   },
   "EliverLara/Nordic": {
     "description": ":snowflake: Dark Gtk3.20+ theme created using the awesome Nord color pallete.",
     "isArchived": false,
-    "pushedAt": "2026-05-04T22:55:46Z",
-    "stargazerCount": 2705,
+    "pushedAt": "2026-07-23T19:51:22Z",
+    "stargazerCount": 2712,
     "status": "",
     "url": "https://github.com/EliverLara/Nordic"
   },
@@ -299,7 +299,7 @@
     "description": "A beautiful theme with neon vibes for GNOME",
     "isArchived": false,
     "pushedAt": "2026-05-07T00:55:42Z",
-    "stargazerCount": 1696,
+    "stargazerCount": 1701,
     "status": "",
     "url": "https://github.com/EliverLara/Sweet"
   },
@@ -307,7 +307,7 @@
     "description": "",
     "isArchived": false,
     "pushedAt": "2025-02-15T03:26:03Z",
-    "stargazerCount": 246,
+    "stargazerCount": 248,
     "status": "💤",
     "url": "https://github.com/EliverLara/Sweet-folders"
   },
@@ -315,7 +315,7 @@
     "description": "The ESP32-BlueJammer (Bluetooth jammer, BLE jammer, WiFi jammer, RC jammer) disrupts 2.4GHz communications. Using an ESP32 and nRF24 modules, it generates noise and unnecessary packets, causing interference between the devices communicating, making them unable to work as intended. Ideal for controlled disruption and security testing. ",
     "isArchived": false,
     "pushedAt": "2026-03-29T00:34:40Z",
-    "stargazerCount": 6897,
+    "stargazerCount": 7074,
     "status": "",
     "url": "https://github.com/EmenstaNougat/ESP32-BlueJammer"
   },
@@ -323,39 +323,39 @@
     "description": "USBHelperLauncher restores and enhances Wii U USB Helper functionality by patching it at runtime and intercepting its network requests.",
     "isArchived": false,
     "pushedAt": "2023-03-27T01:13:51Z",
-    "stargazerCount": 506,
+    "stargazerCount": 507,
     "status": "💤",
     "url": "https://github.com/FailedShack/USBHelperLauncher"
   },
   "Freika/dawarich": {
     "description": "Your favorite self-hostable alternative to Google Timeline (Google Location History)",
     "isArchived": false,
-    "pushedAt": "2026-07-14T23:04:07Z",
-    "stargazerCount": 9724,
+    "pushedAt": "2026-07-31T20:34:42Z",
+    "stargazerCount": 9950,
     "status": "🔥",
     "url": "https://github.com/Freika/dawarich"
   },
   "GameServerManagers/LinuxGSM": {
     "description": "The command-line tool for quick, simple deployment and management of Linux dedicated game servers.",
     "isArchived": false,
-    "pushedAt": "2026-06-22T03:12:22Z",
-    "stargazerCount": 4854,
-    "status": "",
+    "pushedAt": "2026-07-27T03:12:42Z",
+    "stargazerCount": 4875,
+    "status": "🔥",
     "url": "https://github.com/GameServerManagers/LinuxGSM"
   },
   "Genymobile/scrcpy": {
     "description": "Display and control your Android device",
     "isArchived": false,
     "pushedAt": "2026-07-12T18:16:07Z",
-    "stargazerCount": 145748,
-    "status": "🔥",
+    "stargazerCount": 146774,
+    "status": "",
     "url": "https://github.com/Genymobile/scrcpy"
   },
   "Grokitach/Stalker_GAMMA": {
     "description": "S.T.A.L.K.E.R. G.A.M.M.A. modpack for Anomaly",
     "isArchived": false,
     "pushedAt": "2026-05-30T16:43:27Z",
-    "stargazerCount": 1221,
+    "stargazerCount": 1243,
     "status": "",
     "url": "https://github.com/Grokitach/Stalker_GAMMA"
   },
@@ -363,7 +363,7 @@
     "description": "User script to download videos from the ARTE+7 website",
     "isArchived": false,
     "pushedAt": "2021-10-27T21:02:26Z",
-    "stargazerCount": 260,
+    "stargazerCount": 261,
     "status": "💤",
     "url": "https://github.com/GuGuss/ARTE-7-Downloader"
   },
@@ -371,15 +371,15 @@
     "description": "Freebox OS Ultra Dashboard est une interface web moderne (React 19 + Express 5) pour piloter une Freebox : suivi temps réel du débit, statut de connexion, appareils connectés, Wi-Fi, VPN, téléchargements, fichiers, téléphonie, TV, machines virtuelles, contrôle parental et statistiques réseau avancées, le tout dans un dashboard unique.",
     "isArchived": false,
     "pushedAt": "2026-07-01T21:36:36Z",
-    "stargazerCount": 394,
+    "stargazerCount": 398,
     "status": "",
     "url": "https://github.com/HGHugo/FreeboxOS-Ultra-Dashboard"
   },
   "Harry-kp/vortix": {
     "description": "Terminal UI for WireGuard and OpenVPN with real-time telemetry and leak guarding.",
     "isArchived": false,
-    "pushedAt": "2026-07-13T06:24:57Z",
-    "stargazerCount": 574,
+    "pushedAt": "2026-07-31T19:26:17Z",
+    "stargazerCount": 582,
     "status": "🔥",
     "url": "https://github.com/Harry-kp/vortix"
   },
@@ -387,31 +387,31 @@
     "description": "An easier way to update the firmware of your Raspberry Pi",
     "isArchived": false,
     "pushedAt": "2023-02-06T18:47:05Z",
-    "stargazerCount": 1939,
+    "stargazerCount": 1938,
     "status": "💤",
     "url": "https://github.com/Hexxeh/rpi-update"
   },
   "HiddenRamblings/TagMo": {
     "description": "",
     "isArchived": false,
-    "pushedAt": "2026-07-12T09:55:54Z",
-    "stargazerCount": 3205,
+    "pushedAt": "2026-07-31T07:53:01Z",
+    "stargazerCount": 3208,
     "status": "🔥",
     "url": "https://github.com/HiddenRamblings/TagMo"
   },
   "HyDE-Project/HyDE": {
     "description": "HyDE, your Development Environment 🖥️💻",
     "isArchived": false,
-    "pushedAt": "2026-06-20T02:50:34Z",
-    "stargazerCount": 9360,
-    "status": "",
+    "pushedAt": "2026-08-01T05:56:33Z",
+    "stargazerCount": 9434,
+    "status": "🔥",
     "url": "https://github.com/HyDE-Project/HyDE"
   },
   "IonicaBizau/image-to-ascii": {
     "description": ":floppy_disk: A Node.js module that converts images to ASCII art.",
     "isArchived": false,
     "pushedAt": "2025-10-14T08:10:59Z",
-    "stargazerCount": 1662,
+    "stargazerCount": 1663,
     "status": "",
     "url": "https://github.com/IonicaBizau/image-to-ascii"
   },
@@ -419,7 +419,7 @@
     "description": "Remove duplicates from your Spotify Playlists",
     "isArchived": false,
     "pushedAt": "2026-06-12T15:42:51Z",
-    "stargazerCount": 1129,
+    "stargazerCount": 1137,
     "status": "",
     "url": "https://github.com/JMPerez/spotify-dedup"
   },
@@ -427,23 +427,23 @@
     "description": "Snaz",
     "isArchived": false,
     "pushedAt": "2026-02-14T15:17:23Z",
-    "stargazerCount": 301,
+    "stargazerCount": 302,
     "status": "",
     "url": "https://github.com/JimmyAppelt/snaz"
   },
   "JustArchiNET/ArchiSteamFarm": {
     "description": "C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.",
     "isArchived": false,
-    "pushedAt": "2026-07-15T05:15:03Z",
-    "stargazerCount": 13526,
+    "pushedAt": "2026-08-01T02:51:32Z",
+    "stargazerCount": 13585,
     "status": "🔥",
     "url": "https://github.com/JustArchiNET/ArchiSteamFarm"
   },
   "KRTirtho/spotube": {
     "description": "🎧 Open source music streaming app! Available for both desktop & mobile!",
     "isArchived": false,
-    "pushedAt": "2026-07-10T14:13:42Z",
-    "stargazerCount": 47565,
+    "pushedAt": "2026-07-30T16:53:36Z",
+    "stargazerCount": 48052,
     "status": "🔥",
     "url": "https://github.com/KRTirtho/spotube"
   },
@@ -456,19 +456,19 @@
     "url": "https://github.com/Kalejin/DCSB"
   },
   "KeygraphHQ/shannon": {
-    "description": "Shannon is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
+    "description": "Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
     "isArchived": false,
-    "pushedAt": "2026-07-04T15:55:55Z",
-    "stargazerCount": 45704,
-    "status": "",
+    "pushedAt": "2026-07-31T00:46:55Z",
+    "stargazerCount": 46325,
+    "status": "🔥",
     "url": "https://github.com/KeygraphHQ/shannon"
   },
   "Keyitdev/sddm-astronaut-theme": {
     "description": "Series of modern looking themes for SDDM.",
     "isArchived": false,
-    "pushedAt": "2026-07-14T13:33:00Z",
-    "stargazerCount": 3047,
-    "status": "🔥",
+    "pushedAt": "2026-07-16T21:54:05Z",
+    "stargazerCount": 3107,
+    "status": "",
     "url": "https://github.com/Keyitdev/sddm-astronaut-theme"
   },
   "Khira/La-Confrerie": {
@@ -498,32 +498,32 @@
   "Koenkk/zigbee2mqtt": {
     "description": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨",
     "isArchived": false,
-    "pushedAt": "2026-07-12T17:08:06Z",
-    "stargazerCount": 15296,
+    "pushedAt": "2026-08-01T06:14:57Z",
+    "stargazerCount": 15451,
     "status": "🔥",
     "url": "https://github.com/Koenkk/zigbee2mqtt"
   },
   "LadybirdBrowser/ladybird": {
     "description": "Truly independent web browser",
     "isArchived": false,
-    "pushedAt": "2026-07-15T05:59:56Z",
-    "stargazerCount": 64573,
+    "pushedAt": "2026-08-01T01:18:25Z",
+    "stargazerCount": 64707,
     "status": "🔥",
     "url": "https://github.com/LadybirdBrowser/ladybird"
   },
   "Legcord/Legcord": {
     "description": "Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight.",
     "isArchived": false,
-    "pushedAt": "2026-07-06T12:45:30Z",
-    "stargazerCount": 3351,
-    "status": "",
+    "pushedAt": "2026-07-31T17:30:26Z",
+    "stargazerCount": 3388,
+    "status": "🔥",
     "url": "https://github.com/Legcord/Legcord"
   },
   "LionSec/xerosploit": {
     "description": "Efficient and advanced man in the middle framework",
     "isArchived": false,
     "pushedAt": "2023-03-23T10:31:26Z",
-    "stargazerCount": 2193,
+    "stargazerCount": 2196,
     "status": "💤",
     "url": "https://github.com/LionSec/xerosploit"
   },
@@ -531,7 +531,7 @@
     "description": " A Complete Osint Tool :mag:",
     "isArchived": false,
     "pushedAt": "2026-02-21T11:15:55Z",
-    "stargazerCount": 3846,
+    "stargazerCount": 3951,
     "status": "",
     "url": "https://github.com/Lucksi/Mr.Holmes"
   },
@@ -539,7 +539,7 @@
     "description": "🎨 Give your Home Assistant a modern and clean facelift. 🟥🟧🟩🟦🟪 24 Variations with 2 Styles + 6 Colors (Magenta Red / Orange / Green / Blue / Purple) + 🌞 Light and 🌚 Dark modes included. Based on Metro and Fluent UI Design Systems from Microsoft Windows.",
     "isArchived": false,
     "pushedAt": "2024-05-06T02:54:40Z",
-    "stargazerCount": 683,
+    "stargazerCount": 686,
     "status": "💤",
     "url": "https://github.com/Madelena/Metrology-for-Hass"
   },
@@ -547,15 +547,15 @@
     "description": "My Dashboards for Home Assistant - Advanced data visualizations, responsive design, a neat maximalist Metro Live Tile layout, and an ultraminimal tablet layout!",
     "isArchived": false,
     "pushedAt": "2023-08-01T01:43:18Z",
-    "stargazerCount": 1145,
+    "stargazerCount": 1152,
     "status": "💤",
     "url": "https://github.com/Madelena/hass-config-public"
   },
   "Mafyuh/iac": {
     "description": "GitOps-driven Infrastructure as Code for my homelab",
     "isArchived": false,
-    "pushedAt": "2026-07-15T06:09:13Z",
-    "stargazerCount": 774,
+    "pushedAt": "2026-08-01T01:40:12Z",
+    "stargazerCount": 805,
     "status": "🔥",
     "url": "https://github.com/Mafyuh/iac"
   },
@@ -563,15 +563,15 @@
     "description": "Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord",
     "isArchived": false,
     "pushedAt": "2026-05-26T20:27:28Z",
-    "stargazerCount": 10683,
+    "stargazerCount": 10756,
     "status": "",
     "url": "https://github.com/Mail-0/Zero"
   },
   "Mailu/Mailu": {
     "description": "Insular email distribution - mail server as Docker images",
     "isArchived": false,
-    "pushedAt": "2026-07-14T19:31:29Z",
-    "stargazerCount": 7363,
+    "pushedAt": "2026-07-27T04:43:19Z",
+    "stargazerCount": 7408,
     "status": "🔥",
     "url": "https://github.com/Mailu/Mailu"
   },
@@ -579,7 +579,7 @@
     "description": "Send notifications when SSL certificates are about to expire.",
     "isArchived": false,
     "pushedAt": "2026-05-23T23:47:03Z",
-    "stargazerCount": 782,
+    "stargazerCount": 781,
     "status": "",
     "url": "https://github.com/Matty9191/ssl-cert-check"
   },
@@ -587,31 +587,31 @@
     "description": "KeyDecoder app lets you use your smartphone or tablet to decode your mechanical keys in seconds.",
     "isArchived": false,
     "pushedAt": "2024-02-04T23:25:50Z",
-    "stargazerCount": 3186,
+    "stargazerCount": 3187,
     "status": "💤",
     "url": "https://github.com/MaximeBeasse/KeyDecoder"
   },
   "MetrolistGroup/Metrolist": {
     "description": "YouTube Music client for Android",
     "isArchived": false,
-    "pushedAt": "2026-07-15T00:17:39Z",
-    "stargazerCount": 10770,
+    "pushedAt": "2026-07-31T21:21:51Z",
+    "stargazerCount": 11372,
     "status": "🔥",
     "url": "https://github.com/MetrolistGroup/Metrolist"
   },
   "MorpheApp/morphe-manager": {
     "description": "Morphe app patcher for Android",
     "isArchived": false,
-    "pushedAt": "2026-07-15T00:26:14Z",
-    "stargazerCount": 6317,
+    "pushedAt": "2026-08-01T06:55:01Z",
+    "stargazerCount": 6789,
     "status": "🔥",
     "url": "https://github.com/MorpheApp/morphe-manager"
   },
   "MorpheApp/morphe-patches": {
     "description": "Morphe Patches",
     "isArchived": false,
-    "pushedAt": "2026-07-15T06:11:48Z",
-    "stargazerCount": 2856,
+    "pushedAt": "2026-08-01T07:07:44Z",
+    "stargazerCount": 3065,
     "status": "🔥",
     "url": "https://github.com/MorpheApp/morphe-patches"
   },
@@ -619,15 +619,15 @@
     "description": "Nagios Core",
     "isArchived": false,
     "pushedAt": "2026-06-02T17:29:24Z",
-    "stargazerCount": 2030,
+    "stargazerCount": 2034,
     "status": "",
     "url": "https://github.com/NagiosEnterprises/nagioscore"
   },
   "OhMyGuus/I-Still-Dont-Care-About-Cookies": {
     "description": "Debloated fork of the extension \"I don't care about cookies\"",
     "isArchived": false,
-    "pushedAt": "2026-07-15T00:28:04Z",
-    "stargazerCount": 4184,
+    "pushedAt": "2026-08-01T06:52:05Z",
+    "stargazerCount": 4199,
     "status": "🔥",
     "url": "https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies"
   },
@@ -635,23 +635,23 @@
     "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
     "isArchived": false,
     "pushedAt": "2026-07-08T09:46:11Z",
-    "stargazerCount": 33389,
-    "status": "🔥",
+    "stargazerCount": 34676,
+    "status": "",
     "url": "https://github.com/OpenBMB/VoxCPM"
   },
   "OpenCut-app/OpenCut": {
     "description": "The open-source CapCut alternative",
     "isArchived": false,
-    "pushedAt": "2026-07-10T20:26:18Z",
-    "stargazerCount": 69561,
+    "pushedAt": "2026-07-24T12:29:15Z",
+    "stargazerCount": 80236,
     "status": "🔥",
     "url": "https://github.com/OpenCut-app/OpenCut"
   },
   "OpenRCT2/OpenRCT2": {
     "description": "An open source re-implementation of RollerCoaster Tycoon 2 🎢",
     "isArchived": false,
-    "pushedAt": "2026-07-15T04:58:43Z",
-    "stargazerCount": 15948,
+    "pushedAt": "2026-07-31T19:33:22Z",
+    "stargazerCount": 16020,
     "status": "🔥",
     "url": "https://github.com/OpenRCT2/OpenRCT2"
   },
@@ -664,26 +664,26 @@
     "url": "https://github.com/PAPAMICA/home-config"
   },
   "PatNei/GITHUB2FORGEJO": {
-    "description": "Github 2 Forgejo: This script migrates your GitHub repositories to a Forgejo instance using the Forgejo API. It fetches your repositories from GitHub and automatically creates matching repositories on Forgejo. It’s ideal for backup, migration, or maintaining a self-hosted mirror of your GitHub projects.",
+    "description": "Github 2 Forgejo: This script migrates your GitHub repositories to a Forgejo instance using the Forgejo API. It fetches your repositories from GitHub and automatically creates matching repositories on Forgejo. Use it for backups, migrating, or maintaining a self-hosted mirror of your GitHub projects.",
     "isArchived": false,
     "pushedAt": "2026-06-08T20:26:36Z",
-    "stargazerCount": 93,
+    "stargazerCount": 94,
     "status": "",
     "url": "https://github.com/PatNei/GITHUB2FORGEJO"
   },
   "PlakarKorp/plakar": {
     "description": "plakar is a backup solution powered by Kloset and ptar",
     "isArchived": false,
-    "pushedAt": "2026-07-14T11:02:51Z",
-    "stargazerCount": 1961,
+    "pushedAt": "2026-07-31T06:59:27Z",
+    "stargazerCount": 2000,
     "status": "🔥",
     "url": "https://github.com/PlakarKorp/plakar"
   },
   "Pumpkin-MC/Pumpkin": {
     "description": "Empowering everyone to host fast and efficient Minecraft servers.",
     "isArchived": false,
-    "pushedAt": "2026-07-14T20:48:55Z",
-    "stargazerCount": 7956,
+    "pushedAt": "2026-07-31T10:37:13Z",
+    "stargazerCount": 10485,
     "status": "🔥",
     "url": "https://github.com/Pumpkin-MC/Pumpkin"
   },
@@ -698,32 +698,32 @@
   "ReVanced/revanced-manager": {
     "description": "💊 Application to use ReVanced on Android ",
     "isArchived": false,
-    "pushedAt": "2026-07-05T14:10:43Z",
-    "stargazerCount": 28576,
-    "status": "",
+    "pushedAt": "2026-07-29T18:18:23Z",
+    "stargazerCount": 28810,
+    "status": "🔥",
     "url": "https://github.com/ReVanced/revanced-manager"
   },
   "Salvoxia/immich-folder-album-creator": {
     "description": "Automatically create and populate albums in Immich from a folder structure in external libraries",
     "isArchived": false,
     "pushedAt": "2026-07-10T18:42:31Z",
-    "stargazerCount": 1089,
-    "status": "🔥",
+    "stargazerCount": 1104,
+    "status": "",
     "url": "https://github.com/Salvoxia/immich-folder-album-creator"
   },
   "ServerContainers/samba": {
     "description": "samba - (ghcr.io/servercontainers/samba) (+ optional zeroconf, wsdd2 & time machine) on alpine [x86 + arm]",
     "isArchived": false,
     "pushedAt": "2026-07-11T06:29:40Z",
-    "stargazerCount": 664,
-    "status": "🔥",
+    "stargazerCount": 668,
+    "status": "",
     "url": "https://github.com/ServerContainers/samba"
   },
   "Shadez/wowarmory": {
     "description": "The World of Warcraft Armory is a vast searchable database of information for World of Warcraft - taken straight from the real servers and presented in a user-friendly interface. Since the Armory pulls its data from the actual game servers, it is the most comprehensive and up-to-date database on the characters, arena teams, guilds, and items of World of Warcraft in existence.",
     "isArchived": false,
     "pushedAt": "2016-04-15T00:06:10Z",
-    "stargazerCount": 193,
+    "stargazerCount": 192,
     "status": "💤",
     "url": "https://github.com/Shadez/wowarmory"
   },
@@ -731,7 +731,7 @@
     "description": "Fawkes, privacy preserving tool against facial recognition systems. More info at https://sandlab.cs.uchicago.edu/fawkes",
     "isArchived": false,
     "pushedAt": "2023-08-02T16:26:04Z",
-    "stargazerCount": 5559,
+    "stargazerCount": 5578,
     "status": "💤",
     "url": "https://github.com/Shawn-Shan/fawkes"
   },
@@ -739,7 +739,7 @@
     "description": "🎨 Aesthetic wallpaper collection gathered over a year! Catppuccin, Nord, One Dark themes & cozy vibes. Free for everyone to enjoy 🌟",
     "isArchived": false,
     "pushedAt": "2026-03-03T17:51:01Z",
-    "stargazerCount": 1449,
+    "stargazerCount": 1498,
     "status": "",
     "url": "https://github.com/SleepyCatHey/CozyPixels"
   },
@@ -747,7 +747,7 @@
     "description": " A self-hosted non-invasive single-binary photo gallery with a focus on speed and simplicity.",
     "isArchived": false,
     "pushedAt": "2026-06-21T17:29:53Z",
-    "stargazerCount": 598,
+    "stargazerCount": 599,
     "status": "",
     "url": "https://github.com/SmilyOrg/photofield"
   },
@@ -755,31 +755,31 @@
     "description": "Affordable WiFi hacking platform for testing and learning",
     "isArchived": false,
     "pushedAt": "2024-08-14T17:38:08Z",
-    "stargazerCount": 14871,
+    "stargazerCount": 14898,
     "status": "💤",
     "url": "https://github.com/SpacehuhnTech/esp8266_deauther"
   },
   "Stirling-Tools/Stirling-PDF": {
     "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
     "isArchived": false,
-    "pushedAt": "2026-07-14T17:11:53Z",
-    "stargazerCount": 87119,
+    "pushedAt": "2026-08-01T02:19:35Z",
+    "stargazerCount": 88479,
     "status": "🔥",
     "url": "https://github.com/Stirling-Tools/Stirling-PDF"
   },
   "Stunkymonkey/nautilus-open-any-terminal": {
     "description": "",
     "isArchived": false,
-    "pushedAt": "2026-07-13T22:15:12Z",
-    "stargazerCount": 971,
+    "pushedAt": "2026-07-30T19:20:42Z",
+    "stargazerCount": 982,
     "status": "🔥",
     "url": "https://github.com/Stunkymonkey/nautilus-open-any-terminal"
   },
   "TandoorRecipes/recipes": {
     "description": "Application for managing recipes, planning meals, building shopping lists and much much more!",
     "isArchived": false,
-    "pushedAt": "2026-07-10T11:10:32Z",
-    "stargazerCount": 8466,
+    "pushedAt": "2026-08-01T00:44:02Z",
+    "stargazerCount": 8497,
     "status": "🔥",
     "url": "https://github.com/TandoorRecipes/recipes"
   },
@@ -787,15 +787,15 @@
     "description": "Ad-Free, New Features & Freedom",
     "isArchived": true,
     "pushedAt": "2025-08-15T13:13:07Z",
-    "stargazerCount": 12187,
+    "stargazerCount": 12185,
     "status": "📦",
     "url": "https://github.com/Team-xManager/xManager"
   },
   "TecharoHQ/anubis": {
     "description": "Weighs the soul of incoming HTTP requests to stop AI crawlers",
     "isArchived": false,
-    "pushedAt": "2026-07-13T15:13:32Z",
-    "stargazerCount": 20671,
+    "pushedAt": "2026-07-31T20:16:08Z",
+    "stargazerCount": 21063,
     "status": "🔥",
     "url": "https://github.com/TecharoHQ/anubis"
   },
@@ -803,7 +803,7 @@
     "description": "Upscale and enhance images",
     "isArchived": false,
     "pushedAt": "2025-07-08T18:17:32Z",
-    "stargazerCount": 42,
+    "stargazerCount": 43,
     "status": "💤",
     "url": "https://github.com/TheEvilSkeleton/Upscaler"
   },
@@ -811,7 +811,7 @@
     "description": "A collection of accessible, retro-inspired UI components drawing from classic real-time strategy aesthetics. Built for modern web/apps. Fully open source – copy, paste, customize.",
     "isArchived": false,
     "pushedAt": "2026-03-20T22:20:46Z",
-    "stargazerCount": 754,
+    "stargazerCount": 766,
     "status": "",
     "url": "https://github.com/TheOrcDev/warcraftcn-ui"
   },
@@ -819,23 +819,23 @@
     "description": "A repository dedicated to best practices for naming devices, sensors, and entities in Home Assistant setups. Includes a comprehensive guide to maintaining an organized and manageable smart home ecosystem.",
     "isArchived": false,
     "pushedAt": "2024-02-04T13:42:56Z",
-    "stargazerCount": 75,
+    "stargazerCount": 77,
     "status": "💤",
     "url": "https://github.com/Trikos/Home-Assistant-Naming-Convention"
   },
   "TryGhost/Ghost": {
     "description": "Independent technology for modern publishing, memberships, subscriptions and newsletters.",
     "isArchived": false,
-    "pushedAt": "2026-07-15T06:22:48Z",
-    "stargazerCount": 54430,
+    "pushedAt": "2026-08-01T00:00:49Z",
+    "stargazerCount": 54612,
     "status": "🔥",
     "url": "https://github.com/TryGhost/Ghost"
   },
   "Universal-Debloater-Alliance/universal-android-debloater-next-generation": {
     "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
     "isArchived": false,
-    "pushedAt": "2026-07-15T02:57:21Z",
-    "stargazerCount": 8416,
+    "pushedAt": "2026-07-25T13:16:21Z",
+    "stargazerCount": 8649,
     "status": "🔥",
     "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation"
   },
@@ -843,23 +843,23 @@
     "description": "",
     "isArchived": false,
     "pushedAt": "2026-05-10T17:29:21Z",
-    "stargazerCount": 4906,
+    "stargazerCount": 4956,
     "status": "",
     "url": "https://github.com/V4bel/dirtyfrag"
   },
   "Vencord/Vesktop": {
     "description": "Vesktop is a custom Discord App aiming to give you better performance and improve linux support",
     "isArchived": false,
-    "pushedAt": "2026-07-01T17:04:26Z",
-    "stargazerCount": 8167,
+    "pushedAt": "2026-07-23T17:21:17Z",
+    "stargazerCount": 8249,
     "status": "",
     "url": "https://github.com/Vencord/Vesktop"
   },
   "Vendicated/Vencord": {
     "description": "The cutest Discord modification",
     "isArchived": false,
-    "pushedAt": "2026-07-14T23:03:45Z",
-    "stargazerCount": 13713,
+    "pushedAt": "2026-07-31T20:40:47Z",
+    "stargazerCount": 13800,
     "status": "🔥",
     "url": "https://github.com/Vendicated/Vencord"
   },
@@ -867,15 +867,15 @@
     "description": "StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoders! Be it 3D Transform, Blur, complex Masking, or even custom shaders, you'll find it all here.",
     "isArchived": false,
     "pushedAt": "2024-12-13T06:41:33Z",
-    "stargazerCount": 4167,
+    "stargazerCount": 4171,
     "status": "💤",
     "url": "https://github.com/Vhonowslend/StreamFX-Public"
   },
   "Vinzent03/obsidian-git": {
     "description": "Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md",
     "isArchived": false,
-    "pushedAt": "2026-07-11T12:30:09Z",
-    "stargazerCount": 11561,
+    "pushedAt": "2026-07-29T00:15:38Z",
+    "stargazerCount": 11674,
     "status": "🔥",
     "url": "https://github.com/Vinzent03/obsidian-git"
   },
@@ -883,7 +883,7 @@
     "description": "Repo for Firebog hosting",
     "isArchived": false,
     "pushedAt": "2025-12-15T10:26:42Z",
-    "stargazerCount": 909,
+    "stargazerCount": 911,
     "status": "",
     "url": "https://github.com/WaLLy3K/wally3k.github.io"
   },
@@ -891,7 +891,7 @@
     "description": "🎲 A powerful tool to manage game servers. Equipped with a GUI for server admins to install, import, start, stop, restart, update, and automate multiple servers with a push of a button.",
     "isArchived": false,
     "pushedAt": "2025-12-26T01:59:53Z",
-    "stargazerCount": 632,
+    "stargazerCount": 633,
     "status": "",
     "url": "https://github.com/WindowsGSM/WindowsGSM"
   },
@@ -899,7 +899,7 @@
     "description": "Praise my GitHub profile!",
     "isArchived": true,
     "pushedAt": "2024-08-08T09:18:44Z",
-    "stargazerCount": 141,
+    "stargazerCount": 138,
     "status": "📦",
     "url": "https://github.com/Xe/praise-me"
   },
@@ -907,34 +907,34 @@
     "description": "Self hosted Spotify tracking dashboard",
     "isArchived": false,
     "pushedAt": "2026-07-10T11:43:35Z",
-    "stargazerCount": 4475,
-    "status": "🔥",
+    "stargazerCount": 4499,
+    "status": "",
     "url": "https://github.com/Yooooomi/your_spotify"
   },
   "ZKjellberg/dark-souls-3-cheat-sheet": {
     "description": "Checklist for Dark Souls 3 using HTML5 storage to retain progress",
     "isArchived": false,
     "pushedAt": "2025-07-31T12:17:05Z",
-    "stargazerCount": 362,
-    "status": "",
+    "stargazerCount": 364,
+    "status": "💤",
     "url": "https://github.com/ZKjellberg/dark-souls-3-cheat-sheet"
   },
   "Zyphra/Zonos": {
     "description": "Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilingual speech, delivering expressiveness and quality on par with—or even surpassing—top TTS providers.",
     "isArchived": false,
     "pushedAt": "2025-03-05T20:02:00Z",
-    "stargazerCount": 7229,
+    "stargazerCount": 7235,
     "status": "💤",
     "url": "https://github.com/Zyphra/Zonos"
   },
   "_meta": {
-    "last_refresh_at": "2026-07-15T06:43:23.175637+00:00"
+    "last_refresh_at": "2026-08-01T08:06:47.833268+00:00"
   },
   "acaudwell/Gource": {
     "description": "software version control visualization",
     "isArchived": false,
     "pushedAt": "2026-03-06T05:51:40Z",
-    "stargazerCount": 13073,
+    "stargazerCount": 13087,
     "status": "",
     "url": "https://github.com/acaudwell/Gource"
   },
@@ -942,7 +942,7 @@
     "description": "A huge collection of polybar themes with different styles, colors and variants.",
     "isArchived": false,
     "pushedAt": "2026-05-31T15:24:58Z",
-    "stargazerCount": 6213,
+    "stargazerCount": 6216,
     "status": "",
     "url": "https://github.com/adi1090x/polybar-themes"
   },
@@ -958,23 +958,23 @@
     "description": "Linux running inside a PDF file via a RISC-V emulator",
     "isArchived": false,
     "pushedAt": "2025-02-02T12:26:15Z",
-    "stargazerCount": 5038,
+    "stargazerCount": 5054,
     "status": "💤",
     "url": "https://github.com/ading2210/linuxpdf"
   },
   "ahmedkhaleel2004/gitdiagram": {
     "description": "Free, simple, fast interactive diagrams for any GitHub repository",
     "isArchived": false,
-    "pushedAt": "2026-07-14T02:24:41Z",
-    "stargazerCount": 15813,
+    "pushedAt": "2026-07-30T16:42:50Z",
+    "stargazerCount": 15840,
     "status": "🔥",
     "url": "https://github.com/ahmedkhaleel2004/gitdiagram"
   },
   "alam00000/bentopdf": {
     "description": "The Privacy First PDF Toolkit",
     "isArchived": false,
-    "pushedAt": "2026-07-14T21:49:15Z",
-    "stargazerCount": 14059,
+    "pushedAt": "2026-07-31T21:48:52Z",
+    "stargazerCount": 14471,
     "status": "🔥",
     "url": "https://github.com/alam00000/bentopdf"
   },
@@ -982,15 +982,15 @@
     "description": "An automated e-mail OSINT tool",
     "isArchived": false,
     "pushedAt": "2024-02-02T13:10:43Z",
-    "stargazerCount": 5939,
+    "stargazerCount": 5965,
     "status": "💤",
     "url": "https://github.com/alpkeskin/mosint"
   },
   "amruthpillai/reactive-resume": {
     "description": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
     "isArchived": false,
-    "pushedAt": "2026-07-09T13:50:34Z",
-    "stargazerCount": 39577,
+    "pushedAt": "2026-07-31T15:25:44Z",
+    "stargazerCount": 39916,
     "status": "🔥",
     "url": "https://github.com/amruthpillai/reactive-resume"
   },
@@ -998,47 +998,47 @@
     "description": "Self-hosted file/code/media sharing website. ",
     "isArchived": false,
     "pushedAt": "2025-04-26T21:39:02Z",
-    "stargazerCount": 1578,
+    "stargazerCount": 1581,
     "status": "💤",
     "url": "https://github.com/andreimarcu/linx-server"
   },
   "anomalyco/opencode": {
     "description": "The open source coding agent.",
     "isArchived": false,
-    "pushedAt": "2026-07-15T05:24:32Z",
-    "stargazerCount": 185943,
+    "pushedAt": "2026-08-01T07:53:26Z",
+    "stargazerCount": 191801,
     "status": "🔥",
     "url": "https://github.com/anomalyco/opencode"
   },
   "ansible/awx": {
     "description": "AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.",
     "isArchived": false,
-    "pushedAt": "2026-07-10T00:01:49Z",
-    "stargazerCount": 15487,
+    "pushedAt": "2026-07-31T17:17:13Z",
+    "stargazerCount": 15505,
     "status": "🔥",
     "url": "https://github.com/ansible/awx"
   },
   "anuraghazra/github-readme-stats": {
     "description": ":zap: Dynamically generated stats for your github readmes",
     "isArchived": false,
-    "pushedAt": "2026-07-01T01:15:41Z",
-    "stargazerCount": 79792,
-    "status": "",
+    "pushedAt": "2026-07-31T00:50:25Z",
+    "stargazerCount": 79806,
+    "status": "🔥",
     "url": "https://github.com/anuraghazra/github-readme-stats"
   },
   "arkenfox/user.js": {
     "description": "Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening",
     "isArchived": false,
-    "pushedAt": "2026-07-14T04:27:52Z",
-    "stargazerCount": 12703,
-    "status": "🔥",
+    "pushedAt": "2026-07-22T14:25:13Z",
+    "stargazerCount": 12746,
+    "status": "",
     "url": "https://github.com/arkenfox/user.js"
   },
   "arsenetar/dupeguru": {
     "description": "Find duplicate files",
     "isArchived": false,
     "pushedAt": "2026-01-06T18:34:01Z",
-    "stargazerCount": 7694,
+    "stargazerCount": 7732,
     "status": "",
     "url": "https://github.com/arsenetar/dupeguru"
   },
@@ -1053,24 +1053,24 @@
   "autobrr/netronome": {
     "description": "Netronome is a modern network speed testing and monitoring tool built with Go and React.",
     "isArchived": false,
-    "pushedAt": "2026-07-02T16:03:34Z",
-    "stargazerCount": 944,
-    "status": "",
+    "pushedAt": "2026-07-31T21:55:08Z",
+    "stargazerCount": 1107,
+    "status": "🔥",
     "url": "https://github.com/autobrr/netronome"
   },
   "autobrr/qui": {
     "description": "A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.",
     "isArchived": false,
-    "pushedAt": "2026-07-13T14:24:29Z",
-    "stargazerCount": 4206,
+    "pushedAt": "2026-08-01T07:07:55Z",
+    "stargazerCount": 4284,
     "status": "🔥",
     "url": "https://github.com/autobrr/qui"
   },
   "awesome-selfhosted/awesome-selfhosted": {
     "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
     "isArchived": false,
-    "pushedAt": "2026-07-14T00:08:12Z",
-    "stargazerCount": 305553,
+    "pushedAt": "2026-07-31T16:52:37Z",
+    "stargazerCount": 309844,
     "status": "🔥",
     "url": "https://github.com/awesome-selfhosted/awesome-selfhosted"
   },
@@ -1094,31 +1094,31 @@
     "description": "1.12.1 WoW client mod that expands on API functionalities",
     "isArchived": false,
     "pushedAt": "2026-07-12T18:14:40Z",
-    "stargazerCount": 167,
-    "status": "🔥",
+    "stargazerCount": 171,
+    "status": "",
     "url": "https://github.com/balakethelock/SuperWoW"
   },
   "be5invis/Iosevka": {
     "description": "Versatile typeface for code, from code.",
     "isArchived": false,
-    "pushedAt": "2026-07-15T01:08:52Z",
-    "stargazerCount": 22487,
+    "pushedAt": "2026-07-30T02:44:47Z",
+    "stargazerCount": 22550,
     "status": "🔥",
     "url": "https://github.com/be5invis/Iosevka"
   },
   "beekeeper-studio/beekeeper-studio": {
     "description": "Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.",
     "isArchived": false,
-    "pushedAt": "2026-07-14T10:47:44Z",
-    "stargazerCount": 23205,
+    "pushedAt": "2026-07-31T19:12:20Z",
+    "stargazerCount": 23290,
     "status": "🔥",
     "url": "https://github.com/beekeeper-studio/beekeeper-studio"
   },
   "beemdevelopment/Aegis": {
     "description": "A free, secure and open source app for Android to manage your 2-step verification tokens.",
     "isArchived": false,
-    "pushedAt": "2026-02-24T19:51:57Z",
-    "stargazerCount": 12728,
+    "pushedAt": "2026-07-16T10:50:56Z",
+    "stargazerCount": 12828,
     "status": "",
     "url": "https://github.com/beemdevelopment/Aegis"
   },
@@ -1126,15 +1126,15 @@
     "description": "Learn how to self-host Beeper",
     "isArchived": true,
     "pushedAt": "2024-02-05T06:15:55Z",
-    "stargazerCount": 1067,
+    "stargazerCount": 1068,
     "status": "📦",
     "url": "https://github.com/beeper/self-host"
   },
   "beetbox/beets": {
     "description": "music library manager and MusicBrainz tagger",
     "isArchived": false,
-    "pushedAt": "2026-07-14T18:33:46Z",
-    "stargazerCount": 15388,
+    "pushedAt": "2026-08-01T02:57:46Z",
+    "stargazerCount": 15472,
     "status": "🔥",
     "url": "https://github.com/beetbox/beets"
   },
@@ -1142,7 +1142,7 @@
     "description": "Web based tool for exporting scrobbles",
     "isArchived": false,
     "pushedAt": "2025-02-11T23:53:37Z",
-    "stargazerCount": 550,
+    "stargazerCount": 552,
     "status": "💤",
     "url": "https://github.com/benfoxall/lastfm-to-csv"
   },
@@ -1150,7 +1150,7 @@
     "description": "🔎 Most Advanced Open Source Intelligence (OSINT) Framework for scanning IP Address, Emails, Websites, Organizations.",
     "isArchived": false,
     "pushedAt": "2023-09-26T10:12:16Z",
-    "stargazerCount": 2735,
+    "stargazerCount": 2751,
     "status": "💤",
     "url": "https://github.com/bhavsec/reconspider"
   },
@@ -1158,39 +1158,39 @@
     "description": "Scrape the Twitter Frontend API without authentication.",
     "isArchived": true,
     "pushedAt": "2023-10-30T05:53:33Z",
-    "stargazerCount": 4013,
+    "stargazerCount": 4010,
     "status": "📦",
     "url": "https://github.com/bisguzar/twitter-scraper"
   },
   "blacklanternsecurity/bbot": {
     "description": "The recursive internet scanner for hackers. 🧡",
     "isArchived": false,
-    "pushedAt": "2026-07-15T01:03:18Z",
-    "stargazerCount": 10154,
+    "pushedAt": "2026-08-01T03:41:49Z",
+    "stargazerCount": 10260,
     "status": "🔥",
     "url": "https://github.com/blacklanternsecurity/bbot"
   },
   "blader/humanizer": {
-    "description": "Claude Code skill that removes signs of AI-generated writing from text",
+    "description": "Agent skill that removes signs of AI-generated writing from text",
     "isArchived": false,
-    "pushedAt": "2026-06-29T20:43:06Z",
-    "stargazerCount": 29246,
+    "pushedAt": "2026-07-22T06:26:25Z",
+    "stargazerCount": 32440,
     "status": "",
     "url": "https://github.com/blader/humanizer"
   },
   "blakeblackshear/frigate": {
     "description": "NVR with realtime local object detection for IP cameras",
     "isArchived": false,
-    "pushedAt": "2026-07-15T00:49:07Z",
-    "stargazerCount": 34346,
+    "pushedAt": "2026-07-31T13:57:27Z",
+    "stargazerCount": 34730,
     "status": "🔥",
     "url": "https://github.com/blakeblackshear/frigate"
   },
   "bluesky-social/pds": {
     "description": "Bluesky PDS (Personal Data Server) container image, compose file, and documentation",
     "isArchived": false,
-    "pushedAt": "2026-07-08T21:36:29Z",
-    "stargazerCount": 2581,
+    "pushedAt": "2026-07-31T19:11:11Z",
+    "stargazerCount": 2592,
     "status": "🔥",
     "url": "https://github.com/bluesky-social/pds"
   },
@@ -1205,8 +1205,8 @@
   "breezy-weather/breezy-weather": {
     "description": "A feature-rich weather app with good visualizations and more than 50 sources.",
     "isArchived": false,
-    "pushedAt": "2026-07-08T16:01:43Z",
-    "stargazerCount": 10722,
+    "pushedAt": "2026-08-01T07:43:10Z",
+    "stargazerCount": 10883,
     "status": "🔥",
     "url": "https://github.com/breezy-weather/breezy-weather"
   },
@@ -1214,15 +1214,15 @@
     "description": "",
     "isArchived": false,
     "pushedAt": "2026-07-14T04:39:36Z",
-    "stargazerCount": 850,
-    "status": "🔥",
+    "stargazerCount": 877,
+    "status": "",
     "url": "https://github.com/bryanroscoe/shield_optimizer"
   },
   "calcom/cal.diy": {
     "description": "Scheduling infrastructure for absolutely everyone.",
     "isArchived": false,
-    "pushedAt": "2026-07-09T09:22:35Z",
-    "stargazerCount": 46425,
+    "pushedAt": "2026-07-31T20:49:53Z",
+    "stargazerCount": 47131,
     "status": "🔥",
     "url": "https://github.com/calcom/cal.diy"
   },
@@ -1230,7 +1230,7 @@
     "description": "vanity address generator for tor onion v3 (ed25519) hidden services",
     "isArchived": false,
     "pushedAt": "2024-02-15T21:48:39Z",
-    "stargazerCount": 1607,
+    "stargazerCount": 1611,
     "status": "💤",
     "url": "https://github.com/cathugger/mkp224o"
   },
@@ -1238,7 +1238,7 @@
     "description": "🐁 Soothing pastel cursors for GTK/Plasma/Hyprland",
     "isArchived": false,
     "pushedAt": "2026-06-20T23:45:09Z",
-    "stargazerCount": 737,
+    "stargazerCount": 741,
     "status": "",
     "url": "https://github.com/catppuccin/cursors"
   },
@@ -1253,24 +1253,24 @@
   "catppuccin/userstyles": {
     "description": "🖌 Soothing pastel userstyles",
     "isArchived": false,
-    "pushedAt": "2026-07-15T05:42:47Z",
-    "stargazerCount": 1096,
+    "pushedAt": "2026-08-01T00:58:22Z",
+    "stargazerCount": 1101,
     "status": "🔥",
     "url": "https://github.com/catppuccin/userstyles"
   },
   "catppuccin/vscode-icons": {
     "description": "🦊 Soothing pastel icons for VSCode/VSCodium",
     "isArchived": false,
-    "pushedAt": "2026-07-14T06:12:41Z",
-    "stargazerCount": 1000,
+    "pushedAt": "2026-07-30T20:36:37Z",
+    "stargazerCount": 1005,
     "status": "🔥",
     "url": "https://github.com/catppuccin/vscode-icons"
   },
   "chatwoot/chatwoot": {
     "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
     "isArchived": false,
-    "pushedAt": "2026-07-15T06:36:23Z",
-    "stargazerCount": 34424,
+    "pushedAt": "2026-08-01T07:52:41Z",
+    "stargazerCount": 35232,
     "status": "🔥",
     "url": "https://github.com/chatwoot/chatwoot"
   },
@@ -1278,16 +1278,16 @@
     "description": ":lock: Memorable site for testing clients against bad SSL configs.",
     "isArchived": false,
     "pushedAt": "2026-06-01T22:42:57Z",
-    "stargazerCount": 3029,
+    "stargazerCount": 3033,
     "status": "",
     "url": "https://github.com/chromium/badssl.com"
   },
   "chubin/wttr.in": {
     "description": ":partly_sunny: The right way to check the weather",
     "isArchived": false,
-    "pushedAt": "2026-07-08T13:36:35Z",
-    "stargazerCount": 30102,
-    "status": "🔥",
+    "pushedAt": "2026-07-18T09:28:27Z",
+    "stargazerCount": 30217,
+    "status": "",
     "url": "https://github.com/chubin/wttr.in"
   },
   "cidrblock/drawthe.net": {
@@ -1317,16 +1317,16 @@
   "clusterzx/paperless-ai": {
     "description": "An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.",
     "isArchived": false,
-    "pushedAt": "2026-07-05T00:37:35Z",
-    "stargazerCount": 5819,
-    "status": "",
+    "pushedAt": "2026-08-01T00:32:16Z",
+    "stargazerCount": 5850,
+    "status": "🔥",
     "url": "https://github.com/clusterzx/paperless-ai"
   },
   "cmangos/mangos-wotlk": {
     "description": "C(ontinued)-MaNGOS is about: -- Doing WoW-Emulation Right!",
     "isArchived": false,
-    "pushedAt": "2026-06-22T20:52:49Z",
-    "stargazerCount": 546,
+    "pushedAt": "2026-07-22T05:27:58Z",
+    "stargazerCount": 548,
     "status": "",
     "url": "https://github.com/cmangos/mangos-wotlk"
   },
@@ -1334,15 +1334,15 @@
     "description": "Master programming by recreating your favorite technologies from scratch.",
     "isArchived": false,
     "pushedAt": "2026-07-14T19:25:58Z",
-    "stargazerCount": 525303,
-    "status": "🔥",
+    "stargazerCount": 533603,
+    "status": "",
     "url": "https://github.com/codecrafters-io/build-your-own-x"
   },
   "codenoid/github-roast": {
     "description": "Spicy GitHub Roast 🔥",
     "isArchived": false,
     "pushedAt": "2024-08-25T03:39:39Z",
-    "stargazerCount": 767,
+    "stargazerCount": 766,
     "status": "💤",
     "url": "https://github.com/codenoid/github-roast"
   },
@@ -1350,7 +1350,7 @@
     "description": "🏃→🎼  docker run asdlksjfksdf > docker-composerize up",
     "isArchived": false,
     "pushedAt": "2026-05-17T14:35:15Z",
-    "stargazerCount": 3751,
+    "stargazerCount": 3755,
     "status": "",
     "url": "https://github.com/composerize/composerize"
   },
@@ -1358,7 +1358,7 @@
     "description": "A process for automating Docker container base image updates. ",
     "isArchived": true,
     "pushedAt": "2025-12-17T14:44:11Z",
-    "stargazerCount": 24703,
+    "stargazerCount": 24699,
     "status": "📦",
     "url": "https://github.com/containrrr/watchtower"
   },
@@ -1366,15 +1366,15 @@
     "description": "The easiest way to patch Spotify and Youtube Music, without the need to download APKs !",
     "isArchived": false,
     "pushedAt": "2026-04-20T15:01:38Z",
-    "stargazerCount": 510,
+    "stargazerCount": 531,
     "status": "",
     "url": "https://github.com/corentin-c/SpotifyAutoPatcher"
   },
   "crimera/piko": {
-    "description": "morphe patches for twitter",
+    "description": "morphe patches for twitter and instagram",
     "isArchived": false,
-    "pushedAt": "2026-07-15T00:25:12Z",
-    "stargazerCount": 4311,
+    "pushedAt": "2026-08-01T04:15:22Z",
+    "stargazerCount": 4514,
     "status": "🔥",
     "url": "https://github.com/crimera/piko"
   },
@@ -1382,7 +1382,7 @@
     "description": "Calibre-Web but Automated and with tons of New Features! Fully automate and simplify your eBook set up!",
     "isArchived": false,
     "pushedAt": "2026-07-05T13:13:31Z",
-    "stargazerCount": 5910,
+    "stargazerCount": 6027,
     "status": "",
     "url": "https://github.com/crocodilestick/Calibre-Web-Automated"
   },
@@ -1390,23 +1390,23 @@
     "description": "A planetarium for your terminal! Explore stars, planets, constellations, and more, all rendered right in the command line—no telescope required. ✨🪐",
     "isArchived": false,
     "pushedAt": "2026-04-01T01:15:38Z",
-    "stargazerCount": 1979,
+    "stargazerCount": 1993,
     "status": "",
     "url": "https://github.com/da-luce/astroterm"
   },
   "dani-garcia/vaultwarden": {
     "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
     "isArchived": false,
-    "pushedAt": "2026-07-08T20:10:29Z",
-    "stargazerCount": 63710,
+    "pushedAt": "2026-08-01T02:06:45Z",
+    "stargazerCount": 64721,
     "status": "🔥",
     "url": "https://github.com/dani-garcia/vaultwarden"
   },
   "danielmiessler/SecLists": {
     "description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
     "isArchived": false,
-    "pushedAt": "2026-07-14T10:37:49Z",
-    "stargazerCount": 72176,
+    "pushedAt": "2026-07-31T10:58:11Z",
+    "stargazerCount": 72542,
     "status": "🔥",
     "url": "https://github.com/danielmiessler/SecLists"
   },
@@ -1422,15 +1422,15 @@
     "description": "Silicon Labs firmware builder",
     "isArchived": false,
     "pushedAt": "2026-01-07T08:17:12Z",
-    "stargazerCount": 794,
+    "stargazerCount": 799,
     "status": "",
     "url": "https://github.com/darkxst/silabs-firmware-builder"
   },
   "databasus/databasus": {
     "description": "PostgreSQL backup tool with Point-In-Time-Recovery and restore verification",
     "isArchived": false,
-    "pushedAt": "2026-07-14T20:28:55Z",
-    "stargazerCount": 7678,
+    "pushedAt": "2026-07-26T19:02:43Z",
+    "stargazerCount": 7824,
     "status": "🔥",
     "url": "https://github.com/databasus/databasus"
   },
@@ -1438,15 +1438,15 @@
     "description": "Rofi: A window switcher, application launcher and dmenu replacement",
     "isArchived": false,
     "pushedAt": "2026-07-09T20:23:29Z",
-    "stargazerCount": 16252,
-    "status": "🔥",
+    "stargazerCount": 16287,
+    "status": "",
     "url": "https://github.com/davatorium/rofi"
   },
   "davestephens/ansible-nas": {
     "description": "Build a full-featured home server or NAS replacement with an Ubuntu box and this playbook.",
     "isArchived": false,
     "pushedAt": "2026-02-17T17:10:12Z",
-    "stargazerCount": 3761,
+    "stargazerCount": 3762,
     "status": "",
     "url": "https://github.com/davestephens/ansible-nas"
   },
@@ -1461,8 +1461,8 @@
   "derailed/k9s": {
     "description": "🐶 Kubernetes CLI To Manage Your Clusters In Style!",
     "isArchived": false,
-    "pushedAt": "2026-07-13T23:02:24Z",
-    "stargazerCount": 34125,
+    "pushedAt": "2026-07-25T14:48:06Z",
+    "stargazerCount": 34256,
     "status": "🔥",
     "url": "https://github.com/derailed/k9s"
   },
@@ -1477,24 +1477,24 @@
   "dev-sec/ansible-collection-hardening": {
     "description": "This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL",
     "isArchived": false,
-    "pushedAt": "2026-07-13T22:06:04Z",
-    "stargazerCount": 5415,
-    "status": "🔥",
+    "pushedAt": "2026-07-21T03:08:26Z",
+    "stargazerCount": 5428,
+    "status": "",
     "url": "https://github.com/dev-sec/ansible-collection-hardening"
   },
   "dev-sec/linux-baseline": {
     "description": "DevSec Linux Baseline - InSpec Profile",
     "isArchived": false,
     "pushedAt": "2026-05-26T16:49:05Z",
-    "stargazerCount": 875,
+    "stargazerCount": 871,
     "status": "",
     "url": "https://github.com/dev-sec/linux-baseline"
   },
   "dgtlmoon/changedetection.io": {
     "description": "Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!",
     "isArchived": false,
-    "pushedAt": "2026-07-14T12:48:36Z",
-    "stargazerCount": 32316,
+    "pushedAt": "2026-07-31T00:25:30Z",
+    "stargazerCount": 32570,
     "status": "🔥",
     "url": "https://github.com/dgtlmoon/changedetection.io"
   },
@@ -1502,7 +1502,7 @@
     "description": "Diablo devolved - magic behind the 1996 computer game",
     "isArchived": false,
     "pushedAt": "2025-09-15T02:01:36Z",
-    "stargazerCount": 8984,
+    "stargazerCount": 8983,
     "status": "",
     "url": "https://github.com/diasurgical/devilution"
   },
@@ -1510,23 +1510,23 @@
     "description": "Modern XMPP (\"Jabber\") Chat Client using GTK/Vala",
     "isArchived": false,
     "pushedAt": "2026-06-07T21:23:43Z",
-    "stargazerCount": 2459,
+    "stargazerCount": 2469,
     "status": "",
     "url": "https://github.com/dino/dino"
   },
   "docker-mailserver/docker-mailserver": {
     "description": "Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.",
     "isArchived": false,
-    "pushedAt": "2026-07-06T18:08:54Z",
-    "stargazerCount": 18595,
+    "pushedAt": "2026-07-18T19:24:41Z",
+    "stargazerCount": 18650,
     "status": "",
     "url": "https://github.com/docker-mailserver/docker-mailserver"
   },
   "dockur/windows": {
     "description": "Windows inside a Docker container.",
     "isArchived": false,
-    "pushedAt": "2026-07-14T22:06:04Z",
-    "stargazerCount": 52434,
+    "pushedAt": "2026-08-01T06:21:25Z",
+    "stargazerCount": 52697,
     "status": "🔥",
     "url": "https://github.com/dockur/windows"
   },
@@ -1534,7 +1534,7 @@
     "description": "✅Browser ❌Cloudflare ✅Host — Customized Cloudflare error page generator. (unofficial)",
     "isArchived": false,
     "pushedAt": "2026-07-06T15:55:44Z",
-    "stargazerCount": 5481,
+    "stargazerCount": 5493,
     "status": "",
     "url": "https://github.com/donlon/cloudflare-error-page"
   },
@@ -1542,31 +1542,31 @@
     "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
     "isArchived": false,
     "pushedAt": "2026-03-20T01:52:19Z",
-    "stargazerCount": 357645,
+    "stargazerCount": 359933,
     "status": "",
     "url": "https://github.com/donnemartin/system-design-primer"
   },
   "dyc3/steamguard-cli": {
     "description": "A linux utility for generating 2FA codes for Steam and managing Steam trade, market, and other confirmations. ",
     "isArchived": false,
-    "pushedAt": "2026-07-14T15:28:52Z",
-    "stargazerCount": 1000,
+    "pushedAt": "2026-07-29T21:11:54Z",
+    "stargazerCount": 1012,
     "status": "🔥",
     "url": "https://github.com/dyc3/steamguard-cli"
   },
   "ebkr/r2modmanPlus": {
     "description": "A simple and easy to use mod manager for several games using Thunderstore",
     "isArchived": false,
-    "pushedAt": "2026-07-14T06:32:55Z",
-    "stargazerCount": 2123,
+    "pushedAt": "2026-07-31T14:13:51Z",
+    "stargazerCount": 2148,
     "status": "🔥",
     "url": "https://github.com/ebkr/r2modmanPlus"
   },
   "elie222/inbox-zero": {
     "description": "The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.",
     "isArchived": false,
-    "pushedAt": "2026-07-14T12:41:39Z",
-    "stargazerCount": 11624,
+    "pushedAt": "2026-08-01T07:03:32Z",
+    "stargazerCount": 11818,
     "status": "🔥",
     "url": "https://github.com/elie222/inbox-zero"
   },
@@ -1574,23 +1574,23 @@
     "description": "(⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.",
     "isArchived": false,
     "pushedAt": "2025-08-23T12:24:16Z",
-    "stargazerCount": 9134,
+    "stargazerCount": 9156,
     "status": "",
     "url": "https://github.com/evilsocket/pwnagotchi"
   },
   "excalidraw/excalidraw": {
     "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
     "isArchived": false,
-    "pushedAt": "2026-07-14T22:32:06Z",
-    "stargazerCount": 127506,
+    "pushedAt": "2026-07-31T12:22:20Z",
+    "stargazerCount": 128762,
     "status": "🔥",
     "url": "https://github.com/excalidraw/excalidraw"
   },
   "eza-community/eza": {
     "description": "A modern alternative to ls",
     "isArchived": false,
-    "pushedAt": "2026-07-09T10:23:41Z",
-    "stargazerCount": 22621,
+    "pushedAt": "2026-07-28T14:51:38Z",
+    "stargazerCount": 22793,
     "status": "🔥",
     "url": "https://github.com/eza-community/eza"
   },
@@ -1598,40 +1598,40 @@
     "description": "🦄 Record your terminal and generate animated gif images or share a web player",
     "isArchived": false,
     "pushedAt": "2024-08-29T00:40:13Z",
-    "stargazerCount": 16135,
+    "stargazerCount": 16138,
     "status": "💤",
     "url": "https://github.com/faressoft/terminalizer"
   },
   "fastfetch-cli/fastfetch": {
     "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
     "isArchived": false,
-    "pushedAt": "2026-07-15T01:41:10Z",
-    "stargazerCount": 23734,
+    "pushedAt": "2026-07-29T12:16:18Z",
+    "stargazerCount": 23991,
     "status": "🔥",
     "url": "https://github.com/fastfetch-cli/fastfetch"
   },
   "fatedier/frp": {
     "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
     "isArchived": false,
-    "pushedAt": "2026-07-11T14:44:49Z",
-    "stargazerCount": 108049,
+    "pushedAt": "2026-07-31T08:53:23Z",
+    "stargazerCount": 108488,
     "status": "🔥",
     "url": "https://github.com/fatedier/frp"
   },
   "feldorn/free-games-claimer": {
     "description": "Automatically claims free games and DLCs on the Epic Games Store, Steam, Amazon Prime Gaming and GOG.",
     "isArchived": false,
-    "pushedAt": "2026-07-12T13:13:19Z",
-    "stargazerCount": 107,
+    "pushedAt": "2026-07-31T14:42:15Z",
+    "stargazerCount": 113,
     "status": "🔥",
     "url": "https://github.com/feldorn/free-games-claimer"
   },
   "ffuf/ffuf": {
     "description": "Fast web fuzzer written in Go",
     "isArchived": false,
-    "pushedAt": "2026-07-14T09:43:06Z",
-    "stargazerCount": 16364,
-    "status": "🔥",
+    "pushedAt": "2026-07-19T15:11:15Z",
+    "stargazerCount": 16466,
+    "status": "",
     "url": "https://github.com/ffuf/ffuf"
   },
   "fine/Quice": {
@@ -1645,24 +1645,24 @@
   "fluxerapp/fluxer": {
     "description": "A free and open source instant messaging and VoIP chat app built for friends, groups, and communities.",
     "isArchived": false,
-    "pushedAt": "2026-07-14T05:12:21Z",
-    "stargazerCount": 9653,
+    "pushedAt": "2026-07-31T20:36:55Z",
+    "stargazerCount": 9858,
     "status": "🔥",
     "url": "https://github.com/fluxerapp/fluxer"
   },
   "fosrl/pangolin": {
     "description": "Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard®.",
     "isArchived": false,
-    "pushedAt": "2026-07-15T01:44:30Z",
-    "stargazerCount": 21703,
+    "pushedAt": "2026-07-31T21:58:24Z",
+    "stargazerCount": 21953,
     "status": "🔥",
     "url": "https://github.com/fosrl/pangolin"
   },
   "gabehf/Koito": {
     "description": "Koito is a modern, themeable scrobbler that you can use with any program that scrobbles to a custom ListenBrainz URL",
     "isArchived": false,
-    "pushedAt": "2026-06-19T00:14:27Z",
-    "stargazerCount": 937,
+    "pushedAt": "2026-07-23T05:32:52Z",
+    "stargazerCount": 966,
     "status": "",
     "url": "https://github.com/gabehf/Koito"
   },
@@ -1670,7 +1670,7 @@
     "description": "Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed",
     "isArchived": false,
     "pushedAt": "2026-04-16T22:42:05Z",
-    "stargazerCount": 3423,
+    "stargazerCount": 3427,
     "status": "",
     "url": "https://github.com/gautamkrishnar/blog-post-workflow"
   },
@@ -1686,15 +1686,15 @@
     "description": "Raspberry Pi config for all things Internet.",
     "isArchived": false,
     "pushedAt": "2025-07-15T18:22:04Z",
-    "stargazerCount": 4699,
-    "status": "",
+    "stargazerCount": 4700,
+    "status": "💤",
     "url": "https://github.com/geerlingguy/internet-pi"
   },
   "gethomepage/homepage": {
     "description": "A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.",
     "isArchived": false,
-    "pushedAt": "2026-07-15T00:43:54Z",
-    "stargazerCount": 31505,
+    "pushedAt": "2026-08-01T00:52:20Z",
+    "stargazerCount": 31779,
     "status": "🔥",
     "url": "https://github.com/gethomepage/homepage"
   },
@@ -1702,15 +1702,15 @@
     "description": "An elegant home server OS. Run OpenClaw, store your files and photos, run a Bitcoin node, and do more with over 300 apps in the Umbrel App Store.",
     "isArchived": false,
     "pushedAt": "2026-07-10T19:09:10Z",
-    "stargazerCount": 11617,
-    "status": "🔥",
+    "stargazerCount": 11705,
+    "status": "",
     "url": "https://github.com/getumbrel/umbrel"
   },
   "ghostty-org/ghostty": {
     "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
     "isArchived": false,
-    "pushedAt": "2026-07-15T03:41:32Z",
-    "stargazerCount": 58187,
+    "pushedAt": "2026-08-01T04:29:40Z",
+    "stargazerCount": 59036,
     "status": "🔥",
     "url": "https://github.com/ghostty-org/ghostty"
   },
@@ -1718,15 +1718,15 @@
     "description": "A manager for game achievements in Steam.",
     "isArchived": false,
     "pushedAt": "2026-03-19T09:35:09Z",
-    "stargazerCount": 8671,
+    "stargazerCount": 8791,
     "status": "",
     "url": "https://github.com/gibbed/SteamAchievementManager"
   },
   "gitroomhq/postiz-app": {
     "description": "📨 The ultimate agentic social media scheduling tool 🤖",
     "isArchived": false,
-    "pushedAt": "2026-07-15T06:42:24Z",
-    "stargazerCount": 33301,
+    "pushedAt": "2026-08-01T01:50:12Z",
+    "stargazerCount": 34063,
     "status": "🔥",
     "url": "https://github.com/gitroomhq/postiz-app"
   },
@@ -1734,7 +1734,7 @@
     "description": "A self-hosted dashboard that puts all your feeds in one place",
     "isArchived": false,
     "pushedAt": "2026-05-30T20:36:29Z",
-    "stargazerCount": 35752,
+    "stargazerCount": 36081,
     "status": "",
     "url": "https://github.com/glanceapp/glance"
   },
@@ -1742,63 +1742,63 @@
     "description": "The ever popular kitty-that-follows-your-mouse-pointer",
     "isArchived": false,
     "pushedAt": "2019-02-02T22:04:01Z",
-    "stargazerCount": 251,
+    "stargazerCount": 252,
     "status": "💤",
     "url": "https://github.com/glreno/oneko"
   },
   "goharbor/harbor": {
     "description": "An open source trusted cloud native registry project that stores, signs, and scans content.",
     "isArchived": false,
-    "pushedAt": "2026-07-15T05:41:45Z",
-    "stargazerCount": 28930,
+    "pushedAt": "2026-07-31T07:32:46Z",
+    "stargazerCount": 29063,
     "status": "🔥",
     "url": "https://github.com/goharbor/harbor"
   },
   "google/cadvisor": {
     "description": "Analyzes resource usage and performance characteristics of running containers.",
     "isArchived": false,
-    "pushedAt": "2026-07-13T12:36:20Z",
-    "stargazerCount": 19285,
-    "status": "🔥",
+    "pushedAt": "2026-07-20T21:23:51Z",
+    "stargazerCount": 19322,
+    "status": "",
     "url": "https://github.com/google/cadvisor"
   },
   "gorhill/uBlock": {
     "description": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.",
     "isArchived": false,
-    "pushedAt": "2026-07-14T19:49:09Z",
-    "stargazerCount": 66242,
+    "pushedAt": "2026-07-30T16:59:24Z",
+    "stargazerCount": 66665,
     "status": "🔥",
     "url": "https://github.com/gorhill/uBlock"
   },
   "grafana/docker-otel-lgtm": {
     "description": "An OpenTelemetry backend in a Docker container image",
     "isArchived": false,
-    "pushedAt": "2026-07-14T20:50:16Z",
-    "stargazerCount": 1935,
+    "pushedAt": "2026-08-01T06:05:12Z",
+    "stargazerCount": 1969,
     "status": "🔥",
     "url": "https://github.com/grafana/docker-otel-lgtm"
   },
   "grafana/loki": {
     "description": "Like Prometheus, but for logs.",
     "isArchived": false,
-    "pushedAt": "2026-07-15T06:43:12Z",
-    "stargazerCount": 28562,
+    "pushedAt": "2026-08-01T06:26:06Z",
+    "stargazerCount": 28652,
     "status": "🔥",
     "url": "https://github.com/grafana/loki"
   },
   "gramps-project/gramps-web": {
     "description": "Open Source Online Genealogy System",
     "isArchived": false,
-    "pushedAt": "2026-07-13T15:38:11Z",
-    "stargazerCount": 1529,
+    "pushedAt": "2026-07-29T15:04:34Z",
+    "stargazerCount": 1580,
     "status": "🔥",
     "url": "https://github.com/gramps-project/gramps-web"
   },
   "gtsteffaniak/filebrowser": {
     "description": "📂 Web File Browser",
     "isArchived": false,
-    "pushedAt": "2026-07-24T20:44:35Z",
-    "stargazerCount": 7533,
+    "pushedAt": "2026-07-31T23:30:10Z",
+    "stargazerCount": 7604,
     "status": "🔥",
     "url": "https://github.com/gtsteffaniak/filebrowser"
   },
@@ -1806,7 +1806,7 @@
     "description": "A web frontend for the headscale Tailscale-compatible coordination server",
     "isArchived": false,
     "pushedAt": "2026-03-16T19:37:30Z",
-    "stargazerCount": 2677,
+    "stargazerCount": 2690,
     "status": "",
     "url": "https://github.com/gurucomputing/headscale-ui"
   },
@@ -1829,9 +1829,9 @@
   "hashcat/hashcat": {
     "description": "World's fastest and most advanced password recovery utility",
     "isArchived": false,
-    "pushedAt": "2026-02-20T11:54:48Z",
-    "stargazerCount": 26331,
-    "status": "",
+    "pushedAt": "2026-07-31T11:30:30Z",
+    "stargazerCount": 26451,
+    "status": "🔥",
     "url": "https://github.com/hashcat/hashcat"
   },
   "heiniha/Nagios-Responsive-HTML-Email-Notifications": {
@@ -1845,8 +1845,8 @@
   "henrygd/beszel": {
     "description": "Lightweight server monitoring with historical data, docker stats, and alerts.",
     "isArchived": false,
-    "pushedAt": "2026-06-29T04:59:54Z",
-    "stargazerCount": 23515,
+    "pushedAt": "2026-07-19T13:06:16Z",
+    "stargazerCount": 23929,
     "status": "",
     "url": "https://github.com/henrygd/beszel"
   },
@@ -1854,7 +1854,7 @@
     "description": "This script allows to bypass Oracle Cloud Infrastructure 'Out of host capacity' error immediately when additional OCI capacity will appear in your Home Region / Availability domain.",
     "isArchived": true,
     "pushedAt": "2024-08-13T15:32:17Z",
-    "stargazerCount": 1296,
+    "stargazerCount": 1304,
     "status": "📦",
     "url": "https://github.com/hitrov/oci-arm-host-capacity"
   },
@@ -1862,15 +1862,15 @@
     "description": "An icon taskbar for the Gnome Shell. This extension moves the dash into the gnome main panel so that the application launchers and system tray are combined into a single panel, similar to that found in KDE Plasma and Windows 7+. A separate dock is no longer needed for easy access to running and favorited applications.",
     "isArchived": false,
     "pushedAt": "2026-05-06T14:06:29Z",
-    "stargazerCount": 4412,
+    "stargazerCount": 4421,
     "status": "",
     "url": "https://github.com/home-sweet-gnome/dash-to-panel"
   },
   "homeassistant-ai/ha-mcp": {
     "description": "The Unofficial and Awesome Home Assistant MCP Server",
     "isArchived": false,
-    "pushedAt": "2026-07-14T19:33:01Z",
-    "stargazerCount": 3979,
+    "pushedAt": "2026-08-01T03:43:41Z",
+    "stargazerCount": 4198,
     "status": "🔥",
     "url": "https://github.com/homeassistant-ai/ha-mcp"
   },
@@ -1886,31 +1886,31 @@
     "description": "Mod repo for Tears of The Kingdom (TOTK) for Switch and Switch Emulation",
     "isArchived": false,
     "pushedAt": "2025-05-02T07:39:41Z",
-    "stargazerCount": 3152,
+    "stargazerCount": 3148,
     "status": "💤",
     "url": "https://github.com/hoverbike1/TOTK-Mods-collection"
   },
   "hrkfdn/ncspot": {
     "description": "Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.",
     "isArchived": false,
-    "pushedAt": "2026-07-13T14:56:46Z",
-    "stargazerCount": 6704,
+    "pushedAt": "2026-07-27T19:59:56Z",
+    "stargazerCount": 6711,
     "status": "🔥",
     "url": "https://github.com/hrkfdn/ncspot"
   },
   "hurlenko/filebrowser-docker": {
     "description": "🐳 filebrowser inside Docker container",
     "isArchived": false,
-    "pushedAt": "2026-07-05T01:42:00Z",
-    "stargazerCount": 443,
-    "status": "",
+    "pushedAt": "2026-07-28T01:14:36Z",
+    "stargazerCount": 444,
+    "status": "🔥",
     "url": "https://github.com/hurlenko/filebrowser-docker"
   },
   "hydralauncher/hydra": {
     "description": "Hydra Launcher is an open-source gaming platform created to be the single tool that you need",
     "isArchived": false,
-    "pushedAt": "2026-07-15T06:39:56Z",
-    "stargazerCount": 16400,
+    "pushedAt": "2026-08-01T05:02:30Z",
+    "stargazerCount": 16513,
     "status": "🔥",
     "url": "https://github.com/hydralauncher/hydra"
   },
@@ -1918,15 +1918,15 @@
     "description": "Awesome list for Hyprland [maintainer=@yavko]",
     "isArchived": false,
     "pushedAt": "2026-06-14T05:36:41Z",
-    "stargazerCount": 5188,
+    "stargazerCount": 5212,
     "status": "",
     "url": "https://github.com/hyprland-community/awesome-hyprland"
   },
   "immich-app/immich": {
     "description": "High performance self-hosted photo and video management solution.",
     "isArchived": false,
-    "pushedAt": "2026-07-15T04:30:49Z",
-    "stargazerCount": 107709,
+    "pushedAt": "2026-08-01T08:01:58Z",
+    "stargazerCount": 109425,
     "status": "🔥",
     "url": "https://github.com/immich-app/immich"
   },
@@ -1934,39 +1934,39 @@
     "description": "An evolving how-to guide for securing a Linux server.",
     "isArchived": false,
     "pushedAt": "2026-07-13T18:25:52Z",
-    "stargazerCount": 29462,
-    "status": "🔥",
+    "stargazerCount": 30048,
+    "status": "",
     "url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server"
   },
   "infinition/Bjorn": {
     "description": "Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potential vulnerabilities. Bjorn can perform brute force attacks, file stealing, host zombification, and supports custom attack scripts.",
     "isArchived": false,
-    "pushedAt": "2026-05-05T11:11:19Z",
-    "stargazerCount": 6168,
+    "pushedAt": "2026-07-20T13:09:12Z",
+    "stargazerCount": 6198,
     "status": "",
     "url": "https://github.com/infinition/Bjorn"
   },
   "infoslack/awesome-web-hacking": {
     "description": "A list of web application security",
     "isArchived": false,
-    "pushedAt": "2026-07-06T13:41:47Z",
-    "stargazerCount": 7057,
-    "status": "",
+    "pushedAt": "2026-07-26T01:27:23Z",
+    "stargazerCount": 7210,
+    "status": "🔥",
     "url": "https://github.com/infoslack/awesome-web-hacking"
   },
   "intro-skipper/intro-skipper": {
     "description": "Automatically detect and skip intro/credit sequences in Jellyfin",
     "isArchived": false,
-    "pushedAt": "2026-07-15T06:24:39Z",
-    "stargazerCount": 2552,
+    "pushedAt": "2026-08-01T07:46:14Z",
+    "stargazerCount": 2610,
     "status": "🔥",
     "url": "https://github.com/intro-skipper/intro-skipper"
   },
   "iptv-org/iptv": {
     "description": "Collection of publicly available IPTV channels from all over the world",
     "isArchived": false,
-    "pushedAt": "2026-07-15T06:14:24Z",
-    "stargazerCount": 133017,
+    "pushedAt": "2026-08-01T00:28:19Z",
+    "stargazerCount": 134788,
     "status": "🔥",
     "url": "https://github.com/iptv-org/iptv"
   },
@@ -1975,7 +1975,7 @@
     "isArchived": false,
     "pushedAt": "2026-07-09T14:30:53Z",
     "stargazerCount": 532,
-    "status": "🔥",
+    "status": "",
     "url": "https://github.com/ironicbadger/pms-wiki"
   },
   "itzmeanjan/twiz": {
@@ -1989,16 +1989,16 @@
   "jaedle/mirror-to-gitea": {
     "description": "Mirror your github repositories to your gitea server",
     "isArchived": false,
-    "pushedAt": "2026-05-27T16:42:04Z",
-    "stargazerCount": 226,
+    "pushedAt": "2026-07-16T20:22:16Z",
+    "stargazerCount": 225,
     "status": "",
     "url": "https://github.com/jaedle/mirror-to-gitea"
   },
   "jamiepine/voicebox": {
     "description": "The open-source AI voice studio. Clone, dictate, create.",
     "isArchived": false,
-    "pushedAt": "2026-07-13T01:35:17Z",
-    "stargazerCount": 41386,
+    "pushedAt": "2026-07-28T02:20:57Z",
+    "stargazerCount": 47746,
     "status": "🔥",
     "url": "https://github.com/jamiepine/voicebox"
   },
@@ -2006,7 +2006,7 @@
     "description": ":books: Web app for browsing, reading and downloading eBooks stored in a Calibre database",
     "isArchived": false,
     "pushedAt": "2026-05-24T08:20:51Z",
-    "stargazerCount": 17696,
+    "stargazerCount": 17777,
     "status": "",
     "url": "https://github.com/janeczku/calibre-web"
   },
@@ -2021,16 +2021,16 @@
   "jayofelony/pwnagotchi": {
     "description": "(⌐■_■) - Raspberry Pi instrumenting Bettercap for Wi-Fi pwning.",
     "isArchived": false,
-    "pushedAt": "2026-07-09T21:16:47Z",
-    "stargazerCount": 2795,
+    "pushedAt": "2026-07-28T20:08:19Z",
+    "stargazerCount": 2828,
     "status": "🔥",
     "url": "https://github.com/jayofelony/pwnagotchi"
   },
   "jellyfin/jellyfin": {
     "description": "The Free Software Media System - Server Backend & API",
     "isArchived": false,
-    "pushedAt": "2026-07-15T05:57:57Z",
-    "stargazerCount": 54286,
+    "pushedAt": "2026-07-31T17:08:57Z",
+    "stargazerCount": 55235,
     "status": "🔥",
     "url": "https://github.com/jellyfin/jellyfin"
   },
@@ -2038,23 +2038,23 @@
     "description": "The lazier way to manage everything docker",
     "isArchived": false,
     "pushedAt": "2026-04-19T02:51:06Z",
-    "stargazerCount": 52041,
+    "stargazerCount": 52265,
     "status": "",
     "url": "https://github.com/jesseduffield/lazydocker"
   },
   "jesseduffield/lazygit": {
     "description": "simple terminal UI for git commands",
     "isArchived": false,
-    "pushedAt": "2026-07-15T00:03:29Z",
-    "stargazerCount": 80378,
+    "pushedAt": "2026-07-31T11:22:25Z",
+    "stargazerCount": 80915,
     "status": "🔥",
     "url": "https://github.com/jesseduffield/lazygit"
   },
   "jhuckaby/Cronicle": {
     "description": "A simple, distributed task scheduler and runner with a web based UI.",
     "isArchived": false,
-    "pushedAt": "2026-07-09T16:03:24Z",
-    "stargazerCount": 5771,
+    "pushedAt": "2026-07-30T18:10:00Z",
+    "stargazerCount": 5789,
     "status": "🔥",
     "url": "https://github.com/jhuckaby/Cronicle"
   },
@@ -2062,7 +2062,7 @@
     "description": "A board replacement for the classic Casio F-91W wristwatch",
     "isArchived": false,
     "pushedAt": "2026-04-08T04:16:51Z",
-    "stargazerCount": 2023,
+    "stargazerCount": 2035,
     "status": "",
     "url": "https://github.com/joeycastillo/Sensor-Watch"
   },
@@ -2070,7 +2070,7 @@
     "description": "⚠️ Browser fingerprinting via favicon!",
     "isArchived": true,
     "pushedAt": "2025-11-18T09:17:49Z",
-    "stargazerCount": 7360,
+    "stargazerCount": 7372,
     "status": "📦",
     "url": "https://github.com/jonasstrehle/supercookie"
   },
@@ -2085,8 +2085,8 @@
   "jordond/jolt": {
     "description": "⚡️A terminal-based battery and energy monitor for macOS and Linux.",
     "isArchived": false,
-    "pushedAt": "2026-07-11T03:43:52Z",
-    "stargazerCount": 509,
+    "pushedAt": "2026-07-24T21:38:10Z",
+    "stargazerCount": 523,
     "status": "🔥",
     "url": "https://github.com/jordond/jolt"
   },
@@ -2101,16 +2101,16 @@
   "juanfont/headscale": {
     "description": "An open source, self-hosted implementation of the Tailscale control server",
     "isArchived": false,
-    "pushedAt": "2026-07-03T05:27:09Z",
-    "stargazerCount": 41748,
-    "status": "",
+    "pushedAt": "2026-07-30T10:20:13Z",
+    "stargazerCount": 42366,
+    "status": "🔥",
     "url": "https://github.com/juanfont/headscale"
   },
   "junegunn/fzf": {
     "description": ":cherry_blossom: A command-line fuzzy finder",
     "isArchived": false,
-    "pushedAt": "2026-07-10T12:49:59Z",
-    "stargazerCount": 81740,
+    "pushedAt": "2026-08-01T00:17:53Z",
+    "stargazerCount": 82099,
     "status": "🔥",
     "url": "https://github.com/junegunn/fzf"
   },
@@ -2118,7 +2118,7 @@
     "description": "A complete computer science study plan to become a software engineer.",
     "isArchived": false,
     "pushedAt": "2025-08-28T14:42:47Z",
-    "stargazerCount": 356235,
+    "stargazerCount": 357581,
     "status": "",
     "url": "https://github.com/jwasham/coding-interview-university"
   },
@@ -2126,7 +2126,7 @@
     "description": "Free Mobile Filtres Démarchage",
     "isArchived": false,
     "pushedAt": "2025-06-02T22:54:15Z",
-    "stargazerCount": 8,
+    "stargazerCount": 9,
     "status": "💤",
     "url": "https://github.com/jystervinou/free-mobile-filtres-demarchage"
   },
@@ -2134,23 +2134,23 @@
     "description": "A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.",
     "isArchived": false,
     "pushedAt": "2024-03-26T23:45:17Z",
-    "stargazerCount": 24318,
+    "stargazerCount": 24338,
     "status": "💤",
     "url": "https://github.com/kahun/awesome-sysadmin"
   },
   "karlomikus/bar-assistant": {
     "description": "Bar assistant is a all-in-one solution for managing your home bar",
     "isArchived": false,
-    "pushedAt": "2026-07-12T09:10:36Z",
-    "stargazerCount": 1052,
-    "status": "🔥",
+    "pushedAt": "2026-07-19T11:07:03Z",
+    "stargazerCount": 1055,
+    "status": "",
     "url": "https://github.com/karlomikus/bar-assistant"
   },
   "keeweb/keeweb": {
     "description": "Free cross-platform password manager compatible with KeePass",
     "isArchived": false,
     "pushedAt": "2026-05-08T03:29:03Z",
-    "stargazerCount": 12967,
+    "stargazerCount": 12968,
     "status": "",
     "url": "https://github.com/keeweb/keeweb"
   },
@@ -2158,7 +2158,7 @@
     "description": "The best way to write secure and reliable applications. Write nothing; deploy nowhere.",
     "isArchived": false,
     "pushedAt": "2024-08-07T03:19:12Z",
-    "stargazerCount": 65485,
+    "stargazerCount": 65562,
     "status": "💤",
     "url": "https://github.com/kelseyhightower/nocode"
   },
@@ -2166,7 +2166,7 @@
     "description": "Rick Astley invades your terminal.",
     "isArchived": false,
     "pushedAt": "2023-10-21T21:18:53Z",
-    "stargazerCount": 1444,
+    "stargazerCount": 1447,
     "status": "💤",
     "url": "https://github.com/keroserene/rickrollrc"
   },
@@ -2181,8 +2181,8 @@
   "keylase/nvidia-patch": {
     "description": " This patch removes restriction on maximum number of simultaneous NVENC video encoding sessions imposed by Nvidia to consumer-grade GPUs.",
     "isArchived": false,
-    "pushedAt": "2026-07-13T05:00:22Z",
-    "stargazerCount": 4732,
+    "pushedAt": "2026-07-29T10:48:07Z",
+    "stargazerCount": 4748,
     "status": "🔥",
     "url": "https://github.com/keylase/nvidia-patch"
   },
@@ -2190,15 +2190,15 @@
     "description": "Email OSINT & Password breach hunting tool, locally or using premium services. Supports chasing down related email",
     "isArchived": false,
     "pushedAt": "2023-08-15T10:50:34Z",
-    "stargazerCount": 5092,
+    "stargazerCount": 5226,
     "status": "💤",
     "url": "https://github.com/khast3x/h8mail"
   },
   "koala73/worldmonitor": {
     "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
     "isArchived": false,
-    "pushedAt": "2026-07-15T02:49:51Z",
-    "stargazerCount": 61869,
+    "pushedAt": "2026-08-01T08:03:15Z",
+    "stargazerCount": 77557,
     "status": "🔥",
     "url": "https://github.com/koala73/worldmonitor"
   },
@@ -2206,47 +2206,47 @@
     "description": "ShellCheck, a static analysis tool for shell scripts",
     "isArchived": false,
     "pushedAt": "2026-06-19T08:32:27Z",
-    "stargazerCount": 39716,
+    "stargazerCount": 39796,
     "status": "",
     "url": "https://github.com/koalaman/shellcheck"
   },
   "kunchenguid/axi": {
     "description": "Design principles for agent ergonomics. Higher accuracy with lower token cost than both MCP and regular CLI.",
     "isArchived": false,
-    "pushedAt": "2026-07-23T07:00:47Z",
-    "stargazerCount": 1660,
+    "pushedAt": "2026-07-31T16:52:32Z",
+    "stargazerCount": 1712,
     "status": "🔥",
     "url": "https://github.com/kunchenguid/axi"
   },
   "kunchenguid/firstmate": {
     "description": "Talk to one agent. Ship with a crew.",
     "isArchived": false,
-    "pushedAt": "2026-07-29T06:12:45Z",
-    "stargazerCount": 2204,
+    "pushedAt": "2026-08-01T08:00:43Z",
+    "stargazerCount": 2560,
     "status": "🔥",
     "url": "https://github.com/kunchenguid/firstmate"
   },
   "kunchenguid/gnhf": {
     "description": "Before I go to bed, I tell my agents: good night, have fun",
     "isArchived": false,
-    "pushedAt": "2026-07-23T07:01:20Z",
-    "stargazerCount": 3452,
+    "pushedAt": "2026-07-31T16:53:09Z",
+    "stargazerCount": 3505,
     "status": "🔥",
     "url": "https://github.com/kunchenguid/gnhf"
   },
   "kunchenguid/lavish-axi": {
     "description": "HTML is the new markdown. Lavish is the new editor for your HTML artifacts.",
     "isArchived": false,
-    "pushedAt": "2026-07-23T20:40:40Z",
-    "stargazerCount": 2303,
+    "pushedAt": "2026-07-31T23:06:55Z",
+    "stargazerCount": 2429,
     "status": "🔥",
     "url": "https://github.com/kunchenguid/lavish-axi"
   },
   "kunchenguid/no-mistakes": {
     "description": "git push no-mistakes",
     "isArchived": false,
-    "pushedAt": "2026-07-29T03:26:11Z",
-    "stargazerCount": 7179,
+    "pushedAt": "2026-08-01T06:16:51Z",
+    "stargazerCount": 7292,
     "status": "🔥",
     "url": "https://github.com/kunchenguid/no-mistakes"
   },
@@ -2254,23 +2254,23 @@
     "description": "Animal Crossing: New Horizons save editor",
     "isArchived": false,
     "pushedAt": "2026-05-23T22:18:58Z",
-    "stargazerCount": 1237,
+    "stargazerCount": 1240,
     "status": "",
     "url": "https://github.com/kwsch/NHSE"
   },
   "l4rm4nd/LinkedInDumper": {
     "description": "Python 3 script to dump/scrape/extract company employees from LinkedIn API",
     "isArchived": false,
-    "pushedAt": "2026-07-14T08:34:47Z",
-    "stargazerCount": 601,
-    "status": "🔥",
+    "pushedAt": "2026-07-15T07:10:10Z",
+    "stargazerCount": 604,
+    "status": "",
     "url": "https://github.com/l4rm4nd/LinkedInDumper"
   },
   "liketrek/TREK": {
     "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
     "isArchived": false,
-    "pushedAt": "2026-07-19T08:25:10Z",
-    "stargazerCount": 10412,
+    "pushedAt": "2026-07-31T13:41:11Z",
+    "stargazerCount": 11311,
     "status": "🔥",
     "url": "https://github.com/liketrek/TREK"
   },
@@ -2278,7 +2278,7 @@
     "description": "Copy playlists and liked music from Spotify to YTMusic",
     "isArchived": false,
     "pushedAt": "2026-04-13T19:32:08Z",
-    "stargazerCount": 4572,
+    "stargazerCount": 4576,
     "status": "",
     "url": "https://github.com/linsomniac/spotify_to_ytmusic"
   },
@@ -2286,23 +2286,23 @@
     "description": "Linux Kernel for Surface Devices",
     "isArchived": false,
     "pushedAt": "2026-05-18T10:15:50Z",
-    "stargazerCount": 7480,
+    "stargazerCount": 7540,
     "status": "",
     "url": "https://github.com/linux-surface/linux-surface"
   },
   "lissy93/web-check": {
     "description": "🕵️‍♂️ All-in-one OSINT tool for analysing any website",
     "isArchived": false,
-    "pushedAt": "2026-07-11T07:28:44Z",
-    "stargazerCount": 34155,
+    "pushedAt": "2026-07-31T16:48:04Z",
+    "stargazerCount": 34338,
     "status": "🔥",
     "url": "https://github.com/lissy93/web-check"
   },
   "logseq/logseq": {
     "description": "A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV",
     "isArchived": false,
-    "pushedAt": "2026-07-15T03:19:32Z",
-    "stargazerCount": 43878,
+    "pushedAt": "2026-07-31T22:08:15Z",
+    "stargazerCount": 44186,
     "status": "🔥",
     "url": "https://github.com/logseq/logseq"
   },
@@ -2317,8 +2317,8 @@
   "louislam/uptime-kuma": {
     "description": "A fancy self-hosted monitoring tool",
     "isArchived": false,
-    "pushedAt": "2026-07-15T00:17:31Z",
-    "stargazerCount": 89134,
+    "pushedAt": "2026-08-01T00:20:48Z",
+    "stargazerCount": 89686,
     "status": "🔥",
     "url": "https://github.com/louislam/uptime-kuma"
   },
@@ -2326,31 +2326,31 @@
     "description": "📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!",
     "isArchived": false,
     "pushedAt": "2026-05-29T21:41:23Z",
-    "stargazerCount": 16918,
+    "stargazerCount": 16996,
     "status": "",
     "url": "https://github.com/lowlighter/metrics"
   },
   "lutris/lutris": {
     "description": "Lutris desktop client",
     "isArchived": false,
-    "pushedAt": "2026-07-14T23:41:44Z",
-    "stargazerCount": 10085,
+    "pushedAt": "2026-07-30T19:07:27Z",
+    "stargazerCount": 10124,
     "status": "🔥",
     "url": "https://github.com/lutris/lutris"
   },
   "m1k1o/neko": {
     "description": "A self hosted virtual browser that runs in docker and uses WebRTC.",
     "isArchived": false,
-    "pushedAt": "2026-06-14T06:05:10Z",
-    "stargazerCount": 21390,
-    "status": "",
+    "pushedAt": "2026-07-31T13:02:05Z",
+    "stargazerCount": 21816,
+    "status": "🔥",
     "url": "https://github.com/m1k1o/neko"
   },
   "mackieks/Kawaii": {
     "description": "Tiny, beautiful metal Wii keychain",
     "isArchived": false,
     "pushedAt": "2026-05-22T02:01:38Z",
-    "stargazerCount": 349,
+    "stargazerCount": 354,
     "status": "",
     "url": "https://github.com/mackieks/Kawaii"
   },
@@ -2366,7 +2366,7 @@
     "description": "This is the master Information repository for MaNGOS",
     "isArchived": false,
     "pushedAt": "2026-03-06T06:02:51Z",
-    "stargazerCount": 3101,
+    "stargazerCount": 3102,
     "status": "",
     "url": "https://github.com/mangos/MaNGOS"
   },
@@ -2382,15 +2382,15 @@
     "description": "High Performance Minecraft Map Renderer.",
     "isArchived": false,
     "pushedAt": "2024-04-25T16:09:42Z",
-    "stargazerCount": 639,
+    "stargazerCount": 642,
     "status": "💤",
     "url": "https://github.com/mapcrafter/mapcrafter"
   },
   "marcrobledo/savegame-editors": {
     "description": "A compilation of console savegame editors made with HTML5 technologies.",
     "isArchived": false,
-    "pushedAt": "2026-06-24T15:10:12Z",
-    "stargazerCount": 1289,
+    "pushedAt": "2026-07-21T10:24:28Z",
+    "stargazerCount": 1294,
     "status": "",
     "url": "https://github.com/marcrobledo/savegame-editors"
   },
@@ -2398,15 +2398,15 @@
     "description": "Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.",
     "isArchived": false,
     "pushedAt": "2026-07-04T16:54:38Z",
-    "stargazerCount": 183182,
+    "stargazerCount": 185527,
     "status": "",
     "url": "https://github.com/massgravel/Microsoft-Activation-Scripts"
   },
   "mastodon/mastodon": {
     "description": "Your self-hosted, globally interconnected microblogging community",
     "isArchived": false,
-    "pushedAt": "2026-07-15T05:13:47Z",
-    "stargazerCount": 50119,
+    "pushedAt": "2026-08-01T05:28:25Z",
+    "stargazerCount": 50155,
     "status": "🔥",
     "url": "https://github.com/mastodon/mastodon"
   },
@@ -2414,7 +2414,7 @@
     "description": "📌✨ A collection of awesome dynamic pinned gists for GitHub",
     "isArchived": false,
     "pushedAt": "2025-08-05T04:12:43Z",
-    "stargazerCount": 2097,
+    "stargazerCount": 2102,
     "status": "",
     "url": "https://github.com/matchai/awesome-pinned-gists"
   },
@@ -2422,7 +2422,7 @@
     "description": "✨ A different take on designing a Lovelace UI (Dashboard)",
     "isArchived": false,
     "pushedAt": "2024-08-13T14:01:16Z",
-    "stargazerCount": 5185,
+    "stargazerCount": 5188,
     "status": "💤",
     "url": "https://github.com/matt8707/hass-config"
   },
@@ -2430,47 +2430,39 @@
     "description": "An informational website about why you should ask questions directly instead of asking to ask",
     "isArchived": false,
     "pushedAt": "2026-01-19T18:46:53Z",
-    "stargazerCount": 511,
+    "stargazerCount": 514,
     "status": "",
     "url": "https://github.com/maunium/dontasktoask.com"
-  },
-  "mauriceboe/TREK": {
-    "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
-    "isArchived": false,
-    "pushedAt": "2026-07-14T18:56:48Z",
-    "stargazerCount": 10348,
-    "status": "🔥",
-    "url": "https://github.com/mauriceboe/TREK"
   },
   "maurosoria/dirsearch": {
     "description": "Web path scanner",
     "isArchived": false,
-    "pushedAt": "2026-07-01T03:25:55Z",
-    "stargazerCount": 14493,
-    "status": "",
+    "pushedAt": "2026-07-28T03:06:56Z",
+    "stargazerCount": 14560,
+    "status": "🔥",
     "url": "https://github.com/maurosoria/dirsearch"
   },
   "maybe-finance/maybe": {
     "description": "The personal finance app for everyone",
     "isArchived": true,
     "pushedAt": "2025-07-24T22:20:44Z",
-    "stargazerCount": 54338,
+    "stargazerCount": 54355,
     "status": "📦",
     "url": "https://github.com/maybe-finance/maybe"
   },
   "mbround18/valheim-docker": {
     "description": "Valheim Docker powered by Odin. The Valheim dedicated gameserver manager which is designed with resiliency in mind by providing automatic updates, world backup support, and a user friendly cli interface. ",
     "isArchived": false,
-    "pushedAt": "2026-07-12T09:37:39Z",
-    "stargazerCount": 837,
+    "pushedAt": "2026-07-24T16:03:07Z",
+    "stargazerCount": 836,
     "status": "🔥",
     "url": "https://github.com/mbround18/valheim-docker"
   },
   "mealie-recipes/mealie": {
     "description": "Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor",
     "isArchived": false,
-    "pushedAt": "2026-07-15T02:10:42Z",
-    "stargazerCount": 12690,
+    "pushedAt": "2026-07-31T19:00:47Z",
+    "stargazerCount": 12865,
     "status": "🔥",
     "url": "https://github.com/mealie-recipes/mealie"
   },
@@ -2478,7 +2470,7 @@
     "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
     "isArchived": false,
     "pushedAt": "2024-09-10T20:24:32Z",
-    "stargazerCount": 11689,
+    "stargazerCount": 11866,
     "status": "💤",
     "url": "https://github.com/megadose/holehe"
   },
@@ -2486,7 +2478,7 @@
     "description": "ignorant allows you to check if a phone number is used on different sites like snapchat, instagram.",
     "isArchived": false,
     "pushedAt": "2024-07-27T06:11:44Z",
-    "stargazerCount": 1920,
+    "stargazerCount": 1973,
     "status": "💤",
     "url": "https://github.com/megadose/ignorant"
   },
@@ -2494,15 +2486,15 @@
     "description": "Toutatis is a tool that allows you to extract information from instagrams accounts such as e-mails, phone numbers and more",
     "isArchived": false,
     "pushedAt": "2024-12-05T21:46:49Z",
-    "stargazerCount": 4088,
+    "stargazerCount": 4140,
     "status": "💤",
     "url": "https://github.com/megadose/toutatis"
   },
   "metabrainz/picard": {
     "description": "Picard is a cross-platform music tagger powered by the MusicBrainz database",
     "isArchived": false,
-    "pushedAt": "2026-07-14T20:36:19Z",
-    "stargazerCount": 5013,
+    "pushedAt": "2026-07-31T19:12:49Z",
+    "stargazerCount": 5067,
     "status": "🔥",
     "url": "https://github.com/metabrainz/picard"
   },
@@ -2510,23 +2502,23 @@
     "description": "The Google Drive/OneDrive/etc alternative using Telegram API",
     "isArchived": true,
     "pushedAt": "2023-10-18T03:13:32Z",
-    "stargazerCount": 2045,
+    "stargazerCount": 2041,
     "status": "📦",
     "url": "https://github.com/mgilangjanuar/teledrive"
   },
   "mickael-kerjean/filestash": {
     "description": ":file_folder: Universal File Storage Client",
     "isArchived": false,
-    "pushedAt": "2026-07-14T12:58:00Z",
-    "stargazerCount": 14380,
+    "pushedAt": "2026-07-27T03:58:22Z",
+    "stargazerCount": 14432,
     "status": "🔥",
     "url": "https://github.com/mickael-kerjean/filestash"
   },
   "microsoft/WSL": {
     "description": "Windows Subsystem for Linux",
     "isArchived": false,
-    "pushedAt": "2026-07-15T02:55:25Z",
-    "stargazerCount": 33093,
+    "pushedAt": "2026-08-01T08:03:40Z",
+    "stargazerCount": 33263,
     "status": "🔥",
     "url": "https://github.com/microsoft/WSL"
   },
@@ -2534,7 +2526,7 @@
     "description": "🎮   Step-by-step instructions on how to recreate Amiibo cards for Animal Crossing: New Horizons. For educational purposes only. Series 5 data uploaded.",
     "isArchived": false,
     "pushedAt": "2026-06-28T10:52:02Z",
-    "stargazerCount": 971,
+    "stargazerCount": 976,
     "status": "",
     "url": "https://github.com/miffycs/Animal-Crossing-Amiibo"
   },
@@ -2542,39 +2534,39 @@
     "description": "Custom regex filter list for use with Pi-hole.",
     "isArchived": false,
     "pushedAt": "2024-04-27T00:47:02Z",
-    "stargazerCount": 1373,
+    "stargazerCount": 1375,
     "status": "💤",
     "url": "https://github.com/mmotti/pihole-regex"
   },
   "mollyim/mollyim-android": {
     "description": "Enhanced and security-focused fork of Signal.",
     "isArchived": false,
-    "pushedAt": "2026-07-18T00:38:52Z",
-    "stargazerCount": 3562,
+    "pushedAt": "2026-07-31T08:54:50Z",
+    "stargazerCount": 3609,
     "status": "🔥",
     "url": "https://github.com/mollyim/mollyim-android"
   },
   "mostafa-wahied/portracker": {
     "description": "An open source, self-hosted, real-time port monitoring and discovery tool.",
     "isArchived": false,
-    "pushedAt": "2026-05-06T17:04:12Z",
-    "stargazerCount": 2248,
+    "pushedAt": "2026-07-17T22:52:12Z",
+    "stargazerCount": 2352,
     "status": "",
     "url": "https://github.com/mostafa-wahied/portracker"
   },
   "motioneye-project/motioneye": {
     "description": "A web frontend for the motion daemon.",
     "isArchived": false,
-    "pushedAt": "2026-07-14T15:34:21Z",
-    "stargazerCount": 4631,
+    "pushedAt": "2026-07-31T17:10:31Z",
+    "stargazerCount": 4648,
     "status": "🔥",
     "url": "https://github.com/motioneye-project/motioneye"
   },
   "movim/movim": {
     "description": "Movim - Decentralized social platform",
     "isArchived": false,
-    "pushedAt": "2026-07-13T12:17:15Z",
-    "stargazerCount": 2029,
+    "pushedAt": "2026-07-30T16:54:48Z",
+    "stargazerCount": 2034,
     "status": "🔥",
     "url": "https://github.com/movim/movim"
   },
@@ -2582,15 +2574,15 @@
     "description": "A minimalist, easy-to-host service for sharing images and other files",
     "isArchived": false,
     "pushedAt": "2026-07-14T17:19:49Z",
-    "stargazerCount": 2964,
-    "status": "🔥",
+    "stargazerCount": 2970,
+    "status": "",
     "url": "https://github.com/mtlynch/picoshare"
   },
   "muesli/duf": {
     "description": "Disk Usage/Free Utility - a better 'df' alternative",
     "isArchived": false,
     "pushedAt": "2026-01-13T11:07:14Z",
-    "stargazerCount": 15194,
+    "stargazerCount": 15228,
     "status": "",
     "url": "https://github.com/muesli/duf"
   },
@@ -2598,7 +2590,7 @@
     "description": "A grid-based, modular dashboard built entirely from HTML, CSS, and JS with the ability to create your custom API integrations.",
     "isArchived": false,
     "pushedAt": "2025-11-28T15:27:11Z",
-    "stargazerCount": 684,
+    "stargazerCount": 685,
     "status": "",
     "url": "https://github.com/mult1v4c/hestia-core"
   },
@@ -2606,7 +2598,7 @@
     "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
     "isArchived": false,
     "pushedAt": "2026-04-20T10:05:04Z",
-    "stargazerCount": 192437,
+    "stargazerCount": 198318,
     "status": "",
     "url": "https://github.com/multica-ai/andrej-karpathy-skills"
   },
@@ -2614,15 +2606,15 @@
     "description": "CF-Hero is a reconnaissance tool that uses multiple data sources to discover the origin IP addresses of Cloudflare-protected web applications",
     "isArchived": false,
     "pushedAt": "2026-06-26T05:43:09Z",
-    "stargazerCount": 2611,
+    "stargazerCount": 2619,
     "status": "",
     "url": "https://github.com/musana/CF-Hero"
   },
   "mvt-project/mvt": {
     "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
     "isArchived": false,
-    "pushedAt": "2026-07-15T06:32:13Z",
-    "stargazerCount": 12700,
+    "pushedAt": "2026-07-30T09:29:40Z",
+    "stargazerCount": 12809,
     "status": "🔥",
     "url": "https://github.com/mvt-project/mvt"
   },
@@ -2630,15 +2622,15 @@
     "description": "Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox on x86 CPUs for Windows, Linux, and macOS",
     "isArchived": true,
     "pushedAt": "2023-08-06T15:57:37Z",
-    "stargazerCount": 13526,
+    "stargazerCount": 13524,
     "status": "📦",
     "url": "https://github.com/myspaghetti/macos-virtualbox"
   },
   "n8n-io/n8n": {
     "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "isArchived": false,
-    "pushedAt": "2026-07-15T06:42:51Z",
-    "stargazerCount": 196485,
+    "pushedAt": "2026-08-01T07:57:20Z",
+    "stargazerCount": 198906,
     "status": "🔥",
     "url": "https://github.com/n8n-io/n8n"
   },
@@ -2646,63 +2638,63 @@
     "description": "Shell scripts for organizing and managing ebook collections",
     "isArchived": false,
     "pushedAt": "2020-04-11T02:17:38Z",
-    "stargazerCount": 769,
+    "stargazerCount": 770,
     "status": "💤",
     "url": "https://github.com/na--/ebook-tools"
   },
   "navidrome/navidrome": {
     "description": "🎧 Your Personal Streaming Service ",
     "isArchived": false,
-    "pushedAt": "2026-07-15T04:11:09Z",
-    "stargazerCount": 22306,
+    "pushedAt": "2026-07-31T23:21:02Z",
+    "stargazerCount": 22625,
     "status": "🔥",
     "url": "https://github.com/navidrome/navidrome"
   },
   "nektos/act": {
     "description": "Run your GitHub Actions locally 🚀",
     "isArchived": false,
-    "pushedAt": "2026-07-10T19:36:34Z",
-    "stargazerCount": 71067,
+    "pushedAt": "2026-08-01T02:05:47Z",
+    "stargazerCount": 71277,
     "status": "🔥",
     "url": "https://github.com/nektos/act"
   },
   "netbirdio/netbird": {
     "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
     "isArchived": false,
-    "pushedAt": "2026-07-15T05:30:21Z",
-    "stargazerCount": 27261,
+    "pushedAt": "2026-07-31T23:17:05Z",
+    "stargazerCount": 27970,
     "status": "🔥",
     "url": "https://github.com/netbirdio/netbird"
   },
   "netbootxyz/netboot.xyz": {
     "description": "Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.",
     "isArchived": false,
-    "pushedAt": "2026-07-14T19:43:57Z",
-    "stargazerCount": 11933,
+    "pushedAt": "2026-07-31T06:41:58Z",
+    "stargazerCount": 12050,
     "status": "🔥",
     "url": "https://github.com/netbootxyz/netboot.xyz"
   },
   "netdata/netdata": {
     "description": "The fastest path to AI-powered full stack observability, even for lean teams.",
     "isArchived": false,
-    "pushedAt": "2026-07-15T02:36:37Z",
-    "stargazerCount": 79649,
+    "pushedAt": "2026-08-01T06:37:45Z",
+    "stargazerCount": 79964,
     "status": "🔥",
     "url": "https://github.com/netdata/netdata"
   },
   "nginx-proxy/nginx-proxy": {
     "description": "Automated Nginx Reverse Proxy for Docker",
     "isArchived": false,
-    "pushedAt": "2026-07-13T21:13:37Z",
-    "stargazerCount": 19876,
+    "pushedAt": "2026-07-27T13:44:29Z",
+    "stargazerCount": 19887,
     "status": "🔥",
     "url": "https://github.com/nginx-proxy/nginx-proxy"
   },
   "nicholas-fedor/watchtower": {
     "description": "Automate Docker container image updates",
     "isArchived": false,
-    "pushedAt": "2026-07-14T14:38:10Z",
-    "stargazerCount": 4016,
+    "pushedAt": "2026-07-31T22:37:24Z",
+    "stargazerCount": 4183,
     "status": "🔥",
     "url": "https://github.com/nicholas-fedor/watchtower"
   },
@@ -2710,15 +2702,15 @@
     "description": "🔷 A script that generates a rofi menu that uses bluetoothctl to connect to bluetooth devices and display status info.",
     "isArchived": false,
     "pushedAt": "2025-04-14T18:01:05Z",
-    "stargazerCount": 608,
+    "stargazerCount": 609,
     "status": "💤",
     "url": "https://github.com/nickclyde/rofi-bluetooth"
   },
   "nicotsx/zerobyte": {
     "description": "Backup automation for self-hosters. Built on top of restic",
     "isArchived": false,
-    "pushedAt": "2026-07-14T16:08:17Z",
-    "stargazerCount": 6701,
+    "pushedAt": "2026-08-01T05:00:32Z",
+    "stargazerCount": 6767,
     "status": "🔥",
     "url": "https://github.com/nicotsx/zerobyte"
   },
@@ -2726,7 +2718,7 @@
     "description": "",
     "isArchived": false,
     "pushedAt": "2024-08-14T15:37:24Z",
-    "stargazerCount": 1550,
+    "stargazerCount": 1559,
     "status": "💤",
     "url": "https://github.com/nohello-net/site"
   },
@@ -2758,15 +2750,15 @@
     "description": "Make Beautiful Flow Diagrams",
     "isArchived": false,
     "pushedAt": "2026-07-13T03:58:27Z",
-    "stargazerCount": 1395,
-    "status": "🔥",
+    "stargazerCount": 1402,
+    "status": "",
     "url": "https://github.com/nowthis/sankeymatic"
   },
   "nunocoracao/blowfish": {
     "description": "Personal Website & Blog Theme for Hugo",
     "isArchived": false,
-    "pushedAt": "2026-07-15T05:07:46Z",
-    "stargazerCount": 2840,
+    "pushedAt": "2026-07-29T12:03:13Z",
+    "stargazerCount": 2854,
     "status": "🔥",
     "url": "https://github.com/nunocoracao/blowfish"
   },
@@ -2774,7 +2766,7 @@
     "description": "Magnificent app which corrects your previous console command.",
     "isArchived": false,
     "pushedAt": "2024-07-19T14:56:13Z",
-    "stargazerCount": 97526,
+    "stargazerCount": 97586,
     "status": "💤",
     "url": "https://github.com/nvbn/thefuck"
   },
@@ -2782,14 +2774,14 @@
     "description": "Remote-control of OBS Studio through WebSocket",
     "isArchived": false,
     "pushedAt": "2026-06-18T19:23:19Z",
-    "stargazerCount": 4327,
+    "stargazerCount": 4328,
     "status": "",
     "url": "https://github.com/obsproject/obs-websocket"
   },
   "octobox/octobox": {
     "description": "📮 Untangle your GitHub Notifications",
     "isArchived": false,
-    "pushedAt": "2026-07-13T17:39:35Z",
+    "pushedAt": "2026-08-01T00:19:15Z",
     "stargazerCount": 4476,
     "status": "🔥",
     "url": "https://github.com/octobox/octobox"
@@ -2797,32 +2789,32 @@
   "odysseus-dev/odysseus": {
     "description": "Self-hosted AI workspace. ",
     "isArchived": false,
-    "pushedAt": "2026-07-14T14:33:10Z",
-    "stargazerCount": 82934,
+    "pushedAt": "2026-07-30T17:36:14Z",
+    "stargazerCount": 84415,
     "status": "🔥",
     "url": "https://github.com/odysseus-dev/odysseus"
   },
   "offa/android-foss": {
     "description": "A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.",
     "isArchived": false,
-    "pushedAt": "2026-07-14T19:55:16Z",
-    "stargazerCount": 10566,
+    "pushedAt": "2026-07-31T11:14:17Z",
+    "stargazerCount": 10701,
     "status": "🔥",
     "url": "https://github.com/offa/android-foss"
   },
   "ohmyzsh/ohmyzsh": {
     "description": "🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
     "isArchived": false,
-    "pushedAt": "2026-07-12T12:52:29Z",
-    "stargazerCount": 188728,
+    "pushedAt": "2026-07-30T15:41:24Z",
+    "stargazerCount": 188927,
     "status": "🔥",
     "url": "https://github.com/ohmyzsh/ohmyzsh"
   },
   "ollama/ollama": {
-    "description": "Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+    "description": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
     "isArchived": false,
-    "pushedAt": "2026-07-15T06:29:24Z",
-    "stargazerCount": 176131,
+    "pushedAt": "2026-07-31T23:59:29Z",
+    "stargazerCount": 177472,
     "status": "🔥",
     "url": "https://github.com/ollama/ollama"
   },
@@ -2830,63 +2822,63 @@
     "description": "📙 Amazon Web Services — a practical guide",
     "isArchived": false,
     "pushedAt": "2024-08-16T02:51:54Z",
-    "stargazerCount": 36436,
+    "stargazerCount": 36441,
     "status": "💤",
     "url": "https://github.com/open-guides/og-aws"
   },
   "open-webui/open-webui": {
     "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
     "isArchived": false,
-    "pushedAt": "2026-07-15T06:16:57Z",
-    "stargazerCount": 145465,
+    "pushedAt": "2026-08-01T07:57:17Z",
+    "stargazerCount": 147496,
     "status": "🔥",
     "url": "https://github.com/open-webui/open-webui"
   },
   "openclaw/openclaw": {
     "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
     "isArchived": false,
-    "pushedAt": "2026-07-15T06:41:38Z",
-    "stargazerCount": 382968,
+    "pushedAt": "2026-08-01T08:06:24Z",
+    "stargazerCount": 384759,
     "status": "🔥",
     "url": "https://github.com/openclaw/openclaw"
   },
   "openobserve/openobserve": {
     "description": "Open source observability platform for logs, metrics, traces, frontend monitoring, pipelines and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and single binary deployment.",
     "isArchived": false,
-    "pushedAt": "2026-07-15T06:39:04Z",
-    "stargazerCount": 20081,
+    "pushedAt": "2026-08-01T06:27:31Z",
+    "stargazerCount": 20493,
     "status": "🔥",
     "url": "https://github.com/openobserve/openobserve"
   },
   "openwrt/luci": {
     "description": "LuCI - OpenWrt Configuration Interface",
     "isArchived": false,
-    "pushedAt": "2026-07-15T06:00:58Z",
-    "stargazerCount": 7728,
+    "pushedAt": "2026-07-31T13:52:44Z",
+    "stargazerCount": 7757,
     "status": "🔥",
     "url": "https://github.com/openwrt/luci"
   },
   "openwrt/openwrt": {
     "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
     "isArchived": false,
-    "pushedAt": "2026-07-14T21:46:02Z",
-    "stargazerCount": 27548,
+    "pushedAt": "2026-07-31T15:32:18Z",
+    "stargazerCount": 27829,
     "status": "🔥",
     "url": "https://github.com/openwrt/openwrt"
   },
   "orf/gping": {
     "description": "Ping, but with a graph",
     "isArchived": false,
-    "pushedAt": "2026-07-02T10:32:33Z",
-    "stargazerCount": 12560,
-    "status": "",
+    "pushedAt": "2026-07-31T10:33:37Z",
+    "stargazerCount": 12580,
+    "status": "🔥",
     "url": "https://github.com/orf/gping"
   },
   "originalankur/maptoposter": {
     "description": "Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.",
     "isArchived": false,
     "pushedAt": "2026-03-04T17:39:13Z",
-    "stargazerCount": 13775,
+    "stargazerCount": 13865,
     "status": "",
     "url": "https://github.com/originalankur/maptoposter"
   },
@@ -2894,7 +2886,7 @@
     "description": "Whoami provides enhanced privacy, anonymity for Debian and Arch based linux distributions",
     "isArchived": false,
     "pushedAt": "2025-10-13T04:17:18Z",
-    "stargazerCount": 2291,
+    "stargazerCount": 2295,
     "status": "",
     "url": "https://github.com/owerdogan/whoami-project"
   },
@@ -2902,15 +2894,15 @@
     "description": "A minimalist design exploration",
     "isArchived": false,
     "pushedAt": "2025-08-20T18:22:08Z",
-    "stargazerCount": 3173,
+    "stargazerCount": 3180,
     "status": "",
     "url": "https://github.com/owickstrom/the-monospace-web"
   },
   "paperless-ngx/paperless-ngx": {
     "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
     "isArchived": false,
-    "pushedAt": "2026-07-14T16:29:45Z",
-    "stargazerCount": 43036,
+    "pushedAt": "2026-08-01T04:07:27Z",
+    "stargazerCount": 43801,
     "status": "🔥",
     "url": "https://github.com/paperless-ngx/paperless-ngx"
   },
@@ -2918,25 +2910,17 @@
     "description": "🚨 CVE-2023-45866 - BlueDucky Implementation (Using DuckyScript) 🔓 Unauthenticated Peering Leading to Code Execution (Using HID Keyboard)",
     "isArchived": false,
     "pushedAt": "2026-02-11T00:03:00Z",
-    "stargazerCount": 1877,
+    "stargazerCount": 1884,
     "status": "",
     "url": "https://github.com/pentestfunctions/BlueDucky"
   },
   "peterhanania/Discord-Package": {
     "description": "A detailed Discord data package explorer designed to help users visualize the data Discord collects.",
     "isArchived": false,
-    "pushedAt": "2026-04-04T23:05:05Z",
-    "stargazerCount": 552,
-    "status": "",
-    "url": "https://github.com/peterhanania/Discord-Package"
-  },
-  "pewdiepie-archdaemon/odysseus": {
-    "description": "Self-hosted AI workspace. ",
-    "isArchived": false,
-    "pushedAt": "2026-07-14T14:33:10Z",
-    "stargazerCount": 82809,
+    "pushedAt": "2026-07-27T18:54:26Z",
+    "stargazerCount": 555,
     "status": "🔥",
-    "url": "https://github.com/pewdiepie-archdaemon/odysseus"
+    "url": "https://github.com/peterhanania/Discord-Package"
   },
   "phileastv/SensBoxd": {
     "description": "Exporter sa collection SensCritique pour Letterboxd.",
@@ -2949,8 +2933,8 @@
   "photoprism/photoprism": {
     "description": "AI-Powered Photos App 🌈💎✨",
     "isArchived": false,
-    "pushedAt": "2026-07-13T12:13:44Z",
-    "stargazerCount": 39967,
+    "pushedAt": "2026-07-31T13:07:47Z",
+    "stargazerCount": 40018,
     "status": "🔥",
     "url": "https://github.com/photoprism/photoprism"
   },
@@ -2965,8 +2949,8 @@
   "pi-hole/pi-hole": {
     "description": "A black hole for Internet advertisements",
     "isArchived": false,
-    "pushedAt": "2026-07-11T14:08:28Z",
-    "stargazerCount": 59869,
+    "pushedAt": "2026-07-27T13:46:42Z",
+    "stargazerCount": 60151,
     "status": "🔥",
     "url": "https://github.com/pi-hole/pi-hole"
   },
@@ -2974,23 +2958,23 @@
     "description": "📖 Unofficial WireGuard Documentation: Setup, Usage, Configuration, and full example setups for VPNs supporting both servers & roaming clients.",
     "isArchived": false,
     "pushedAt": "2026-03-21T16:59:32Z",
-    "stargazerCount": 5035,
+    "stargazerCount": 5040,
     "status": "",
     "url": "https://github.com/pirate/wireguard-docs"
   },
   "pivpn/pivpn": {
     "description": "The Simplest VPN installer, designed for Raspberry Pi",
     "isArchived": false,
-    "pushedAt": "2026-03-28T09:26:13Z",
-    "stargazerCount": 8011,
-    "status": "",
+    "pushedAt": "2026-07-30T18:21:31Z",
+    "stargazerCount": 8025,
+    "status": "🔥",
     "url": "https://github.com/pivpn/pivpn"
   },
   "pixeltris/TwitchAdSolutions": {
     "description": "",
     "isArchived": true,
     "pushedAt": "2026-03-05T23:14:16Z",
-    "stargazerCount": 11411,
+    "stargazerCount": 11406,
     "status": "📦",
     "url": "https://github.com/pixeltris/TwitchAdSolutions"
   },
@@ -3005,24 +2989,24 @@
   "pluja/awesome-privacy": {
     "description": "Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.",
     "isArchived": false,
-    "pushedAt": "2026-07-07T14:10:50Z",
-    "stargazerCount": 19145,
-    "status": "🔥",
+    "pushedAt": "2026-07-15T12:14:09Z",
+    "stargazerCount": 19295,
+    "status": "",
     "url": "https://github.com/pluja/awesome-privacy"
   },
   "polybar/polybar": {
     "description": "A fast and easy-to-use status bar",
     "isArchived": false,
     "pushedAt": "2025-09-24T08:29:01Z",
-    "stargazerCount": 15311,
+    "stargazerCount": 15322,
     "status": "",
     "url": "https://github.com/polybar/polybar"
   },
   "portfolio-performance/portfolio": {
     "description": "Track and evaluate the performance of your investment portfolio across stocks, cryptocurrencies, and other assets.",
     "isArchived": false,
-    "pushedAt": "2026-07-15T06:34:17Z",
-    "stargazerCount": 3960,
+    "pushedAt": "2026-07-30T14:58:19Z",
+    "stargazerCount": 3991,
     "status": "🔥",
     "url": "https://github.com/portfolio-performance/portfolio"
   },
@@ -3030,71 +3014,71 @@
     "description": "Password cracking rules for Hashcat based on statistics and industry patterns",
     "isArchived": true,
     "pushedAt": "2019-07-15T04:44:07Z",
-    "stargazerCount": 1527,
+    "stargazerCount": 1532,
     "status": "📦",
     "url": "https://github.com/praetorian-inc/Hob0Rules"
   },
   "pranshuparmar/witr": {
-    "description": "Why is this running?",
+    "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
     "isArchived": false,
-    "pushedAt": "2026-07-06T06:29:04Z",
-    "stargazerCount": 18240,
-    "status": "",
+    "pushedAt": "2026-07-31T06:49:53Z",
+    "stargazerCount": 18411,
+    "status": "🔥",
     "url": "https://github.com/pranshuparmar/witr"
   },
   "processone/ejabberd": {
     "description": "Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)",
     "isArchived": false,
-    "pushedAt": "2026-07-09T12:01:40Z",
-    "stargazerCount": 6709,
+    "pushedAt": "2026-07-31T12:44:48Z",
+    "stargazerCount": 6712,
     "status": "🔥",
     "url": "https://github.com/processone/ejabberd"
   },
   "processone/fluux-messenger": {
     "description": "Fluux Messenger: A fast, modern, cross-platform XMPP client for communities and organizations.",
     "isArchived": false,
-    "pushedAt": "2026-07-15T06:18:45Z",
-    "stargazerCount": 374,
+    "pushedAt": "2026-07-31T16:23:56Z",
+    "stargazerCount": 382,
     "status": "🔥",
     "url": "https://github.com/processone/fluux-messenger"
   },
   "prometheus-erl/prometheus.erl": {
     "description": "Prometheus.io client in Erlang",
     "isArchived": false,
-    "pushedAt": "2026-06-29T08:38:48Z",
+    "pushedAt": "2026-07-27T13:39:29Z",
     "stargazerCount": 354,
-    "status": "",
+    "status": "🔥",
     "url": "https://github.com/prometheus-erl/prometheus.erl"
   },
   "prometheus/blackbox_exporter": {
     "description": "Blackbox prober exporter",
     "isArchived": false,
-    "pushedAt": "2026-07-13T18:07:09Z",
-    "stargazerCount": 5785,
+    "pushedAt": "2026-08-01T03:08:05Z",
+    "stargazerCount": 5810,
     "status": "🔥",
     "url": "https://github.com/prometheus/blackbox_exporter"
   },
   "prometheus/node_exporter": {
     "description": "Exporter for machine metrics",
     "isArchived": false,
-    "pushedAt": "2026-07-14T18:18:29Z",
-    "stargazerCount": 13609,
-    "status": "🔥",
+    "pushedAt": "2026-07-21T06:21:59Z",
+    "stargazerCount": 13659,
+    "status": "",
     "url": "https://github.com/prometheus/node_exporter"
   },
   "proxifly/free-proxy-list": {
-    "description": "a free rotating proxy API with tested HTTPS and SOCKS5 proxies from 100+ countries",
+    "description": "🚀 Free HTTP, SOCKS4, & SOCKS5 proxy list * Updated every 5 minutes * and rotating proxy API (100+ countries)",
     "isArchived": false,
-    "pushedAt": "2026-07-15T05:59:24Z",
-    "stargazerCount": 6224,
+    "pushedAt": "2026-08-01T07:16:05Z",
+    "stargazerCount": 6355,
     "status": "🔥",
     "url": "https://github.com/proxifly/free-proxy-list"
   },
   "punkpeye/awesome-mcp-servers": {
     "description": "A collection of MCP servers.",
     "isArchived": false,
-    "pushedAt": "2026-07-13T11:04:02Z",
-    "stargazerCount": 90791,
+    "pushedAt": "2026-07-29T10:26:20Z",
+    "stargazerCount": 91670,
     "status": "🔥",
     "url": "https://github.com/punkpeye/awesome-mcp-servers"
   },
@@ -3102,7 +3086,7 @@
     "description": "Custom firmware for the Xiaomi Thermometers and Telink Flasher ",
     "isArchived": false,
     "pushedAt": "2026-05-23T17:32:58Z",
-    "stargazerCount": 4155,
+    "stargazerCount": 4183,
     "status": "",
     "url": "https://github.com/pvvx/ATC_MiThermometer"
   },
@@ -3110,23 +3094,23 @@
     "description": "Custom firmware for Zigbee 3.0 IoT devices on the TLSR825x chip",
     "isArchived": false,
     "pushedAt": "2026-06-03T07:04:55Z",
-    "stargazerCount": 779,
+    "stargazerCount": 780,
     "status": "",
     "url": "https://github.com/pvvx/ZigbeeTLc"
   },
   "pystardust/ani-cli": {
     "description": "A cli tool to browse and play anime",
     "isArchived": false,
-    "pushedAt": "2026-07-14T17:01:40Z",
-    "stargazerCount": 13222,
+    "pushedAt": "2026-07-31T14:25:52Z",
+    "stargazerCount": 13398,
     "status": "🔥",
     "url": "https://github.com/pystardust/ani-cli"
   },
   "qazbnm456/awesome-web-security": {
     "description": "🐶 A curated list of Web Security materials and resources.",
     "isArchived": false,
-    "pushedAt": "2026-07-09T06:33:01Z",
-    "stargazerCount": 13589,
+    "pushedAt": "2026-07-26T08:35:05Z",
+    "stargazerCount": 13632,
     "status": "🔥",
     "url": "https://github.com/qazbnm456/awesome-web-security"
   },
@@ -3142,7 +3126,7 @@
     "description": "A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.",
     "isArchived": false,
     "pushedAt": "2026-04-16T12:38:36Z",
-    "stargazerCount": 13896,
+    "stargazerCount": 13971,
     "status": "",
     "url": "https://github.com/rathole-org/rathole"
   },
@@ -3150,7 +3134,7 @@
     "description": "A terminal-based AWS cost and resource dashboard built with Python and the Rich library. It provides an overview of AWS spend by account, service-level breakdowns, budget tracking, and EC2 instance summaries.",
     "isArchived": false,
     "pushedAt": "2026-01-02T10:59:13Z",
-    "stargazerCount": 1271,
+    "stargazerCount": 1276,
     "status": "",
     "url": "https://github.com/ravikiranvm/aws-finops-dashboard"
   },
@@ -3158,7 +3142,7 @@
     "description": "A full fledged UI for the rclone cloud sync tool",
     "isArchived": false,
     "pushedAt": "2024-06-11T21:45:19Z",
-    "stargazerCount": 1558,
+    "stargazerCount": 1561,
     "status": "💤",
     "url": "https://github.com/rclone/rclone-webui-react"
   },
@@ -3166,23 +3150,23 @@
     "description": "The recalbox repository moved to https://gitlab.com/recalbox/recalbox",
     "isArchived": true,
     "pushedAt": "2020-11-01T18:16:06Z",
-    "stargazerCount": 2227,
+    "stargazerCount": 2226,
     "status": "📦",
     "url": "https://github.com/recalbox/recalbox-os"
   },
   "reconurge/flowsint": {
     "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
     "isArchived": false,
-    "pushedAt": "2026-07-01T15:15:19Z",
-    "stargazerCount": 7292,
-    "status": "",
+    "pushedAt": "2026-07-28T07:39:57Z",
+    "stargazerCount": 7523,
+    "status": "🔥",
     "url": "https://github.com/reconurge/flowsint"
   },
   "restic/restic": {
     "description": "Fast, secure, efficient backup program",
     "isArchived": false,
-    "pushedAt": "2026-07-10T20:48:01Z",
-    "stargazerCount": 35014,
+    "pushedAt": "2026-08-01T01:43:14Z",
+    "stargazerCount": 35273,
     "status": "🔥",
     "url": "https://github.com/restic/restic"
   },
@@ -3198,7 +3182,7 @@
     "description": "a standard filetree for /r/datacurator [ and r/datahoarder ]",
     "isArchived": false,
     "pushedAt": "2024-08-26T18:52:19Z",
-    "stargazerCount": 1643,
+    "stargazerCount": 1641,
     "status": "💤",
     "url": "https://github.com/roboyoshi/datacurator-filetree"
   },
@@ -3214,15 +3198,15 @@
     "description": "🇫🇷  Skills pour agents IA spécialisés dans la bureaucratie française : Comptable, Notaire, ...",
     "isArchived": false,
     "pushedAt": "2026-07-11T10:19:18Z",
-    "stargazerCount": 2247,
-    "status": "🔥",
+    "stargazerCount": 2298,
+    "status": "",
     "url": "https://github.com/romainsimon/paperasse"
   },
   "romkatv/powerlevel10k": {
     "description": "A Zsh theme",
     "isArchived": false,
     "pushedAt": "2026-06-15T07:54:59Z",
-    "stargazerCount": 54715,
+    "stargazerCount": 54833,
     "status": "",
     "url": "https://github.com/romkatv/powerlevel10k"
   },
@@ -3230,39 +3214,39 @@
     "description": "Benchmark for interactive Zsh",
     "isArchived": false,
     "pushedAt": "2026-04-27T09:38:33Z",
-    "stargazerCount": 1016,
+    "stargazerCount": 1020,
     "status": "",
     "url": "https://github.com/romkatv/zsh-bench"
   },
   "rothgar/awesome-tuis": {
     "description": "List of projects that provide terminal user interfaces",
     "isArchived": false,
-    "pushedAt": "2026-07-13T23:05:48Z",
-    "stargazerCount": 19751,
+    "pushedAt": "2026-07-27T16:41:40Z",
+    "stargazerCount": 19994,
     "status": "🔥",
     "url": "https://github.com/rothgar/awesome-tuis"
   },
   "rubiin/tsumiki": {
     "description": "modular panel written on fabric",
     "isArchived": false,
-    "pushedAt": "2026-07-14T10:11:01Z",
-    "stargazerCount": 237,
+    "pushedAt": "2026-07-31T15:48:16Z",
+    "stargazerCount": 235,
     "status": "🔥",
     "url": "https://github.com/rubiin/tsumiki"
   },
   "ruvnet/RuView": {
     "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
     "isArchived": false,
-    "pushedAt": "2026-07-14T17:31:48Z",
-    "stargazerCount": 80690,
+    "pushedAt": "2026-08-01T06:56:08Z",
+    "stargazerCount": 87962,
     "status": "🔥",
     "url": "https://github.com/ruvnet/RuView"
   },
   "rx342/senscritique2letterboxd": {
     "description": "Move your Senscritique library to Letterboxd",
     "isArchived": false,
-    "pushedAt": "2026-07-13T07:27:23Z",
-    "stargazerCount": 25,
+    "pushedAt": "2026-07-27T08:21:37Z",
+    "stargazerCount": 26,
     "status": "🔥",
     "url": "https://github.com/rx342/senscritique2letterboxd"
   },
@@ -3278,15 +3262,15 @@
     "description": "Find emails of Github users",
     "isArchived": false,
     "pushedAt": "2019-05-05T15:49:59Z",
-    "stargazerCount": 595,
+    "stargazerCount": 597,
     "status": "💤",
     "url": "https://github.com/s0md3v/Zen"
   },
   "santifer/career-ops": {
-    "description": "Open-source AI job search: scan job portals, score listings A-F, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Gemini, Codex, OpenCode…)",
+    "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
     "isArchived": false,
-    "pushedAt": "2026-07-15T04:48:54Z",
-    "stargazerCount": 60166,
+    "pushedAt": "2026-08-01T07:39:13Z",
+    "stargazerCount": 62420,
     "status": "🔥",
     "url": "https://github.com/santifer/career-ops"
   },
@@ -3294,7 +3278,7 @@
     "description": "A basic tool to check security headers of a website",
     "isArchived": false,
     "pushedAt": "2026-03-07T12:44:50Z",
-    "stargazerCount": 841,
+    "stargazerCount": 843,
     "status": "",
     "url": "https://github.com/santoru/shcheck"
   },
@@ -3302,79 +3286,79 @@
     "description": "A python connector for WiZ devices",
     "isArchived": false,
     "pushedAt": "2026-07-08T20:43:08Z",
-    "stargazerCount": 544,
-    "status": "🔥",
+    "stargazerCount": 546,
+    "status": "",
     "url": "https://github.com/sbidy/pywizlight"
   },
   "sbilly/awesome-security": {
     "description": "A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.",
     "isArchived": false,
     "pushedAt": "2026-01-11T02:00:26Z",
-    "stargazerCount": 14624,
+    "stargazerCount": 14696,
     "status": "",
     "url": "https://github.com/sbilly/awesome-security"
   },
   "searxng/searxng": {
     "description": "SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.",
     "isArchived": false,
-    "pushedAt": "2026-07-14T18:39:23Z",
-    "stargazerCount": 33918,
+    "pushedAt": "2026-08-01T03:12:45Z",
+    "stargazerCount": 34719,
     "status": "🔥",
     "url": "https://github.com/searxng/searxng"
   },
   "seerr-team/seerr": {
     "description": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.",
     "isArchived": false,
-    "pushedAt": "2026-07-14T17:32:45Z",
-    "stargazerCount": 11888,
+    "pushedAt": "2026-08-01T01:36:51Z",
+    "stargazerCount": 12090,
     "status": "🔥",
     "url": "https://github.com/seerr-team/seerr"
   },
   "semaphoreui/semaphore": {
     "description": "Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.",
     "isArchived": false,
-    "pushedAt": "2026-07-15T06:04:57Z",
-    "stargazerCount": 13873,
+    "pushedAt": "2026-07-31T17:31:49Z",
+    "stargazerCount": 13948,
     "status": "🔥",
     "url": "https://github.com/semaphoreui/semaphore"
   },
   "sethcottle/littlelink": {
     "description": "A lightweight DIY Linktree alternative.",
     "isArchived": false,
-    "pushedAt": "2026-01-28T01:35:50Z",
-    "stargazerCount": 3015,
-    "status": "",
+    "pushedAt": "2026-07-29T04:49:45Z",
+    "stargazerCount": 3040,
+    "status": "🔥",
     "url": "https://github.com/sethcottle/littlelink"
   },
   "shadps4-emu/shadPS4": {
     "description": "PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++",
     "isArchived": false,
-    "pushedAt": "2026-07-14T19:36:43Z",
-    "stargazerCount": 31964,
+    "pushedAt": "2026-08-01T08:02:43Z",
+    "stargazerCount": 32339,
     "status": "🔥",
     "url": "https://github.com/shadps4-emu/shadPS4"
   },
   "sharkdp/bat": {
     "description": "A cat(1) clone with wings.",
     "isArchived": false,
-    "pushedAt": "2026-07-01T20:15:58Z",
-    "stargazerCount": 59736,
-    "status": "",
+    "pushedAt": "2026-08-01T04:01:27Z",
+    "stargazerCount": 59963,
+    "status": "🔥",
     "url": "https://github.com/sharkdp/bat"
   },
   "sharkdp/fd": {
     "description": "A simple, fast and user-friendly alternative to 'find'",
     "isArchived": false,
-    "pushedAt": "2026-07-07T08:00:27Z",
-    "stargazerCount": 43745,
+    "pushedAt": "2026-07-27T15:41:32Z",
+    "stargazerCount": 43933,
     "status": "🔥",
     "url": "https://github.com/sharkdp/fd"
   },
   "sherlock-project/sherlock": {
     "description": "Hunt down social media accounts by username across social networks",
     "isArchived": false,
-    "pushedAt": "2026-07-15T05:51:26Z",
-    "stargazerCount": 86590,
+    "pushedAt": "2026-08-01T07:33:08Z",
+    "stargazerCount": 87431,
     "status": "🔥",
     "url": "https://github.com/sherlock-project/sherlock"
   },
@@ -3382,23 +3366,23 @@
     "description": "List of data-hoarding related tools",
     "isArchived": false,
     "pushedAt": "2023-09-14T08:32:01Z",
-    "stargazerCount": 1327,
+    "stargazerCount": 1329,
     "status": "💤",
     "url": "https://github.com/simon987/awesome-datahoarding"
   },
   "simplex-chat/simplex-chat": {
     "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
     "isArchived": false,
-    "pushedAt": "2026-07-14T21:43:38Z",
-    "stargazerCount": 18643,
+    "pushedAt": "2026-07-31T22:53:14Z",
+    "stargazerCount": 19145,
     "status": "🔥",
     "url": "https://github.com/simplex-chat/simplex-chat"
   },
   "sipeed/picoclaw": {
     "description": "Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity",
     "isArchived": false,
-    "pushedAt": "2026-07-09T17:19:37Z",
-    "stargazerCount": 29754,
+    "pushedAt": "2026-07-30T18:32:36Z",
+    "stargazerCount": 29789,
     "status": "🔥",
     "url": "https://github.com/sipeed/picoclaw"
   },
@@ -3406,103 +3390,103 @@
     "description": "reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities",
     "isArchived": false,
     "pushedAt": "2026-06-29T16:41:46Z",
-    "stargazerCount": 7843,
+    "stargazerCount": 7918,
     "status": "",
     "url": "https://github.com/six2dez/reconftw"
   },
   "siyuan-note/siyuan": {
     "description": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.",
     "isArchived": false,
-    "pushedAt": "2026-07-15T04:09:44Z",
-    "stargazerCount": 45121,
+    "pushedAt": "2026-08-01T07:04:30Z",
+    "stargazerCount": 45551,
     "status": "🔥",
     "url": "https://github.com/siyuan-note/siyuan"
   },
   "soxoj/maigret": {
     "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
     "isArchived": false,
-    "pushedAt": "2026-07-15T06:03:41Z",
-    "stargazerCount": 35389,
+    "pushedAt": "2026-07-27T20:32:15Z",
+    "stargazerCount": 36020,
     "status": "🔥",
     "url": "https://github.com/soxoj/maigret"
   },
   "spacedriveapp/spacedrive": {
     "description": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.",
     "isArchived": false,
-    "pushedAt": "2026-04-19T08:27:55Z",
-    "stargazerCount": 38571,
-    "status": "",
+    "pushedAt": "2026-07-29T00:31:28Z",
+    "stargazerCount": 38684,
+    "status": "🔥",
     "url": "https://github.com/spacedriveapp/spacedrive"
   },
   "spantaleev/matrix-docker-ansible-deploy": {
     "description": "🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker",
     "isArchived": false,
-    "pushedAt": "2026-07-15T05:45:28Z",
-    "stargazerCount": 6429,
+    "pushedAt": "2026-07-31T23:21:36Z",
+    "stargazerCount": 6444,
     "status": "🔥",
     "url": "https://github.com/spantaleev/matrix-docker-ansible-deploy"
   },
   "spicetify/cli": {
     "description": "Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.",
     "isArchived": false,
-    "pushedAt": "2026-07-07T12:10:21Z",
-    "stargazerCount": 23748,
+    "pushedAt": "2026-07-25T15:21:34Z",
+    "stargazerCount": 23933,
     "status": "🔥",
     "url": "https://github.com/spicetify/cli"
   },
   "spicetify/marketplace": {
     "description": "Download extensions and themes directly from Spicetify",
     "isArchived": false,
-    "pushedAt": "2026-07-11T07:50:03Z",
-    "stargazerCount": 1514,
+    "pushedAt": "2026-08-01T00:03:01Z",
+    "stargazerCount": 1526,
     "status": "🔥",
     "url": "https://github.com/spicetify/marketplace"
   },
   "spotbye/SpotiFLAC": {
     "description": "Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.",
     "isArchived": false,
-    "pushedAt": "2026-07-12T03:36:04Z",
-    "stargazerCount": 9801,
-    "status": "🔥",
+    "pushedAt": "2026-07-18T05:34:31Z",
+    "stargazerCount": 10216,
+    "status": "",
     "url": "https://github.com/spotbye/SpotiFLAC"
   },
   "spotbye/SpotiFLAC-Next": {
     "description": "Get Spotify tracks in true Lossless from Tidal, Qobuz, Amazon Music & Deezer — no account required.",
     "isArchived": false,
-    "pushedAt": "2026-07-12T18:24:15Z",
-    "stargazerCount": 1595,
+    "pushedAt": "2026-07-25T06:32:24Z",
+    "stargazerCount": 1658,
     "status": "🔥",
     "url": "https://github.com/spotbye/SpotiFLAC-Next"
   },
   "spotiflacapp/SpotiFLAC-Mobile": {
     "description": "Mobile music utility built with Flutter and Go. High-quality audio management for your personal library. - open source, no ads, no subscription.",
     "isArchived": false,
-    "pushedAt": "2026-07-12T17:27:02Z",
-    "stargazerCount": 5170,
+    "pushedAt": "2026-07-31T17:33:01Z",
+    "stargazerCount": 5590,
     "status": "🔥",
     "url": "https://github.com/spotiflacapp/SpotiFLAC-Mobile"
   },
   "squidfunk/mkdocs-material": {
     "description": "Documentation that simply works",
     "isArchived": false,
-    "pushedAt": "2026-07-06T10:59:31Z",
-    "stargazerCount": 27095,
+    "pushedAt": "2026-07-23T20:23:57Z",
+    "stargazerCount": 27187,
     "status": "",
     "url": "https://github.com/squidfunk/mkdocs-material"
   },
   "srbhr/Resume-Matcher": {
     "description": "The #1 AI Harness for Building Resumes, PDFs, Cover Letters & more, locally with 100+ LLMs support.",
     "isArchived": false,
-    "pushedAt": "2026-07-06T18:17:59Z",
-    "stargazerCount": 27760,
-    "status": "",
+    "pushedAt": "2026-07-30T12:42:31Z",
+    "stargazerCount": 27965,
+    "status": "🔥",
     "url": "https://github.com/srbhr/Resume-Matcher"
   },
   "steeve/france.code-civil": {
     "description": "Le code civil français sous git",
     "isArchived": false,
     "pushedAt": "2015-08-07T08:57:43Z",
-    "stargazerCount": 2687,
+    "stargazerCount": 2688,
     "status": "💤",
     "url": "https://github.com/steeve/france.code-civil"
   },
@@ -3510,7 +3494,7 @@
     "description": "A third party Android application for the Pi-Hole® dashboard.",
     "isArchived": true,
     "pushedAt": "2025-02-19T15:47:41Z",
-    "stargazerCount": 391,
+    "stargazerCount": 392,
     "status": "📦",
     "url": "https://github.com/sterrenb/flutterhole"
   },
@@ -3518,23 +3502,23 @@
     "description": "A self-hosted file sharing platform that combines lightness and beauty, perfect for seamless and efficient file sharing.",
     "isArchived": true,
     "pushedAt": "2026-05-18T20:19:06Z",
-    "stargazerCount": 4690,
+    "stargazerCount": 4684,
     "status": "📦",
     "url": "https://github.com/stonith404/pingvin-share"
   },
   "streamlink/streamlink": {
     "description": "Streamlink is a CLI utility which pipes video streams from various services into a video player",
     "isArchived": false,
-    "pushedAt": "2026-07-14T23:34:33Z",
-    "stargazerCount": 11631,
+    "pushedAt": "2026-08-01T00:38:45Z",
+    "stargazerCount": 11666,
     "status": "🔥",
     "url": "https://github.com/streamlink/streamlink"
   },
   "streetwriters/notesnook": {
     "description": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
     "isArchived": false,
-    "pushedAt": "2026-07-15T04:52:04Z",
-    "stargazerCount": 14280,
+    "pushedAt": "2026-08-01T03:56:37Z",
+    "stargazerCount": 14349,
     "status": "🔥",
     "url": "https://github.com/streetwriters/notesnook"
   },
@@ -3550,15 +3534,15 @@
     "description": "A simple, modular seedbox solution",
     "isArchived": false,
     "pushedAt": "2026-05-18T21:09:37Z",
-    "stargazerCount": 2371,
+    "stargazerCount": 2377,
     "status": "",
     "url": "https://github.com/swizzin/swizzin"
   },
   "sxyazi/yazi": {
     "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
     "isArchived": false,
-    "pushedAt": "2026-07-13T17:27:02Z",
-    "stargazerCount": 40309,
+    "pushedAt": "2026-08-01T07:08:29Z",
+    "stargazerCount": 40949,
     "status": "🔥",
     "url": "https://github.com/sxyazi/yazi"
   },
@@ -3574,7 +3558,7 @@
     "description": "A secure, configurable file-sharing and URL shortening web app written in Rust.",
     "isArchived": false,
     "pushedAt": "2026-06-13T13:45:49Z",
-    "stargazerCount": 4459,
+    "stargazerCount": 4491,
     "status": "",
     "url": "https://github.com/szabodanika/microbin"
   },
@@ -3582,7 +3566,7 @@
     "description": "%%30%30 Game: Don't touch the trees! (Thanks, Chrome dev team!)",
     "isArchived": false,
     "pushedAt": "2015-10-02T09:16:13Z",
-    "stargazerCount": 1505,
+    "stargazerCount": 1503,
     "status": "💤",
     "url": "https://github.com/szhu/3030"
   },
@@ -3590,15 +3574,15 @@
     "description": "A python client + documentation for the Colmi R02 smart ring",
     "isArchived": false,
     "pushedAt": "2026-07-10T10:23:03Z",
-    "stargazerCount": 637,
-    "status": "🔥",
+    "stargazerCount": 644,
+    "status": "",
     "url": "https://github.com/tahnok/colmi_r02_client"
   },
   "tale/headplane": {
     "description": "A feature-complete Web UI for Headscale",
     "isArchived": false,
-    "pushedAt": "2026-07-13T15:00:44Z",
-    "stargazerCount": 2725,
+    "pushedAt": "2026-07-26T10:03:08Z",
+    "stargazerCount": 2796,
     "status": "🔥",
     "url": "https://github.com/tale/headplane"
   },
@@ -3622,7 +3606,7 @@
     "description": "Information Gathering Instagram.",
     "isArchived": false,
     "pushedAt": "2024-02-01T20:50:43Z",
-    "stargazerCount": 1529,
+    "stargazerCount": 1543,
     "status": "💤",
     "url": "https://github.com/th3unkn0n/osi.ig"
   },
@@ -3630,7 +3614,7 @@
     "description": "Visualize your Google Location History using an interactive heatmap",
     "isArchived": false,
     "pushedAt": "2023-07-17T07:49:22Z",
-    "stargazerCount": 935,
+    "stargazerCount": 934,
     "status": "💤",
     "url": "https://github.com/theopolisme/location-history-visualizer"
   },
@@ -3638,15 +3622,15 @@
     "description": "Exploitation Framework for Embedded Devices",
     "isArchived": false,
     "pushedAt": "2026-05-05T14:02:26Z",
-    "stargazerCount": 13184,
+    "stargazerCount": 13202,
     "status": "",
     "url": "https://github.com/threat9/routersploit"
   },
   "tinyauthapp/tinyauth": {
     "description": "The tiniest OpenID Certified™ authorization and authentication server you have ever seen.",
     "isArchived": false,
-    "pushedAt": "2026-07-15T00:32:41Z",
-    "stargazerCount": 7811,
+    "pushedAt": "2026-08-01T00:39:47Z",
+    "stargazerCount": 8046,
     "status": "🔥",
     "url": "https://github.com/tinyauthapp/tinyauth"
   },
@@ -3654,95 +3638,95 @@
     "description": "Tool for visualizing GitHub profiles",
     "isArchived": false,
     "pushedAt": "2026-02-22T13:17:02Z",
-    "stargazerCount": 19943,
+    "stargazerCount": 19944,
     "status": "",
     "url": "https://github.com/tipsy/profile-summary-for-github"
   },
   "toeverything/AFFiNE": {
     "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. ",
     "isArchived": false,
-    "pushedAt": "2026-07-15T05:25:57Z",
-    "stargazerCount": 70450,
+    "pushedAt": "2026-08-01T07:52:20Z",
+    "stargazerCount": 70962,
     "status": "🔥",
     "url": "https://github.com/toeverything/AFFiNE"
   },
   "topgrade-rs/topgrade": {
     "description": "Upgrade all the things",
     "isArchived": false,
-    "pushedAt": "2026-07-14T14:14:38Z",
-    "stargazerCount": 4291,
+    "pushedAt": "2026-07-30T18:49:44Z",
+    "stargazerCount": 4353,
     "status": "🔥",
     "url": "https://github.com/topgrade-rs/topgrade"
   },
   "topjohnwu/Magisk": {
     "description": "The Magic Mask for Android",
     "isArchived": false,
-    "pushedAt": "2026-06-11T07:48:28Z",
-    "stargazerCount": 61693,
-    "status": "",
+    "pushedAt": "2026-08-01T05:57:44Z",
+    "stargazerCount": 61971,
+    "status": "🔥",
     "url": "https://github.com/topjohnwu/Magisk"
   },
   "torvalds/AudioNoise": {
     "description": "Random digital audio effects",
     "isArchived": false,
     "pushedAt": "2026-05-08T17:20:22Z",
-    "stargazerCount": 4434,
+    "stargazerCount": 4444,
     "status": "",
     "url": "https://github.com/torvalds/AudioNoise"
   },
   "traefik/traefik": {
     "description": "The Cloud Native Application Proxy",
     "isArchived": false,
-    "pushedAt": "2026-07-13T13:36:05Z",
-    "stargazerCount": 63995,
+    "pushedAt": "2026-07-31T12:46:06Z",
+    "stargazerCount": 64209,
     "status": "🔥",
     "url": "https://github.com/traefik/traefik"
   },
   "trapexit/mergerfs": {
     "description": "a featureful union filesystem",
     "isArchived": false,
-    "pushedAt": "2026-05-27T01:52:18Z",
-    "stargazerCount": 5731,
-    "status": "",
+    "pushedAt": "2026-07-31T13:14:00Z",
+    "stargazerCount": 5765,
+    "status": "🔥",
     "url": "https://github.com/trapexit/mergerfs"
   },
   "trimstray/the-book-of-secret-knowledge": {
     "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
     "isArchived": false,
     "pushedAt": "2024-11-19T14:00:38Z",
-    "stargazerCount": 233323,
+    "stargazerCount": 236131,
     "status": "💤",
     "url": "https://github.com/trimstray/the-book-of-secret-knowledge"
   },
   "truelockmc/streambert": {
     "description": "A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking",
     "isArchived": false,
-    "pushedAt": "2026-07-14T19:45:18Z",
-    "stargazerCount": 5750,
-    "status": "🔥",
+    "pushedAt": "2026-07-18T13:56:29Z",
+    "stargazerCount": 5923,
+    "status": "",
     "url": "https://github.com/truelockmc/streambert"
   },
   "trufflesecurity/trufflehog": {
     "description": "Find, verify, and analyze leaked credentials",
     "isArchived": false,
-    "pushedAt": "2026-07-15T06:18:39Z",
-    "stargazerCount": 27047,
+    "pushedAt": "2026-07-31T16:18:38Z",
+    "stargazerCount": 27267,
     "status": "🔥",
     "url": "https://github.com/trufflesecurity/trufflehog"
   },
   "ttionya/vaultwarden-backup": {
     "description": "Backup vaultwarden (formerly known as bitwarden_rs) SQLite3/PostgreSQL/MySQL/MariaDB database by rclone. (Docker)",
     "isArchived": false,
-    "pushedAt": "2026-07-08T23:52:26Z",
-    "stargazerCount": 1824,
-    "status": "🔥",
+    "pushedAt": "2026-07-24T02:23:55Z",
+    "stargazerCount": 1849,
+    "status": "",
     "url": "https://github.com/ttionya/vaultwarden-backup"
   },
   "tw93/Mole": {
     "description": "🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.",
     "isArchived": false,
-    "pushedAt": "2026-07-13T18:14:35Z",
-    "stargazerCount": 58970,
+    "pushedAt": "2026-08-01T03:53:01Z",
+    "stargazerCount": 60992,
     "status": "🔥",
     "url": "https://github.com/tw93/Mole"
   },
@@ -3750,7 +3734,7 @@
     "description": "An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.",
     "isArchived": true,
     "pushedAt": "2023-02-23T13:58:09Z",
-    "stargazerCount": 16396,
+    "stargazerCount": 16398,
     "status": "📦",
     "url": "https://github.com/twintproject/twint"
   },
@@ -3758,7 +3742,7 @@
     "description": "Old Twint style, but zero fat.",
     "isArchived": false,
     "pushedAt": "2023-09-06T09:30:55Z",
-    "stargazerCount": 281,
+    "stargazerCount": 280,
     "status": "💤",
     "url": "https://github.com/twintproject/twint-zero"
   },
@@ -3766,7 +3750,7 @@
     "description": "Source code for the X Recommendation Algorithm",
     "isArchived": false,
     "pushedAt": "2025-09-08T18:40:54Z",
-    "stargazerCount": 73532,
+    "stargazerCount": 73611,
     "status": "",
     "url": "https://github.com/twitter/the-algorithm"
   },
@@ -3774,15 +3758,15 @@
     "description": "Free API for outgoing SMS",
     "isArchived": false,
     "pushedAt": "2024-03-28T11:26:33Z",
-    "stargazerCount": 3351,
+    "stargazerCount": 3361,
     "status": "💤",
     "url": "https://github.com/typpo/textbelt"
   },
   "umami-software/umami": {
     "description": "Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.",
     "isArchived": false,
-    "pushedAt": "2026-07-14T22:23:38Z",
-    "stargazerCount": 37673,
+    "pushedAt": "2026-07-30T17:46:02Z",
+    "stargazerCount": 38003,
     "status": "🔥",
     "url": "https://github.com/umami-software/umami"
   },
@@ -3790,7 +3774,7 @@
     "description": "🧚🏼 Customize your preferred flavors and accent color for catppuccin/userstyles. Generates a JSON file for installing in Stylus.",
     "isArchived": false,
     "pushedAt": "2026-04-29T14:57:50Z",
-    "stargazerCount": 50,
+    "stargazerCount": 51,
     "status": "",
     "url": "https://github.com/uncenter/catppuccin-userstyles-customizer"
   },
@@ -3805,8 +3789,8 @@
   "usestrix/strix": {
     "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
     "isArchived": false,
-    "pushedAt": "2026-07-15T03:27:06Z",
-    "stargazerCount": 41617,
+    "pushedAt": "2026-07-31T14:57:43Z",
+    "stargazerCount": 46280,
     "status": "🔥",
     "url": "https://github.com/usestrix/strix"
   },
@@ -3814,31 +3798,31 @@
     "description": "",
     "isArchived": false,
     "pushedAt": "2024-12-25T20:42:57Z",
-    "stargazerCount": 3518,
+    "stargazerCount": 3522,
     "status": "💤",
     "url": "https://github.com/vanhoefm/krackattacks-scripts"
   },
   "ventoy/Ventoy": {
     "description": "A new bootable USB solution.",
     "isArchived": false,
-    "pushedAt": "2026-06-29T05:46:23Z",
-    "stargazerCount": 78017,
-    "status": "",
+    "pushedAt": "2026-07-24T13:20:16Z",
+    "stargazerCount": 78431,
+    "status": "🔥",
     "url": "https://github.com/ventoy/Ventoy"
   },
   "victornpb/undiscord": {
     "description": "Undiscord - Delete all messages in a Discord server / channel or DM (Easy and fast) Bulk delete",
     "isArchived": false,
     "pushedAt": "2025-12-22T13:59:45Z",
-    "stargazerCount": 6610,
+    "stargazerCount": 6612,
     "status": "",
     "url": "https://github.com/victornpb/undiscord"
   },
   "vn7n24fzkq/github-profile-summary-cards": {
     "description": "A tool to generate your GitHub summary card for profile README",
     "isArchived": false,
-    "pushedAt": "2026-07-15T05:57:33Z",
-    "stargazerCount": 3570,
+    "pushedAt": "2026-07-31T17:26:38Z",
+    "stargazerCount": 3596,
     "status": "🔥",
     "url": "https://github.com/vn7n24fzkq/github-profile-summary-cards"
   },
@@ -3846,47 +3830,47 @@
     "description": "Automatically claims free games and DLCs on the Epic Games Store, Amazon Prime Gaming and GOG.",
     "isArchived": false,
     "pushedAt": "2026-06-18T11:31:23Z",
-    "stargazerCount": 4153,
+    "stargazerCount": 4174,
     "status": "",
     "url": "https://github.com/vogler/free-games-claimer"
   },
   "watsonbox/exportify": {
     "description": "Export/Backup Spotify playlists using the Web API",
     "isArchived": false,
-    "pushedAt": "2026-04-13T19:17:56Z",
-    "stargazerCount": 4144,
+    "pushedAt": "2026-07-22T15:30:33Z",
+    "stargazerCount": 4164,
     "status": "",
     "url": "https://github.com/watsonbox/exportify"
   },
   "we-promise/sure": {
     "description": "The personal finance app for everyone (by everyone)",
     "isArchived": false,
-    "pushedAt": "2026-07-15T06:08:02Z",
-    "stargazerCount": 9013,
+    "pushedAt": "2026-08-01T07:56:20Z",
+    "stargazerCount": 9213,
     "status": "🔥",
     "url": "https://github.com/we-promise/sure"
   },
   "wg-easy/wg-easy": {
     "description": "The easiest way to run WireGuard VPN + Web-based Admin UI.",
     "isArchived": false,
-    "pushedAt": "2026-07-06T13:47:09Z",
-    "stargazerCount": 26399,
-    "status": "",
+    "pushedAt": "2026-08-01T04:54:19Z",
+    "stargazerCount": 26542,
+    "status": "🔥",
     "url": "https://github.com/wg-easy/wg-easy"
   },
   "xpavle00/Habo": {
     "description": "Privacy-first habit tracker for iOS and Android. E2EE sync, self-hostable, built with Flutter.",
     "isArchived": false,
     "pushedAt": "2026-06-15T20:55:35Z",
-    "stargazerCount": 1336,
+    "stargazerCount": 1394,
     "status": "",
     "url": "https://github.com/xpavle00/Habo"
   },
   "yamadashy/repomix": {
     "description": "📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.",
     "isArchived": false,
-    "pushedAt": "2026-07-12T15:58:22Z",
-    "stargazerCount": 27133,
+    "pushedAt": "2026-08-01T04:50:08Z",
+    "stargazerCount": 27553,
     "status": "🔥",
     "url": "https://github.com/yamadashy/repomix"
   },
@@ -3894,7 +3878,7 @@
     "description": "Generate Viral Thumbnails with AI",
     "isArchived": false,
     "pushedAt": "2026-03-20T17:18:56Z",
-    "stargazerCount": 44,
+    "stargazerCount": 45,
     "status": "",
     "url": "https://github.com/yoanbernabeu/NanoThumbnail"
   },
@@ -3902,16 +3886,16 @@
     "description": "reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous monitoring, backed by a database, and simple yet intuitive User Interface. reNgine makes it easy for penetration testers to gather reconnaissance with minimal configuration and with the help of reNgine's correlation, it just makes recon effortless.",
     "isArchived": false,
     "pushedAt": "2026-07-13T02:47:39Z",
-    "stargazerCount": 8739,
-    "status": "🔥",
+    "stargazerCount": 8755,
+    "status": "",
     "url": "https://github.com/yogeshojha/rengine"
   },
   "yt-dlp/yt-dlp": {
     "description": "A feature-rich command-line audio/video downloader",
     "isArchived": false,
-    "pushedAt": "2026-07-14T14:14:21Z",
-    "stargazerCount": 178079,
-    "status": "🔥",
+    "pushedAt": "2026-07-23T16:54:49Z",
+    "stargazerCount": 181644,
+    "status": "",
     "url": "https://github.com/yt-dlp/yt-dlp"
   },
   "yubiuser/pihole_adlist_tool": {
@@ -3925,8 +3909,8 @@
   "yuliskov/SmartTube": {
     "description": "Browse media content with your own rules on Android TV",
     "isArchived": false,
-    "pushedAt": "2026-07-14T12:29:46Z",
-    "stargazerCount": 31320,
+    "pushedAt": "2026-07-29T19:26:12Z",
+    "stargazerCount": 31661,
     "status": "🔥",
     "url": "https://github.com/yuliskov/SmartTube"
   },
@@ -3934,23 +3918,23 @@
     "description": "Astrological CPU Scheduler",
     "isArchived": false,
     "pushedAt": "2026-02-02T10:36:18Z",
-    "stargazerCount": 1387,
+    "stargazerCount": 1388,
     "status": "",
     "url": "https://github.com/zampierilucas/scx_horoscope"
   },
   "zensical/zensical": {
     "description": "A modern static site generator by the Material for MkDocs team",
     "isArchived": false,
-    "pushedAt": "2026-07-14T14:32:53Z",
-    "stargazerCount": 5204,
+    "pushedAt": "2026-07-30T10:21:35Z",
+    "stargazerCount": 5366,
     "status": "🔥",
     "url": "https://github.com/zensical/zensical"
   },
   "zerebos/ghostty-config": {
     "description": "A beautiful config generator for Ghostty terminal.",
     "isArchived": false,
-    "pushedAt": "2026-07-13T21:56:26Z",
-    "stargazerCount": 3989,
+    "pushedAt": "2026-08-01T02:23:20Z",
+    "stargazerCount": 4045,
     "status": "🔥",
     "url": "https://github.com/zerebos/ghostty-config"
   },
@@ -3958,7 +3942,7 @@
     "description": "🖼️ Wallpapers to match your Catppuccin setups!",
     "isArchived": false,
     "pushedAt": "2024-04-17T16:22:27Z",
-    "stargazerCount": 875,
+    "stargazerCount": 879,
     "status": "💤",
     "url": "https://github.com/zhichaoh/catppuccin-wallpapers"
   },
@@ -3966,7 +3950,7 @@
     "description": "Fish shell like syntax highlighting for Zsh.",
     "isArchived": false,
     "pushedAt": "2026-02-08T16:50:52Z",
-    "stargazerCount": 22845,
+    "stargazerCount": 22896,
     "status": "",
     "url": "https://github.com/zsh-users/zsh-syntax-highlighting"
   }
