@@ -27,7 +27,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 <!-- STARS:START -->
 ## ⭐ Curated Stars
 
-**494 repos** across **30 categories**. Click any section to expand.
+**497 repos** across **30 categories**. Click any section to expand.
 
 <details>
 <summary><b>Hacking</b> &nbsp;·&nbsp; 30 ⭐ &nbsp;·&nbsp; <i>Pentesting frameworks, WiFi/Bluetooth attack tools and offensive security utilities.</i></summary>
@@ -168,7 +168,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 </details>
 
 <details>
-<summary><b>AI</b> &nbsp;·&nbsp; 23 ⭐ &nbsp;·&nbsp; <i>Local LLMs, AI coding agents, TTS engines and AI-augmented productivity tools.</i></summary>
+<summary><b>AI</b> &nbsp;·&nbsp; 24 ⭐ &nbsp;·&nbsp; <i>Local LLMs, AI coding agents, TTS engines and AI-augmented productivity tools.</i></summary>
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
@@ -183,6 +183,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`yamadashy/repomix`](https://github.com/yamadashy/repomix) | ⭐27.6k | 🔥 | 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for... |
 | [`elie222/inbox-zero`](https://github.com/elie222/inbox-zero) | ⭐11.8k | 🔥 | The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast. |
 | [`kunchenguid/no-mistakes`](https://github.com/kunchenguid/no-mistakes) | ⭐7.3k | 🔥 | git push no-mistakes |
+| [`OpenWhispr/openwhispr`](https://github.com/OpenWhispr/openwhispr) | ⭐5.1k | 🔥 | Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and... |
 | [`kunchenguid/gnhf`](https://github.com/kunchenguid/gnhf) | ⭐3.5k | 🔥 | Before I go to bed, I tell my agents: good night, have fun |
 | [`kunchenguid/firstmate`](https://github.com/kunchenguid/firstmate) | ⭐2.6k | 🔥 | Talk to one agent. Ship with a crew. |
 | [`kunchenguid/lavish-axi`](https://github.com/kunchenguid/lavish-axi) | ⭐2.4k | 🔥 | HTML is the new markdown. Lavish is the new editor for your HTML artifacts. |
@@ -438,6 +439,34 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 </details>
 
 <details>
+<summary><b>Android</b> &nbsp;·&nbsp; 20 ⭐ &nbsp;·&nbsp; <i>Debloaters, ReVanced/Magisk patches, FOSS apps and rooting utilities for Android.</i></summary>
+
+| Repo | Stars | Status | Description |
+| --- | --- | --- | --- |
+| [`topjohnwu/Magisk`](https://github.com/topjohnwu/Magisk) | ⭐62.0k | 🔥 | The Magic Mask for Android |
+| [`yuliskov/SmartTube`](https://github.com/yuliskov/SmartTube) | ⭐31.7k | 🔥 | Browse media content with your own rules on Android TV |
+| [`ReVanced/revanced-manager`](https://github.com/ReVanced/revanced-manager) | ⭐28.8k | 🔥 | 💊 Application to use ReVanced on Android |
+| [`breezy-weather/breezy-weather`](https://github.com/breezy-weather/breezy-weather) | ⭐10.9k | 🔥 | A feature-rich weather app with good visualizations and more than 50 sources. |
+| [`offa/android-foss`](https://github.com/offa/android-foss) | ⭐10.7k | 🔥 | A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy. |
+| [`Universal-Debloater-Alliance/universal-android-debloater-next-generation`](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) | ⭐8.6k | 🔥 | Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, t... |
+| [`MorpheApp/morphe-manager`](https://github.com/MorpheApp/morphe-manager) | ⭐6.8k | 🔥 | Morphe app patcher for Android |
+| [`crimera/piko`](https://github.com/crimera/piko) | ⭐4.5k | 🔥 | morphe patches for twitter and instagram |
+| [`MorpheApp/morphe-patches`](https://github.com/MorpheApp/morphe-patches) | ⭐3.1k | 🔥 | Morphe Patches |
+| [`Arcticons-Team/Arcticons`](https://github.com/Arcticons-Team/Arcticons) | ⭐1.5k | 🔥 | A monotone line-based icon pack for android |
+| [`nvbangg/awesome-morphe`](https://github.com/nvbangg/awesome-morphe) | ⭐246 | 🔥 | Explore all Morphe resources, patch bundles and community projects. 🔔 Get notified via the Telegram channel... |
+| [`Genymobile/scrcpy`](https://github.com/Genymobile/scrcpy) | ⭐146.8k |  | Display and control your Android device |
+| [`beemdevelopment/Aegis`](https://github.com/beemdevelopment/Aegis) | ⭐12.8k |  | A free, secure and open source app for Android to manage your 2-step verification tokens. |
+| [`AbdurazaaqMohammed/AntiSplit-M`](https://github.com/AbdurazaaqMohammed/AntiSplit-M) | ⭐4.6k |  | App to AntiSplit (merge) split APKs (APKS/XAPK/APKM) to regular .APK file on Android |
+| [`bryanroscoe/shield_optimizer`](https://github.com/bryanroscoe/shield_optimizer) | ⭐877 |  | _(no description)_ |
+| [`corentin-c/SpotifyAutoPatcher`](https://github.com/corentin-c/SpotifyAutoPatcher) | ⭐531 |  | The easiest way to patch Spotify and Youtube Music, without the need to download APKs ! |
+| [`0x192/universal-android-debloater`](https://github.com/0x192/universal-android-debloater) | ⭐19.7k | 💤 | Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, t... |
+| [`BaltiApps/Pixelify-Google-Photos`](https://github.com/BaltiApps/Pixelify-Google-Photos) | ⭐1.6k | 💤 | Pixelify GPhotos |
+| [`ayush5harma/PixelFeatureDrops`](https://github.com/ayush5harma/PixelFeatureDrops) | ⭐352 | 💤 | Magisk Module for Pixel Feature Drops that adds the system files for the same and spoof using the latest de... |
+| [`Team-xManager/xManager`](https://github.com/Team-xManager/xManager) | ⭐12.2k | 📦 | Ad-Free, New Features & Freedom |
+
+</details>
+
+<details>
 <summary><b>Files</b> &nbsp;·&nbsp; 20 ⭐ &nbsp;·&nbsp; <i>File servers, file managers, sharing platforms and backup tooling.</i></summary>
 
 | Repo | Stars | Status | Description |
@@ -466,39 +495,13 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 </details>
 
 <details>
-<summary><b>Android</b> &nbsp;·&nbsp; 19 ⭐ &nbsp;·&nbsp; <i>Debloaters, ReVanced/Magisk patches, FOSS apps and rooting utilities for Android.</i></summary>
-
-| Repo | Stars | Status | Description |
-| --- | --- | --- | --- |
-| [`topjohnwu/Magisk`](https://github.com/topjohnwu/Magisk) | ⭐62.0k | 🔥 | The Magic Mask for Android |
-| [`yuliskov/SmartTube`](https://github.com/yuliskov/SmartTube) | ⭐31.7k | 🔥 | Browse media content with your own rules on Android TV |
-| [`ReVanced/revanced-manager`](https://github.com/ReVanced/revanced-manager) | ⭐28.8k | 🔥 | 💊 Application to use ReVanced on Android |
-| [`breezy-weather/breezy-weather`](https://github.com/breezy-weather/breezy-weather) | ⭐10.9k | 🔥 | A feature-rich weather app with good visualizations and more than 50 sources. |
-| [`offa/android-foss`](https://github.com/offa/android-foss) | ⭐10.7k | 🔥 | A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy. |
-| [`Universal-Debloater-Alliance/universal-android-debloater-next-generation`](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) | ⭐8.6k | 🔥 | Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, t... |
-| [`MorpheApp/morphe-manager`](https://github.com/MorpheApp/morphe-manager) | ⭐6.8k | 🔥 | Morphe app patcher for Android |
-| [`crimera/piko`](https://github.com/crimera/piko) | ⭐4.5k | 🔥 | morphe patches for twitter and instagram |
-| [`MorpheApp/morphe-patches`](https://github.com/MorpheApp/morphe-patches) | ⭐3.1k | 🔥 | Morphe Patches |
-| [`Arcticons-Team/Arcticons`](https://github.com/Arcticons-Team/Arcticons) | ⭐1.5k | 🔥 | A monotone line-based icon pack for android |
-| [`Genymobile/scrcpy`](https://github.com/Genymobile/scrcpy) | ⭐146.8k |  | Display and control your Android device |
-| [`beemdevelopment/Aegis`](https://github.com/beemdevelopment/Aegis) | ⭐12.8k |  | A free, secure and open source app for Android to manage your 2-step verification tokens. |
-| [`AbdurazaaqMohammed/AntiSplit-M`](https://github.com/AbdurazaaqMohammed/AntiSplit-M) | ⭐4.6k |  | App to AntiSplit (merge) split APKs (APKS/XAPK/APKM) to regular .APK file on Android |
-| [`bryanroscoe/shield_optimizer`](https://github.com/bryanroscoe/shield_optimizer) | ⭐877 |  | _(no description)_ |
-| [`corentin-c/SpotifyAutoPatcher`](https://github.com/corentin-c/SpotifyAutoPatcher) | ⭐531 |  | The easiest way to patch Spotify and Youtube Music, without the need to download APKs ! |
-| [`0x192/universal-android-debloater`](https://github.com/0x192/universal-android-debloater) | ⭐19.7k | 💤 | Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, t... |
-| [`BaltiApps/Pixelify-Google-Photos`](https://github.com/BaltiApps/Pixelify-Google-Photos) | ⭐1.6k | 💤 | Pixelify GPhotos |
-| [`ayush5harma/PixelFeatureDrops`](https://github.com/ayush5harma/PixelFeatureDrops) | ⭐352 | 💤 | Magisk Module for Pixel Feature Drops that adds the system files for the same and spoof using the latest de... |
-| [`Team-xManager/xManager`](https://github.com/Team-xManager/xManager) | ⭐12.2k | 📦 | Ad-Free, New Features & Freedom |
-
-</details>
-
-<details>
-<summary><b>Games-Tools</b> &nbsp;·&nbsp; 18 ⭐ &nbsp;·&nbsp; <i>Game companions, save managers, launchers, map renderers and discord bots.</i></summary>
+<summary><b>Games-Tools</b> &nbsp;·&nbsp; 19 ⭐ &nbsp;·&nbsp; <i>Game companions, save managers, launchers, map renderers and discord bots.</i></summary>
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
 | [`hydralauncher/hydra`](https://github.com/hydralauncher/hydra) | ⭐16.5k | 🔥 | Hydra Launcher is an open-source gaming platform created to be the single tool that you need |
 | [`lutris/lutris`](https://github.com/lutris/lutris) | ⭐10.1k | 🔥 | Lutris desktop client |
+| [`FuzzyGrim/Yamtrack`](https://github.com/FuzzyGrim/Yamtrack) | ⭐3.3k | 🔥 | A self hosted media tracker. |
 | [`HiddenRamblings/TagMo`](https://github.com/HiddenRamblings/TagMo) | ⭐3.2k | 🔥 | _(no description)_ |
 | [`BlueMap-Minecraft/BlueMap`](https://github.com/BlueMap-Minecraft/BlueMap) | ⭐2.8k | 🔥 | A Minecraft mapping tool that creates 3D models of your Minecraft worlds and displays them in a web viewer. |
 | [`EDCD/EDMarketConnector`](https://github.com/EDCD/EDMarketConnector) | ⭐1.2k | 🔥 | Downloads commodity market and other station data from the game Elite: Dangerous for use with all popular o... |

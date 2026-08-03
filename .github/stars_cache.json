@@ -335,6 +335,14 @@
     "status": "🔥",
     "url": "https://github.com/Freika/dawarich"
   },
+  "FuzzyGrim/Yamtrack": {
+    "description": "A self hosted media tracker.",
+    "isArchived": false,
+    "pushedAt": "2026-08-03T03:55:24Z",
+    "stargazerCount": 3264,
+    "status": "🔥",
+    "url": "https://github.com/FuzzyGrim/Yamtrack"
+  },
   "GameServerManagers/LinuxGSM": {
     "description": "The command-line tool for quick, simple deployment and management of Linux dedicated game servers.",
     "isArchived": false,
@@ -654,6 +662,14 @@
     "stargazerCount": 16020,
     "status": "🔥",
     "url": "https://github.com/OpenRCT2/OpenRCT2"
+  },
+  "OpenWhispr/openwhispr": {
+    "description": "Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.",
+    "isArchived": false,
+    "pushedAt": "2026-08-01T00:59:37Z",
+    "stargazerCount": 5126,
+    "status": "🔥",
+    "url": "https://github.com/OpenWhispr/openwhispr"
   },
   "PAPAMICA/home-config": {
     "description": "All configs files of my house configuration !",
@@ -2761,6 +2777,14 @@
     "stargazerCount": 2854,
     "status": "🔥",
     "url": "https://github.com/nunocoracao/blowfish"
+  },
+  "nvbangg/awesome-morphe": {
+    "description": "Explore all Morphe resources, patch bundles and community projects. 🔔 Get notified via the Telegram channel whenever there's a new update.",
+    "isArchived": false,
+    "pushedAt": "2026-08-03T07:32:27Z",
+    "stargazerCount": 246,
+    "status": "🔥",
+    "url": "https://github.com/nvbangg/awesome-morphe"
   },
   "nvbn/thefuck": {
     "description": "Magnificent app which corrects your previous console command.",
