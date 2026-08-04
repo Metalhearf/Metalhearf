@@ -27,7 +27,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 <!-- STARS:START -->
 ## ⭐ Curated Stars
 
-**497 repos** across **30 categories**. Click any section to expand.
+**498 repos** across **30 categories**. Click any section to expand.
 
 <details>
 <summary><b>Hacking</b> &nbsp;·&nbsp; 30 ⭐ &nbsp;·&nbsp; <i>Pentesting frameworks, WiFi/Bluetooth attack tools and offensive security utilities.</i></summary>
@@ -706,12 +706,13 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 </details>
 
 <details>
-<summary><b>Games-Modding</b> &nbsp;·&nbsp; 7 ⭐ &nbsp;·&nbsp; <i>Game patches, mod managers and save editors (r2modman, SilentPatch, TOTK mods).</i></summary>
+<summary><b>Games-Modding</b> &nbsp;·&nbsp; 8 ⭐ &nbsp;·&nbsp; <i>Game patches, mod managers and save editors (r2modman, SilentPatch, TOTK mods).</i></summary>
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
 | [`ebkr/r2modmanPlus`](https://github.com/ebkr/r2modmanPlus) | ⭐2.1k | 🔥 | A simple and easy to use mod manager for several games using Thunderstore |
 | [`CookiePLMonster/SilentPatch`](https://github.com/CookiePLMonster/SilentPatch) | ⭐1.0k | 🔥 | SilentPatch for GTA III, Vice City, and San Andreas |
+| [`KSP-CKAN/CKAN`](https://github.com/KSP-CKAN/CKAN) | ⭐2.6k |  | The Comprehensive Kerbal Archive Network |
 | [`marcrobledo/savegame-editors`](https://github.com/marcrobledo/savegame-editors) | ⭐1.3k |  | A compilation of console savegame editors made with HTML5 technologies. |
 | [`Grokitach/Stalker_GAMMA`](https://github.com/Grokitach/Stalker_GAMMA) | ⭐1.2k |  | S.T.A.L.K.E.R. G.A.M.M.A. modpack for Anomaly |
 | [`hoverbike1/TOTK-Mods-collection`](https://github.com/hoverbike1/TOTK-Mods-collection) | ⭐3.1k | 💤 | Mod repo for Tears of The Kingdom (TOTK) for Switch and Switch Emulation |

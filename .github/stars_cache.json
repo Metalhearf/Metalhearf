@@ -455,6 +455,14 @@
     "status": "🔥",
     "url": "https://github.com/KRTirtho/spotube"
   },
+  "KSP-CKAN/CKAN": {
+    "description": "The Comprehensive Kerbal Archive Network",
+    "isArchived": false,
+    "pushedAt": "2026-07-17T20:38:55Z",
+    "stargazerCount": 2599,
+    "status": "",
+    "url": "https://github.com/KSP-CKAN/CKAN"
+  },
   "Kalejin/DCSB": {
     "description": "Deathcounter and Soundboard, WPF app for setting up key shortcuts",
     "isArchived": false,
