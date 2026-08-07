@@ -2938,6 +2938,14 @@
     "status": "🔥",
     "url": "https://github.com/paperless-ngx/paperless-ngx"
   },
+  "pbakaus/impeccable": {
+    "description": "The design language that makes your AI harness better at design.",
+    "isArchived": false,
+    "pushedAt": "2026-08-07T04:48:56Z",
+    "stargazerCount": 56435,
+    "status": "🔥",
+    "url": "https://github.com/pbakaus/impeccable"
+  },
   "pentestfunctions/BlueDucky": {
     "description": "🚨 CVE-2023-45866 - BlueDucky Implementation (Using DuckyScript) 🔓 Unauthenticated Peering Leading to Code Execution (Using HID Keyboard)",
     "isArchived": false,

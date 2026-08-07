@@ -27,7 +27,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 <!-- STARS:START -->
 ## ⭐ Curated Stars
 
-**497 repos** across **29 categories**. Click any section to expand.
+**498 repos** across **29 categories**. Click any section to expand.
 
 <details>
 <summary><b>Hacking</b> &nbsp;·&nbsp; 30 ⭐ &nbsp;·&nbsp; <i>Pentesting frameworks, WiFi/Bluetooth attack tools and offensive security utilities.</i></summary>
@@ -68,6 +68,40 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 </details>
 
 <details>
+<summary><b>AI</b> &nbsp;·&nbsp; 26 ⭐ &nbsp;·&nbsp; <i>Local LLMs, AI coding agents, TTS engines and AI-augmented productivity tools.</i></summary>
+
+| Repo | Stars | Status | Description |
+| --- | --- | --- | --- |
+| [`openclaw/openclaw`](https://github.com/openclaw/openclaw) | ⭐384.8k | 🔥 | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 |
+| [`anomalyco/opencode`](https://github.com/anomalyco/opencode) | ⭐191.8k | 🔥 | The open source coding agent. |
+| [`ollama/ollama`](https://github.com/ollama/ollama) | ⭐177.5k | 🔥 | Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. |
+| [`open-webui/open-webui`](https://github.com/open-webui/open-webui) | ⭐147.5k | 🔥 | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) |
+| [`punkpeye/awesome-mcp-servers`](https://github.com/punkpeye/awesome-mcp-servers) | ⭐91.7k | 🔥 | A collection of MCP servers. |
+| [`odysseus-dev/odysseus`](https://github.com/odysseus-dev/odysseus) | ⭐84.4k | 🔥 | Self-hosted AI workspace. |
+| [`santifer/career-ops`](https://github.com/santifer/career-ops) | ⭐62.4k | 🔥 | Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 ... |
+| [`pbakaus/impeccable`](https://github.com/pbakaus/impeccable) | ⭐56.4k | 🔥 | The design language that makes your AI harness better at design. |
+| [`jamiepine/voicebox`](https://github.com/jamiepine/voicebox) | ⭐47.7k | 🔥 | The open-source AI voice studio. Clone, dictate, create. |
+| [`srbhr/Resume-Matcher`](https://github.com/srbhr/Resume-Matcher) | ⭐28.0k | 🔥 | The #1 AI Harness for Building Resumes, PDFs, Cover Letters & more, locally with 100+ LLMs support. |
+| [`yamadashy/repomix`](https://github.com/yamadashy/repomix) | ⭐27.6k | 🔥 | 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for... |
+| [`elie222/inbox-zero`](https://github.com/elie222/inbox-zero) | ⭐11.8k | 🔥 | The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast. |
+| [`kunchenguid/no-mistakes`](https://github.com/kunchenguid/no-mistakes) | ⭐7.3k | 🔥 | git push no-mistakes |
+| [`OpenWhispr/openwhispr`](https://github.com/OpenWhispr/openwhispr) | ⭐5.1k | 🔥 | Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and... |
+| [`kunchenguid/gnhf`](https://github.com/kunchenguid/gnhf) | ⭐3.5k | 🔥 | Before I go to bed, I tell my agents: good night, have fun |
+| [`kunchenguid/firstmate`](https://github.com/kunchenguid/firstmate) | ⭐2.6k | 🔥 | Talk to one agent. Ship with a crew. |
+| [`kunchenguid/lavish-axi`](https://github.com/kunchenguid/lavish-axi) | ⭐2.4k | 🔥 | HTML is the new markdown. Lavish is the new editor for your HTML artifacts. |
+| [`kunchenguid/axi`](https://github.com/kunchenguid/axi) | ⭐1.7k | 🔥 | Design principles for agent ergonomics. Higher accuracy with lower token cost than both MCP and regular CLI. |
+| [`multica-ai/andrej-karpathy-skills`](https://github.com/multica-ai/andrej-karpathy-skills) | ⭐198.3k |  | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM... |
+| [`OpenBMB/VoxCPM`](https://github.com/OpenBMB/VoxCPM) | ⭐34.7k |  | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Clo... |
+| [`blader/humanizer`](https://github.com/blader/humanizer) | ⭐32.4k |  | Agent skill that removes signs of AI-generated writing from text |
+| [`torvalds/AudioNoise`](https://github.com/torvalds/AudioNoise) | ⭐4.4k |  | Random digital audio effects |
+| [`romainsimon/paperasse`](https://github.com/romainsimon/paperasse) | ⭐2.3k |  | 🇫🇷  Skills pour agents IA spécialisés dans la bureaucratie française : Comptable, Notaire, ... |
+| [`yoanbernabeu/NanoThumbnail`](https://github.com/yoanbernabeu/NanoThumbnail) | ⭐45 |  | Generate Viral Thumbnails with AI |
+| [`Zyphra/Zonos`](https://github.com/Zyphra/Zonos) | ⭐7.2k | 💤 | Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilin... |
+| [`TheEvilSkeleton/Upscaler`](https://github.com/TheEvilSkeleton/Upscaler) | ⭐43 | 💤 | Upscale and enhance images |
+
+</details>
+
+<details>
 <summary><b>Media</b> &nbsp;·&nbsp; 26 ⭐ &nbsp;·&nbsp; <i>Self-hosted media servers, photo libraries, IP cameras, video downloaders and OBS plugins.</i></summary>
 
 | Repo | Stars | Status | Description |
@@ -98,39 +132,6 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`GuGuss/ARTE-7-Downloader`](https://github.com/GuGuss/ARTE-7-Downloader) | ⭐261 | 💤 | User script to download videos from the ARTE+7 website |
 | [`univrsal/spectralizer`](https://github.com/univrsal/spectralizer) | ⭐620 | 📦 | Audio visualizer plugin for obs-studio |
 | [`danielveigasilva/jellyfin-plugin-letterboxd-sync`](https://github.com/danielveigasilva/jellyfin-plugin-letterboxd-sync) | ⭐111 | 📦 | A unofficial plugin to keep your watched movie history from Jellyfin automatically updated to your Letterbo... |
-
-</details>
-
-<details>
-<summary><b>AI</b> &nbsp;·&nbsp; 25 ⭐ &nbsp;·&nbsp; <i>Local LLMs, AI coding agents, TTS engines and AI-augmented productivity tools.</i></summary>
-
-| Repo | Stars | Status | Description |
-| --- | --- | --- | --- |
-| [`openclaw/openclaw`](https://github.com/openclaw/openclaw) | ⭐384.8k | 🔥 | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 |
-| [`anomalyco/opencode`](https://github.com/anomalyco/opencode) | ⭐191.8k | 🔥 | The open source coding agent. |
-| [`ollama/ollama`](https://github.com/ollama/ollama) | ⭐177.5k | 🔥 | Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. |
-| [`open-webui/open-webui`](https://github.com/open-webui/open-webui) | ⭐147.5k | 🔥 | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) |
-| [`punkpeye/awesome-mcp-servers`](https://github.com/punkpeye/awesome-mcp-servers) | ⭐91.7k | 🔥 | A collection of MCP servers. |
-| [`odysseus-dev/odysseus`](https://github.com/odysseus-dev/odysseus) | ⭐84.4k | 🔥 | Self-hosted AI workspace. |
-| [`santifer/career-ops`](https://github.com/santifer/career-ops) | ⭐62.4k | 🔥 | Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 ... |
-| [`jamiepine/voicebox`](https://github.com/jamiepine/voicebox) | ⭐47.7k | 🔥 | The open-source AI voice studio. Clone, dictate, create. |
-| [`srbhr/Resume-Matcher`](https://github.com/srbhr/Resume-Matcher) | ⭐28.0k | 🔥 | The #1 AI Harness for Building Resumes, PDFs, Cover Letters & more, locally with 100+ LLMs support. |
-| [`yamadashy/repomix`](https://github.com/yamadashy/repomix) | ⭐27.6k | 🔥 | 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for... |
-| [`elie222/inbox-zero`](https://github.com/elie222/inbox-zero) | ⭐11.8k | 🔥 | The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast. |
-| [`kunchenguid/no-mistakes`](https://github.com/kunchenguid/no-mistakes) | ⭐7.3k | 🔥 | git push no-mistakes |
-| [`OpenWhispr/openwhispr`](https://github.com/OpenWhispr/openwhispr) | ⭐5.1k | 🔥 | Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and... |
-| [`kunchenguid/gnhf`](https://github.com/kunchenguid/gnhf) | ⭐3.5k | 🔥 | Before I go to bed, I tell my agents: good night, have fun |
-| [`kunchenguid/firstmate`](https://github.com/kunchenguid/firstmate) | ⭐2.6k | 🔥 | Talk to one agent. Ship with a crew. |
-| [`kunchenguid/lavish-axi`](https://github.com/kunchenguid/lavish-axi) | ⭐2.4k | 🔥 | HTML is the new markdown. Lavish is the new editor for your HTML artifacts. |
-| [`kunchenguid/axi`](https://github.com/kunchenguid/axi) | ⭐1.7k | 🔥 | Design principles for agent ergonomics. Higher accuracy with lower token cost than both MCP and regular CLI. |
-| [`multica-ai/andrej-karpathy-skills`](https://github.com/multica-ai/andrej-karpathy-skills) | ⭐198.3k |  | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM... |
-| [`OpenBMB/VoxCPM`](https://github.com/OpenBMB/VoxCPM) | ⭐34.7k |  | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Clo... |
-| [`blader/humanizer`](https://github.com/blader/humanizer) | ⭐32.4k |  | Agent skill that removes signs of AI-generated writing from text |
-| [`torvalds/AudioNoise`](https://github.com/torvalds/AudioNoise) | ⭐4.4k |  | Random digital audio effects |
-| [`romainsimon/paperasse`](https://github.com/romainsimon/paperasse) | ⭐2.3k |  | 🇫🇷  Skills pour agents IA spécialisés dans la bureaucratie française : Comptable, Notaire, ... |
-| [`yoanbernabeu/NanoThumbnail`](https://github.com/yoanbernabeu/NanoThumbnail) | ⭐45 |  | Generate Viral Thumbnails with AI |
-| [`Zyphra/Zonos`](https://github.com/Zyphra/Zonos) | ⭐7.2k | 💤 | Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilin... |
-| [`TheEvilSkeleton/Upscaler`](https://github.com/TheEvilSkeleton/Upscaler) | ⭐43 | 💤 | Upscale and enhance images |
 
 </details>
 
