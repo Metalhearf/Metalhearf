@@ -695,6 +695,14 @@
     "status": "",
     "url": "https://github.com/PatNei/GITHUB2FORGEJO"
   },
+  "Penqle/tortoise-wow": {
+    "description": "",
+    "isArchived": false,
+    "pushedAt": "2026-08-07T02:13:33Z",
+    "stargazerCount": 216,
+    "status": "🔥",
+    "url": "https://github.com/Penqle/tortoise-wow"
+  },
   "PlakarKorp/plakar": {
     "description": "plakar is a backup solution powered by Kloset and ptar",
     "isArchived": false,
@@ -2593,6 +2601,14 @@
     "stargazerCount": 2034,
     "status": "🔥",
     "url": "https://github.com/movim/movim"
+  },
+  "mserajnik/tortoise-deploy": {
+    "description": "A Docker setup for Tortoise-WoW with prebuilt images",
+    "isArchived": false,
+    "pushedAt": "2026-07-31T14:08:46Z",
+    "stargazerCount": 12,
+    "status": "🔥",
+    "url": "https://github.com/mserajnik/tortoise-deploy"
   },
   "mtlynch/picoshare": {
     "description": "A minimalist, easy-to-host service for sharing images and other files",

@@ -27,7 +27,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 <!-- STARS:START -->
 ## ⭐ Curated Stars
 
-**498 repos** across **29 categories**. Click any section to expand.
+**500 repos** across **29 categories**. Click any section to expand.
 
 <details>
 <summary><b>Hacking</b> &nbsp;·&nbsp; 30 ⭐ &nbsp;·&nbsp; <i>Pentesting frameworks, WiFi/Bluetooth attack tools and offensive security utilities.</i></summary>
@@ -636,6 +636,27 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 </details>
 
 <details>
+<summary><b>Games-WoW</b> &nbsp;·&nbsp; 13 ⭐ &nbsp;·&nbsp; <i>WoW emulators, private server cores and database editors (MaNGOS, TrinityCore, Confrérie).</i></summary>
+
+| Repo | Stars | Status | Description |
+| --- | --- | --- | --- |
+| [`Penqle/tortoise-wow`](https://github.com/Penqle/tortoise-wow) | ⭐216 | 🔥 | _(no description)_ |
+| [`mserajnik/tortoise-deploy`](https://github.com/mserajnik/tortoise-deploy) | ⭐12 | 🔥 | A Docker setup for Tortoise-WoW with prebuilt images |
+| [`mangos/MaNGOS`](https://github.com/mangos/MaNGOS) | ⭐3.1k |  | This is the master Information repository for MaNGOS |
+| [`cmangos/mangos-wotlk`](https://github.com/cmangos/mangos-wotlk) | ⭐548 |  | C(ontinued)-MaNGOS is about: -- Doing WoW-Emulation Right! |
+| [`balakethelock/SuperWoW`](https://github.com/balakethelock/SuperWoW) | ⭐171 |  | 1.12.1 WoW client mod that expands on API functionalities |
+| [`mangostwo/database`](https://github.com/mangostwo/database) | ⭐57 |  | The Mangos TWO world database contains creatures, NPCs, Quests, Items/objects & gossip information to popul... |
+| [`Shadez/wowarmory`](https://github.com/Shadez/wowarmory) | ⭐192 | 💤 | The World of Warcraft Armory is a vast searchable database of information for World of Warcraft - taken str... |
+| [`playerbot/mangos`](https://github.com/playerbot/mangos) | ⭐70 | 💤 | Playerbot is a fork of Mangos which lets you add another character from your account as a bot that you can ... |
+| [`fine/Quice`](https://github.com/fine/Quice) | ⭐9 | 💤 | Quice MaNGOS and Trinity Database Editor |
+| [`Khira/scriptdev2`](https://github.com/Khira/scriptdev2) | ⭐3 | 💤 | _(no description)_ |
+| [`derekjhunt/trinity_ansible`](https://github.com/derekjhunt/trinity_ansible) | ⭐2 | 💤 | Ansible Role for TrinityCore |
+| [`Khira/la-confrerie-332`](https://github.com/Khira/la-confrerie-332) | ⭐2 | 💤 | Sources du serveur de la Confrérie, compatible client World of Warcraft 3.3.2 |
+| [`Khira/La-Confrerie`](https://github.com/Khira/La-Confrerie) | ⭐2 | 💤 | Sources du serveur de la Confrérie |
+
+</details>
+
+<details>
 <summary><b>GitHub</b> &nbsp;·&nbsp; 12 ⭐ &nbsp;·&nbsp; <i>GitHub-flavored tooling: profile widgets, repo migrators, git visualizers and notification managers.</i></summary>
 
 | Repo | Stars | Status | Description |
@@ -652,25 +673,6 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`jaedle/mirror-to-gitea`](https://github.com/jaedle/mirror-to-gitea) | ⭐225 |  | Mirror your github repositories to your gitea server |
 | [`PatNei/GITHUB2FORGEJO`](https://github.com/PatNei/GITHUB2FORGEJO) | ⭐94 |  | Github 2 Forgejo: This script migrates your GitHub repositories to a Forgejo instance using the Forgejo API... |
 | [`arturssmirnovs/github-profile-views-counter`](https://github.com/arturssmirnovs/github-profile-views-counter) | ⭐202 | 📦 | Github new features README profile views counter made with Yii2 framework. |
-
-</details>
-
-<details>
-<summary><b>Games-WoW</b> &nbsp;·&nbsp; 11 ⭐ &nbsp;·&nbsp; <i>WoW emulators, private server cores and database editors (MaNGOS, TrinityCore, Confrérie).</i></summary>
-
-| Repo | Stars | Status | Description |
-| --- | --- | --- | --- |
-| [`mangos/MaNGOS`](https://github.com/mangos/MaNGOS) | ⭐3.1k |  | This is the master Information repository for MaNGOS |
-| [`cmangos/mangos-wotlk`](https://github.com/cmangos/mangos-wotlk) | ⭐548 |  | C(ontinued)-MaNGOS is about: -- Doing WoW-Emulation Right! |
-| [`balakethelock/SuperWoW`](https://github.com/balakethelock/SuperWoW) | ⭐171 |  | 1.12.1 WoW client mod that expands on API functionalities |
-| [`mangostwo/database`](https://github.com/mangostwo/database) | ⭐57 |  | The Mangos TWO world database contains creatures, NPCs, Quests, Items/objects & gossip information to popul... |
-| [`Shadez/wowarmory`](https://github.com/Shadez/wowarmory) | ⭐192 | 💤 | The World of Warcraft Armory is a vast searchable database of information for World of Warcraft - taken str... |
-| [`playerbot/mangos`](https://github.com/playerbot/mangos) | ⭐70 | 💤 | Playerbot is a fork of Mangos which lets you add another character from your account as a bot that you can ... |
-| [`fine/Quice`](https://github.com/fine/Quice) | ⭐9 | 💤 | Quice MaNGOS and Trinity Database Editor |
-| [`Khira/scriptdev2`](https://github.com/Khira/scriptdev2) | ⭐3 | 💤 | _(no description)_ |
-| [`derekjhunt/trinity_ansible`](https://github.com/derekjhunt/trinity_ansible) | ⭐2 | 💤 | Ansible Role for TrinityCore |
-| [`Khira/la-confrerie-332`](https://github.com/Khira/la-confrerie-332) | ⭐2 | 💤 | Sources du serveur de la Confrérie, compatible client World of Warcraft 3.3.2 |
-| [`Khira/La-Confrerie`](https://github.com/Khira/La-Confrerie) | ⭐2 | 💤 | Sources du serveur de la Confrérie |
 
 </details>
 
