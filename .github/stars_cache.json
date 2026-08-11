@@ -95,6 +95,14 @@
     "status": "🔥",
     "url": "https://github.com/Arcticons-Team/Arcticons"
   },
+  "ArnaudCrl/immich-automated-selfie-timelapse": {
+    "description": "Automated face extraction, resizing and alignment suitable to make a selfie timelapse video.",
+    "isArchived": false,
+    "pushedAt": "2026-07-08T18:04:43Z",
+    "stargazerCount": 733,
+    "status": "",
+    "url": "https://github.com/ArnaudCrl/immich-automated-selfie-timelapse"
+  },
   "AsYetUntitled/Framework": {
     "description": "Altis Life RPG mission framework for Arma 3 originally made by @TAWTonic.",
     "isArchived": false,
