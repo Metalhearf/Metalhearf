@@ -27,7 +27,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 <!-- STARS:START -->
 ## ⭐ Curated Stars
 
-**501 repos** across **29 categories**. Click any section to expand.
+**502 repos** across **29 categories**. Click any section to expand.
 
 <details>
 <summary><b>Hacking</b> &nbsp;·&nbsp; 30 ⭐ &nbsp;·&nbsp; <i>Pentesting frameworks, WiFi/Bluetooth attack tools and offensive security utilities.</i></summary>
@@ -265,6 +265,37 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 </details>
 
 <details>
+<summary><b>Fun</b> &nbsp;·&nbsp; 23 ⭐ &nbsp;·&nbsp; <i>Quirky joke projects, terminal pranks and absurd tech curiosities.</i></summary>
+
+| Repo | Stars | Status | Description |
+| --- | --- | --- | --- |
+| [`YusufB5/ASCILINE`](https://github.com/YusufB5/ASCILINE) | ⭐2.6k | 🔥 | A high-performance ASCII video rendering engine featuring real-time WebSocket binary streaming and an isola... |
+| [`0xk1h0/ChatGPT_DAN`](https://github.com/0xk1h0/ChatGPT_DAN) | ⭐12.3k |  | ChatGPT DAN, Jailbreaks prompt |
+| [`donlon/cloudflare-error-page`](https://github.com/donlon/cloudflare-error-page) | ⭐5.5k |  | ✅Browser ❌Cloudflare ✅Host — Customized Cloudflare error page generator. (unofficial) |
+| [`ading2210/doompdf`](https://github.com/ading2210/doompdf) | ⭐3.9k |  | A port of Doom (1993) that runs inside a PDF file |
+| [`joeycastillo/Sensor-Watch`](https://github.com/joeycastillo/Sensor-Watch) | ⭐2.0k |  | A board replacement for the classic Casio F-91W wristwatch |
+| [`zampierilucas/scx_horoscope`](https://github.com/zampierilucas/scx_horoscope) | ⭐1.4k |  | Astrological CPU Scheduler |
+| [`maunium/dontasktoask.com`](https://github.com/maunium/dontasktoask.com) | ⭐514 |  | An informational website about why you should ask questions directly instead of asking to ask |
+| [`nvbn/thefuck`](https://github.com/nvbn/thefuck) | ⭐97.7k | 💤 | Magnificent app which corrects your previous console command. |
+| [`kelseyhightower/nocode`](https://github.com/kelseyhightower/nocode) | ⭐65.6k | 💤 | The best way to write secure and reliable applications. Write nothing; deploy nowhere. |
+| [`ading2210/linuxpdf`](https://github.com/ading2210/linuxpdf) | ⭐5.1k | 💤 | Linux running inside a PDF file via a RISC-V emulator |
+| [`steeve/france.code-civil`](https://github.com/steeve/france.code-civil) | ⭐2.7k | 💤 | Le code civil français sous git |
+| [`nohello-net/site`](https://github.com/nohello-net/site) | ⭐1.6k | 💤 | _(no description)_ |
+| [`szhu/3030`](https://github.com/szhu/3030) | ⭐1.5k | 💤 | %%30%30 Game: Don't touch the trees! (Thanks, Chrome dev team!) |
+| [`keroserene/rickrollrc`](https://github.com/keroserene/rickrollrc) | ⭐1.4k | 💤 | Rick Astley invades your terminal. |
+| [`AlynxZhou/gnome-shell-extension-inotch`](https://github.com/AlynxZhou/gnome-shell-extension-inotch) | ⭐923 | 💤 | Add a useless notch to your screen. |
+| [`codenoid/github-roast`](https://github.com/codenoid/github-roast) | ⭐766 | 💤 | Spicy GitHub Roast 🔥 |
+| [`2ec0b4/kaamelott-soundboard`](https://github.com/2ec0b4/kaamelott-soundboard) | ⭐438 | 💤 | Ou : chante Sloubi. Nous, on va faire que la soundboard de Kaamelott. |
+| [`glreno/oneko`](https://github.com/glreno/oneko) | ⭐254 | 💤 | The ever popular kitty-that-follows-your-mouse-pointer |
+| [`sudofox/melee.sh`](https://github.com/sudofox/melee.sh) | ⭐225 | 💤 | Make the Smash Bros Melee narrator announce whether your command is successful or not. |
+| [`rakyll/fake-it-til-you-make-it`](https://github.com/rakyll/fake-it-til-you-make-it) | ⭐177 | 💤 | A program that demonstrates that GitHub contribution graph can be cheated |
+| [`rollercoasterguy/rollercoasterguy.github.io`](https://github.com/rollercoasterguy/rollercoasterguy.github.io) | ⭐42 | 💤 | _(no description)_ |
+| [`kevquirk/512kb.club`](https://github.com/kevquirk/512kb.club) | ⭐612 | 📦 | Website for the 512 KB Club |
+| [`Xe/praise-me`](https://github.com/Xe/praise-me) | ⭐138 | 📦 | Praise my GitHub profile! |
+
+</details>
+
+<details>
 <summary><b>Resources</b> &nbsp;·&nbsp; 22 ⭐ &nbsp;·&nbsp; <i>Awesome-lists, cheatsheets and study guides for sysadmins, devs and security folks.</i></summary>
 
 | Repo | Stars | Status | Description |
@@ -351,36 +382,6 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`itzmeanjan/twiz`](https://github.com/itzmeanjan/twiz) | ⭐6 | 💤 | Your Twitter Account Data Analysis & Visualization Tool <3 |
 | [`twintproject/twint`](https://github.com/twintproject/twint) | ⭐16.4k | 📦 | An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to... |
 | [`bisguzar/twitter-scraper`](https://github.com/bisguzar/twitter-scraper) | ⭐4.0k | 📦 | Scrape the Twitter Frontend API without authentication. |
-
-</details>
-
-<details>
-<summary><b>Fun</b> &nbsp;·&nbsp; 22 ⭐ &nbsp;·&nbsp; <i>Quirky joke projects, terminal pranks and absurd tech curiosities.</i></summary>
-
-| Repo | Stars | Status | Description |
-| --- | --- | --- | --- |
-| [`0xk1h0/ChatGPT_DAN`](https://github.com/0xk1h0/ChatGPT_DAN) | ⭐12.3k |  | ChatGPT DAN, Jailbreaks prompt |
-| [`donlon/cloudflare-error-page`](https://github.com/donlon/cloudflare-error-page) | ⭐5.5k |  | ✅Browser ❌Cloudflare ✅Host — Customized Cloudflare error page generator. (unofficial) |
-| [`ading2210/doompdf`](https://github.com/ading2210/doompdf) | ⭐3.9k |  | A port of Doom (1993) that runs inside a PDF file |
-| [`joeycastillo/Sensor-Watch`](https://github.com/joeycastillo/Sensor-Watch) | ⭐2.0k |  | A board replacement for the classic Casio F-91W wristwatch |
-| [`zampierilucas/scx_horoscope`](https://github.com/zampierilucas/scx_horoscope) | ⭐1.4k |  | Astrological CPU Scheduler |
-| [`maunium/dontasktoask.com`](https://github.com/maunium/dontasktoask.com) | ⭐514 |  | An informational website about why you should ask questions directly instead of asking to ask |
-| [`nvbn/thefuck`](https://github.com/nvbn/thefuck) | ⭐97.7k | 💤 | Magnificent app which corrects your previous console command. |
-| [`kelseyhightower/nocode`](https://github.com/kelseyhightower/nocode) | ⭐65.6k | 💤 | The best way to write secure and reliable applications. Write nothing; deploy nowhere. |
-| [`ading2210/linuxpdf`](https://github.com/ading2210/linuxpdf) | ⭐5.1k | 💤 | Linux running inside a PDF file via a RISC-V emulator |
-| [`steeve/france.code-civil`](https://github.com/steeve/france.code-civil) | ⭐2.7k | 💤 | Le code civil français sous git |
-| [`nohello-net/site`](https://github.com/nohello-net/site) | ⭐1.6k | 💤 | _(no description)_ |
-| [`szhu/3030`](https://github.com/szhu/3030) | ⭐1.5k | 💤 | %%30%30 Game: Don't touch the trees! (Thanks, Chrome dev team!) |
-| [`keroserene/rickrollrc`](https://github.com/keroserene/rickrollrc) | ⭐1.4k | 💤 | Rick Astley invades your terminal. |
-| [`AlynxZhou/gnome-shell-extension-inotch`](https://github.com/AlynxZhou/gnome-shell-extension-inotch) | ⭐923 | 💤 | Add a useless notch to your screen. |
-| [`codenoid/github-roast`](https://github.com/codenoid/github-roast) | ⭐766 | 💤 | Spicy GitHub Roast 🔥 |
-| [`2ec0b4/kaamelott-soundboard`](https://github.com/2ec0b4/kaamelott-soundboard) | ⭐438 | 💤 | Ou : chante Sloubi. Nous, on va faire que la soundboard de Kaamelott. |
-| [`glreno/oneko`](https://github.com/glreno/oneko) | ⭐254 | 💤 | The ever popular kitty-that-follows-your-mouse-pointer |
-| [`sudofox/melee.sh`](https://github.com/sudofox/melee.sh) | ⭐225 | 💤 | Make the Smash Bros Melee narrator announce whether your command is successful or not. |
-| [`rakyll/fake-it-til-you-make-it`](https://github.com/rakyll/fake-it-til-you-make-it) | ⭐177 | 💤 | A program that demonstrates that GitHub contribution graph can be cheated |
-| [`rollercoasterguy/rollercoasterguy.github.io`](https://github.com/rollercoasterguy/rollercoasterguy.github.io) | ⭐42 | 💤 | _(no description)_ |
-| [`kevquirk/512kb.club`](https://github.com/kevquirk/512kb.club) | ⭐612 | 📦 | Website for the 512 KB Club |
-| [`Xe/praise-me`](https://github.com/Xe/praise-me) | ⭐138 | 📦 | Praise my GitHub profile! |
 
 </details>
 

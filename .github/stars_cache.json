@@ -951,6 +951,14 @@
     "status": "",
     "url": "https://github.com/Yooooomi/your_spotify"
   },
+  "YusufB5/ASCILINE": {
+    "description": "A high-performance ASCII video rendering engine featuring real-time WebSocket binary streaming and an isolated compiler for serverless static generation. Built for low-latency 30 FPS playback on HTML5 Canvas.",
+    "isArchived": false,
+    "pushedAt": "2026-08-18T19:08:23Z",
+    "stargazerCount": 2635,
+    "status": "🔥",
+    "url": "https://github.com/YusufB5/ASCILINE"
+  },
   "ZKjellberg/dark-souls-3-cheat-sheet": {
     "description": "Checklist for Dark Souls 3 using HTML5 storage to retain progress",
     "isArchived": false,
