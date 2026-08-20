@@ -27,7 +27,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 <!-- STARS:START -->
 ## ⭐ Curated Stars
 
-**502 repos** across **29 categories**. Click any section to expand.
+**503 repos** across **29 categories**. Click any section to expand.
 
 <details>
 <summary><b>Hacking</b> &nbsp;·&nbsp; 30 ⭐ &nbsp;·&nbsp; <i>Pentesting frameworks, WiFi/Bluetooth attack tools and offensive security utilities.</i></summary>
@@ -527,7 +527,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 </details>
 
 <details>
-<summary><b>Tools-Desktop</b> &nbsp;·&nbsp; 15 ⭐ &nbsp;·&nbsp; <i>GUI applications, terminal emulators and system utilities (Ghostty, Ventoy, beekeeper, ladybird).</i></summary>
+<summary><b>Tools-Desktop</b> &nbsp;·&nbsp; 16 ⭐ &nbsp;·&nbsp; <i>GUI applications, terminal emulators and system utilities (Ghostty, Ventoy, beekeeper, ladybird).</i></summary>
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
@@ -540,6 +540,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`beekeeper-studio/beekeeper-studio`](https://github.com/beekeeper-studio/beekeeper-studio) | ⭐23.4k | 🔥 | Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Wind... |
 | [`m1k1o/neko`](https://github.com/m1k1o/neko) | ⭐22.1k | 🔥 | A self hosted virtual browser that runs in docker and uses WebRTC. |
 | [`BCUninstaller/Bulk-Crap-Uninstaller`](https://github.com/BCUninstaller/Bulk-Crap-Uninstaller) | ⭐20.8k | 🔥 | Remove large amounts of unwanted applications quickly. |
+| [`AprilNEA/OpenLogi`](https://github.com/AprilNEA/OpenLogi) | ⭐10.5k | 🔥 | ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and Smart... |
 | [`keylase/nvidia-patch`](https://github.com/keylase/nvidia-patch) | ⭐4.8k | 🔥 | This patch removes restriction on maximum number of simultaneous NVENC video encoding sessions imposed by N... |
 | [`ventoy/Ventoy`](https://github.com/ventoy/Ventoy) | ⭐78.7k |  | A new bootable USB solution. |
 | [`originalankur/maptoposter`](https://github.com/originalankur/maptoposter) | ⭐13.9k |  | Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export v... |

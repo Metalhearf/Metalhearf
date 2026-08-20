@@ -87,6 +87,14 @@
     "status": "",
     "url": "https://github.com/Anon-Planet/thgtoa"
   },
+  "AprilNEA/OpenLogi": {
+    "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+    "isArchived": false,
+    "pushedAt": "2026-08-19T14:08:55Z",
+    "stargazerCount": 10503,
+    "status": "🔥",
+    "url": "https://github.com/AprilNEA/OpenLogi"
+  },
   "Arcticons-Team/Arcticons": {
     "description": "A monotone line-based icon pack for android",
     "isArchived": false,
