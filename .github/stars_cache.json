@@ -2602,6 +2602,14 @@
     "status": "🔥",
     "url": "https://github.com/mollyim/mollyim-android"
   },
+  "monochrome-music/monochrome": {
+    "description": "Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Monochrome.",
+    "isArchived": false,
+    "pushedAt": "2026-08-22T19:31:21Z",
+    "stargazerCount": 5934,
+    "status": "🔥",
+    "url": "https://github.com/monochrome-music/monochrome"
+  },
   "mostafa-wahied/portracker": {
     "description": "An open source, self-hosted, real-time port monitoring and discovery tool.",
     "isArchived": false,

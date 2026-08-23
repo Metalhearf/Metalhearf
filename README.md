@@ -27,7 +27,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 <!-- STARS:START -->
 ## ⭐ Curated Stars
 
-**503 repos** across **29 categories**. Click any section to expand.
+**504 repos** across **29 categories**. Click any section to expand.
 
 <details>
 <summary><b>Hacking</b> &nbsp;·&nbsp; 30 ⭐ &nbsp;·&nbsp; <i>Pentesting frameworks, WiFi/Bluetooth attack tools and offensive security utilities.</i></summary>
@@ -551,7 +551,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 </details>
 
 <details>
-<summary><b>Music</b> &nbsp;·&nbsp; 15 ⭐ &nbsp;·&nbsp; <i>Spotify clients, music library managers and audio tagging tools.</i></summary>
+<summary><b>Music</b> &nbsp;·&nbsp; 16 ⭐ &nbsp;·&nbsp; <i>Spotify clients, music library managers and audio tagging tools.</i></summary>
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
@@ -561,6 +561,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`MetrolistGroup/Metrolist`](https://github.com/MetrolistGroup/Metrolist) | ⭐11.8k | 🔥 | YouTube Music client for Android |
 | [`spotbye/SpotiFLAC`](https://github.com/spotbye/SpotiFLAC) | ⭐10.5k | 🔥 | Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required. |
 | [`hrkfdn/ncspot`](https://github.com/hrkfdn/ncspot) | ⭐6.7k | 🔥 | Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes. |
+| [`monochrome-music/monochrome`](https://github.com/monochrome-music/monochrome) | ⭐5.9k | 🔥 | Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Monochrome. |
 | [`spotiflacapp/SpotiFLAC-Mobile`](https://github.com/spotiflacapp/SpotiFLAC-Mobile) | ⭐5.8k | 🔥 | Mobile music utility built with Flutter and Go. High-quality audio management for your personal library. - ... |
 | [`metabrainz/picard`](https://github.com/metabrainz/picard) | ⭐5.1k | 🔥 | Picard is a cross-platform music tagger powered by the MusicBrainz database |
 | [`spicetify/marketplace`](https://github.com/spicetify/marketplace) | ⭐1.5k | 🔥 | Download extensions and themes directly from Spicetify |
