@@ -2274,6 +2274,14 @@
     "status": "🔥",
     "url": "https://github.com/kunchenguid/axi"
   },
+  "kunchenguid/backpass": {
+    "description": "You don't write AGENTS.md. You train it with gradient descent.",
+    "isArchived": false,
+    "pushedAt": "2026-08-23T23:10:00Z",
+    "stargazerCount": 209,
+    "status": "🔥",
+    "url": "https://github.com/kunchenguid/backpass"
+  },
   "kunchenguid/firstmate": {
     "description": "Talk to one agent. Ship with a crew.",
     "isArchived": false,
