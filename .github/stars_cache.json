@@ -2186,6 +2186,14 @@
     "status": "💤",
     "url": "https://github.com/jystervinou/free-mobile-filtres-demarchage"
   },
+  "k4yt3x/video2x": {
+    "description": "A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.",
+    "isArchived": false,
+    "pushedAt": "2026-03-07T15:39:42Z",
+    "stargazerCount": 21165,
+    "status": "",
+    "url": "https://github.com/k4yt3x/video2x"
+  },
   "kahun/awesome-sysadmin": {
     "description": "A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.",
     "isArchived": false,

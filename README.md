@@ -27,7 +27,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 <!-- STARS:START -->
 ## ⭐ Curated Stars
 
-**505 repos** across **29 categories**. Click any section to expand.
+**506 repos** across **29 categories**. Click any section to expand.
 
 <details>
 <summary><b>Hacking</b> &nbsp;·&nbsp; 30 ⭐ &nbsp;·&nbsp; <i>Pentesting frameworks, WiFi/Bluetooth attack tools and offensive security utilities.</i></summary>
@@ -68,6 +68,42 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 </details>
 
 <details>
+<summary><b>Media</b> &nbsp;·&nbsp; 28 ⭐ &nbsp;·&nbsp; <i>Self-hosted media servers, photo libraries, IP cameras, video downloaders and OBS plugins.</i></summary>
+
+| Repo | Stars | Status | Description |
+| --- | --- | --- | --- |
+| [`iptv-org/iptv`](https://github.com/iptv-org/iptv) | ⭐135.8k | 🔥 | Collection of publicly available IPTV channels from all over the world |
+| [`immich-app/immich`](https://github.com/immich-app/immich) | ⭐110.5k | 🔥 | High performance self-hosted photo and video management solution. |
+| [`jellyfin/jellyfin`](https://github.com/jellyfin/jellyfin) | ⭐55.8k | 🔥 | The Free Software Media System - Server Backend & API |
+| [`photoprism/photoprism`](https://github.com/photoprism/photoprism) | ⭐40.1k | 🔥 | AI-Powered Photos App 🌈💎✨ |
+| [`blakeblackshear/frigate`](https://github.com/blakeblackshear/frigate) | ⭐35.1k | 🔥 | NVR with realtime local object detection for IP cameras |
+| [`navidrome/navidrome`](https://github.com/navidrome/navidrome) | ⭐22.9k | 🔥 | 🎧 Your Personal Streaming Service |
+| [`pystardust/ani-cli`](https://github.com/pystardust/ani-cli) | ⭐13.5k | 🔥 | A cli tool to browse and play anime |
+| [`seerr-team/seerr`](https://github.com/seerr-team/seerr) | ⭐12.3k | 🔥 | Open-source media request and discovery manager for Jellyfin, Plex, and Emby. |
+| [`streamlink/streamlink`](https://github.com/streamlink/streamlink) | ⭐11.7k | 🔥 | Streamlink is a CLI utility which pipes video streams from various services into a video player |
+| [`Freika/dawarich`](https://github.com/Freika/dawarich) | ⭐10.1k | 🔥 | Your favorite self-hostable alternative to Google Timeline (Google Location History) |
+| [`motioneye-project/motioneye`](https://github.com/motioneye-project/motioneye) | ⭐4.7k | 🔥 | A web frontend for the motion daemon. |
+| [`intro-skipper/intro-skipper`](https://github.com/intro-skipper/intro-skipper) | ⭐2.7k | 🔥 | Automatically detect and skip intro/credit sequences in Jellyfin |
+| [`SmilyOrg/photofield`](https://github.com/SmilyOrg/photofield) | ⭐600 | 🔥 | A self-hosted non-invasive single-binary photo gallery with a focus on speed and simplicity. |
+| [`yt-dlp/yt-dlp`](https://github.com/yt-dlp/yt-dlp) | ⭐184.5k |  | A feature-rich command-line audio/video downloader |
+| [`k4yt3x/video2x`](https://github.com/k4yt3x/video2x) | ⭐21.2k |  | A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II,... |
+| [`AlexxIT/go2rtc`](https://github.com/AlexxIT/go2rtc) | ⭐13.9k |  | Ultimate camera streaming application |
+| [`truelockmc/streambert`](https://github.com/truelockmc/streambert) | ⭐6.0k |  | A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Ze... |
+| [`obsproject/obs-websocket`](https://github.com/obsproject/obs-websocket) | ⭐4.3k |  | Remote-control of OBS Studio through WebSocket |
+| [`Salvoxia/immich-folder-album-creator`](https://github.com/Salvoxia/immich-folder-album-creator) | ⭐1.1k |  | Automatically create and populate albums in Immich from a folder structure in external libraries |
+| [`ArnaudCrl/immich-automated-selfie-timelapse`](https://github.com/ArnaudCrl/immich-automated-selfie-timelapse) | ⭐745 |  | Automated face extraction, resizing and alignment suitable to make a selfie timelapse video. |
+| [`JimmyAppelt/snaz`](https://github.com/JimmyAppelt/snaz) | ⭐302 |  | Snaz |
+| [`rx342/senscritique2letterboxd`](https://github.com/rx342/senscritique2letterboxd) | ⭐27 |  | Move your Senscritique library to Letterboxd |
+| [`phileastv/SensBoxd`](https://github.com/phileastv/SensBoxd) | ⭐26 |  | Exporter sa collection SensCritique pour Letterboxd. |
+| [`Vhonowslend/StreamFX-Public`](https://github.com/Vhonowslend/StreamFX-Public) | ⭐4.2k | 💤 | StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoder... |
+| [`Kalejin/DCSB`](https://github.com/Kalejin/DCSB) | ⭐290 | 💤 | Deathcounter and Soundboard, WPF app for setting up key shortcuts |
+| [`GuGuss/ARTE-7-Downloader`](https://github.com/GuGuss/ARTE-7-Downloader) | ⭐261 | 💤 | User script to download videos from the ARTE+7 website |
+| [`univrsal/spectralizer`](https://github.com/univrsal/spectralizer) | ⭐620 | 📦 | Audio visualizer plugin for obs-studio |
+| [`danielveigasilva/jellyfin-plugin-letterboxd-sync`](https://github.com/danielveigasilva/jellyfin-plugin-letterboxd-sync) | ⭐111 | 📦 | A unofficial plugin to keep your watched movie history from Jellyfin automatically updated to your Letterbo... |
+
+</details>
+
+<details>
 <summary><b>AI</b> &nbsp;·&nbsp; 27 ⭐ &nbsp;·&nbsp; <i>Local LLMs, AI coding agents, TTS engines and AI-augmented productivity tools.</i></summary>
 
 | Repo | Stars | Status | Description |
@@ -99,41 +135,6 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`yoanbernabeu/NanoThumbnail`](https://github.com/yoanbernabeu/NanoThumbnail) | ⭐44 |  | Generate Viral Thumbnails with AI |
 | [`Zyphra/Zonos`](https://github.com/Zyphra/Zonos) | ⭐7.2k | 💤 | Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilin... |
 | [`TheEvilSkeleton/Upscaler`](https://github.com/TheEvilSkeleton/Upscaler) | ⭐44 | 💤 | Upscale and enhance images |
-
-</details>
-
-<details>
-<summary><b>Media</b> &nbsp;·&nbsp; 27 ⭐ &nbsp;·&nbsp; <i>Self-hosted media servers, photo libraries, IP cameras, video downloaders and OBS plugins.</i></summary>
-
-| Repo | Stars | Status | Description |
-| --- | --- | --- | --- |
-| [`iptv-org/iptv`](https://github.com/iptv-org/iptv) | ⭐135.8k | 🔥 | Collection of publicly available IPTV channels from all over the world |
-| [`immich-app/immich`](https://github.com/immich-app/immich) | ⭐110.5k | 🔥 | High performance self-hosted photo and video management solution. |
-| [`jellyfin/jellyfin`](https://github.com/jellyfin/jellyfin) | ⭐55.8k | 🔥 | The Free Software Media System - Server Backend & API |
-| [`photoprism/photoprism`](https://github.com/photoprism/photoprism) | ⭐40.1k | 🔥 | AI-Powered Photos App 🌈💎✨ |
-| [`blakeblackshear/frigate`](https://github.com/blakeblackshear/frigate) | ⭐35.1k | 🔥 | NVR with realtime local object detection for IP cameras |
-| [`navidrome/navidrome`](https://github.com/navidrome/navidrome) | ⭐22.9k | 🔥 | 🎧 Your Personal Streaming Service |
-| [`pystardust/ani-cli`](https://github.com/pystardust/ani-cli) | ⭐13.5k | 🔥 | A cli tool to browse and play anime |
-| [`seerr-team/seerr`](https://github.com/seerr-team/seerr) | ⭐12.3k | 🔥 | Open-source media request and discovery manager for Jellyfin, Plex, and Emby. |
-| [`streamlink/streamlink`](https://github.com/streamlink/streamlink) | ⭐11.7k | 🔥 | Streamlink is a CLI utility which pipes video streams from various services into a video player |
-| [`Freika/dawarich`](https://github.com/Freika/dawarich) | ⭐10.1k | 🔥 | Your favorite self-hostable alternative to Google Timeline (Google Location History) |
-| [`motioneye-project/motioneye`](https://github.com/motioneye-project/motioneye) | ⭐4.7k | 🔥 | A web frontend for the motion daemon. |
-| [`intro-skipper/intro-skipper`](https://github.com/intro-skipper/intro-skipper) | ⭐2.7k | 🔥 | Automatically detect and skip intro/credit sequences in Jellyfin |
-| [`SmilyOrg/photofield`](https://github.com/SmilyOrg/photofield) | ⭐600 | 🔥 | A self-hosted non-invasive single-binary photo gallery with a focus on speed and simplicity. |
-| [`yt-dlp/yt-dlp`](https://github.com/yt-dlp/yt-dlp) | ⭐184.5k |  | A feature-rich command-line audio/video downloader |
-| [`AlexxIT/go2rtc`](https://github.com/AlexxIT/go2rtc) | ⭐13.9k |  | Ultimate camera streaming application |
-| [`truelockmc/streambert`](https://github.com/truelockmc/streambert) | ⭐6.0k |  | A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Ze... |
-| [`obsproject/obs-websocket`](https://github.com/obsproject/obs-websocket) | ⭐4.3k |  | Remote-control of OBS Studio through WebSocket |
-| [`Salvoxia/immich-folder-album-creator`](https://github.com/Salvoxia/immich-folder-album-creator) | ⭐1.1k |  | Automatically create and populate albums in Immich from a folder structure in external libraries |
-| [`ArnaudCrl/immich-automated-selfie-timelapse`](https://github.com/ArnaudCrl/immich-automated-selfie-timelapse) | ⭐745 |  | Automated face extraction, resizing and alignment suitable to make a selfie timelapse video. |
-| [`JimmyAppelt/snaz`](https://github.com/JimmyAppelt/snaz) | ⭐302 |  | Snaz |
-| [`rx342/senscritique2letterboxd`](https://github.com/rx342/senscritique2letterboxd) | ⭐27 |  | Move your Senscritique library to Letterboxd |
-| [`phileastv/SensBoxd`](https://github.com/phileastv/SensBoxd) | ⭐26 |  | Exporter sa collection SensCritique pour Letterboxd. |
-| [`Vhonowslend/StreamFX-Public`](https://github.com/Vhonowslend/StreamFX-Public) | ⭐4.2k | 💤 | StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoder... |
-| [`Kalejin/DCSB`](https://github.com/Kalejin/DCSB) | ⭐290 | 💤 | Deathcounter and Soundboard, WPF app for setting up key shortcuts |
-| [`GuGuss/ARTE-7-Downloader`](https://github.com/GuGuss/ARTE-7-Downloader) | ⭐261 | 💤 | User script to download videos from the ARTE+7 website |
-| [`univrsal/spectralizer`](https://github.com/univrsal/spectralizer) | ⭐620 | 📦 | Audio visualizer plugin for obs-studio |
-| [`danielveigasilva/jellyfin-plugin-letterboxd-sync`](https://github.com/danielveigasilva/jellyfin-plugin-letterboxd-sync) | ⭐111 | 📦 | A unofficial plugin to keep your watched movie history from Jellyfin automatically updated to your Letterbo... |
 
 </details>
 
