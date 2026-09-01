@@ -7,11 +7,11 @@ When I’m not breaking or fixing things, I’m usually exploring new tools, twe
 ## 📕 Latest Blog Posts from [metalhearf.fr](https://metalhearf.fr)
 
 <!-- BLOG-POST-LIST:START -->
+- [5 years running a Tor guard relay: the cost of relaying 1 PB](https://metalhearf.fr/posts/tor-guard-relay-5-years-cost/)
 - [ChatControl wants to scan all your private messages](https://metalhearf.fr/posts/chatcontrol-wants-your-private-messages/)
 - [Massgrave: Windows and Office Activation Made Simple](https://metalhearf.fr/posts/massgrave-windows-office-activation/)
 - [Why people hate voice messages so much](https://metalhearf.fr/posts/why-people-hate-voice-messages/)
 - [How Faillock silently locks you out of sudo](https://metalhearf.fr/posts/faillock-lockouts/)
-- [Remove your X/Twitter Interests and Limit Ad Tracking](https://metalhearf.fr/posts/privacy-remove-twitter-interests/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
