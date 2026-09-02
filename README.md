@@ -114,7 +114,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`open-webui/open-webui`](https://github.com/open-webui/open-webui) | ⭐150.5k | 🔥 | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) |
 | [`punkpeye/awesome-mcp-servers`](https://github.com/punkpeye/awesome-mcp-servers) | ⭐93.6k | 🔥 | A collection of MCP servers. |
 | [`odysseus-dev/odysseus`](https://github.com/odysseus-dev/odysseus) | ⭐86.6k | 🔥 | Self-hosted AI workspace. |
-| [`santifer/career-ops`](https://github.com/santifer/career-ops) | ⭐69.6k | 🔥 | Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1... |
+| [`career-ops-hq/career-ops`](https://github.com/career-ops-hq/career-ops) | ⭐69.8k | 🔥 | Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1... |
 | [`pbakaus/impeccable`](https://github.com/pbakaus/impeccable) | ⭐64.4k | 🔥 | The design language that makes your AI harness better at design. |
 | [`OpenBMB/VoxCPM`](https://github.com/OpenBMB/VoxCPM) | ⭐36.4k | 🔥 | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Clo... |
 | [`srbhr/Resume-Matcher`](https://github.com/srbhr/Resume-Matcher) | ⭐28.3k | 🔥 | The #1 AI Harness for Building Resumes, PDFs, Cover Letters & more, locally with 100+ LLMs support. |
