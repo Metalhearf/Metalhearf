@@ -3594,6 +3594,14 @@
     "status": "🔥",
     "url": "https://github.com/starship/starship"
   },
+  "stats-organization/github-stats-extended": {
+    "description": "Dynamically generate GitHub stats for your READMEs.",
+    "isArchived": false,
+    "pushedAt": "2026-09-03T13:23:15Z",
+    "stargazerCount": 1135,
+    "status": "🔥",
+    "url": "https://github.com/stats-organization/github-stats-extended"
+  },
   "steeve/france.code-civil": {
     "description": "Le code civil français sous git",
     "isArchived": false,

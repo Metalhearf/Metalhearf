@@ -668,8 +668,8 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
-| [`anuraghazra/github-readme-stats`](https://github.com/anuraghazra/github-readme-stats) | ⭐79.8k | 🔥 | :zap: Dynamically generated stats for your github readmes |
 | [`octobox/octobox`](https://github.com/octobox/octobox) | ⭐4.5k | 🔥 | 📮 Untangle your GitHub Notifications |
+| [`stats-organization/github-stats-extended`](https://github.com/stats-organization/github-stats-extended) | ⭐1.1k | 🔥 | Dynamically generate GitHub stats for your READMEs. |
 | [`nektos/act`](https://github.com/nektos/act) | ⭐71.7k |  | Run your GitHub Actions locally 🚀 |
 | [`tipsy/profile-summary-for-github`](https://github.com/tipsy/profile-summary-for-github) | ⭐19.9k |  | Tool for visualizing GitHub profiles |
 | [`lowlighter/metrics`](https://github.com/lowlighter/metrics) | ⭐17.1k |  | 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account an... |
