@@ -3250,6 +3250,14 @@
     "status": "📦",
     "url": "https://github.com/rclone/rclone-webui-react"
   },
+  "reactive-resume/app": {
+    "description": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
+    "isArchived": false,
+    "pushedAt": "2026-09-11T01:43:31Z",
+    "stargazerCount": 42446,
+    "status": "🔥",
+    "url": "https://github.com/reactive-resume/app"
+  },
   "recalbox/recalbox-os": {
     "description": "The recalbox repository moved to https://gitlab.com/recalbox/recalbox",
     "isArchived": true,
@@ -3769,6 +3777,14 @@
     "stargazerCount": 62610,
     "status": "🔥",
     "url": "https://github.com/topjohnwu/Magisk"
+  },
+  "tortoise-wow/tortoise-wow": {
+    "description": "",
+    "isArchived": false,
+    "pushedAt": "2026-09-11T02:28:29Z",
+    "stargazerCount": 323,
+    "status": "🔥",
+    "url": "https://github.com/tortoise-wow/tortoise-wow"
   },
   "torvalds/AudioNoise": {
     "description": "Random digital audio effects",

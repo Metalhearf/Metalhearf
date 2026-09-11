@@ -648,7 +648,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
 | [`cmangos/mangos-wotlk`](https://github.com/cmangos/mangos-wotlk) | ⭐555 | 🔥 | C(ontinued)-MaNGOS is about: -- Doing WoW-Emulation Right! |
-| [`Penqle/tortoise-wow`](https://github.com/Penqle/tortoise-wow) | ⭐312 | 🔥 | _(no description)_ |
+| [`tortoise-wow/tortoise-wow`](https://github.com/tortoise-wow/tortoise-wow) | ⭐323 | 🔥 | _(no description)_ |
 | [`mangostwo/database`](https://github.com/mangostwo/database) | ⭐57 | 🔥 | The Mangos TWO world database contains creatures, NPCs, Quests, Items/objects & gossip information to popul... |
 | [`mserajnik/tortoise-deploy`](https://github.com/mserajnik/tortoise-deploy) | ⭐21 | 🔥 | A Docker setup for Tortoise-WoW with prebuilt images |
 | [`mangos/MaNGOS`](https://github.com/mangos/MaNGOS) | ⭐3.1k |  | This is the master Information repository for MaNGOS |
@@ -688,7 +688,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
-| [`amruthpillai/reactive-resume`](https://github.com/amruthpillai/reactive-resume) | ⭐42.2k | 🔥 | A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, ... |
+| [`reactive-resume/app`](https://github.com/reactive-resume/app) | ⭐42.4k | 🔥 | A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, ... |
 | [`liketrek/TREK`](https://github.com/liketrek/TREK) | ⭐13.2k | 🔥 | A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets... |
 | [`we-promise/sure`](https://github.com/we-promise/sure) | ⭐9.7k | 🔥 | The personal finance app for everyone (by everyone) |
 | [`CodeWithCJ/SparkyFitness`](https://github.com/CodeWithCJ/SparkyFitness) | ⭐5.8k | 🔥 | SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together. |
