@@ -3258,6 +3258,14 @@
     "status": "🔥",
     "url": "https://github.com/reactive-resume/app"
   },
+  "reactive-resume/reactive-resume": {
+    "description": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
+    "isArchived": false,
+    "pushedAt": "2026-09-12T09:29:07Z",
+    "stargazerCount": 42563,
+    "status": "🔥",
+    "url": "https://github.com/reactive-resume/reactive-resume"
+  },
   "recalbox/recalbox-os": {
     "description": "The recalbox repository moved to https://gitlab.com/recalbox/recalbox",
     "isArchived": true,

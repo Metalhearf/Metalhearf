@@ -688,7 +688,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
-| [`reactive-resume/app`](https://github.com/reactive-resume/app) | ⭐42.4k | 🔥 | A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, ... |
+| [`reactive-resume/reactive-resume`](https://github.com/reactive-resume/reactive-resume) | ⭐42.6k | 🔥 | A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, ... |
 | [`liketrek/TREK`](https://github.com/liketrek/TREK) | ⭐13.2k | 🔥 | A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets... |
 | [`we-promise/sure`](https://github.com/we-promise/sure) | ⭐9.7k | 🔥 | The personal finance app for everyone (by everyone) |
 | [`CodeWithCJ/SparkyFitness`](https://github.com/CodeWithCJ/SparkyFitness) | ⭐5.8k | 🔥 | SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together. |
