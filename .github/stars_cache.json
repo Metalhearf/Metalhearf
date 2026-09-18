@@ -2594,6 +2594,14 @@
     "status": "💤",
     "url": "https://github.com/mmotti/pihole-regex"
   },
+  "mod-playerbots/mod-playerbots": {
+    "description": "AzerothCore Playerbots Module",
+    "isArchived": false,
+    "pushedAt": "2026-09-12T17:22:32Z",
+    "stargazerCount": 1097,
+    "status": "🔥",
+    "url": "https://github.com/mod-playerbots/mod-playerbots"
+  },
   "mollyim/mollyim-android": {
     "description": "Enhanced and security-focused fork of Signal.",
     "isArchived": false,
