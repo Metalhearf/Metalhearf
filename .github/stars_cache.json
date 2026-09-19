@@ -2482,6 +2482,14 @@
     "status": "💤",
     "url": "https://github.com/matt8707/hass-config"
   },
+  "mattpocock/skills": {
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "isArchived": false,
+    "pushedAt": "2026-09-18T10:12:48Z",
+    "stargazerCount": 265307,
+    "status": "🔥",
+    "url": "https://github.com/mattpocock/skills"
+  },
   "maunium/dontasktoask.com": {
     "description": "An informational website about why you should ask questions directly instead of asking to ask",
     "isArchived": false,
