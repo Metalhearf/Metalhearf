@@ -335,6 +335,14 @@
     "status": "",
     "url": "https://github.com/EmenstaNougat/ESP32-BlueJammer"
   },
+  "FEX-Emu/FEX": {
+    "description": "A fast usermode x86 and x86-64 emulator for Arm64 Linux",
+    "isArchived": false,
+    "pushedAt": "2026-09-22T03:07:24Z",
+    "stargazerCount": 8110,
+    "status": "🔥",
+    "url": "https://github.com/FEX-Emu/FEX"
+  },
   "FailedShack/USBHelperLauncher": {
     "description": "USBHelperLauncher restores and enhances Wii U USB Helper functionality by patching it at runtime and intercepting its network requests.",
     "isArchived": false,

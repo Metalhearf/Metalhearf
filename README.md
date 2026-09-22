@@ -27,7 +27,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 <!-- STARS:START -->
 ## ⭐ Curated Stars
 
-**509 repos** across **29 categories**. Click any section to expand.
+**510 repos** across **29 categories**. Click any section to expand.
 
 <details>
 <summary><b>Hacking</b> &nbsp;·&nbsp; 30 ⭐ &nbsp;·&nbsp; <i>Pentesting frameworks, WiFi/Bluetooth attack tools and offensive security utilities.</i></summary>
@@ -736,12 +736,13 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 </details>
 
 <details>
-<summary><b>Games-Emulators</b> &nbsp;·&nbsp; 5 ⭐ &nbsp;·&nbsp; <i>Console emulators and game-engine reimplementations (shadPS4, devilution, OpenRCT2).</i></summary>
+<summary><b>Games-Emulators</b> &nbsp;·&nbsp; 6 ⭐ &nbsp;·&nbsp; <i>Console emulators and game-engine reimplementations (shadPS4, devilution, OpenRCT2).</i></summary>
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
 | [`shadps4-emu/shadPS4`](https://github.com/shadps4-emu/shadPS4) | ⭐32.9k | 🔥 | PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++ |
 | [`OpenRCT2/OpenRCT2`](https://github.com/OpenRCT2/OpenRCT2) | ⭐16.2k | 🔥 | An open source re-implementation of RollerCoaster Tycoon 2 🎢 |
+| [`FEX-Emu/FEX`](https://github.com/FEX-Emu/FEX) | ⭐8.1k | 🔥 | A fast usermode x86 and x86-64 emulator for Arm64 Linux |
 | [`DaedalusX64/daedalus`](https://github.com/DaedalusX64/daedalus) | ⭐689 |  | The Nintendo 64 Emulator itself |
 | [`diasurgical/devilution`](https://github.com/diasurgical/devilution) | ⭐9.0k | 💤 | Diablo devolved - magic behind the 1996 computer game |
 | [`recalbox/recalbox-os`](https://github.com/recalbox/recalbox-os) | ⭐2.2k | 📦 | The recalbox repository moved to https://gitlab.com/recalbox/recalbox |
