@@ -2330,6 +2330,14 @@
     "status": "",
     "url": "https://github.com/l4rm4nd/LinkedInDumper"
   },
+  "latent-spaces/brag": {
+    "description": "You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command.",
+    "isArchived": false,
+    "pushedAt": "2026-09-21T11:41:37Z",
+    "stargazerCount": 7166,
+    "status": "🔥",
+    "url": "https://github.com/latent-spaces/brag"
+  },
   "liketrek/TREK": {
     "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
     "isArchived": false,

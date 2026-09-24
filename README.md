@@ -27,7 +27,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 <!-- STARS:START -->
 ## ⭐ Curated Stars
 
-**510 repos** across **29 categories**. Click any section to expand.
+**511 repos** across **29 categories**. Click any section to expand.
 
 <details>
 <summary><b>Hacking</b> &nbsp;·&nbsp; 30 ⭐ &nbsp;·&nbsp; <i>Pentesting frameworks, WiFi/Bluetooth attack tools and offensive security utilities.</i></summary>
@@ -68,7 +68,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 </details>
 
 <details>
-<summary><b>AI</b> &nbsp;·&nbsp; 28 ⭐ &nbsp;·&nbsp; <i>Local LLMs, AI coding agents, TTS engines and AI-augmented productivity tools.</i></summary>
+<summary><b>AI</b> &nbsp;·&nbsp; 29 ⭐ &nbsp;·&nbsp; <i>Local LLMs, AI coding agents, TTS engines and AI-augmented productivity tools.</i></summary>
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
@@ -86,6 +86,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`elie222/inbox-zero`](https://github.com/elie222/inbox-zero) | ⭐12.2k | 🔥 | The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast. |
 | [`kunchenguid/no-mistakes`](https://github.com/kunchenguid/no-mistakes) | ⭐8.5k | 🔥 | git push no-mistakes |
 | [`OpenWhispr/openwhispr`](https://github.com/OpenWhispr/openwhispr) | ⭐8.2k | 🔥 | Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and... |
+| [`latent-spaces/brag`](https://github.com/latent-spaces/brag) | ⭐7.2k | 🔥 | You built it. Now brag. Turn the project you just created into a short, shareable launch video with one com... |
 | [`kunchenguid/firstmate`](https://github.com/kunchenguid/firstmate) | ⭐6.0k | 🔥 | Talk to one agent. Ship with a crew. |
 | [`kunchenguid/lavish-axi`](https://github.com/kunchenguid/lavish-axi) | ⭐3.6k | 🔥 | HTML is the new markdown. Lavish is the new editor for your HTML artifacts. |
 | [`kunchenguid/axi`](https://github.com/kunchenguid/axi) | ⭐2.1k | 🔥 | Design principles for agent ergonomics. Higher accuracy with lower token cost than both MCP and regular CLI. |
