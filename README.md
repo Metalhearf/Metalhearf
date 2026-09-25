@@ -27,7 +27,45 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 <!-- STARS:START -->
 ## ⭐ Curated Stars
 
-**511 repos** across **29 categories**. Click any section to expand.
+**513 repos** across **29 categories**. Click any section to expand.
+
+<details>
+<summary><b>AI</b> &nbsp;·&nbsp; 30 ⭐ &nbsp;·&nbsp; <i>Local LLMs, AI coding agents, TTS engines and AI-augmented productivity tools.</i></summary>
+
+| Repo | Stars | Status | Description |
+| --- | --- | --- | --- |
+| [`openclaw/openclaw`](https://github.com/openclaw/openclaw) | ⭐389.7k | 🔥 | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 |
+| [`mattpocock/skills`](https://github.com/mattpocock/skills) | ⭐265.3k | 🔥 | Skills for Real Engineers. Straight from my .agents directory. |
+| [`anomalyco/opencode`](https://github.com/anomalyco/opencode) | ⭐207.4k | 🔥 | The open source coding agent. |
+| [`ollama/ollama`](https://github.com/ollama/ollama) | ⭐181.0k | 🔥 | Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. |
+| [`open-webui/open-webui`](https://github.com/open-webui/open-webui) | ⭐152.1k | 🔥 | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) |
+| [`punkpeye/awesome-mcp-servers`](https://github.com/punkpeye/awesome-mcp-servers) | ⭐95.0k | 🔥 | A collection of MCP servers. |
+| [`odysseus-dev/odysseus`](https://github.com/odysseus-dev/odysseus) | ⭐87.2k | 🔥 | Self-hosted AI workspace. |
+| [`paperclipai/paperclip`](https://github.com/paperclipai/paperclip) | ⭐82.8k | 🔥 | The open-source app everyone uses to manage agents at work |
+| [`career-ops-hq/career-ops`](https://github.com/career-ops-hq/career-ops) | ⭐71.6k | 🔥 | Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1... |
+| [`pbakaus/impeccable`](https://github.com/pbakaus/impeccable) | ⭐68.1k | 🔥 | The design language that makes your AI harness better at design. |
+| [`srbhr/Resume-Matcher`](https://github.com/srbhr/Resume-Matcher) | ⭐28.4k | 🔥 | The #1 AI Harness for Building Resumes, PDFs, Cover Letters & more, locally with 100+ LLMs support. |
+| [`yamadashy/repomix`](https://github.com/yamadashy/repomix) | ⭐28.3k | 🔥 | 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for... |
+| [`elie222/inbox-zero`](https://github.com/elie222/inbox-zero) | ⭐12.2k | 🔥 | The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast. |
+| [`kunchenguid/no-mistakes`](https://github.com/kunchenguid/no-mistakes) | ⭐8.5k | 🔥 | git push no-mistakes |
+| [`OpenWhispr/openwhispr`](https://github.com/OpenWhispr/openwhispr) | ⭐8.2k | 🔥 | Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and... |
+| [`latent-spaces/brag`](https://github.com/latent-spaces/brag) | ⭐7.2k | 🔥 | You built it. Now brag. Turn the project you just created into a short, shareable launch video with one com... |
+| [`kunchenguid/firstmate`](https://github.com/kunchenguid/firstmate) | ⭐6.0k | 🔥 | Talk to one agent. Ship with a crew. |
+| [`kunchenguid/lavish-axi`](https://github.com/kunchenguid/lavish-axi) | ⭐3.6k | 🔥 | HTML is the new markdown. Lavish is the new editor for your HTML artifacts. |
+| [`kunchenguid/axi`](https://github.com/kunchenguid/axi) | ⭐2.1k | 🔥 | Design principles for agent ergonomics. Higher accuracy with lower token cost than both MCP and regular CLI. |
+| [`kunchenguid/backpass`](https://github.com/kunchenguid/backpass) | ⭐998 | 🔥 | You don't write AGENTS.md. You train it with gradient descent. |
+| [`multica-ai/andrej-karpathy-skills`](https://github.com/multica-ai/andrej-karpathy-skills) | ⭐213.0k |  | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM... |
+| [`jamiepine/voicebox`](https://github.com/jamiepine/voicebox) | ⭐53.3k |  | The open-source AI voice studio. Clone, dictate, create. |
+| [`blader/humanizer`](https://github.com/blader/humanizer) | ⭐48.2k |  | Agent skill that removes signs of AI-generated writing from text |
+| [`OpenBMB/VoxCPM`](https://github.com/OpenBMB/VoxCPM) | ⭐37.4k |  | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Clo... |
+| [`torvalds/AudioNoise`](https://github.com/torvalds/AudioNoise) | ⭐4.5k |  | Random digital audio effects |
+| [`kunchenguid/gnhf`](https://github.com/kunchenguid/gnhf) | ⭐4.0k |  | Before I go to bed, I tell my agents: good night, have fun |
+| [`romainsimon/paperasse`](https://github.com/romainsimon/paperasse) | ⭐2.4k |  | 🇫🇷  Skills pour agents IA spécialisés dans la bureaucratie française : Comptable, Notaire, ... |
+| [`yoanbernabeu/NanoThumbnail`](https://github.com/yoanbernabeu/NanoThumbnail) | ⭐47 |  | Generate Viral Thumbnails with AI |
+| [`Zyphra/Zonos`](https://github.com/Zyphra/Zonos) | ⭐7.2k | 💤 | Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilin... |
+| [`TheEvilSkeleton/Upscaler`](https://github.com/TheEvilSkeleton/Upscaler) | ⭐44 | 💤 | Upscale and enhance images |
+
+</details>
 
 <details>
 <summary><b>Hacking</b> &nbsp;·&nbsp; 30 ⭐ &nbsp;·&nbsp; <i>Pentesting frameworks, WiFi/Bluetooth attack tools and offensive security utilities.</i></summary>
@@ -64,43 +102,6 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`LionSec/xerosploit`](https://github.com/LionSec/xerosploit) | ⭐2.2k | 💤 | Efficient and advanced man in the middle framework |
 | [`jonasstrehle/supercookie`](https://github.com/jonasstrehle/supercookie) | ⭐7.4k | 📦 | ⚠️ Browser fingerprinting via favicon! |
 | [`praetorian-inc/Hob0Rules`](https://github.com/praetorian-inc/Hob0Rules) | ⭐1.5k | 📦 | Password cracking rules for Hashcat based on statistics and industry patterns |
-
-</details>
-
-<details>
-<summary><b>AI</b> &nbsp;·&nbsp; 29 ⭐ &nbsp;·&nbsp; <i>Local LLMs, AI coding agents, TTS engines and AI-augmented productivity tools.</i></summary>
-
-| Repo | Stars | Status | Description |
-| --- | --- | --- | --- |
-| [`openclaw/openclaw`](https://github.com/openclaw/openclaw) | ⭐389.7k | 🔥 | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 |
-| [`mattpocock/skills`](https://github.com/mattpocock/skills) | ⭐265.3k | 🔥 | Skills for Real Engineers. Straight from my .agents directory. |
-| [`anomalyco/opencode`](https://github.com/anomalyco/opencode) | ⭐207.4k | 🔥 | The open source coding agent. |
-| [`ollama/ollama`](https://github.com/ollama/ollama) | ⭐181.0k | 🔥 | Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. |
-| [`open-webui/open-webui`](https://github.com/open-webui/open-webui) | ⭐152.1k | 🔥 | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) |
-| [`punkpeye/awesome-mcp-servers`](https://github.com/punkpeye/awesome-mcp-servers) | ⭐95.0k | 🔥 | A collection of MCP servers. |
-| [`odysseus-dev/odysseus`](https://github.com/odysseus-dev/odysseus) | ⭐87.2k | 🔥 | Self-hosted AI workspace. |
-| [`career-ops-hq/career-ops`](https://github.com/career-ops-hq/career-ops) | ⭐71.6k | 🔥 | Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1... |
-| [`pbakaus/impeccable`](https://github.com/pbakaus/impeccable) | ⭐68.1k | 🔥 | The design language that makes your AI harness better at design. |
-| [`srbhr/Resume-Matcher`](https://github.com/srbhr/Resume-Matcher) | ⭐28.4k | 🔥 | The #1 AI Harness for Building Resumes, PDFs, Cover Letters & more, locally with 100+ LLMs support. |
-| [`yamadashy/repomix`](https://github.com/yamadashy/repomix) | ⭐28.3k | 🔥 | 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for... |
-| [`elie222/inbox-zero`](https://github.com/elie222/inbox-zero) | ⭐12.2k | 🔥 | The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast. |
-| [`kunchenguid/no-mistakes`](https://github.com/kunchenguid/no-mistakes) | ⭐8.5k | 🔥 | git push no-mistakes |
-| [`OpenWhispr/openwhispr`](https://github.com/OpenWhispr/openwhispr) | ⭐8.2k | 🔥 | Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and... |
-| [`latent-spaces/brag`](https://github.com/latent-spaces/brag) | ⭐7.2k | 🔥 | You built it. Now brag. Turn the project you just created into a short, shareable launch video with one com... |
-| [`kunchenguid/firstmate`](https://github.com/kunchenguid/firstmate) | ⭐6.0k | 🔥 | Talk to one agent. Ship with a crew. |
-| [`kunchenguid/lavish-axi`](https://github.com/kunchenguid/lavish-axi) | ⭐3.6k | 🔥 | HTML is the new markdown. Lavish is the new editor for your HTML artifacts. |
-| [`kunchenguid/axi`](https://github.com/kunchenguid/axi) | ⭐2.1k | 🔥 | Design principles for agent ergonomics. Higher accuracy with lower token cost than both MCP and regular CLI. |
-| [`kunchenguid/backpass`](https://github.com/kunchenguid/backpass) | ⭐998 | 🔥 | You don't write AGENTS.md. You train it with gradient descent. |
-| [`multica-ai/andrej-karpathy-skills`](https://github.com/multica-ai/andrej-karpathy-skills) | ⭐213.0k |  | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM... |
-| [`jamiepine/voicebox`](https://github.com/jamiepine/voicebox) | ⭐53.3k |  | The open-source AI voice studio. Clone, dictate, create. |
-| [`blader/humanizer`](https://github.com/blader/humanizer) | ⭐48.2k |  | Agent skill that removes signs of AI-generated writing from text |
-| [`OpenBMB/VoxCPM`](https://github.com/OpenBMB/VoxCPM) | ⭐37.4k |  | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Clo... |
-| [`torvalds/AudioNoise`](https://github.com/torvalds/AudioNoise) | ⭐4.5k |  | Random digital audio effects |
-| [`kunchenguid/gnhf`](https://github.com/kunchenguid/gnhf) | ⭐4.0k |  | Before I go to bed, I tell my agents: good night, have fun |
-| [`romainsimon/paperasse`](https://github.com/romainsimon/paperasse) | ⭐2.4k |  | 🇫🇷  Skills pour agents IA spécialisés dans la bureaucratie française : Comptable, Notaire, ... |
-| [`yoanbernabeu/NanoThumbnail`](https://github.com/yoanbernabeu/NanoThumbnail) | ⭐47 |  | Generate Viral Thumbnails with AI |
-| [`Zyphra/Zonos`](https://github.com/Zyphra/Zonos) | ⭐7.2k | 💤 | Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilin... |
-| [`TheEvilSkeleton/Upscaler`](https://github.com/TheEvilSkeleton/Upscaler) | ⭐44 | 💤 | Upscale and enhance images |
 
 </details>
 
@@ -208,6 +209,37 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 </details>
 
 <details>
+<summary><b>Resources</b> &nbsp;·&nbsp; 23 ⭐ &nbsp;·&nbsp; <i>Awesome-lists, cheatsheets and study guides for sysadmins, devs and security folks.</i></summary>
+
+| Repo | Stars | Status | Description |
+| --- | --- | --- | --- |
+| [`donnemartin/system-design-primer`](https://github.com/donnemartin/system-design-primer) | ⭐370.0k | 🔥 | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. |
+| [`awesome-selfhosted/awesome-selfhosted`](https://github.com/awesome-selfhosted/awesome-selfhosted) | ⭐319.3k | 🔥 | A list of Free Software network services and web applications which can be hosted on your own servers |
+| [`danielmiessler/SecLists`](https://github.com/danielmiessler/SecLists) | ⭐73.5k | 🔥 | SecLists is the security tester's companion. It's a collection of multiple types of lists used during secur... |
+| [`imthenachoman/How-To-Secure-A-Linux-Server`](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) | ⭐31.4k | 🔥 | An evolving how-to guide for securing a Linux server. |
+| [`qazbnm456/awesome-web-security`](https://github.com/qazbnm456/awesome-web-security) | ⭐13.8k | 🔥 | 🐶 A curated list of Web Security materials and resources. |
+| [`theoephraim/awesome-cloudflare-selfhosted`](https://github.com/theoephraim/awesome-cloudflare-selfhosted) | ⭐966 | 🔥 | 🍊☁️ Open-source* apps that replace SaaS product + tools, running in your own Cloudflare account |
+| [`codecrafters-io/build-your-own-x`](https://github.com/codecrafters-io/build-your-own-x) | ⭐547.3k |  | Master programming by recreating your favorite technologies from scratch. |
+| [`sbilly/awesome-security`](https://github.com/sbilly/awesome-security) | ⭐14.9k |  | A collection of awesome software, libraries, documents, books, resources and cools stuffs about security. |
+| [`BartoszJarocki/cv`](https://github.com/BartoszJarocki/cv) | ⭐9.7k |  | Print-friendly, minimalist CV page |
+| [`linux-surface/linux-surface`](https://github.com/linux-surface/linux-surface) | ⭐7.7k |  | Linux Kernel for Surface Devices |
+| [`infoslack/awesome-web-hacking`](https://github.com/infoslack/awesome-web-hacking) | ⭐7.3k |  | A list of web application security |
+| [`pirate/wireguard-docs`](https://github.com/pirate/wireguard-docs) | ⭐5.0k |  | 📖 Unofficial WireGuard Documentation: Setup, Usage, Configuration, and full example setups for VPNs support... |
+| [`clarketm/proxy-list`](https://github.com/clarketm/proxy-list) | ⭐2.4k |  | A list of free, public, forward proxy servers. UPDATED DAILY! |
+| [`dev-sec/linux-baseline`](https://github.com/dev-sec/linux-baseline) | ⭐874 |  | DevSec Linux Baseline - InSpec Profile |
+| [`ironicbadger/pms-wiki`](https://github.com/ironicbadger/pms-wiki) | ⭐535 |  | The aim is to share knowledge and information about building an open-source media server. |
+| [`jwasham/coding-interview-university`](https://github.com/jwasham/coding-interview-university) | ⭐360.9k | 💤 | A complete computer science study plan to become a software engineer. |
+| [`trimstray/the-book-of-secret-knowledge`](https://github.com/trimstray/the-book-of-secret-knowledge) | ⭐243.8k | 💤 | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. |
+| [`twitter/the-algorithm`](https://github.com/twitter/the-algorithm) | ⭐73.9k | 💤 | Source code for the X Recommendation Algorithm |
+| [`open-guides/og-aws`](https://github.com/open-guides/og-aws) | ⭐36.5k | 💤 | 📙 Amazon Web Services — a practical guide |
+| [`kahun/awesome-sysadmin`](https://github.com/kahun/awesome-sysadmin) | ⭐24.3k | 💤 | A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP. |
+| [`matchai/awesome-pinned-gists`](https://github.com/matchai/awesome-pinned-gists) | ⭐2.1k | 💤 | 📌✨ A collection of awesome dynamic pinned gists for GitHub |
+| [`roboyoshi/datacurator-filetree`](https://github.com/roboyoshi/datacurator-filetree) | ⭐1.6k | 💤 | a standard filetree for /r/datacurator [ and r/datahoarder ] |
+| [`simon987/awesome-datahoarding`](https://github.com/simon987/awesome-datahoarding) | ⭐1.3k | 💤 | List of data-hoarding related tools |
+
+</details>
+
+<details>
 <summary><b>InfraAsCode</b> &nbsp;·&nbsp; 23 ⭐ &nbsp;·&nbsp; <i>Ansible playbooks, container hosting platforms and cloud-provider helper scripts.</i></summary>
 
 | Repo | Stars | Status | Description |
@@ -297,36 +329,6 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`rollercoasterguy/rollercoasterguy.github.io`](https://github.com/rollercoasterguy/rollercoasterguy.github.io) | ⭐42 | 💤 | _(no description)_ |
 | [`kevquirk/512kb.club`](https://github.com/kevquirk/512kb.club) | ⭐612 | 📦 | Website for the 512 KB Club |
 | [`Xe/praise-me`](https://github.com/Xe/praise-me) | ⭐137 | 📦 | Praise my GitHub profile! |
-
-</details>
-
-<details>
-<summary><b>Resources</b> &nbsp;·&nbsp; 22 ⭐ &nbsp;·&nbsp; <i>Awesome-lists, cheatsheets and study guides for sysadmins, devs and security folks.</i></summary>
-
-| Repo | Stars | Status | Description |
-| --- | --- | --- | --- |
-| [`donnemartin/system-design-primer`](https://github.com/donnemartin/system-design-primer) | ⭐370.0k | 🔥 | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. |
-| [`awesome-selfhosted/awesome-selfhosted`](https://github.com/awesome-selfhosted/awesome-selfhosted) | ⭐319.3k | 🔥 | A list of Free Software network services and web applications which can be hosted on your own servers |
-| [`danielmiessler/SecLists`](https://github.com/danielmiessler/SecLists) | ⭐73.5k | 🔥 | SecLists is the security tester's companion. It's a collection of multiple types of lists used during secur... |
-| [`imthenachoman/How-To-Secure-A-Linux-Server`](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) | ⭐31.4k | 🔥 | An evolving how-to guide for securing a Linux server. |
-| [`qazbnm456/awesome-web-security`](https://github.com/qazbnm456/awesome-web-security) | ⭐13.8k | 🔥 | 🐶 A curated list of Web Security materials and resources. |
-| [`codecrafters-io/build-your-own-x`](https://github.com/codecrafters-io/build-your-own-x) | ⭐547.3k |  | Master programming by recreating your favorite technologies from scratch. |
-| [`sbilly/awesome-security`](https://github.com/sbilly/awesome-security) | ⭐14.9k |  | A collection of awesome software, libraries, documents, books, resources and cools stuffs about security. |
-| [`BartoszJarocki/cv`](https://github.com/BartoszJarocki/cv) | ⭐9.7k |  | Print-friendly, minimalist CV page |
-| [`linux-surface/linux-surface`](https://github.com/linux-surface/linux-surface) | ⭐7.7k |  | Linux Kernel for Surface Devices |
-| [`infoslack/awesome-web-hacking`](https://github.com/infoslack/awesome-web-hacking) | ⭐7.3k |  | A list of web application security |
-| [`pirate/wireguard-docs`](https://github.com/pirate/wireguard-docs) | ⭐5.0k |  | 📖 Unofficial WireGuard Documentation: Setup, Usage, Configuration, and full example setups for VPNs support... |
-| [`clarketm/proxy-list`](https://github.com/clarketm/proxy-list) | ⭐2.4k |  | A list of free, public, forward proxy servers. UPDATED DAILY! |
-| [`dev-sec/linux-baseline`](https://github.com/dev-sec/linux-baseline) | ⭐874 |  | DevSec Linux Baseline - InSpec Profile |
-| [`ironicbadger/pms-wiki`](https://github.com/ironicbadger/pms-wiki) | ⭐535 |  | The aim is to share knowledge and information about building an open-source media server. |
-| [`jwasham/coding-interview-university`](https://github.com/jwasham/coding-interview-university) | ⭐360.9k | 💤 | A complete computer science study plan to become a software engineer. |
-| [`trimstray/the-book-of-secret-knowledge`](https://github.com/trimstray/the-book-of-secret-knowledge) | ⭐243.8k | 💤 | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. |
-| [`twitter/the-algorithm`](https://github.com/twitter/the-algorithm) | ⭐73.9k | 💤 | Source code for the X Recommendation Algorithm |
-| [`open-guides/og-aws`](https://github.com/open-guides/og-aws) | ⭐36.5k | 💤 | 📙 Amazon Web Services — a practical guide |
-| [`kahun/awesome-sysadmin`](https://github.com/kahun/awesome-sysadmin) | ⭐24.3k | 💤 | A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP. |
-| [`matchai/awesome-pinned-gists`](https://github.com/matchai/awesome-pinned-gists) | ⭐2.1k | 💤 | 📌✨ A collection of awesome dynamic pinned gists for GitHub |
-| [`roboyoshi/datacurator-filetree`](https://github.com/roboyoshi/datacurator-filetree) | ⭐1.6k | 💤 | a standard filetree for /r/datacurator [ and r/datahoarder ] |
-| [`simon987/awesome-datahoarding`](https://github.com/simon987/awesome-datahoarding) | ⭐1.3k | 💤 | List of data-hoarding related tools |
 
 </details>
 

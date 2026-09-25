@@ -3010,6 +3010,14 @@
     "status": "💤",
     "url": "https://github.com/owickstrom/the-monospace-web"
   },
+  "paperclipai/paperclip": {
+    "description": "The open-source app everyone uses to manage agents at work",
+    "isArchived": false,
+    "pushedAt": "2026-09-25T01:43:58Z",
+    "stargazerCount": 82833,
+    "status": "🔥",
+    "url": "https://github.com/paperclipai/paperclip"
+  },
   "paperless-ngx/paperless-ngx": {
     "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
     "isArchived": false,
@@ -3737,6 +3745,14 @@
     "stargazerCount": 1562,
     "status": "💤",
     "url": "https://github.com/th3unkn0n/osi.ig"
+  },
+  "theoephraim/awesome-cloudflare-selfhosted": {
+    "description": "🍊☁️ Open-source* apps that replace SaaS product + tools, running in your own Cloudflare account",
+    "isArchived": false,
+    "pushedAt": "2026-09-23T20:22:53Z",
+    "stargazerCount": 966,
+    "status": "🔥",
+    "url": "https://github.com/theoephraim/awesome-cloudflare-selfhosted"
   },
   "theopolisme/location-history-visualizer": {
     "description": "Visualize your Google Location History using an interactive heatmap",
