@@ -562,7 +562,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
-| [`KRTirtho/spotube`](https://github.com/KRTirtho/spotube) | ⭐49.2k | 🔥 | 🎧 Open source music streaming app! Available for both desktop & mobile! |
+| [`team-spotube/spotube`](https://github.com/team-spotube/spotube) | ⭐49.4k | 🔥 | 🎧 Open source music streaming app! Available for both desktop & mobile! |
 | [`spicetify/cli`](https://github.com/spicetify/cli) | ⭐24.5k | 🔥 | Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux. |
 | [`beetbox/beets`](https://github.com/beetbox/beets) | ⭐15.7k | 🔥 | music library manager and MusicBrainz tagger |
 | [`MetrolistGroup/Metrolist`](https://github.com/MetrolistGroup/Metrolist) | ⭐12.8k | 🔥 | YouTube Music client for Android |
