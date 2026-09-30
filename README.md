@@ -27,10 +27,10 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 <!-- STARS:START -->
 ## ⭐ Curated Stars
 
-**513 repos** across **29 categories**. Click any section to expand.
+**515 repos** across **29 categories**. Click any section to expand.
 
 <details>
-<summary><b>AI</b> &nbsp;·&nbsp; 30 ⭐ &nbsp;·&nbsp; <i>Local LLMs, AI coding agents, TTS engines and AI-augmented productivity tools.</i></summary>
+<summary><b>AI</b> &nbsp;·&nbsp; 31 ⭐ &nbsp;·&nbsp; <i>Local LLMs, AI coding agents, TTS engines and AI-augmented productivity tools.</i></summary>
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
@@ -44,6 +44,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`paperclipai/paperclip`](https://github.com/paperclipai/paperclip) | ⭐82.8k | 🔥 | The open-source app everyone uses to manage agents at work |
 | [`career-ops-hq/career-ops`](https://github.com/career-ops-hq/career-ops) | ⭐71.6k | 🔥 | Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1... |
 | [`pbakaus/impeccable`](https://github.com/pbakaus/impeccable) | ⭐68.1k | 🔥 | The design language that makes your AI harness better at design. |
+| [`debpalash/VoiceStudio`](https://github.com/debpalash/VoiceStudio) | ⭐48.5k | 🔥 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dub... |
 | [`srbhr/Resume-Matcher`](https://github.com/srbhr/Resume-Matcher) | ⭐28.4k | 🔥 | The #1 AI Harness for Building Resumes, PDFs, Cover Letters & more, locally with 100+ LLMs support. |
 | [`yamadashy/repomix`](https://github.com/yamadashy/repomix) | ⭐28.3k | 🔥 | 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for... |
 | [`elie222/inbox-zero`](https://github.com/elie222/inbox-zero) | ⭐12.2k | 🔥 | The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast. |
@@ -507,7 +508,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 </details>
 
 <details>
-<summary><b>Games-Tools</b> &nbsp;·&nbsp; 19 ⭐ &nbsp;·&nbsp; <i>Game companions, save managers, launchers, map renderers and discord bots.</i></summary>
+<summary><b>Games-Tools</b> &nbsp;·&nbsp; 20 ⭐ &nbsp;·&nbsp; <i>Game companions, save managers, launchers, map renderers and discord bots.</i></summary>
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
@@ -515,6 +516,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`lutris/lutris`](https://github.com/lutris/lutris) | ⭐10.2k | 🔥 | Lutris desktop client |
 | [`HiddenRamblings/TagMo`](https://github.com/HiddenRamblings/TagMo) | ⭐3.2k | 🔥 | _(no description)_ |
 | [`BlueMap-Minecraft/BlueMap`](https://github.com/BlueMap-Minecraft/BlueMap) | ⭐2.8k | 🔥 | A Minecraft mapping tool that creates 3D models of your Minecraft worlds and displays them in a web viewer. |
+| [`P-Adamiec/Free-Games-Claimer-Remaster`](https://github.com/P-Adamiec/Free-Games-Claimer-Remaster) | ⭐348 | 🔥 | A complete ground-up Python remaster inspired by https://github.com/vogler/free-games-claimer |
 | [`FuzzyGrim/Yamtrack`](https://github.com/FuzzyGrim/Yamtrack) | ⭐3.5k |  | A self hosted media tracker. |
 | [`EDCD/EDMarketConnector`](https://github.com/EDCD/EDMarketConnector) | ⭐1.3k |  | Downloads commodity market and other station data from the game Elite: Dangerous for use with all popular o... |
 | [`kwsch/NHSE`](https://github.com/kwsch/NHSE) | ⭐1.2k |  | Animal Crossing: New Horizons save editor |

@@ -703,6 +703,14 @@
     "status": "🔥",
     "url": "https://github.com/OpenWhispr/openwhispr"
   },
+  "P-Adamiec/Free-Games-Claimer-Remaster": {
+    "description": "A complete ground-up Python remaster inspired by https://github.com/vogler/free-games-claimer",
+    "isArchived": false,
+    "pushedAt": "2026-09-28T03:36:30Z",
+    "stargazerCount": 348,
+    "status": "🔥",
+    "url": "https://github.com/P-Adamiec/Free-Games-Claimer-Remaster"
+  },
   "PAPAMICA/home-config": {
     "description": "All configs files of my house configuration !",
     "isArchived": false,
@@ -1505,6 +1513,14 @@
     "stargazerCount": 537,
     "status": "💤",
     "url": "https://github.com/ddo/fast"
+  },
+  "debpalash/VoiceStudio": {
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+    "isArchived": false,
+    "pushedAt": "2026-09-29T15:45:28Z",
+    "stargazerCount": 48513,
+    "status": "🔥",
+    "url": "https://github.com/debpalash/VoiceStudio"
   },
   "derailed/k9s": {
     "description": "🐶 Kubernetes CLI To Manage Your Clusters In Style!",
