@@ -27,10 +27,10 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 <!-- STARS:START -->
 ## ⭐ Curated Stars
 
-**515 repos** across **29 categories**. Click any section to expand.
+**516 repos** across **29 categories**. Click any section to expand.
 
 <details>
-<summary><b>AI</b> &nbsp;·&nbsp; 31 ⭐ &nbsp;·&nbsp; <i>Local LLMs, AI coding agents, TTS engines and AI-augmented productivity tools.</i></summary>
+<summary><b>AI</b> &nbsp;·&nbsp; 32 ⭐ &nbsp;·&nbsp; <i>Local LLMs, AI coding agents, TTS engines and AI-augmented productivity tools.</i></summary>
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
@@ -57,6 +57,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`kunchenguid/gnhf`](https://github.com/kunchenguid/gnhf) | ⭐4.1k | 🔥 | Before I go to bed, I tell my agents: good night, have fun |
 | [`kunchenguid/lavish-axi`](https://github.com/kunchenguid/lavish-axi) | ⭐3.9k | 🔥 | HTML is the new markdown. Lavish is the new editor for your HTML artifacts. |
 | [`kunchenguid/axi`](https://github.com/kunchenguid/axi) | ⭐2.2k | 🔥 | Design principles for agent ergonomics. Higher accuracy with lower token cost than both MCP and regular CLI. |
+| [`dmtrKovalenko/fframes`](https://github.com/dmtrKovalenko/fframes) | ⭐2.1k | 🔥 | programmatic video rendering framework that is actually fast |
 | [`kunchenguid/backpass`](https://github.com/kunchenguid/backpass) | ⭐1.3k | 🔥 | You don't write AGENTS.md. You train it with gradient descent. |
 | [`yoanbernabeu/NanoThumbnail`](https://github.com/yoanbernabeu/NanoThumbnail) | ⭐50 | 🔥 | Generate Viral Thumbnails with AI |
 | [`multica-ai/andrej-karpathy-skills`](https://github.com/multica-ai/andrej-karpathy-skills) | ⭐216.1k |  | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM... |

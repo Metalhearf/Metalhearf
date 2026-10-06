@@ -1570,6 +1570,14 @@
     "status": "",
     "url": "https://github.com/dino/dino"
   },
+  "dmtrKovalenko/fframes": {
+    "description": "programmatic video rendering framework that is actually fast",
+    "isArchived": false,
+    "pushedAt": "2026-10-06T03:02:48Z",
+    "stargazerCount": 2109,
+    "status": "🔥",
+    "url": "https://github.com/dmtrKovalenko/fframes"
+  },
   "docker-mailserver/docker-mailserver": {
     "description": "Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.",
     "isArchived": false,
