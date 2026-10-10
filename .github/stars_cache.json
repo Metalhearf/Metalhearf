@@ -287,6 +287,14 @@
     "status": "🔥",
     "url": "https://github.com/Devolutions/UniGetUI"
   },
+  "DietrichGebert/ponytail": {
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "isArchived": false,
+    "pushedAt": "2026-10-10T04:01:34Z",
+    "stargazerCount": 159749,
+    "status": "🔥",
+    "url": "https://github.com/DietrichGebert/ponytail"
+  },
   "Dokploy/dokploy": {
     "description": "Open Source Alternative to Vercel, Netlify and Heroku.",
     "isArchived": false,

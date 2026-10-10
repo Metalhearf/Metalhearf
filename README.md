@@ -27,10 +27,10 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 <!-- STARS:START -->
 ## ⭐ Curated Stars
 
-**516 repos** across **29 categories**. Click any section to expand.
+**517 repos** across **29 categories**. Click any section to expand.
 
 <details>
-<summary><b>AI</b> &nbsp;·&nbsp; 32 ⭐ &nbsp;·&nbsp; <i>Local LLMs, AI coding agents, TTS engines and AI-augmented productivity tools.</i></summary>
+<summary><b>AI</b> &nbsp;·&nbsp; 33 ⭐ &nbsp;·&nbsp; <i>Local LLMs, AI coding agents, TTS engines and AI-augmented productivity tools.</i></summary>
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
@@ -38,6 +38,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`mattpocock/skills`](https://github.com/mattpocock/skills) | ⭐273.1k | 🔥 | Skills for Real Engineers. Straight from my .agents directory. |
 | [`anomalyco/opencode`](https://github.com/anomalyco/opencode) | ⭐211.2k | 🔥 | The open source coding agent. |
 | [`ollama/ollama`](https://github.com/ollama/ollama) | ⭐182.0k | 🔥 | Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. |
+| [`DietrichGebert/ponytail`](https://github.com/DietrichGebert/ponytail) | ⭐159.7k | 🔥 | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
 | [`open-webui/open-webui`](https://github.com/open-webui/open-webui) | ⭐153.7k | 🔥 | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) |
 | [`punkpeye/awesome-mcp-servers`](https://github.com/punkpeye/awesome-mcp-servers) | ⭐95.7k | 🔥 | A collection of MCP servers. |
 | [`paperclipai/paperclip`](https://github.com/paperclipai/paperclip) | ⭐95.4k | 🔥 | The open-source app everyone uses to manage agents at work |
