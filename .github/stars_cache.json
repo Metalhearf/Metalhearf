@@ -2666,6 +2666,14 @@
     "status": "🔥",
     "url": "https://github.com/monochrome-music/monochrome"
   },
+  "morluto/rea": {
+    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "isArchived": false,
+    "pushedAt": "2026-10-13T05:14:41Z",
+    "stargazerCount": 169447,
+    "status": "🔥",
+    "url": "https://github.com/morluto/rea"
+  },
   "mostafa-wahied/portracker": {
     "description": "An open source, self-hosted, real-time port monitoring and discovery tool.",
     "isArchived": false,
