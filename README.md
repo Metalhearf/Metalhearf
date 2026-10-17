@@ -27,7 +27,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 <!-- STARS:START -->
 ## ⭐ Curated Stars
 
-**518 repos** across **29 categories**. Click any section to expand.
+**517 repos** across **29 categories**. Click any section to expand.
 
 <details>
 <summary><b>AI</b> &nbsp;·&nbsp; 34 ⭐ &nbsp;·&nbsp; <i>Local LLMs, AI coding agents, TTS engines and AI-augmented productivity tools.</i></summary>
@@ -694,7 +694,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 </details>
 
 <details>
-<summary><b>Personal</b> &nbsp;·&nbsp; 10 ⭐ &nbsp;·&nbsp; <i>Personal finance trackers, fitness apps, habit trackers and genealogy tools.</i></summary>
+<summary><b>Personal</b> &nbsp;·&nbsp; 9 ⭐ &nbsp;·&nbsp; <i>Personal finance trackers, fitness apps, habit trackers and genealogy tools.</i></summary>
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
@@ -705,7 +705,6 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`portfolio-performance/portfolio`](https://github.com/portfolio-performance/portfolio) | ⭐4.1k | 🔥 | Track and evaluate the performance of your investment portfolio across stocks, cryptocurrencies, and other ... |
 | [`gramps-project/gramps-web`](https://github.com/gramps-project/gramps-web) | ⭐1.7k | 🔥 | Open Source Online Genealogy System |
 | [`xpavle00/Habo`](https://github.com/xpavle00/Habo) | ⭐1.5k | 🔥 | Privacy-first habit tracker for iOS and Android. E2EE sync, self-hostable, built with Flutter. |
-| [`tahnok/colmi_r02_client`](https://github.com/tahnok/colmi_r02_client) | ⭐665 |  | A python client + documentation for the Colmi R02 smart ring |
 | [`theopolisme/location-history-visualizer`](https://github.com/theopolisme/location-history-visualizer) | ⭐938 | 💤 | Visualize your Google Location History using an interactive heatmap |
 | [`maybe-finance/maybe`](https://github.com/maybe-finance/maybe) | ⭐54.2k | 📦 | The personal finance app for everyone |
 
