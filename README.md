@@ -27,10 +27,10 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 <!-- STARS:START -->
 ## ⭐ Curated Stars
 
-**517 repos** across **29 categories**. Click any section to expand.
+**518 repos** across **29 categories**. Click any section to expand.
 
 <details>
-<summary><b>AI</b> &nbsp;·&nbsp; 34 ⭐ &nbsp;·&nbsp; <i>Local LLMs, AI coding agents, TTS engines and AI-augmented productivity tools.</i></summary>
+<summary><b>AI</b> &nbsp;·&nbsp; 35 ⭐ &nbsp;·&nbsp; <i>Local LLMs, AI coding agents, TTS engines and AI-augmented productivity tools.</i></summary>
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
@@ -51,6 +51,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`yamadashy/repomix`](https://github.com/yamadashy/repomix) | ⭐28.8k | 🔥 | 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for... |
 | [`srbhr/Resume-Matcher`](https://github.com/srbhr/Resume-Matcher) | ⭐28.7k | 🔥 | The #1 AI Harness for Building Resumes, PDFs, Cover Letters & more, locally with 100+ LLMs support. |
 | [`latent-spaces/brag`](https://github.com/latent-spaces/brag) | ⭐16.0k | 🔥 | You built it. Now brag. Turn the project you just created into a short, shareable launch video with one com... |
+| [`superset-sh/superset`](https://github.com/superset-sh/superset) | ⭐15.3k | 🔥 | Superset is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subsc... |
 | [`elie222/inbox-zero`](https://github.com/elie222/inbox-zero) | ⭐12.5k | 🔥 | The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast. |
 | [`OpenWhispr/openwhispr`](https://github.com/OpenWhispr/openwhispr) | ⭐9.4k | 🔥 | Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and... |
 | [`kunchenguid/no-mistakes`](https://github.com/kunchenguid/no-mistakes) | ⭐8.9k | 🔥 | git push no-mistakes |

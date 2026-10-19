@@ -3698,6 +3698,14 @@
     "status": "💤",
     "url": "https://github.com/sudofox/melee.sh"
   },
+  "superset-sh/superset": {
+    "description": "Superset is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.",
+    "isArchived": false,
+    "pushedAt": "2026-10-19T01:20:56Z",
+    "stargazerCount": 15346,
+    "status": "🔥",
+    "url": "https://github.com/superset-sh/superset"
+  },
   "swizzin/swizzin": {
     "description": "A simple, modular seedbox solution",
     "isArchived": false,
