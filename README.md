@@ -398,6 +398,35 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 </details>
 
 <details>
+<summary><b>Android</b> &nbsp;·&nbsp; 21 ⭐ &nbsp;·&nbsp; <i>Debloaters, ReVanced/Magisk patches, FOSS apps and rooting utilities for Android.</i></summary>
+
+| Repo | Stars | Status | Description |
+| --- | --- | --- | --- |
+| [`Genymobile/scrcpy`](https://github.com/Genymobile/scrcpy) | ⭐152.2k | 🔥 | Display and control your Android device |
+| [`topjohnwu/Magisk`](https://github.com/topjohnwu/Magisk) | ⭐63.3k | 🔥 | The Magic Mask for Android |
+| [`yuliskov/SmartTube`](https://github.com/yuliskov/SmartTube) | ⭐35.0k | 🔥 | Browse media content with your own rules on Android TV |
+| [`breezy-weather/breezy-weather`](https://github.com/breezy-weather/breezy-weather) | ⭐11.7k | 🔥 | A feature-rich weather app with good visualizations and more than 50 sources. |
+| [`offa/android-foss`](https://github.com/offa/android-foss) | ⭐11.5k | 🔥 | A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy. |
+| [`Universal-Debloater-Alliance/universal-android-debloater-next-generation`](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) | ⭐9.4k | 🔥 | Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, t... |
+| [`MorpheApp/morphe-manager`](https://github.com/MorpheApp/morphe-manager) | ⭐9.0k | 🔥 | Morphe app patcher for Android |
+| [`Gathin23/cleanyourtv`](https://github.com/Gathin23/cleanyourtv) | ⭐5.9k | 🔥 | Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home. |
+| [`crimera/piko`](https://github.com/crimera/piko) | ⭐5.7k | 🔥 | morphe patches for twitter and instagram |
+| [`MorpheApp/morphe-patches`](https://github.com/MorpheApp/morphe-patches) | ⭐4.1k | 🔥 | Morphe Patches |
+| [`Arcticons-Team/Arcticons`](https://github.com/Arcticons-Team/Arcticons) | ⭐1.6k | 🔥 | A monotone line-based icon pack for android |
+| [`bryanroscoe/shield_optimizer`](https://github.com/bryanroscoe/shield_optimizer) | ⭐1.0k | 🔥 | _(no description)_ |
+| [`nvbangg/awesome-morphe`](https://github.com/nvbangg/awesome-morphe) | ⭐448 | 🔥 | Explore all Morphe resources, patch bundles and community projects. |
+| [`ReVanced/revanced-manager`](https://github.com/ReVanced/revanced-manager) | ⭐29.8k |  | 💊 Application to use ReVanced on Android |
+| [`beemdevelopment/Aegis`](https://github.com/beemdevelopment/Aegis) | ⭐13.3k |  | A free, secure and open source app for Android to manage your 2-step verification tokens. |
+| [`AbdurazaaqMohammed/AntiSplit-M`](https://github.com/AbdurazaaqMohammed/AntiSplit-M) | ⭐4.9k |  | App to AntiSplit (merge) split APKs (APKS/XAPK/APKM) to regular .APK file on Android |
+| [`corentin-c/SpotifyAutoPatcher`](https://github.com/corentin-c/SpotifyAutoPatcher) | ⭐603 |  | The easiest way to patch Spotify and Youtube Music, without the need to download APKs ! |
+| [`0x192/universal-android-debloater`](https://github.com/0x192/universal-android-debloater) | ⭐20.0k | 💤 | Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, t... |
+| [`BaltiApps/Pixelify-Google-Photos`](https://github.com/BaltiApps/Pixelify-Google-Photos) | ⭐1.6k | 💤 | Pixelify GPhotos |
+| [`ayush5harma/PixelFeatureDrops`](https://github.com/ayush5harma/PixelFeatureDrops) | ⭐348 | 💤 | Magisk Module for Pixel Feature Drops that adds the system files for the same and spoof using the latest de... |
+| [`Team-xManager/xManager`](https://github.com/Team-xManager/xManager) | ⭐12.1k | 📦 | Ad-Free, New Features & Freedom |
+
+</details>
+
+<details>
 <summary><b>Privacy</b> &nbsp;·&nbsp; 21 ⭐ &nbsp;·&nbsp; <i>Tracker blockers, password managers, anonymous messaging and tools to escape surveillance.</i></summary>
 
 | Repo | Stars | Status | Description |
@@ -484,34 +513,6 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 </details>
 
 <details>
-<summary><b>Android</b> &nbsp;·&nbsp; 20 ⭐ &nbsp;·&nbsp; <i>Debloaters, ReVanced/Magisk patches, FOSS apps and rooting utilities for Android.</i></summary>
-
-| Repo | Stars | Status | Description |
-| --- | --- | --- | --- |
-| [`Genymobile/scrcpy`](https://github.com/Genymobile/scrcpy) | ⭐152.2k | 🔥 | Display and control your Android device |
-| [`topjohnwu/Magisk`](https://github.com/topjohnwu/Magisk) | ⭐63.3k | 🔥 | The Magic Mask for Android |
-| [`yuliskov/SmartTube`](https://github.com/yuliskov/SmartTube) | ⭐35.0k | 🔥 | Browse media content with your own rules on Android TV |
-| [`breezy-weather/breezy-weather`](https://github.com/breezy-weather/breezy-weather) | ⭐11.7k | 🔥 | A feature-rich weather app with good visualizations and more than 50 sources. |
-| [`offa/android-foss`](https://github.com/offa/android-foss) | ⭐11.5k | 🔥 | A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy. |
-| [`Universal-Debloater-Alliance/universal-android-debloater-next-generation`](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) | ⭐9.4k | 🔥 | Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, t... |
-| [`MorpheApp/morphe-manager`](https://github.com/MorpheApp/morphe-manager) | ⭐9.0k | 🔥 | Morphe app patcher for Android |
-| [`crimera/piko`](https://github.com/crimera/piko) | ⭐5.7k | 🔥 | morphe patches for twitter and instagram |
-| [`MorpheApp/morphe-patches`](https://github.com/MorpheApp/morphe-patches) | ⭐4.1k | 🔥 | Morphe Patches |
-| [`Arcticons-Team/Arcticons`](https://github.com/Arcticons-Team/Arcticons) | ⭐1.6k | 🔥 | A monotone line-based icon pack for android |
-| [`bryanroscoe/shield_optimizer`](https://github.com/bryanroscoe/shield_optimizer) | ⭐1.0k | 🔥 | _(no description)_ |
-| [`nvbangg/awesome-morphe`](https://github.com/nvbangg/awesome-morphe) | ⭐448 | 🔥 | Explore all Morphe resources, patch bundles and community projects. |
-| [`ReVanced/revanced-manager`](https://github.com/ReVanced/revanced-manager) | ⭐29.8k |  | 💊 Application to use ReVanced on Android |
-| [`beemdevelopment/Aegis`](https://github.com/beemdevelopment/Aegis) | ⭐13.3k |  | A free, secure and open source app for Android to manage your 2-step verification tokens. |
-| [`AbdurazaaqMohammed/AntiSplit-M`](https://github.com/AbdurazaaqMohammed/AntiSplit-M) | ⭐4.9k |  | App to AntiSplit (merge) split APKs (APKS/XAPK/APKM) to regular .APK file on Android |
-| [`corentin-c/SpotifyAutoPatcher`](https://github.com/corentin-c/SpotifyAutoPatcher) | ⭐603 |  | The easiest way to patch Spotify and Youtube Music, without the need to download APKs ! |
-| [`0x192/universal-android-debloater`](https://github.com/0x192/universal-android-debloater) | ⭐20.0k | 💤 | Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, t... |
-| [`BaltiApps/Pixelify-Google-Photos`](https://github.com/BaltiApps/Pixelify-Google-Photos) | ⭐1.6k | 💤 | Pixelify GPhotos |
-| [`ayush5harma/PixelFeatureDrops`](https://github.com/ayush5harma/PixelFeatureDrops) | ⭐348 | 💤 | Magisk Module for Pixel Feature Drops that adds the system files for the same and spoof using the latest de... |
-| [`Team-xManager/xManager`](https://github.com/Team-xManager/xManager) | ⭐12.1k | 📦 | Ad-Free, New Features & Freedom |
-
-</details>
-
-<details>
 <summary><b>Games-Tools</b> &nbsp;·&nbsp; 20 ⭐ &nbsp;·&nbsp; <i>Game companions, save managers, launchers, map renderers and discord bots.</i></summary>
 
 | Repo | Stars | Status | Description |
@@ -564,7 +565,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 </details>
 
 <details>
-<summary><b>Music</b> &nbsp;·&nbsp; 16 ⭐ &nbsp;·&nbsp; <i>Spotify clients, music library managers and audio tagging tools.</i></summary>
+<summary><b>Music</b> &nbsp;·&nbsp; 15 ⭐ &nbsp;·&nbsp; <i>Spotify clients, music library managers and audio tagging tools.</i></summary>
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
@@ -576,7 +577,6 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`spotiflacapp/SpotiFLAC-Mobile`](https://github.com/spotiflacapp/SpotiFLAC-Mobile) | ⭐6.7k | 🔥 | Mobile music utility built with Flutter and Go. High-quality audio management for your personal library. - ... |
 | [`monochrome-music/monochrome`](https://github.com/monochrome-music/monochrome) | ⭐6.7k | 🔥 | Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Monochrome. |
 | [`metabrainz/picard`](https://github.com/metabrainz/picard) | ⭐5.3k | 🔥 | Picard is a cross-platform music tagger powered by the MusicBrainz database |
-| [`spotbye/SpotiFLAC`](https://github.com/spotbye/SpotiFLAC) | ⭐11.5k |  | Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required. |
 | [`Yooooomi/your_spotify`](https://github.com/Yooooomi/your_spotify) | ⭐4.6k |  | Self hosted Spotify tracking dashboard |
 | [`linsomniac/spotify_to_ytmusic`](https://github.com/linsomniac/spotify_to_ytmusic) | ⭐4.6k |  | Copy playlists and liked music from Spotify to YTMusic |
 | [`watsonbox/exportify`](https://github.com/watsonbox/exportify) | ⭐4.3k |  | Export/Backup Spotify playlists using the Web API |

@@ -383,6 +383,14 @@
     "status": "🔥",
     "url": "https://github.com/GameServerManagers/LinuxGSM"
   },
+  "Gathin23/cleanyourtv": {
+    "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+    "isArchived": false,
+    "pushedAt": "2026-10-20T02:44:43Z",
+    "stargazerCount": 5948,
+    "status": "🔥",
+    "url": "https://github.com/Gathin23/cleanyourtv"
+  },
   "Genymobile/scrcpy": {
     "description": "Display and control your Android device",
     "isArchived": false,
