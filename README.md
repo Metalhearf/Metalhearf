@@ -27,10 +27,10 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 <!-- STARS:START -->
 ## ⭐ Curated Stars
 
-**518 repos** across **29 categories**. Click any section to expand.
+**519 repos** across **29 categories**. Click any section to expand.
 
 <details>
-<summary><b>AI</b> &nbsp;·&nbsp; 35 ⭐ &nbsp;·&nbsp; <i>Local LLMs, AI coding agents, TTS engines and AI-augmented productivity tools.</i></summary>
+<summary><b>AI</b> &nbsp;·&nbsp; 36 ⭐ &nbsp;·&nbsp; <i>Local LLMs, AI coding agents, TTS engines and AI-augmented productivity tools.</i></summary>
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
@@ -63,6 +63,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`multica-ai/andrej-karpathy-skills`](https://github.com/multica-ai/andrej-karpathy-skills) | ⭐219.8k |  | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM... |
 | [`jamiepine/voicebox`](https://github.com/jamiepine/voicebox) | ⭐57.5k |  | The open-source AI voice studio. Clone, dictate, create. |
 | [`blader/humanizer`](https://github.com/blader/humanizer) | ⭐57.0k |  | Agent skill that removes signs of AI-generated writing from text |
+| [`cloudflare/security-audit-skill`](https://github.com/cloudflare/security-audit-skill) | ⭐34.4k |  | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings |
 | [`torvalds/AudioNoise`](https://github.com/torvalds/AudioNoise) | ⭐4.5k |  | Random digital audio effects |
 | [`kunchenguid/gnhf`](https://github.com/kunchenguid/gnhf) | ⭐4.2k |  | Before I go to bed, I tell my agents: good night, have fun |
 | [`romainsimon/paperasse`](https://github.com/romainsimon/paperasse) | ⭐2.5k |  | 🇫🇷  Skills pour agents IA spécialisés dans la bureaucratie française : Comptable, Notaire, ... |
@@ -573,8 +574,8 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`spicetify/cli`](https://github.com/spicetify/cli) | ⭐25.0k | 🔥 | Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux. |
 | [`beetbox/beets`](https://github.com/beetbox/beets) | ⭐15.8k | 🔥 | music library manager and MusicBrainz tagger |
 | [`MetrolistGroup/Metrolist`](https://github.com/MetrolistGroup/Metrolist) | ⭐13.5k | 🔥 | YouTube Music client for Android |
+| [`mornyeapp/Mornye`](https://github.com/mornyeapp/Mornye) | ⭐7.0k | 🔥 | Mobile music utility built with Flutter and Rust. High-quality audio management for your personal library. ... |
 | [`hrkfdn/ncspot`](https://github.com/hrkfdn/ncspot) | ⭐6.8k | 🔥 | Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes. |
-| [`spotiflacapp/SpotiFLAC-Mobile`](https://github.com/spotiflacapp/SpotiFLAC-Mobile) | ⭐6.7k | 🔥 | Mobile music utility built with Flutter and Go. High-quality audio management for your personal library. - ... |
 | [`monochrome-music/monochrome`](https://github.com/monochrome-music/monochrome) | ⭐6.7k | 🔥 | Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Monochrome. |
 | [`metabrainz/picard`](https://github.com/metabrainz/picard) | ⭐5.3k | 🔥 | Picard is a cross-platform music tagger powered by the MusicBrainz database |
 | [`Yooooomi/your_spotify`](https://github.com/Yooooomi/your_spotify) | ⭐4.6k |  | Self hosted Spotify tracking dashboard |
@@ -670,7 +671,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`orf/gping`](https://github.com/orf/gping) | ⭐12.7k |  | Ping, but with a graph |
 | [`da-luce/astroterm`](https://github.com/da-luce/astroterm) | ⭐2.1k |  | A planetarium for your terminal! Explore stars, planets, constellations, and more, all rendered right in th... |
 | [`Chleba/netscanner`](https://github.com/Chleba/netscanner) | ⭐1.9k |  | Terminal Network scanner & diagnostic tool with modern TUI |
-| [`0xhckr/ghostty-shaders`](https://github.com/0xhckr/ghostty-shaders) | ⭐1.5k |  | A repository containing many free shaders to use with ghostty (the terminal) |
+| [`hackrdotsh/ghostty-shaders`](https://github.com/hackrdotsh/ghostty-shaders) | ⭐1.5k |  | A repository containing many free shaders to use with ghostty (the terminal) |
 
 </details>
 

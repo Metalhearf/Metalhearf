@@ -1378,6 +1378,14 @@
     "status": "",
     "url": "https://github.com/clarketm/proxy-list"
   },
+  "cloudflare/security-audit-skill": {
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "isArchived": false,
+    "pushedAt": "2026-09-14T19:29:02Z",
+    "stargazerCount": 34439,
+    "status": "",
+    "url": "https://github.com/cloudflare/security-audit-skill"
+  },
   "clusterzx/paperless-ai": {
     "description": "An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.",
     "isArchived": false,
@@ -1905,6 +1913,14 @@
     "stargazerCount": 1452,
     "status": "🔥",
     "url": "https://github.com/hack-chat/main"
+  },
+  "hackrdotsh/ghostty-shaders": {
+    "description": "A repository containing many free shaders to use with ghostty (the terminal)",
+    "isArchived": false,
+    "pushedAt": "2026-07-13T07:26:54Z",
+    "stargazerCount": 1546,
+    "status": "",
+    "url": "https://github.com/hackrdotsh/ghostty-shaders"
   },
   "hashcat/hashcat": {
     "description": "World's fastest and most advanced password recovery utility",
@@ -2681,6 +2697,14 @@
     "stargazerCount": 244554,
     "status": "🔥",
     "url": "https://github.com/morluto/rea"
+  },
+  "mornyeapp/Mornye": {
+    "description": "Mobile music utility built with Flutter and Rust. High-quality audio management for your personal library. open source, no ads, no subscription.",
+    "isArchived": false,
+    "pushedAt": "2026-10-20T06:36:27Z",
+    "stargazerCount": 6999,
+    "status": "🔥",
+    "url": "https://github.com/mornyeapp/Mornye"
   },
   "mostafa-wahied/portracker": {
     "description": "An open source, self-hosted, real-time port monitoring and discovery tool.",
