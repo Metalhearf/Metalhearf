@@ -27,7 +27,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 <!-- STARS:START -->
 ## ⭐ Curated Stars
 
-**519 repos** across **29 categories**. Click any section to expand.
+**520 repos** across **29 categories**. Click any section to expand.
 
 <details>
 <summary><b>AI</b> &nbsp;·&nbsp; 36 ⭐ &nbsp;·&nbsp; <i>Local LLMs, AI coding agents, TTS engines and AI-augmented productivity tools.</i></summary>
@@ -74,7 +74,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 </details>
 
 <details>
-<summary><b>Hacking</b> &nbsp;·&nbsp; 30 ⭐ &nbsp;·&nbsp; <i>Pentesting frameworks, WiFi/Bluetooth attack tools and offensive security utilities.</i></summary>
+<summary><b>Hacking</b> &nbsp;·&nbsp; 31 ⭐ &nbsp;·&nbsp; <i>Pentesting frameworks, WiFi/Bluetooth attack tools and offensive security utilities.</i></summary>
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
@@ -87,6 +87,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`yogeshojha/rengine`](https://github.com/yogeshojha/rengine) | ⭐8.9k | 🔥 | reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable s... |
 | [`AzeemIdrisi/PhoneSploit-Pro`](https://github.com/AzeemIdrisi/PhoneSploit-Pro) | ⭐6.4k | 🔥 | An all-in-one hacking tool to remotely take over Android devices. |
 | [`mostafa-wahied/portracker`](https://github.com/mostafa-wahied/portracker) | ⭐2.5k | 🔥 | An open source, self-hosted, real-time port monitoring and discovery tool. |
+| [`ikow/php2shell-poc`](https://github.com/ikow/php2shell-poc) | ⭐1.1k | 🔥 | CVE-2026-109618/109619 PHP session.upload_progress Exploit Research — POC & Analysis |
 | [`massgravel/Microsoft-Activation-Scripts`](https://github.com/massgravel/Microsoft-Activation-Scripts) | ⭐194.5k |  | Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods,... |
 | [`ffuf/ffuf`](https://github.com/ffuf/ffuf) | ⭐16.9k |  | Fast web fuzzer written in Go |
 | [`CISOfy/lynis`](https://github.com/CISOfy/lynis) | ⭐16.5k |  | Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (H... |

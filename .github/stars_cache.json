@@ -2018,6 +2018,14 @@
     "status": "",
     "url": "https://github.com/hyprland-community/awesome-hyprland"
   },
+  "ikow/php2shell-poc": {
+    "description": "CVE-2026-109618/109619 PHP session.upload_progress Exploit Research — POC & Analysis",
+    "isArchived": false,
+    "pushedAt": "2026-10-21T20:48:46Z",
+    "stargazerCount": 1060,
+    "status": "🔥",
+    "url": "https://github.com/ikow/php2shell-poc"
+  },
   "immich-app/immich": {
     "description": "High performance self-hosted photo and video management solution.",
     "isArchived": false,
