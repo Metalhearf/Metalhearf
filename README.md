@@ -27,10 +27,10 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 <!-- STARS:START -->
 ## ⭐ Curated Stars
 
-**520 repos** across **29 categories**. Click any section to expand.
+**522 repos** across **29 categories**. Click any section to expand.
 
 <details>
-<summary><b>AI</b> &nbsp;·&nbsp; 36 ⭐ &nbsp;·&nbsp; <i>Local LLMs, AI coding agents, TTS engines and AI-augmented productivity tools.</i></summary>
+<summary><b>AI</b> &nbsp;·&nbsp; 37 ⭐ &nbsp;·&nbsp; <i>Local LLMs, AI coding agents, TTS engines and AI-augmented productivity tools.</i></summary>
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
@@ -56,6 +56,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`OpenWhispr/openwhispr`](https://github.com/OpenWhispr/openwhispr) | ⭐9.4k | 🔥 | Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and... |
 | [`kunchenguid/no-mistakes`](https://github.com/kunchenguid/no-mistakes) | ⭐8.9k | 🔥 | git push no-mistakes |
 | [`kunchenguid/firstmate`](https://github.com/kunchenguid/firstmate) | ⭐7.9k | 🔥 | Talk to one agent. Ship with a crew. |
+| [`kaankiziltug/logo-design-skill`](https://github.com/kaankiziltug/logo-design-skill) | ⭐4.3k | 🔥 | A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, S... |
 | [`kunchenguid/lavish-axi`](https://github.com/kunchenguid/lavish-axi) | ⭐4.1k | 🔥 | HTML is the new markdown. Lavish is the new editor for your HTML artifacts. |
 | [`dmtrKovalenko/fframes`](https://github.com/dmtrKovalenko/fframes) | ⭐2.7k | 🔥 | programmatic video rendering framework that is actually fast |
 | [`kunchenguid/axi`](https://github.com/kunchenguid/axi) | ⭐2.2k | 🔥 | Design principles for agent ergonomics. Higher accuracy with lower token cost than both MCP and regular CLI. |
@@ -370,6 +371,36 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 </details>
 
 <details>
+<summary><b>Privacy</b> &nbsp;·&nbsp; 22 ⭐ &nbsp;·&nbsp; <i>Tracker blockers, password managers, anonymous messaging and tools to escape surveillance.</i></summary>
+
+| Repo | Stars | Status | Description |
+| --- | --- | --- | --- |
+| [`dani-garcia/vaultwarden`](https://github.com/dani-garcia/vaultwarden) | ⭐69.1k | 🔥 | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs |
+| [`gorhill/uBlock`](https://github.com/gorhill/uBlock) | ⭐68.6k | 🔥 | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. |
+| [`umami-software/umami`](https://github.com/umami-software/umami) | ⭐39.4k | 🔥 | Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one ... |
+| [`searxng/searxng`](https://github.com/searxng/searxng) | ⭐38.4k | 🔥 | SearXNG is a free internet metasearch engine which aggregates results from various search services and data... |
+| [`permissionlesstech/bitchat`](https://github.com/permissionlesstech/bitchat) | ⭐36.7k | 🔥 | bluetooth mesh chat, IRC vibes |
+| [`simplex-chat/simplex-chat`](https://github.com/simplex-chat/simplex-chat) | ⭐19.6k | 🔥 | SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by desi... |
+| [`mvt-project/mvt`](https://github.com/mvt-project/mvt) | ⭐15.4k | 🔥 | MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs ... |
+| [`OhMyGuus/I-Still-Dont-Care-About-Cookies`](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) | ⭐4.3k | 🔥 | Debloated fork of the extension "I don't care about cookies" |
+| [`mollyim/mollyim-android`](https://github.com/mollyim/mollyim-android) | ⭐3.8k | 🔥 | Enhanced and security-focused fork of Signal. |
+| [`pluja/awesome-privacy`](https://github.com/pluja/awesome-privacy) | ⭐20.0k |  | Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MAT... |
+| [`keeweb/keeweb`](https://github.com/keeweb/keeweb) | ⭐13.0k |  | Free cross-platform password manager compatible with KeePass |
+| [`arkenfox/user.js`](https://github.com/arkenfox/user.js) | ⭐12.9k |  | Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening |
+| [`victornpb/undiscord`](https://github.com/victornpb/undiscord) | ⭐6.7k |  | Undiscord - Delete all messages in a Discord server / channel or DM (Easy and fast) Bulk delete |
+| [`Anon-Planet/thgtoa`](https://github.com/Anon-Planet/thgtoa) | ⭐869 |  | The comprehensive guide for online anonymity and OpSec. |
+| [`peterhanania/Discord-Package`](https://github.com/peterhanania/Discord-Package) | ⭐556 |  | A detailed Discord data package explorer designed to help users visualize the data Discord collects. |
+| [`rztprog/outlook-web-plus`](https://github.com/rztprog/outlook-web-plus) | ⭐6 |  | Remove ads and improve Outlook's web mailbox |
+| [`Shawn-Shan/fawkes`](https://github.com/Shawn-Shan/fawkes) | ⭐5.6k | 💤 | Fawkes, privacy preserving tool against facial recognition systems. More info at https://sandlab.cs.uchicag... |
+| [`ClearURLs/Addon`](https://github.com/ClearURLs/Addon) | ⭐5.1k | 💤 | ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking ele... |
+| [`cathugger/mkp224o`](https://github.com/cathugger/mkp224o) | ⭐1.6k | 💤 | vanity address generator for tor onion v3 (ed25519) hidden services |
+| [`manekinekko/digital-covid-certificate-decoder`](https://github.com/manekinekko/digital-covid-certificate-decoder) | ⭐29 | 💤 | An attempt to decode the Digital Covid Certificate (signed by the french app TousAntiCovid) - For Education... |
+| [`jystervinou/free-mobile-filtres-demarchage`](https://github.com/jystervinou/free-mobile-filtres-demarchage) | ⭐9 | 💤 | Free Mobile Filtres Démarchage |
+| [`pixeltris/TwitchAdSolutions`](https://github.com/pixeltris/TwitchAdSolutions) | ⭐11.3k | 📦 | _(no description)_ |
+
+</details>
+
+<details>
 <summary><b>OSINT</b> &nbsp;·&nbsp; 22 ⭐ &nbsp;·&nbsp; <i>Username, email, phone and social-media reconnaissance tools for investigators.</i></summary>
 
 | Repo | Stars | Status | Description |
@@ -425,35 +456,6 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`BaltiApps/Pixelify-Google-Photos`](https://github.com/BaltiApps/Pixelify-Google-Photos) | ⭐1.6k | 💤 | Pixelify GPhotos |
 | [`ayush5harma/PixelFeatureDrops`](https://github.com/ayush5harma/PixelFeatureDrops) | ⭐348 | 💤 | Magisk Module for Pixel Feature Drops that adds the system files for the same and spoof using the latest de... |
 | [`Team-xManager/xManager`](https://github.com/Team-xManager/xManager) | ⭐12.1k | 📦 | Ad-Free, New Features & Freedom |
-
-</details>
-
-<details>
-<summary><b>Privacy</b> &nbsp;·&nbsp; 21 ⭐ &nbsp;·&nbsp; <i>Tracker blockers, password managers, anonymous messaging and tools to escape surveillance.</i></summary>
-
-| Repo | Stars | Status | Description |
-| --- | --- | --- | --- |
-| [`dani-garcia/vaultwarden`](https://github.com/dani-garcia/vaultwarden) | ⭐69.1k | 🔥 | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs |
-| [`gorhill/uBlock`](https://github.com/gorhill/uBlock) | ⭐68.6k | 🔥 | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. |
-| [`umami-software/umami`](https://github.com/umami-software/umami) | ⭐39.4k | 🔥 | Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one ... |
-| [`searxng/searxng`](https://github.com/searxng/searxng) | ⭐38.4k | 🔥 | SearXNG is a free internet metasearch engine which aggregates results from various search services and data... |
-| [`simplex-chat/simplex-chat`](https://github.com/simplex-chat/simplex-chat) | ⭐19.6k | 🔥 | SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by desi... |
-| [`mvt-project/mvt`](https://github.com/mvt-project/mvt) | ⭐15.4k | 🔥 | MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs ... |
-| [`OhMyGuus/I-Still-Dont-Care-About-Cookies`](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) | ⭐4.3k | 🔥 | Debloated fork of the extension "I don't care about cookies" |
-| [`mollyim/mollyim-android`](https://github.com/mollyim/mollyim-android) | ⭐3.8k | 🔥 | Enhanced and security-focused fork of Signal. |
-| [`pluja/awesome-privacy`](https://github.com/pluja/awesome-privacy) | ⭐20.0k |  | Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MAT... |
-| [`keeweb/keeweb`](https://github.com/keeweb/keeweb) | ⭐13.0k |  | Free cross-platform password manager compatible with KeePass |
-| [`arkenfox/user.js`](https://github.com/arkenfox/user.js) | ⭐12.9k |  | Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening |
-| [`victornpb/undiscord`](https://github.com/victornpb/undiscord) | ⭐6.7k |  | Undiscord - Delete all messages in a Discord server / channel or DM (Easy and fast) Bulk delete |
-| [`Anon-Planet/thgtoa`](https://github.com/Anon-Planet/thgtoa) | ⭐869 |  | The comprehensive guide for online anonymity and OpSec. |
-| [`peterhanania/Discord-Package`](https://github.com/peterhanania/Discord-Package) | ⭐556 |  | A detailed Discord data package explorer designed to help users visualize the data Discord collects. |
-| [`rztprog/outlook-web-plus`](https://github.com/rztprog/outlook-web-plus) | ⭐6 |  | Remove ads and improve Outlook's web mailbox |
-| [`Shawn-Shan/fawkes`](https://github.com/Shawn-Shan/fawkes) | ⭐5.6k | 💤 | Fawkes, privacy preserving tool against facial recognition systems. More info at https://sandlab.cs.uchicag... |
-| [`ClearURLs/Addon`](https://github.com/ClearURLs/Addon) | ⭐5.1k | 💤 | ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking ele... |
-| [`cathugger/mkp224o`](https://github.com/cathugger/mkp224o) | ⭐1.6k | 💤 | vanity address generator for tor onion v3 (ed25519) hidden services |
-| [`manekinekko/digital-covid-certificate-decoder`](https://github.com/manekinekko/digital-covid-certificate-decoder) | ⭐29 | 💤 | An attempt to decode the Digital Covid Certificate (signed by the french app TousAntiCovid) - For Education... |
-| [`jystervinou/free-mobile-filtres-demarchage`](https://github.com/jystervinou/free-mobile-filtres-demarchage) | ⭐9 | 💤 | Free Mobile Filtres Démarchage |
-| [`pixeltris/TwitchAdSolutions`](https://github.com/pixeltris/TwitchAdSolutions) | ⭐11.3k | 📦 | _(no description)_ |
 
 </details>
 

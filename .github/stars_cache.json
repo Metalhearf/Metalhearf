@@ -2242,6 +2242,14 @@
     "status": "",
     "url": "https://github.com/k4yt3x/video2x"
   },
+  "kaankiziltug/logo-design-skill": {
+    "description": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
+    "isArchived": false,
+    "pushedAt": "2026-10-20T09:14:19Z",
+    "stargazerCount": 4320,
+    "status": "🔥",
+    "url": "https://github.com/kaankiziltug/logo-design-skill"
+  },
   "kahun/awesome-sysadmin": {
     "description": "A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.",
     "isArchived": false,
@@ -3113,6 +3121,14 @@
     "stargazerCount": 1897,
     "status": "",
     "url": "https://github.com/pentestfunctions/BlueDucky"
+  },
+  "permissionlesstech/bitchat": {
+    "description": "bluetooth mesh chat, IRC vibes",
+    "isArchived": false,
+    "pushedAt": "2026-10-23T20:38:32Z",
+    "stargazerCount": 36748,
+    "status": "🔥",
+    "url": "https://github.com/permissionlesstech/bitchat"
   },
   "peterhanania/Discord-Package": {
     "description": "A detailed Discord data package explorer designed to help users visualize the data Discord collects.",
