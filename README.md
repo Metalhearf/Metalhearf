@@ -27,7 +27,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 <!-- STARS:START -->
 ## ⭐ Curated Stars
 
-**522 repos** across **29 categories**. Click any section to expand.
+**523 repos** across **29 categories**. Click any section to expand.
 
 <details>
 <summary><b>AI</b> &nbsp;·&nbsp; 37 ⭐ &nbsp;·&nbsp; <i>Local LLMs, AI coding agents, TTS engines and AI-augmented productivity tools.</i></summary>
@@ -615,6 +615,28 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 </details>
 
 <details>
+<summary><b>Tools-CLI</b> &nbsp;·&nbsp; 14 ⭐ &nbsp;·&nbsp; <i>Modern Unix replacements and command-line utilities (eza, bat, fd, fzf, shellcheck, fastfetch).</i></summary>
+
+| Repo | Stars | Status | Description |
+| --- | --- | --- | --- |
+| [`junegunn/fzf`](https://github.com/junegunn/fzf) | ⭐83.6k | 🔥 | :cherry_blossom: A command-line fuzzy finder |
+| [`sharkdp/bat`](https://github.com/sharkdp/bat) | ⭐60.8k | 🔥 | A cat(1) clone with wings. |
+| [`herdrdev/herdr`](https://github.com/herdrdev/herdr) | ⭐45.9k | 🔥 | the runtime your coding agents live on |
+| [`sharkdp/fd`](https://github.com/sharkdp/fd) | ⭐44.7k | 🔥 | A simple, fast and user-friendly alternative to 'find' |
+| [`koalaman/shellcheck`](https://github.com/koalaman/shellcheck) | ⭐40.2k | 🔥 | ShellCheck, a static analysis tool for shell scripts |
+| [`fastfetch-cli/fastfetch`](https://github.com/fastfetch-cli/fastfetch) | ⭐25.0k | 🔥 | A maintained, feature-rich and performance oriented, neofetch like system information tool. |
+| [`topgrade-rs/topgrade`](https://github.com/topgrade-rs/topgrade) | ⭐4.7k | 🔥 | Upgrade all the things |
+| [`chubin/wttr.in`](https://github.com/chubin/wttr.in) | ⭐30.7k |  | :partly_sunny: The right way to check the weather |
+| [`eza-community/eza`](https://github.com/eza-community/eza) | ⭐23.6k |  | A modern alternative to ls |
+| [`romkatv/zsh-bench`](https://github.com/romkatv/zsh-bench) | ⭐1.0k |  | Benchmark for interactive Zsh |
+| [`faressoft/terminalizer`](https://github.com/faressoft/terminalizer) | ⭐16.2k | 💤 | 🦄 Record your terminal and generate animated gif images or share a web player |
+| [`IonicaBizau/image-to-ascii`](https://github.com/IonicaBizau/image-to-ascii) | ⭐1.7k | 💤 | :floppy_disk: A Node.js module that converts images to ASCII art. |
+| [`jart/hiptext`](https://github.com/jart/hiptext) | ⭐790 | 💤 | Turn images into text better than caca/aalib |
+| [`ddo/fast`](https://github.com/ddo/fast) | ⭐536 | 💤 | Minimal zero-dependency utility for testing your internet download speed from terminal |
+
+</details>
+
+<details>
 <summary><b>Games-WoW</b> &nbsp;·&nbsp; 14 ⭐ &nbsp;·&nbsp; <i>WoW emulators, private server cores and database editors (MaNGOS, TrinityCore, Confrérie).</i></summary>
 
 | Repo | Stars | Status | Description |
@@ -633,27 +655,6 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`derekjhunt/trinity_ansible`](https://github.com/derekjhunt/trinity_ansible) | ⭐2 | 💤 | Ansible Role for TrinityCore |
 | [`Khira/la-confrerie-332`](https://github.com/Khira/la-confrerie-332) | ⭐2 | 💤 | Sources du serveur de la Confrérie, compatible client World of Warcraft 3.3.2 |
 | [`Khira/La-Confrerie`](https://github.com/Khira/La-Confrerie) | ⭐2 | 💤 | Sources du serveur de la Confrérie |
-
-</details>
-
-<details>
-<summary><b>Tools-CLI</b> &nbsp;·&nbsp; 13 ⭐ &nbsp;·&nbsp; <i>Modern Unix replacements and command-line utilities (eza, bat, fd, fzf, shellcheck, fastfetch).</i></summary>
-
-| Repo | Stars | Status | Description |
-| --- | --- | --- | --- |
-| [`junegunn/fzf`](https://github.com/junegunn/fzf) | ⭐83.6k | 🔥 | :cherry_blossom: A command-line fuzzy finder |
-| [`sharkdp/bat`](https://github.com/sharkdp/bat) | ⭐60.8k | 🔥 | A cat(1) clone with wings. |
-| [`sharkdp/fd`](https://github.com/sharkdp/fd) | ⭐44.7k | 🔥 | A simple, fast and user-friendly alternative to 'find' |
-| [`koalaman/shellcheck`](https://github.com/koalaman/shellcheck) | ⭐40.2k | 🔥 | ShellCheck, a static analysis tool for shell scripts |
-| [`fastfetch-cli/fastfetch`](https://github.com/fastfetch-cli/fastfetch) | ⭐25.0k | 🔥 | A maintained, feature-rich and performance oriented, neofetch like system information tool. |
-| [`topgrade-rs/topgrade`](https://github.com/topgrade-rs/topgrade) | ⭐4.7k | 🔥 | Upgrade all the things |
-| [`chubin/wttr.in`](https://github.com/chubin/wttr.in) | ⭐30.7k |  | :partly_sunny: The right way to check the weather |
-| [`eza-community/eza`](https://github.com/eza-community/eza) | ⭐23.6k |  | A modern alternative to ls |
-| [`romkatv/zsh-bench`](https://github.com/romkatv/zsh-bench) | ⭐1.0k |  | Benchmark for interactive Zsh |
-| [`faressoft/terminalizer`](https://github.com/faressoft/terminalizer) | ⭐16.2k | 💤 | 🦄 Record your terminal and generate animated gif images or share a web player |
-| [`IonicaBizau/image-to-ascii`](https://github.com/IonicaBizau/image-to-ascii) | ⭐1.7k | 💤 | :floppy_disk: A Node.js module that converts images to ASCII art. |
-| [`jart/hiptext`](https://github.com/jart/hiptext) | ⭐790 | 💤 | Turn images into text better than caca/aalib |
-| [`ddo/fast`](https://github.com/ddo/fast) | ⭐536 | 💤 | Minimal zero-dependency utility for testing your internet download speed from terminal |
 
 </details>
 

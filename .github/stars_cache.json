@@ -1946,6 +1946,14 @@
     "status": "🔥",
     "url": "https://github.com/henrygd/beszel"
   },
+  "herdrdev/herdr": {
+    "description": "the runtime your coding agents live on",
+    "isArchived": false,
+    "pushedAt": "2026-10-23T21:54:15Z",
+    "stargazerCount": 45873,
+    "status": "🔥",
+    "url": "https://github.com/herdrdev/herdr"
+  },
   "hitrov/oci-arm-host-capacity": {
     "description": "This script allows to bypass Oracle Cloud Infrastructure 'Out of host capacity' error immediately when additional OCI capacity will appear in your Home Region / Availability domain.",
     "isArchived": true,
