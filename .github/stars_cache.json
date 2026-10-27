@@ -727,6 +727,14 @@
     "status": "💤",
     "url": "https://github.com/PAPAMICA/home-config"
   },
+  "ParadevAI/Paradev": {
+    "description": "Paradev (formerly Superset) is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.",
+    "isArchived": false,
+    "pushedAt": "2026-10-27T03:33:46Z",
+    "stargazerCount": 15597,
+    "status": "🔥",
+    "url": "https://github.com/ParadevAI/Paradev"
+  },
   "PatNei/GITHUB2FORGEJO": {
     "description": "Github 2 Forgejo: This script migrates your GitHub repositories to a Forgejo instance using the Forgejo API. It fetches your repositories from GitHub and automatically creates matching repositories on Forgejo. Use it for backups, migrating, or maintaining a self-hosted mirror of your GitHub projects.",
     "isArchived": false,
