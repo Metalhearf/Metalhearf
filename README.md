@@ -27,10 +27,10 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 <!-- STARS:START -->
 ## ⭐ Curated Stars
 
-**523 repos** across **29 categories**. Click any section to expand.
+**524 repos** across **29 categories**. Click any section to expand.
 
 <details>
-<summary><b>AI</b> &nbsp;·&nbsp; 37 ⭐ &nbsp;·&nbsp; <i>Local LLMs, AI coding agents, TTS engines and AI-augmented productivity tools.</i></summary>
+<summary><b>AI</b> &nbsp;·&nbsp; 38 ⭐ &nbsp;·&nbsp; <i>Local LLMs, AI coding agents, TTS engines and AI-augmented productivity tools.</i></summary>
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
@@ -53,6 +53,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`latent-spaces/brag`](https://github.com/latent-spaces/brag) | ⭐16.0k | 🔥 | You built it. Now brag. Turn the project you just created into a short, shareable launch video with one com... |
 | [`ParadevAI/Paradev`](https://github.com/ParadevAI/Paradev) | ⭐15.6k | 🔥 | Paradev (formerly Superset) is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent ... |
 | [`elie222/inbox-zero`](https://github.com/elie222/inbox-zero) | ⭐12.5k | 🔥 | The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast. |
+| [`Zagitta/gpu-unlock`](https://github.com/Zagitta/gpu-unlock) | ⭐11.5k | 🔥 | Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 te... |
 | [`OpenWhispr/openwhispr`](https://github.com/OpenWhispr/openwhispr) | ⭐9.4k | 🔥 | Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and... |
 | [`kunchenguid/no-mistakes`](https://github.com/kunchenguid/no-mistakes) | ⭐8.9k | 🔥 | git push no-mistakes |
 | [`kunchenguid/firstmate`](https://github.com/kunchenguid/firstmate) | ⭐7.9k | 🔥 | Talk to one agent. Ship with a crew. |

@@ -999,6 +999,14 @@
     "status": "",
     "url": "https://github.com/ZKjellberg/dark-souls-3-cheat-sheet"
   },
+  "Zagitta/gpu-unlock": {
+    "description": "Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput",
+    "isArchived": false,
+    "pushedAt": "2026-10-27T23:09:01Z",
+    "stargazerCount": 11521,
+    "status": "🔥",
+    "url": "https://github.com/Zagitta/gpu-unlock"
+  },
   "Zyphra/Zonos": {
     "description": "Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilingual speech, delivering expressiveness and quality on par with—or even surpassing—top TTS providers.",
     "isArchived": false,
