@@ -575,6 +575,14 @@
     "status": "💤",
     "url": "https://github.com/LionSec/xerosploit"
   },
+  "LizardByte/Sunshine": {
+    "description": "Self-hosted game stream host for Moonlight.",
+    "isArchived": false,
+    "pushedAt": "2026-10-29T13:08:32Z",
+    "stargazerCount": 42790,
+    "status": "🔥",
+    "url": "https://github.com/LizardByte/Sunshine"
+  },
   "Lucksi/Mr.Holmes": {
     "description": " A Complete Osint Tool :mag:",
     "isArchived": false,
@@ -622,6 +630,14 @@
     "stargazerCount": 7552,
     "status": "🔥",
     "url": "https://github.com/Mailu/Mailu"
+  },
+  "MarkBlah/smsofdeath": {
+    "description": "remote + silent denial of service for all Android phones. https://smsofdeath.com/ for writeup.",
+    "isArchived": false,
+    "pushedAt": "2026-10-29T05:28:58Z",
+    "stargazerCount": 219,
+    "status": "🔥",
+    "url": "https://github.com/MarkBlah/smsofdeath"
   },
   "Matty9191/ssl-cert-check": {
     "description": "Send notifications when SSL certificates are about to expire.",
