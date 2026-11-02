@@ -27,10 +27,10 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 <!-- STARS:START -->
 ## ⭐ Curated Stars
 
-**526 repos** across **30 categories**. Click any section to expand.
+**524 repos** across **30 categories**. Click any section to expand.
 
 <details>
-<summary><b>AI</b> &nbsp;·&nbsp; 38 ⭐ &nbsp;·&nbsp; <i>Local LLMs, AI coding agents, TTS engines and AI-augmented productivity tools.</i></summary>
+<summary><b>AI</b> &nbsp;·&nbsp; 36 ⭐ &nbsp;·&nbsp; <i>Local LLMs, AI coding agents, TTS engines and AI-augmented productivity tools.</i></summary>
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
@@ -70,8 +70,6 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`kunchenguid/gnhf`](https://github.com/kunchenguid/gnhf) | ⭐4.2k |  | Before I go to bed, I tell my agents: good night, have fun |
 | [`romainsimon/paperasse`](https://github.com/romainsimon/paperasse) | ⭐2.6k |  | 🇫🇷  Skills pour agents IA spécialisés dans la bureaucratie française : Comptable, Notaire, ... |
 | [`yoanbernabeu/NanoThumbnail`](https://github.com/yoanbernabeu/NanoThumbnail) | ⭐53 |  | Generate Viral Thumbnails with AI |
-| [`Zyphra/Zonos`](https://github.com/Zyphra/Zonos) | ⭐7.2k | 💤 | Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilin... |
-| [`TheEvilSkeleton/Upscaler`](https://github.com/TheEvilSkeleton/Upscaler) | ⭐46 | 💤 | Upscale and enhance images |
 
 </details>
 
