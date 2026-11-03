@@ -125,28 +125,20 @@ def fetch_lists(full: bool) -> list[dict]:
         query {
           viewer {
             lists(first: 100) {
-              nodes {
-                id name slug description
-                items(first: 100) {
-                  totalCount
-                  pageInfo { hasNextPage endCursor }
-                  nodes { __typename ... on Repository { %s } }
-                }
-              }
+              nodes { id name slug description items(first: 0) { totalCount } }
             }
           }
         }
-        """ % frag
+        """
     )
     lists = []
     for node in data["viewer"]["lists"]["nodes"]:
-        repos = [n for n in node["items"]["nodes"] if n.get("__typename") == "Repository"]
-        cursor = node["items"]["pageInfo"]["endCursor"]
-        has_next = node["items"]["pageInfo"]["hasNextPage"]
+        repos = []
+        cursor = None
+        has_next = True
         while has_next:
             page = _page_list_items(node["id"], cursor, frag)
-            extra = [n for n in page["nodes"] if n.get("__typename") == "Repository"]
-            repos.extend(extra)
+            repos.extend(n for n in page["nodes"] if n.get("__typename") == "Repository")
             cursor = page["pageInfo"]["endCursor"]
             has_next = page["pageInfo"]["hasNextPage"]
         lists.append({
