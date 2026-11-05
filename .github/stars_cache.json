@@ -1770,6 +1770,14 @@
     "status": "🔥",
     "url": "https://github.com/fosrl/pangolin"
   },
+  "fplanque/HomeBoard": {
+    "description": "A launcher for Android TV and Google TV that puts your apps, cameras, alerts and Home Assistant on one calm screen. No banners to scroll past, no account to create.",
+    "isArchived": false,
+    "pushedAt": "2026-11-05T01:13:23Z",
+    "stargazerCount": 22,
+    "status": "🔥",
+    "url": "https://github.com/fplanque/HomeBoard"
+  },
   "gabehf/Koito": {
     "description": "Koito is a modern, themeable scrobbler that you can use with any program that scrobbles to a custom ListenBrainz URL",
     "isArchived": false,

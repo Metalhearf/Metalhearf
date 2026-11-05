@@ -27,7 +27,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 <!-- STARS:START -->
 ## ⭐ Curated Stars
 
-**524 repos** across **30 categories**. Click any section to expand.
+**525 repos** across **30 categories**. Click any section to expand.
 
 <details>
 <summary><b>AI</b> &nbsp;·&nbsp; 36 ⭐ &nbsp;·&nbsp; <i>Local LLMs, AI coding agents, TTS engines and AI-augmented productivity tools.</i></summary>
@@ -785,11 +785,12 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 </details>
 
 <details>
-<summary><b>Unsorted</b> &nbsp;·&nbsp; 1 ⭐ &nbsp;·&nbsp; <i>Starred but not yet sorted into any list.</i></summary>
+<summary><b>Unsorted</b> &nbsp;·&nbsp; 2 ⭐ &nbsp;·&nbsp; <i>Starred but not yet sorted into any list.</i></summary>
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
 | [`MarkBlah/smsofdeath`](https://github.com/MarkBlah/smsofdeath) | ⭐379 | 🔥 | remote + silent denial of service for all Android phones. https://smsofdeath.com/ for writeup. |
+| [`fplanque/HomeBoard`](https://github.com/fplanque/HomeBoard) | ⭐22 | 🔥 | A launcher for Android TV and Google TV that puts your apps, cameras, alerts and Home Assistant on one calm... |
 
 </details>
 
