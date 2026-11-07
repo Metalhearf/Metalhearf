@@ -27,7 +27,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 <!-- STARS:START -->
 ## ⭐ Curated Stars
 
-**525 repos** across **30 categories**. Click any section to expand.
+**526 repos** across **30 categories**. Click any section to expand.
 
 <details>
 <summary><b>AI</b> &nbsp;·&nbsp; 36 ⭐ &nbsp;·&nbsp; <i>Local LLMs, AI coding agents, TTS engines and AI-augmented productivity tools.</i></summary>
@@ -615,6 +615,29 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 </details>
 
 <details>
+<summary><b>Games-WoW</b> &nbsp;·&nbsp; 15 ⭐ &nbsp;·&nbsp; <i>WoW emulators, private server cores and database editors (MaNGOS, TrinityCore, Confrérie).</i></summary>
+
+| Repo | Stars | Status | Description |
+| --- | --- | --- | --- |
+| [`mod-playerbots/mod-playerbots`](https://github.com/mod-playerbots/mod-playerbots) | ⭐1.2k | 🔥 | AzerothCore Playerbots Module |
+| [`cmangos/mangos-wotlk`](https://github.com/cmangos/mangos-wotlk) | ⭐561 | 🔥 | C(ontinued)-MaNGOS is about: -- Doing WoW-Emulation Right! |
+| [`tortoise-wow/tortoise-wow`](https://github.com/tortoise-wow/tortoise-wow) | ⭐397 | 🔥 | _(no description)_ |
+| [`mserajnik/tortoise-deploy`](https://github.com/mserajnik/tortoise-deploy) | ⭐25 | 🔥 | A Docker setup for Tortoise-WoW with prebuilt images for multiple variants |
+| [`mangos/MaNGOS`](https://github.com/mangos/MaNGOS) | ⭐3.1k |  | This is the master Information repository for MaNGOS |
+| [`balakethelock/SuperWoW`](https://github.com/balakethelock/SuperWoW) | ⭐187 |  | 1.12.1 WoW client mod that expands on API functionalities |
+| [`mangostwo/database`](https://github.com/mangostwo/database) | ⭐59 |  | The Mangos TWO world database contains creatures, NPCs, Quests, Items/objects & gossip information to popul... |
+| [`Nighthawk42/bnet_auth_tool`](https://github.com/Nighthawk42/bnet_auth_tool) | ⭐51 |  | Python CLI/GUI for Battle.net authenticators: back up TOTP secrets in an encrypted local vault and export Q... |
+| [`Shadez/wowarmory`](https://github.com/Shadez/wowarmory) | ⭐192 | 💤 | The World of Warcraft Armory is a vast searchable database of information for World of Warcraft - taken str... |
+| [`playerbot/mangos`](https://github.com/playerbot/mangos) | ⭐69 | 💤 | Playerbot is a fork of Mangos which lets you add another character from your account as a bot that you can ... |
+| [`fine/Quice`](https://github.com/fine/Quice) | ⭐9 | 💤 | Quice MaNGOS and Trinity Database Editor |
+| [`Khira/scriptdev2`](https://github.com/Khira/scriptdev2) | ⭐3 | 💤 | _(no description)_ |
+| [`derekjhunt/trinity_ansible`](https://github.com/derekjhunt/trinity_ansible) | ⭐2 | 💤 | Ansible Role for TrinityCore |
+| [`Khira/la-confrerie-332`](https://github.com/Khira/la-confrerie-332) | ⭐2 | 💤 | Sources du serveur de la Confrérie, compatible client World of Warcraft 3.3.2 |
+| [`Khira/La-Confrerie`](https://github.com/Khira/La-Confrerie) | ⭐2 | 💤 | Sources du serveur de la Confrérie |
+
+</details>
+
+<details>
 <summary><b>Tools-CLI</b> &nbsp;·&nbsp; 14 ⭐ &nbsp;·&nbsp; <i>Modern Unix replacements and command-line utilities (eza, bat, fd, fzf, shellcheck, fastfetch).</i></summary>
 
 | Repo | Stars | Status | Description |
@@ -633,28 +656,6 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`IonicaBizau/image-to-ascii`](https://github.com/IonicaBizau/image-to-ascii) | ⭐1.7k | 💤 | :floppy_disk: A Node.js module that converts images to ASCII art. |
 | [`jart/hiptext`](https://github.com/jart/hiptext) | ⭐790 | 💤 | Turn images into text better than caca/aalib |
 | [`ddo/fast`](https://github.com/ddo/fast) | ⭐539 | 💤 | Minimal zero-dependency utility for testing your internet download speed from terminal |
-
-</details>
-
-<details>
-<summary><b>Games-WoW</b> &nbsp;·&nbsp; 14 ⭐ &nbsp;·&nbsp; <i>WoW emulators, private server cores and database editors (MaNGOS, TrinityCore, Confrérie).</i></summary>
-
-| Repo | Stars | Status | Description |
-| --- | --- | --- | --- |
-| [`mod-playerbots/mod-playerbots`](https://github.com/mod-playerbots/mod-playerbots) | ⭐1.2k | 🔥 | AzerothCore Playerbots Module |
-| [`cmangos/mangos-wotlk`](https://github.com/cmangos/mangos-wotlk) | ⭐561 | 🔥 | C(ontinued)-MaNGOS is about: -- Doing WoW-Emulation Right! |
-| [`tortoise-wow/tortoise-wow`](https://github.com/tortoise-wow/tortoise-wow) | ⭐397 | 🔥 | _(no description)_ |
-| [`mserajnik/tortoise-deploy`](https://github.com/mserajnik/tortoise-deploy) | ⭐25 | 🔥 | A Docker setup for Tortoise-WoW with prebuilt images for multiple variants |
-| [`mangos/MaNGOS`](https://github.com/mangos/MaNGOS) | ⭐3.1k |  | This is the master Information repository for MaNGOS |
-| [`balakethelock/SuperWoW`](https://github.com/balakethelock/SuperWoW) | ⭐187 |  | 1.12.1 WoW client mod that expands on API functionalities |
-| [`mangostwo/database`](https://github.com/mangostwo/database) | ⭐59 |  | The Mangos TWO world database contains creatures, NPCs, Quests, Items/objects & gossip information to popul... |
-| [`Shadez/wowarmory`](https://github.com/Shadez/wowarmory) | ⭐192 | 💤 | The World of Warcraft Armory is a vast searchable database of information for World of Warcraft - taken str... |
-| [`playerbot/mangos`](https://github.com/playerbot/mangos) | ⭐69 | 💤 | Playerbot is a fork of Mangos which lets you add another character from your account as a bot that you can ... |
-| [`fine/Quice`](https://github.com/fine/Quice) | ⭐9 | 💤 | Quice MaNGOS and Trinity Database Editor |
-| [`Khira/scriptdev2`](https://github.com/Khira/scriptdev2) | ⭐3 | 💤 | _(no description)_ |
-| [`derekjhunt/trinity_ansible`](https://github.com/derekjhunt/trinity_ansible) | ⭐2 | 💤 | Ansible Role for TrinityCore |
-| [`Khira/la-confrerie-332`](https://github.com/Khira/la-confrerie-332) | ⭐2 | 💤 | Sources du serveur de la Confrérie, compatible client World of Warcraft 3.3.2 |
-| [`Khira/La-Confrerie`](https://github.com/Khira/La-Confrerie) | ⭐2 | 💤 | Sources du serveur de la Confrérie |
 
 </details>
 

@@ -679,6 +679,14 @@
     "status": "🔥",
     "url": "https://github.com/NagiosEnterprises/nagioscore"
   },
+  "Nighthawk42/bnet_auth_tool": {
+    "description": "Python CLI/GUI for Battle.net authenticators: back up TOTP secrets in an encrypted local vault and export QR codes for any authenticator app. Offline features fully work; online attach/retrieve is unverified against Blizzard's API.",
+    "isArchived": false,
+    "pushedAt": "2026-06-14T01:31:55Z",
+    "stargazerCount": 51,
+    "status": "",
+    "url": "https://github.com/Nighthawk42/bnet_auth_tool"
+  },
   "OhMyGuus/I-Still-Dont-Care-About-Cookies": {
     "description": "Debloated fork of the extension \"I don't care about cookies\"",
     "isArchived": false,
