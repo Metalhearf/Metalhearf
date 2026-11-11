@@ -871,6 +871,14 @@
     "status": "🔥",
     "url": "https://github.com/Stunkymonkey/nautilus-open-any-terminal"
   },
+  "SunshineStream/Sunshine": {
+    "description": "Self-hosted game stream host for Moonlight.",
+    "isArchived": false,
+    "pushedAt": "2026-11-11T03:45:40Z",
+    "stargazerCount": 43245,
+    "status": "🔥",
+    "url": "https://github.com/SunshineStream/Sunshine"
+  },
   "TandoorRecipes/recipes": {
     "description": "Application for managing recipes, planning meals, building shopping lists and much much more!",
     "isArchived": false,

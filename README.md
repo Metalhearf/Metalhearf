@@ -492,7 +492,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
-| [`LizardByte/Sunshine`](https://github.com/LizardByte/Sunshine) | ⭐42.9k | 🔥 | Self-hosted game stream host for Moonlight. |
+| [`SunshineStream/Sunshine`](https://github.com/SunshineStream/Sunshine) | ⭐43.2k | 🔥 | Self-hosted game stream host for Moonlight. |
 | [`hydralauncher/hydra`](https://github.com/hydralauncher/hydra) | ⭐17.6k | 🔥 | Hydra Launcher is an open-source gaming platform created to be the single tool that you need |
 | [`lutris/lutris`](https://github.com/lutris/lutris) | ⭐10.3k | 🔥 | Lutris desktop client |
 | [`FuzzyGrim/Yamtrack`](https://github.com/FuzzyGrim/Yamtrack) | ⭐3.8k | 🔥 | A self hosted media tracker. |
