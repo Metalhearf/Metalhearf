@@ -27,10 +27,10 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 <!-- STARS:START -->
 ## ⭐ Curated Stars
 
-**527 repos** across **30 categories**. Click any section to expand.
+**528 repos** across **30 categories**. Click any section to expand.
 
 <details>
-<summary><b>AI</b> &nbsp;·&nbsp; 36 ⭐ &nbsp;·&nbsp; <i>Local LLMs, AI coding agents, TTS engines and AI-augmented productivity tools.</i></summary>
+<summary><b>AI</b> &nbsp;·&nbsp; 37 ⭐ &nbsp;·&nbsp; <i>Local LLMs, AI coding agents, TTS engines and AI-augmented productivity tools.</i></summary>
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
@@ -49,6 +49,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`OpenBMB/VoxCPM`](https://github.com/OpenBMB/VoxCPM) | ⭐42.5k | 🔥 | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Clo... |
 | [`srbhr/Resume-Matcher`](https://github.com/srbhr/Resume-Matcher) | ⭐29.3k | 🔥 | The #1 AI Harness for Building Resumes, PDFs, Cover Letters & more, locally with 100+ LLMs support. |
 | [`yamadashy/repomix`](https://github.com/yamadashy/repomix) | ⭐29.3k | 🔥 | 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for... |
+| [`GoogleChrome/modern-web-guidance`](https://github.com/GoogleChrome/modern-web-guidance) | ⭐21.0k | 🔥 | Keep your coding agent up to date with the latest web best practices |
 | [`ParadevAI/Paradev`](https://github.com/ParadevAI/Paradev) | ⭐16.3k | 🔥 | Paradev is an open-source Codex App and Conductor alternative. Orchestrate an army coding agents in paralle... |
 | [`elie222/inbox-zero`](https://github.com/elie222/inbox-zero) | ⭐13.0k | 🔥 | The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast. |
 | [`OpenWhispr/openwhispr`](https://github.com/OpenWhispr/openwhispr) | ⭐11.6k | 🔥 | Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and... |
