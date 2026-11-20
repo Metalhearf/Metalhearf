@@ -1994,6 +1994,14 @@
     "status": "🔥",
     "url": "https://github.com/herdrdev/herdr"
   },
+  "heydamir/unslop": {
+    "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+    "isArchived": false,
+    "pushedAt": "2026-11-15T00:55:20Z",
+    "stargazerCount": 18773,
+    "status": "🔥",
+    "url": "https://github.com/heydamir/unslop"
+  },
   "hitrov/oci-arm-host-capacity": {
     "description": "This script allows to bypass Oracle Cloud Infrastructure 'Out of host capacity' error immediately when additional OCI capacity will appear in your Home Region / Availability domain.",
     "isArchived": true,
