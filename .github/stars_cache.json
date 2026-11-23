@@ -2098,6 +2098,14 @@
     "status": "",
     "url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server"
   },
+  "infinitary-labs/infinitary-apps": {
+    "description": "Infinitary desktop and phone apps",
+    "isArchived": false,
+    "pushedAt": "2026-11-23T05:31:23Z",
+    "stargazerCount": 9,
+    "status": "🔥",
+    "url": "https://github.com/infinitary-labs/infinitary-apps"
+  },
   "infinition/Bjorn": {
     "description": "Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potential vulnerabilities. Bjorn can perform brute force attacks, file stealing, host zombification, and supports custom attack scripts.",
     "isArchived": false,

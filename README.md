@@ -27,10 +27,10 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 <!-- STARS:START -->
 ## ⭐ Curated Stars
 
-**529 repos** across **30 categories**. Click any section to expand.
+**530 repos** across **30 categories**. Click any section to expand.
 
 <details>
-<summary><b>AI</b> &nbsp;·&nbsp; 38 ⭐ &nbsp;·&nbsp; <i>Local LLMs, AI coding agents, TTS engines and AI-augmented productivity tools.</i></summary>
+<summary><b>AI</b> &nbsp;·&nbsp; 39 ⭐ &nbsp;·&nbsp; <i>Local LLMs, AI coding agents, TTS engines and AI-augmented productivity tools.</i></summary>
 
 | Repo | Stars | Status | Description |
 | --- | --- | --- | --- |
@@ -61,6 +61,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`dmtrKovalenko/fframes`](https://github.com/dmtrKovalenko/fframes) | ⭐3.1k | 🔥 | programmatic video rendering framework that is actually fast |
 | [`romainsimon/paperasse`](https://github.com/romainsimon/paperasse) | ⭐2.6k | 🔥 | 🇫🇷  Skills pour agents IA spécialisés dans la bureaucratie française : Comptable, Notaire, ... |
 | [`kunchenguid/axi`](https://github.com/kunchenguid/axi) | ⭐2.3k | 🔥 | Design principles for agent ergonomics. Higher accuracy with lower token cost than both MCP and regular CLI. |
+| [`infinitary-labs/infinitary-apps`](https://github.com/infinitary-labs/infinitary-apps) | ⭐9 | 🔥 | Infinitary desktop and phone apps |
 | [`multica-ai/andrej-karpathy-skills`](https://github.com/multica-ai/andrej-karpathy-skills) | ⭐233.2k |  | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM... |
 | [`DietrichGebert/ponytail`](https://github.com/DietrichGebert/ponytail) | ⭐191.0k |  | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
 | [`punkpeye/awesome-mcp-servers`](https://github.com/punkpeye/awesome-mcp-servers) | ⭐97.7k |  | A collection of MCP servers. |
