@@ -27,7 +27,7 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 <!-- STARS:START -->
 ## ⭐ Curated Stars
 
-**530 repos** across **30 categories**. Click any section to expand.
+**531 repos** across **30 categories**. Click any section to expand.
 
 <details>
 <summary><b>AI</b> &nbsp;·&nbsp; 39 ⭐ &nbsp;·&nbsp; <i>Local LLMs, AI coding agents, TTS engines and AI-augmented productivity tools.</i></summary>
@@ -219,6 +219,38 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 </details>
 
 <details>
+<summary><b>Fun</b> &nbsp;·&nbsp; 24 ⭐ &nbsp;·&nbsp; <i>Quirky joke projects, terminal pranks and absurd tech curiosities.</i></summary>
+
+| Repo | Stars | Status | Description |
+| --- | --- | --- | --- |
+| [`0xk1h0/ChatGPT_DAN`](https://github.com/0xk1h0/ChatGPT_DAN) | ⭐13.2k | 🔥 | ChatGPT DAN, Jailbreaks prompt |
+| [`YusufB5/ASCILINE`](https://github.com/YusufB5/ASCILINE) | ⭐2.8k | 🔥 | A high-performance ASCII video rendering engine featuring real-time WebSocket binary streaming and an isola... |
+| [`os6/nospeaker`](https://github.com/os6/nospeaker) | ⭐1.6k | 🔥 | make your macbook's trackpad talk using its haptic motor |
+| [`donlon/cloudflare-error-page`](https://github.com/donlon/cloudflare-error-page) | ⭐5.8k |  | ✅Browser ❌Cloudflare ✅Host — Generator for customized Cloudflare error pages. (unofficial) |
+| [`ading2210/doompdf`](https://github.com/ading2210/doompdf) | ⭐3.9k |  | A port of Doom (1993) that runs inside a PDF file |
+| [`joeycastillo/Sensor-Watch`](https://github.com/joeycastillo/Sensor-Watch) | ⭐2.1k |  | A board replacement for the classic Casio F-91W wristwatch |
+| [`zampierilucas/scx_horoscope`](https://github.com/zampierilucas/scx_horoscope) | ⭐1.4k |  | Astrological CPU Scheduler |
+| [`maunium/dontasktoask.com`](https://github.com/maunium/dontasktoask.com) | ⭐516 |  | An informational website about why you should ask questions directly instead of asking to ask |
+| [`nvbn/thefuck`](https://github.com/nvbn/thefuck) | ⭐98.0k | 💤 | Magnificent app which corrects your previous console command. |
+| [`kelseyhightower/nocode`](https://github.com/kelseyhightower/nocode) | ⭐66.1k | 💤 | The best way to write secure and reliable applications. Write nothing; deploy nowhere. |
+| [`ading2210/linuxpdf`](https://github.com/ading2210/linuxpdf) | ⭐5.1k | 💤 | Linux running inside a PDF file via a RISC-V emulator |
+| [`steeve/france.code-civil`](https://github.com/steeve/france.code-civil) | ⭐2.7k | 💤 | Le code civil français sous git |
+| [`nohello-net/site`](https://github.com/nohello-net/site) | ⭐1.6k | 💤 | _(no description)_ |
+| [`szhu/3030`](https://github.com/szhu/3030) | ⭐1.5k | 💤 | %%30%30 Game: Don't touch the trees! (Thanks, Chrome dev team!) |
+| [`keroserene/rickrollrc`](https://github.com/keroserene/rickrollrc) | ⭐1.4k | 💤 | Rick Astley invades your terminal. |
+| [`AlynxZhou/gnome-shell-extension-inotch`](https://github.com/AlynxZhou/gnome-shell-extension-inotch) | ⭐923 | 💤 | Add a useless notch to your screen. |
+| [`codenoid/github-roast`](https://github.com/codenoid/github-roast) | ⭐760 | 💤 | Spicy GitHub Roast 🔥 |
+| [`2ec0b4/kaamelott-soundboard`](https://github.com/2ec0b4/kaamelott-soundboard) | ⭐438 | 💤 | Ou : chante Sloubi. Nous, on va faire que la soundboard de Kaamelott. |
+| [`glreno/oneko`](https://github.com/glreno/oneko) | ⭐270 | 💤 | The ever popular kitty-that-follows-your-mouse-pointer |
+| [`sudofox/melee.sh`](https://github.com/sudofox/melee.sh) | ⭐226 | 💤 | Make the Smash Bros Melee narrator announce whether your command is successful or not. |
+| [`rakyll/fake-it-til-you-make-it`](https://github.com/rakyll/fake-it-til-you-make-it) | ⭐173 | 💤 | A program that demonstrates that GitHub contribution graph can be cheated |
+| [`rollercoasterguy/rollercoasterguy.github.io`](https://github.com/rollercoasterguy/rollercoasterguy.github.io) | ⭐42 | 💤 | _(no description)_ |
+| [`kevquirk/512kb.club`](https://github.com/kevquirk/512kb.club) | ⭐608 | 📦 | Website for the 512 KB Club |
+| [`Xe/praise-me`](https://github.com/Xe/praise-me) | ⭐137 | 📦 | Praise my GitHub profile! |
+
+</details>
+
+<details>
 <summary><b>Resources</b> &nbsp;·&nbsp; 23 ⭐ &nbsp;·&nbsp; <i>Awesome-lists, cheatsheets and study guides for sysadmins, devs and security folks.</i></summary>
 
 | Repo | Stars | Status | Description |
@@ -308,37 +340,6 @@ Want to get in touch? Find all my contact methods and socials on my [contact pag
 | [`rhiever/TwitterFollowBot`](https://github.com/rhiever/TwitterFollowBot) | ⭐1.3k | 💤 | A Python bot that automates several actions on Twitter, such as following users and favoriting tweets. |
 | [`beeper/self-host`](https://github.com/beeper/self-host) | ⭐1.1k | 📦 | Learn how to self-host Beeper |
 | [`louisgrasset/touitomamout`](https://github.com/louisgrasset/touitomamout) | ⭐252 | 📦 | Touitomamout is an easy way to synchronize your Twitter's tweets 🦤 to Mastodon 🦣 and Bluesky post ☁️ (also ... |
-
-</details>
-
-<details>
-<summary><b>Fun</b> &nbsp;·&nbsp; 23 ⭐ &nbsp;·&nbsp; <i>Quirky joke projects, terminal pranks and absurd tech curiosities.</i></summary>
-
-| Repo | Stars | Status | Description |
-| --- | --- | --- | --- |
-| [`0xk1h0/ChatGPT_DAN`](https://github.com/0xk1h0/ChatGPT_DAN) | ⭐13.2k | 🔥 | ChatGPT DAN, Jailbreaks prompt |
-| [`YusufB5/ASCILINE`](https://github.com/YusufB5/ASCILINE) | ⭐2.8k | 🔥 | A high-performance ASCII video rendering engine featuring real-time WebSocket binary streaming and an isola... |
-| [`donlon/cloudflare-error-page`](https://github.com/donlon/cloudflare-error-page) | ⭐5.8k |  | ✅Browser ❌Cloudflare ✅Host — Generator for customized Cloudflare error pages. (unofficial) |
-| [`ading2210/doompdf`](https://github.com/ading2210/doompdf) | ⭐3.9k |  | A port of Doom (1993) that runs inside a PDF file |
-| [`joeycastillo/Sensor-Watch`](https://github.com/joeycastillo/Sensor-Watch) | ⭐2.1k |  | A board replacement for the classic Casio F-91W wristwatch |
-| [`zampierilucas/scx_horoscope`](https://github.com/zampierilucas/scx_horoscope) | ⭐1.4k |  | Astrological CPU Scheduler |
-| [`maunium/dontasktoask.com`](https://github.com/maunium/dontasktoask.com) | ⭐516 |  | An informational website about why you should ask questions directly instead of asking to ask |
-| [`nvbn/thefuck`](https://github.com/nvbn/thefuck) | ⭐98.0k | 💤 | Magnificent app which corrects your previous console command. |
-| [`kelseyhightower/nocode`](https://github.com/kelseyhightower/nocode) | ⭐66.1k | 💤 | The best way to write secure and reliable applications. Write nothing; deploy nowhere. |
-| [`ading2210/linuxpdf`](https://github.com/ading2210/linuxpdf) | ⭐5.1k | 💤 | Linux running inside a PDF file via a RISC-V emulator |
-| [`steeve/france.code-civil`](https://github.com/steeve/france.code-civil) | ⭐2.7k | 💤 | Le code civil français sous git |
-| [`nohello-net/site`](https://github.com/nohello-net/site) | ⭐1.6k | 💤 | _(no description)_ |
-| [`szhu/3030`](https://github.com/szhu/3030) | ⭐1.5k | 💤 | %%30%30 Game: Don't touch the trees! (Thanks, Chrome dev team!) |
-| [`keroserene/rickrollrc`](https://github.com/keroserene/rickrollrc) | ⭐1.4k | 💤 | Rick Astley invades your terminal. |
-| [`AlynxZhou/gnome-shell-extension-inotch`](https://github.com/AlynxZhou/gnome-shell-extension-inotch) | ⭐923 | 💤 | Add a useless notch to your screen. |
-| [`codenoid/github-roast`](https://github.com/codenoid/github-roast) | ⭐760 | 💤 | Spicy GitHub Roast 🔥 |
-| [`2ec0b4/kaamelott-soundboard`](https://github.com/2ec0b4/kaamelott-soundboard) | ⭐438 | 💤 | Ou : chante Sloubi. Nous, on va faire que la soundboard de Kaamelott. |
-| [`glreno/oneko`](https://github.com/glreno/oneko) | ⭐270 | 💤 | The ever popular kitty-that-follows-your-mouse-pointer |
-| [`sudofox/melee.sh`](https://github.com/sudofox/melee.sh) | ⭐226 | 💤 | Make the Smash Bros Melee narrator announce whether your command is successful or not. |
-| [`rakyll/fake-it-til-you-make-it`](https://github.com/rakyll/fake-it-til-you-make-it) | ⭐173 | 💤 | A program that demonstrates that GitHub contribution graph can be cheated |
-| [`rollercoasterguy/rollercoasterguy.github.io`](https://github.com/rollercoasterguy/rollercoasterguy.github.io) | ⭐42 | 💤 | _(no description)_ |
-| [`kevquirk/512kb.club`](https://github.com/kevquirk/512kb.club) | ⭐608 | 📦 | Website for the 512 KB Club |
-| [`Xe/praise-me`](https://github.com/Xe/praise-me) | ⭐137 | 📦 | Praise my GitHub profile! |
 
 </details>
 

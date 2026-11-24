@@ -3138,6 +3138,14 @@
     "status": "",
     "url": "https://github.com/originalankur/maptoposter"
   },
+  "os6/nospeaker": {
+    "description": "make your macbook's trackpad talk using its haptic motor",
+    "isArchived": false,
+    "pushedAt": "2026-11-24T02:43:05Z",
+    "stargazerCount": 1573,
+    "status": "🔥",
+    "url": "https://github.com/os6/nospeaker"
+  },
   "owerdogan/whoami-project": {
     "description": "Whoami provides enhanced privacy, anonymity for Debian and Arch based linux distributions",
     "isArchived": false,
